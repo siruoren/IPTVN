@@ -1,0 +1,54 @@
+name: Update
+
+on:
+  watch:
+    types: [started]
+  schedule:
+    - cron: '0 * * * *'
+  push:
+    branches: [ "Files" ]
+
+env:
+  TZ: Asia/Shanghai
+
+jobs:
+  Update:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v3
+
+    - name: GetTime
+      id: date
+      run: echo "::set-output name=date::$(date +'%Y-%m-%d %H:%M:%S CST')"
+
+    - name: Update
+      run: |
+        # 央视源
+        rm -f IPTV.m3u && wget https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u -O IPTV.m3u
+        mkdir -p IPTV;cd IPTV
+        cat ../IPTV.m3u |grep 'group-title'|awk -F ',' '{print$1}'|awk '{print$NF}'|grep "^group"|sort|uniq|awk -F'"' '{print$2}'|xargs -i touch {}.m3u
+        for i in `ls`; do group_name=`echo ${i}|awk -F '.' '{print$1}'`; grep -A 1 "${group_name}" ../IPTV.m3u > ${i}; done
+        cd ../
+
+        
+
+
+
+
+        # 节目源
+        rm -f EPG.xml && wget https://epg.112114.xyz/pp.xml -O EPG.xml
+        echo "Auto Update IPTV in ${{ steps.date.outputs.date }}" > README.md
+
+    - name: Clean
+      run: |
+        git config --local user.email "actions@github.com"
+        git config --local user.name "GitHub Actions"
+        git checkout --orphan latest_branch
+        git add -A
+        git commit -am "${{ steps.date.outputs.date }}"
+        git branch -D Files
+        git branch -m Files
+
+    - name: Push
+      run: git push -f origin Files
