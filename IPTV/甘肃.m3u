@@ -1,0 +1,23 @@
+#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://huangsuming.codeberg.page/logo/tv/satellite/甘肃.png" group-title="卫视",甘肃卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8
+--
+#EXTINF:-1 tvg-name="甘肃都市" group-title="甘肃",甘肃都市
+http://hls.gstv.com.cn/49048r/l54391.m3u8
+#EXTINF:-1 tvg-name="甘肃公共应急" group-title="甘肃",甘肃公共应急
+http://hls.gstv.com.cn/49048r/3t5xyc.m3u8
+#EXTINF:-1 tvg-name="甘肃经济" group-title="甘肃",甘肃经济
+http://hls.gstv.com.cn/49048r/10iv1j.m3u8
+#EXTINF:-1 tvg-name="甘肃少儿" group-title="甘肃",甘肃少儿
+http://hls.gstv.com.cn/49048r/922k96.m3u8
+#EXTINF:-1 tvg-name="甘肃文化影视" group-title="甘肃",甘肃文化影视
+http://hls.gstv.com.cn/49048r/w1l6d5.m3u8
+#EXTINF:-1 tvg-name="定西综合" group-title="甘肃",定西综合
+https://play.kankanlive.com/live/1707969054968992.m3u8
+#EXTINF:-1 tvg-name="定西文旅生活" group-title="甘肃",定西文旅生活
+https://play.kankanlive.com/live/1707482307440963.m3u8
+#EXTINF:-1 tvg-name="陇南综合频道" group-title="甘肃",陇南综合频道
+https://play.kankanlive.com/live/1709171819929902.m3u8
+#EXTINF:-1 tvg-name="陇南公共频道" group-title="甘肃",陇南公共频道
+https://play.kankanlive.com/live/1709171893138901.m3u8
+#EXTINF:-1 tvg-name="陇南.武都综合" group-title="甘肃",陇南.武都综合
+http://play.kankanlive.com/live/1703747194431958.m3u8

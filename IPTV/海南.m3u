@@ -1,0 +1,24 @@
+#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://huangsuming.codeberg.page/logo/tv/satellite/海南.png" group-title="卫视",海南卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225639/index.m3u8
+--
+#EXTINF:-1 tvg-name="海南公共" group-title="海南",海南公共
+http://[2409:8087:5e00:24::1e]:6060/000000001000/460000100000000057/1.m3u8
+#EXTINF:-1 tvg-name="海南少儿" group-title="海南",海南少儿
+http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000110/1.m3u8
+#EXTINF:-1 tvg-name="海南文旅" group-title="海南",海南文旅
+http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000113/1.m3u8
+#EXTINF:-1 tvg-name="海南新闻" group-title="海南",海南新闻
+http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000111/1.m3u8
+#EXTINF:-1 tvg-name="海南自贸" group-title="海南",海南自贸
+http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000116/1.m3u8
+#EXTINF:-1 tvg-name="海口1台" group-title="海南", 海口1台
+http://183.255.46.4:16080/live/tv01qnuu8lxfc0rj.m3u8
+#EXTINF:-1 tvg-name="海口2台" group-title="海南", 海口2台
+http://183.255.46.4:16080/live/tv02bueim7p8prw4.m3u8
+#EXTINF:-1 tvg-name="海口3台" group-title="海南", 海口3台
+http://183.255.46.4:16080/live/tv03fu70esbaw9si.m3u8
+--
+#EXTINF:-1 tvg-name="海南.同德综合" group-title="青海",海南.同德综合
+https://lived.dmqhyadmin.com/tdtv/playlist.m3u8
+#EXTINF:-1 tvg-name="海南.兴海县广播电视台" group-title="青海",海南.兴海县广播电视台
+http://lived.dmqhyadmin.com/xhzhpd/sd/live.m3u8

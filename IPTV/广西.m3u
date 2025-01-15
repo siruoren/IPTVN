@@ -1,0 +1,21 @@
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://huangsuming.codeberg.page/logo/tv/satellite/广西.png" group-title="卫视",广西卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226380/index.m3u8
+--
+#EXTINF:-1 tvg-name="刘三姐" group-title="广西",刘三姐
+https://live.gxrb.com.cn/hls/lsj/index.m3u8
+#EXTINF:-1 tvg-name="南宁新闻综合" group-title="广西",南宁新闻综合
+https://hls.nntv.cn/nnlive/XWZH_24.m3u8
+#EXTINF:-1 tvg-name="南宁公共" group-title="广西",南宁公共
+https://hls.nntv.cn/nnlive/GGPD_24.m3u8
+#EXTINF:-1 tvg-name="南宁文旅生活" group-title="广西",南宁文旅生活
+https://hls.nntv.cn/nnlive/WLSH_24.m3u8
+#EXTINF:-1 tvg-name="南宁影视娱乐" group-title="广西",南宁影视娱乐
+https://hls.nntv.cn/nnlive/YSYL_244.m3u8
+#EXTINF:-1 tvg-name="南宁慢直播" group-title="广西",南宁慢直播
+https://hls.nntv.cn/nnlive/LYL1_24.m3u8
+#EXTINF:-1 tvg-name="百色综合" group-title="广西",百色综合
+http://live.gxrb.com.cn/tv/bstv_zh/index.m3u8
+#EXTINF:-1 tvg-name="北海新闻综合" group-title="广西",北海新闻综合
+http://live.gxrb.com.cn/gx/beihai/index.m3u8
+#EXTINF:-1 tvg-name="贺州综合" group-title="广西",贺州综合
+http://zhz.gxhzxw.com:2935/live/HZXW-HD/playlist.m3u8
