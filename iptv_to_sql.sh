@@ -69,7 +69,7 @@ do
 
 
     else
-      echo "unaccessible"
+      echo "URL is unaccessible,ignore update"
     fi
 done
 
