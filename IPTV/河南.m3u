@@ -1,0 +1,29 @@
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://huangsuming.codeberg.page/logo/tv/satellite/河南.png" group-title="卫视",河南卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226320/index.m3u8
+--
+#EXTINF:-1 tvg-name="梨园频道" group-title="河南",梨园频道
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225581/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="文物宝库" group-title="河南",文物宝库
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226328/2/index.m3u8
+#EXTINF:-1 tvg-name="武术世界" group-title="河南",武术世界
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225508/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="郑州教育台" group-title="河南",郑州教育台
+https://livezzutv.chinamcache.com/zb02/zb02.m3u8
+#EXTINF:-1 tvg-name="洛阳新闻综合" group-title="河南",洛阳新闻综合
+http://wshls.live.migucloud.com/live/C788MHFD_C0/playlist.m3u8
+#EXTINF:-1 tvg-name="洛阳科教频道" group-title="河南",洛阳科教频道
+http://wshls.live.migucloud.com/live/CXGQPXRK_C0/playlist.m3u8
+#EXTINF:-1 tvg-name="洛阳文旅频道" group-title="河南",洛阳文旅频道
+http://wshls.live.migucloud.com/live/FJ7Q9PIT_C0/playlist.m3u8
+#EXTINF:-1 tvg-name="周口川汇频道" group-title="河南",周口川汇频道
+http://117.159.72.12:8081/live/6520562530090312540.m3u8
+#EXTINF:-1 tvg-name="周口公共频道" group-title="河南",周口公共频道
+http://117.159.72.12:8081/live/8606202505932165833.m3u8
+#EXTINF:-1 tvg-name="周口教育频道" group-title="河南",周口教育频道
+http://117.159.72.12:8081/live/2548854934748691151.m3u8
+#EXTINF:-1 tvg-name="驻马店新闻综合频道" group-title="河南",驻马店新闻综合频道
+http://tvlive.zmdtvw.cn/live/106770611978226682/index.m3u8
+#EXTINF:-1 tvg-name="驻马店公共频道" group-title="河南",驻马店公共频道
+http://tvlive.zmdtvw.cn/live/5927138998607870056/index.m3u8
+#EXTINF:-1 tvg-name="驻马店科教频道" group-title="河南",驻马店科教频道
+http://tvlive.zmdtvw.cn/live/8395198981051753732/index.m3u8

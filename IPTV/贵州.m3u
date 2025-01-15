@@ -1,0 +1,7 @@
+#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://huangsuming.codeberg.page/logo/tv/satellite/贵州.png" group-title="卫视",贵州卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225626/index.m3u8
+--
+#EXTINF:-1 tvg-name="黔南1台" group-title="贵州",黔南1台
+http://tvfile.qntv.net/nmip-media/channellive/channel108689/playlist.m3u8
+#EXTINF:-1 tvg-name="黔南2台" group-title="贵州",黔南2台
+http://tvfile.qntv.net/nmip-media/channellive/channel109066/playlist.m3u8

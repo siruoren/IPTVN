@@ -1,0 +1,19 @@
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://huangsuming.codeberg.page/logo/tv/satellite/湖南.png" group-title="卫视",湖南卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
+--
+#EXTINF:-1 tvg-name="湖南爱晚" group-title="湖南",湖南爱晚
+http://[2409:8087:5e00:24::1e]:6060/000000001000/6307875884530512195/index.m3u8?channel-id=hnbblive&Contentid=6307875884530512195&livemode=1&stbId=3$2M%20SD
+#EXTINF:-1 tvg-name="湖南电影" group-title="湖南",湖南电影
+http://[2409:8087:5e00:24::1e]:6060/000000001000/7884242846753128038/index.m3u8?channel-id=hnbblive&Contentid=7884242846753128038&livemode=1&stbId=3$2M%20SD
+#EXTINF:-1 tvg-name="湖南国际频道" group-title="湖南",湖南国际频道
+http://[2409:8087:5e00:24::1e]:6060/000000001000/5015828848322021526/index.m3u8?channel-id=hnbblive&Contentid=5015828848322021526&livemode=1&stbId=3$2M%20SD
+#EXTINF:-1 tvg-name="湖南经视" group-title="湖南",湖南经视
+http://[2409:8087:5e00:24::1e]:6060/000000001000/6306119848317438256/index.m3u8?channel-id=hnbblive&Contentid=6306119848317438256&livemode=1&stbId=3$2M%20SD
+#EXTINF:-1 tvg-name="湖南娱乐" group-title="湖南",湖南娱乐
+http://[2409:8087:5e00:24::1e]:6060/000000001000/6427893650335440392/index.m3u8?channel-id=hnbblive&Contentid=6427893650335440392&livemode=1&stbId=3$2M%20SD
+#EXTINF:-1 tvg-name="茶频道" group-title="湖南",茶频道
+http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031209/index.m3u8?channel-id=bestzb&Contentid=5000000011000031209&livemode=1&stbId=3$FHD
+#EXTINF:-1 tvg-name="金鹰纪实" group-title="湖南",金鹰纪实
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226198/index.m3u8
+#EXTINF:-1 tvg-name="金鹰卡通" group-title="湖南",金鹰卡通
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225721/index.m3u8

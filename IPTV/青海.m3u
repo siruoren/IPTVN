@@ -1,0 +1,15 @@
+#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://huangsuming.codeberg.page/logo/tv/satellite/青海.png" group-title="卫视",青海卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225628/index.m3u8
+--
+#EXTINF:-1 tvg-name="西宁新闻综合" group-title="青海",西宁新闻综合
+https://liveout.xntv.tv/a65jur/96iln2.m3u8
+#EXTINF:-1 tvg-name="西宁生活服务" group-title="青海",西宁生活服务
+https://liveout.xntv.tv/a65jur/90p2i1.m3u8
+#EXTINF:-1 tvg-name="西宁.大通电视台" group-title="青海",西宁.大通电视台
+http://dtrmlive.qhdtrm.cn/testpush/sd/live.m3u8
+#EXTINF:-1 tvg-name="海东.民和综合" group-title="青海",海东.民和综合
+http://livecdn.dmqhyadmin.com/hls/xjminhe.m3u8
+#EXTINF:-1 tvg-name="海南.同德综合" group-title="青海",海南.同德综合
+https://lived.dmqhyadmin.com/tdtv/playlist.m3u8
+#EXTINF:-1 tvg-name="海南.兴海县广播电视台" group-title="青海",海南.兴海县广播电视台
+http://lived.dmqhyadmin.com/xhzhpd/sd/live.m3u8

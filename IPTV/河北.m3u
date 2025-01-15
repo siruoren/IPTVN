@@ -1,0 +1,13 @@
+#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://huangsuming.codeberg.page/logo/tv/satellite/河北.png" group-title="卫视",河北卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8
+--
+#EXTINF:-1 tvg-name="沧州新闻综合" group-title="河北",沧州新闻综合
+http://czlive.czgd.tv:8091/live/czyt_czytzm.m3u8
+#EXTINF:-1 tvg-name="沧州公共频道" group-title="河北",沧州公共频道
+http://czlive.czgd.tv:8091/live/czet_czetzm.m3u8
+#EXTINF:-1 tvg-name="沧州影视娱乐" group-title="河北",沧州影视娱乐
+http://czlive.czgd.tv:8091/live/czst_czstzm.m3u8
+#EXTINF:-1 tvg-name="张家口1台" group-title="河北",张家口1台
+http://nlive.zjkgdcs.com:8091/live/xwzhpd.m3u8
+#EXTINF:-1 tvg-name="张家口2台" group-title="河北",张家口2台
+http://nlive.zjkgdcs.com:8091/live/zjktv2.m3u8

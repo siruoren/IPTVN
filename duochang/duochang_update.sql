@@ -1,0 +1,9 @@
+set character_set_server='utf8';
+INSERT into tvbox.tv_app_duocang(name, url, appid, status, status_dcjm) select '影视仓','http://影视仓.com','10000','y','n' where NOT EXISTS (SELECT 1 FROM tvbox.tv_app_duocang WHERE name = '影视仓');
+INSERT into tvbox.tv_app_duocang(name, url, appid, status, status_dcjm) select '摸鱼','http://我不是.摸鱼儿.com','10000','y','n' where NOT EXISTS (SELECT 1 FROM tvbox.tv_app_duocang WHERE name = '摸鱼');
+INSERT into tvbox.tv_app_duocang(name, url, appid, status, status_dcjm) select 'OK线路','http://ok321.top/tv','10000','y','n' where NOT EXISTS (SELECT 1 FROM tvbox.tv_app_duocang WHERE name = 'OK线路');
+INSERT into tvbox.tv_app_duocang(name, url, appid, status, status_dcjm) select 'kstore','https://12586.kstore.space/123.json','10000','y','n' where NOT EXISTS (SELECT 1 FROM tvbox.tv_app_duocang WHERE name = 'kstore');
+INSERT into tvbox.tv_app_duocang(name, url, appid, status, status_dcjm) select '盒子迷','https://盒子迷.top/春盈天下','10000','y','n' where NOT EXISTS (SELECT 1 FROM tvbox.tv_app_duocang WHERE name = '盒子迷');
+INSERT into tvbox.tv_app_duocang(name, url, appid, status, status_dcjm) select 'pandown','http://pandown.pro/tvbox/tvbox.json','10000','y','n' where NOT EXISTS (SELECT 1 FROM tvbox.tv_app_duocang WHERE name = 'pandown');
+INSERT into tvbox.tv_app_duocang(name, url, appid, status, status_dcjm) select '肥猫','http://肥猫.com','10000','y','n' where NOT EXISTS (SELECT 1 FROM tvbox.tv_app_duocang WHERE name = '肥猫');
+INSERT into tvbox.tv_app_duocang(name, url, appid, status, status_dcjm) select '饭太硬','http://fty.xxooo.cf/tv','10000','y','n' where NOT EXISTS (SELECT 1 FROM tvbox.tv_app_duocang WHERE name = '饭太硬');

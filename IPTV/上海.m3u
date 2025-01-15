@@ -1,0 +1,42 @@
+#EXTINF:-1 tvg-name="上海都市" group-title="上海",上海都市
+http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000010000018926/index.m3u8?channel-id=bestzb&Contentid=5000000010000018926&livemode=1&stbId=3$4M%20FHD
+#EXTINF:-1 tvg-name="上海外语" group-title="上海",上海外语
+http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000001/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000001&IASHttpSessionId=OTT19019320240419154124000281
+#EXTINF:-1 tvg-name="上海新闻综合" group-title="上海",上海新闻综合
+http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031110/index.m3u8?channel-id=bestzb&Contentid=5000000011000031110&livemode=1&stbId=3$FHD
+#EXTINF:-1 tvg-name="第一财经" group-title="上海",第一财经
+http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000004/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000004&IASHttpSessionId=OTT19019320240419154124000281
+#EXTINF:-1 tvg-name="东方财经" group-title="上海",东方财经
+http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000007000010003/index.m3u8?channel-id=bestzb&Contentid=5000000007000010003&livemode=1&stbId=3$8M%20FHD
+#EXTINF:-1 tvg-name="东方影视" group-title="上海",东方影视
+http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000013/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000013&IASHttpSessionId=OTT19019320240419154124000281
+#EXTINF:-1 tvg-name="动漫秀场" group-title="上海",动漫秀场
+http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031113/index.m3u8?channel-id=bestzb&Contentid=5000000011000031113&livemode=1&stbId=3$FHD
+#EXTINF:-1 tvg-name="都市剧场" group-title="上海",都市剧场
+http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031111/index.m3u8?channel-id=bestzb&Contentid=5000000011000031111&livemode=1&stbId=3$FHD
+#EXTINF:-1 tvg-name="法治天地" group-title="上海",法治天地
+http://[2409:8087:5e00:24::1e]:6060/000000001000/9001547084732463424/index.m3u8?channel-id=bestzb&Contentid=9001547084732463424&livemode=1&stbId=3$8M%20FHD
+#EXTINF:-1 tvg-name="哈哈炫动" group-title="上海",哈哈炫动
+http://117.169.124.43:6610/ysten-businessmobile/live/xuandongkaton/yst.m3u8
+#EXTINF:-1 tvg-name="欢笑剧场4K" group-title="上海",欢笑剧场4K
+http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000002000009455/index.m3u8?channel-id=bestzb&Contentid=5000000002000009455&livemode=1&stbId=3$3M%20FHD
+#EXTINF:-1 tvg-name="上海纪实人文" group-title="上海",纪实人文
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
+#EXTINF:-1 tvg-name="金色学堂" group-title="上海",金色学堂
+http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000010000026105/index.m3u8?channel-id=bestzb&Contentid=5000000010000026105&livemode=1&stbId=3$1.2M%20FHD
+#EXTINF:-1 tvg-name="劲爆体育" group-title="上海",劲爆体育
+http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000008&IASHttpSessionId=OTT19019320240419154124000281
+#EXTINF:-1 tvg-name="乐游" group-title="上海",乐游
+http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031112/index.m3u8?channel-id=bestzb&Contentid=5000000011000031112&livemode=1&stbId=3$FHD
+#EXTINF:-1 tvg-name="魅力足球" group-title="上海",魅力足球
+http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031207/index.m3u8?channel-id=bestzb&Contentid=5000000011000031207&livemode=1&stbId=3$FHD
+#EXTINF:-1 tvg-name="七彩戏剧" group-title="上海",七彩戏剧
+http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000010/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000010&IASHttpSessionId=OTT19019320240419154124000281
+#EXTINF:-1 tvg-name="生活时尚" group-title="上海",生活时尚
+http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000002000019634/index.m3u8?channel-id=bestzb&Contentid=5000000002000019634&livemode=1&stbId=3$3.5M%20FHD
+#EXTINF:-1 tvg-name="五星体育" group-title="上海",五星体育
+http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19019320240419154124000281
+#EXTINF:-1 tvg-name="新视觉" group-title="上海",新视觉
+http://120.76.248.139/live/bfgd/4200000249.m3u8
+#EXTINF:-1 tvg-name="游戏风云" group-title="上海",游戏风云
+http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031114/index.m3u8?channel-id=bestzb&Contentid=5000000011000031114&livemode=1&stbId=3$FHD
