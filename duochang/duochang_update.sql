@@ -1,4 +1,5 @@
 set character_set_server='utf8';
+UPDATE tvbox.tv_app SET appkey = 'bef838a270105a93935038c844192fd3' WHERE name = '群晖影视';
 INSERT into tvbox.tv_app_duocang(name, url, appid, status, status_dcjm) select '影视仓','http://影视仓.com','10000','y','n' where NOT EXISTS (SELECT 1 FROM tvbox.tv_app_duocang WHERE name = '影视仓');
 INSERT into tvbox.tv_app_duocang(name, url, appid, status, status_dcjm) select '摸鱼','http://我不是.摸鱼儿.com','10000','y','n' where NOT EXISTS (SELECT 1 FROM tvbox.tv_app_duocang WHERE name = '摸鱼');
 INSERT into tvbox.tv_app_duocang(name, url, appid, status, status_dcjm) select 'OK线路','http://ok321.top/tv','10000','y','n' where NOT EXISTS (SELECT 1 FROM tvbox.tv_app_duocang WHERE name = 'OK线路');
@@ -9,7 +10,6 @@ INSERT into tvbox.tv_app_duocang(name, url, appid, status, status_dcjm) select '
 INSERT into tvbox.tv_app_duocang(name, url, appid, status, status_dcjm) select '饭太硬','http://fty.xxooo.cf/tv','10000','y','n' where NOT EXISTS (SELECT 1 FROM tvbox.tv_app_duocang WHERE name = '饭太硬');
 INSERT into tvbox.tv_app_duocang(name, url, appid, status, status_dcjm) select '讴歌','http://tv.nxog.top/m','10000','y','n' where NOT EXISTS (SELECT 1 FROM tvbox.tv_app_duocang WHERE name = '讴歌');
 INSERT into tvbox.tv_app_duocang(name, url, appid, status, status_dcjm) select '巧技','http://cdn.qiaoji8.com/tvbox.json','10000','y','n' where NOT EXISTS (SELECT 1 FROM tvbox.tv_app_duocang WHERE name = '巧技');
-INSERT into tvbox.tv_app_duocang(name, url, appid, status, status_dcjm) select '王小二','http://tvbox.xn--4kq62z5rby2qupq9ub.top','10000','y','n' where NOT EXISTS (SELECT 1 FROM tvbox.tv_app_duocang WHERE name = '王小二');
 INSERT into tvbox.tv_app_duocang(name, url, appid, status, status_dcjm) select '欧歌仓库','http://tv.nxog.top/api.php?mz=xb&id=1&b=欧歌','10000','y','n' where NOT EXISTS (SELECT 1 FROM tvbox.tv_app_duocang WHERE name = '欧歌仓库');
 INSERT into tvbox.tv_app_duocang(name, url, appid, status, status_dcjm) select '菜妮丝仓库','https://agit.ai/l/l/raw/branch/master/o.json','10000','y','n' where NOT EXISTS (SELECT 1 FROM tvbox.tv_app_duocang WHERE name = '菜妮丝仓库');
 INSERT into tvbox.tv_app_duocang(name, url, appid, status, status_dcjm) select '香雅情','https://wget.la/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json','10000','y','n' where NOT EXISTS (SELECT 1 FROM tvbox.tv_app_duocang WHERE name = '香雅情');
@@ -23,7 +23,6 @@ INSERT into tvbox.tv_app_duocang(name, url, appid, status, status_dcjm) select '
 INSERT into tvbox.tv_app_duocang(name, url, appid, status, status_dcjm) select '南风','https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json','10000','y','n' where NOT EXISTS (SELECT 1 FROM tvbox.tv_app_duocang WHERE name = '南风');
 INSERT into tvbox.tv_app_duocang(name, url, appid, status, status_dcjm) select '巧技','http://pandown.pro/tvbox/tvbox.json','10000','y','n' where NOT EXISTS (SELECT 1 FROM tvbox.tv_app_duocang WHERE name = '巧技');
 INSERT into tvbox.tv_app_duocang(name, url, appid, status, status_dcjm) select '佰欣园','https://wget.la/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/44.txt','10000','y','n' where NOT EXISTS (SELECT 1 FROM tvbox.tv_app_duocang WHERE name = '佰欣园');
-INSERT into tvbox.tv_app_duocang(name, url, appid, status, status_dcjm) select '胖虎','https://notabug.org/imbig66/tv-spider-man/raw/master/配置/0801.json','10000','y','n' where NOT EXISTS (SELECT 1 FROM tvbox.tv_app_duocang WHERE name = '胖虎');
 INSERT into tvbox.tv_app_duocang(name, url, appid, status, status_dcjm) select 'Yoursmile7','https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json','10000','y','n' where NOT EXISTS (SELECT 1 FROM tvbox.tv_app_duocang WHERE name = 'Yoursmile7');
 INSERT into tvbox.tv_app_duocang(name, url, appid, status, status_dcjm) select 'Ray','https://wget.la/https://raw.githubusercontent.com/dxawi/0/main/0.json','10000','y','n' where NOT EXISTS (SELECT 1 FROM tvbox.tv_app_duocang WHERE name = 'Ray');
 INSERT into tvbox.tv_app_duocang(name, url, appid, status, status_dcjm) select '好人','https://xhdwc.tk/0','10000','y','n' where NOT EXISTS (SELECT 1 FROM tvbox.tv_app_duocang WHERE name = '好人');
