@@ -1,5 +1,4 @@
 set character_set_server='utf8';
-UPDATE tvbox.tv_app SET appkey = 'bef838a270105a93935038c844192fd3' WHERE name = '群晖影视';
 INSERT into tvbox.tv_app_duocang(name, url, appid, status, status_dcjm) select '影视仓','http://影视仓.com','10000','y','n' where NOT EXISTS (SELECT 1 FROM tvbox.tv_app_duocang WHERE name = '影视仓');
 INSERT into tvbox.tv_app_duocang(name, url, appid, status, status_dcjm) select '摸鱼','http://我不是.摸鱼儿.com','10000','y','n' where NOT EXISTS (SELECT 1 FROM tvbox.tv_app_duocang WHERE name = '摸鱼');
 INSERT into tvbox.tv_app_duocang(name, url, appid, status, status_dcjm) select 'OK线路','http://ok321.top/tv','10000','y','n' where NOT EXISTS (SELECT 1 FROM tvbox.tv_app_duocang WHERE name = 'OK线路');
@@ -13,6 +12,7 @@ INSERT into tvbox.tv_app_duocang(name, url, appid, status, status_dcjm) select '
 INSERT into tvbox.tv_app_duocang(name, url, appid, status, status_dcjm) select '王小二','http://tvbox.xn--4kq62z5rby2qupq9ub.top','10000','y','n' where NOT EXISTS (SELECT 1 FROM tvbox.tv_app_duocang WHERE name = '王小二');
 INSERT into tvbox.tv_app_duocang(name, url, appid, status, status_dcjm) select '欧歌仓库','http://tv.nxog.top/api.php?mz=xb&id=1&b=欧歌','10000','y','n' where NOT EXISTS (SELECT 1 FROM tvbox.tv_app_duocang WHERE name = '欧歌仓库');
 INSERT into tvbox.tv_app_duocang(name, url, appid, status, status_dcjm) select '菜妮丝仓库','https://agit.ai/l/l/raw/branch/master/o.json','10000','y','n' where NOT EXISTS (SELECT 1 FROM tvbox.tv_app_duocang WHERE name = '菜妮丝仓库');
+INSERT into tvbox.tv_app_duocang(name, url, appid, status, status_dcjm) select '运输车','https://tvkj.top/DC/ysc/tvkj/svip.json','10000','y','n' where NOT EXISTS (SELECT 1 FROM tvbox.tv_app_duocang WHERE name = '运输车');
 INSERT into tvbox.tv_app_duocang(name, url, appid, status, status_dcjm) select '香雅情','https://wget.la/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json','10000','y','n' where NOT EXISTS (SELECT 1 FROM tvbox.tv_app_duocang WHERE name = '香雅情');
 INSERT into tvbox.tv_app_duocang(name, url, appid, status, status_dcjm) select '欧歌','http://tv.nxog.top','10000','y','n' where NOT EXISTS (SELECT 1 FROM tvbox.tv_app_duocang WHERE name = '欧歌');
 INSERT into tvbox.tv_app_duocang(name, url, appid, status, status_dcjm) select 'okjack','https://wget.la/https://raw.githubusercontent.com/okcaptain/okjar/rm/ok.jsonp','10000','y','n' where NOT EXISTS (SELECT 1 FROM tvbox.tv_app_duocang WHERE name = 'okjack');
@@ -39,6 +39,7 @@ INSERT into tvbox.tv_app_duocang(name, url, appid, status, status_dcjm) select '
 INSERT into tvbox.tv_app_duocang(name, url, appid, status, status_dcjm) select '宝盒没宝','https://wget.la/https://raw.githubusercontent.com/guot55/yg/main/ygbox.json','10000','y','n' where NOT EXISTS (SELECT 1 FROM tvbox.tv_app_duocang WHERE name = '宝盒没宝');
 INSERT into tvbox.tv_app_duocang(name, url, appid, status, status_dcjm) select '宝盒视界','https://wget.la/https://raw.githubusercontent.com/guot55/yg/main/ysdc.json','10000','y','n' where NOT EXISTS (SELECT 1 FROM tvbox.tv_app_duocang WHERE name = '宝盒视界');
 INSERT into tvbox.tv_app_duocang(name, url, appid, status, status_dcjm) select '采集之王','https://wget.la/https://raw.githubusercontent.com/jiushizhe/daozhang/main/drpy_dzlive6.21/index.json','10000','y','n' where NOT EXISTS (SELECT 1 FROM tvbox.tv_app_duocang WHERE name = '采集之王');
+INSERT into tvbox.tv_app_duocang(name, url, appid, status, status_dcjm) select '天微精选仓','https://qixing.myhkw.com/DC.txt','10000','y','n' where NOT EXISTS (SELECT 1 FROM tvbox.tv_app_duocang WHERE name = '天微精选仓');
 INSERT into tvbox.tv_app_duocang(name, url, appid, status, status_dcjm) select '开心软件','https://wget.la/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/天天开心/api.json','10000','y','n' where NOT EXISTS (SELECT 1 FROM tvbox.tv_app_duocang WHERE name = '开心软件');
 INSERT into tvbox.tv_app_duocang(name, url, appid, status, status_dcjm) select '高天','https://wget.la/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json','10000','y','n' where NOT EXISTS (SELECT 1 FROM tvbox.tv_app_duocang WHERE name = '高天');
 INSERT into tvbox.tv_app_duocang(name, url, appid, status, status_dcjm) select '刘备','https://raw.liucn.cc/box/m.json','10000','y','n' where NOT EXISTS (SELECT 1 FROM tvbox.tv_app_duocang WHERE name = '刘备');
