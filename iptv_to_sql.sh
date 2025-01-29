@@ -40,7 +40,8 @@ done
 > IPTV_update.sql;
 echo "set character_set_server='utf8';" >> IPTV_update.sql;
 echo "TRUNCATE table tvbox.tv_channels;" >> IPTV_update.sql;
-cat IPTV_update.sqltmp >> IPTV_update.sql;
+cat IPTV_update.sqltmp|grep '总台' >> IPTV_update.sql;
+cat IPTV_update.sqltmp|grep -v '总台' >> IPTV_update.sql;
 rm -f IPTV_update.sqltmp;
 cd ../;
 
