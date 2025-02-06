@@ -1,5 +1,5 @@
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://huangsuming.codeberg.page/logo/tv/satellite/西藏.png" group-title="卫视",西藏卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225638/index.m3u8
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225723/index.m3u8
 --
 #EXTINF:-1 tvg-name="日喀则" group-title="西藏",日喀则
 http://218.207.233.111:20321/4.m3u8

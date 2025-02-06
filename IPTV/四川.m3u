@@ -1,5 +1,5 @@
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://huangsuming.codeberg.page/logo/tv/satellite/四川.png" group-title="卫视",四川卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225733/index.m3u8
 --
 #EXTINF:-1 tvg-name="中心医院" group-title="四川",中心医院
 http://111.9.163.109:8080/live/test.m3u8
