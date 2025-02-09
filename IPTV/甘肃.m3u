@@ -1,16 +1,6 @@
 #EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://huangsuming.codeberg.page/logo/tv/satellite/甘肃.png" group-title="卫视",甘肃卫视
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225724/index.m3u8
 --
-#EXTINF:-1 tvg-name="甘肃都市" group-title="甘肃",甘肃都市
-http://hls.gstv.com.cn/49048r/l54391.m3u8
-#EXTINF:-1 tvg-name="甘肃公共应急" group-title="甘肃",甘肃公共应急
-http://hls.gstv.com.cn/49048r/3t5xyc.m3u8
-#EXTINF:-1 tvg-name="甘肃经济" group-title="甘肃",甘肃经济
-http://hls.gstv.com.cn/49048r/10iv1j.m3u8
-#EXTINF:-1 tvg-name="甘肃少儿" group-title="甘肃",甘肃少儿
-http://hls.gstv.com.cn/49048r/922k96.m3u8
-#EXTINF:-1 tvg-name="甘肃文化影视" group-title="甘肃",甘肃文化影视
-http://hls.gstv.com.cn/49048r/w1l6d5.m3u8
 #EXTINF:-1 tvg-name="定西综合" group-title="甘肃",定西综合
 https://play.kankanlive.com/live/1707969054968992.m3u8
 #EXTINF:-1 tvg-name="定西文旅生活" group-title="甘肃",定西文旅生活

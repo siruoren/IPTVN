@@ -2,9 +2,7 @@
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225738/index.m3u8
 --
 #EXTINF:-1 tvg-name="山东教育卫视" group-title="山东",山东教育卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225655/index.m3u8
-#EXTINF:-1 tvg-name="济南教育" group-title="山东",济南教育
-https://livejnedu.chinamcache.com/live/jneduzb04.m3u8
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225719/index.m3u8
 #EXTINF:-1 tvg-name="临沂综合" group-title="山东",临沂综合
 http://m3u8-channel.lytv.tv/nmip-media/channellive/channel111841/playlist.m3u8
 #EXTINF:-1 tvg-name="临沂公共" group-title="山东",临沂公共

@@ -3,15 +3,7 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225692/index.m3u8
 --
 #EXTINF:-1 tvg-name="重庆汽摩" group-title="重庆",重庆汽摩
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225506/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-name="重庆移动电视" group-title="重庆",重庆移动电视
-https://qxlmlive9.cbg.cn/app_2/ls_58.stream/chunklist.m3u8
-#EXTINF:-1 tvg-name="黔江综合" group-title="重庆",黔江综合
-https://qxlmlive9.cbg.cn:443/applive/qjpd1/playlist.m3u8
 #EXTINF:-1 tvg-name="铜梁综合" group-title="重庆",铜梁综合
 http://183.64.174.171:40123/ch1.m3u8
 #EXTINF:-1 tvg-name="潼南综合" group-title="重庆",潼南综合
 http://183.230.184.51:65500/tntv1.m3u8
-#EXTINF:-1 tvg-name="武隆综合" group-title="重庆",武隆综合
-https://qxlmlive9.cbg.cn/applive/wltvzh/playlist.m3u8
-#EXTINF:-1 tvg-name="忠县综合" group-title="重庆",忠县综合
-https://qxlmlive9.cbg.cn/applive/zxtv2/chunklist.m3u8

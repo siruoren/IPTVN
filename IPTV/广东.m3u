@@ -3,18 +3,12 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225742/index.m3u8
 --
 #EXTINF:-1 tvg-name="广东民生" group-title="广东",广东民生
 http://183.11.239.36:808/hls/18/index.m3u8
-#EXTINF:-1 tvg-name="广东珠江" group-title="广东",广东珠江
-http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010091/1.m3u8
 #EXTINF:-1 tvg-name="嘉佳卡通" group-title="广东",嘉佳卡通
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888910/224/3221226193/index.m3u8
 #EXTINF:-1 tvg-name="河源综合" group-title="广东",河源综合
 http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
 #EXTINF:-1 tvg-name="河源公共" group-title="广东",河源公共
 http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
-#EXTINF:-1 tvg-name="深圳龙岗频道" group-title="广东",深圳龙岗频道
-http://liveplay.sznews.com/66_showto_live/2647.m3u8
-#EXTINF:-1 tvg-name="深圳众创TV" group-title="广东",深圳众创TV
-http://liveplay.sznews.com/66_showto_live/2645.m3u8
 #EXTINF:-1 tvg-name="阳江1" group-title="广东",阳江1
 https://live.yjtvw.com:8081/live/yjtv1.m3u8
 #EXTINF:-1 tvg-name="阳江2" group-title="广东",阳江2

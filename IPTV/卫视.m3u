@@ -28,8 +28,6 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225700/index.m3u8
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225731/index.m3u8
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://huangsuming.codeberg.page/logo/tv/satellite/海南.png" group-title="卫视",海南卫视
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225722/index.m3u8
-#EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://huangsuming.codeberg.page/logo/tv/satellite/三沙.png" group-title="卫视",三沙卫视
-http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000117/1.m3u8
 #EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://huangsuming.codeberg.page/logo/tv/satellite/河北.png" group-title="卫视",河北卫视
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225732/index.m3u8
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://huangsuming.codeberg.page/logo/tv/satellite/河南.png" group-title="卫视",河南卫视
@@ -78,10 +76,7 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225703/index.m3u8
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 --
 #EXTINF:-1 tvg-name="山东教育卫视" group-title="山东",山东教育卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225655/index.m3u8
---
-#EXTINF:-1 tvg-name="亚洲卫视" group-title="香港",亚洲卫视
-https://play-hsbj.vzan.com/slowlive/821481626725612417/live.m3u8
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225719/index.m3u8
 --
 #EXTINF:-1 tvg-name="华藏卫视" group-title="台湾",华藏卫视
 https://vod.amtb.de/liveedge/_definst_/livetv/playlist.m3u8

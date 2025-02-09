@@ -10,8 +10,6 @@ http://fl2.moveonjoy.com/BBC_AMERICA/index.m3u8
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-name="Fashion TV" group-title="外语",Fashion TV
 http://91.247.68.229:8000/play/Fashion/index.m3u8
-#EXTINF:-1 tvg-name="Investigation Discovery" group-title="外语",Investigation Discovery
-https://discoveryid.blutv.com/blutv_discoveryid/smil:discoveryid.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="KBS World" group-title="外语",KBS World
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 #EXTINF:-1 tvg-name="Newsmax" group-title="外语",Newsmax
@@ -26,8 +24,3 @@ https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 http://143.244.60.30/TBS/index.m3u8
 #EXTINF:-1 tvg-name="VOA" group-title="外语",VOA
 https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist.m3u8
-#EXTINF:-1 tvg-name="World" group-title="外语",World
-http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
---
-#EXTINF:-1 tvg-name="上海外语" group-title="上海",上海外语
-http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000001/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000001&IASHttpSessionId=OTT19019320240419154124000281

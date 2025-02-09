@@ -29,33 +29,3 @@ http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226382/2/index.
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226385/2/index.m3u8
 #EXTINF:-1 tvg-name="南昌资讯" group-title="江西",南昌资讯
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226374/2/index.m3u8
-#EXTINF:-1 tvg-name="抚州.广昌综合" group-title="江西",抚州.广昌综合
-http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_guangchuangTV.m3u8
-#EXTINF:-1 tvg-name="赣州.宁都综合" group-title="江西",赣州.宁都综合
-http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_ningdu.m3u8
-#EXTINF:-1 tvg-name="吉安.井冈山综合" group-title="江西",吉安.井冈山综合
-http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_jgs.m3u8
-#EXTINF:-1 tvg-name="九江新闻综合频道" group-title="江西",九江新闻综合频道
-https://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_jiujiang1.m3u8
-#EXTINF:-1 tvg-name="九江公共频道" group-title="江西",九江公共频道
-https://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_jiujiang2.m3u8
-#EXTINF:-1 tvg-name="九江教育频道" group-title="江西",九江教育频道
-https://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_jiujiang3.m3u8
-#EXTINF:-1 tvg-name="九江.庐山市电视台" group-title="江西",九江.庐山市电视台
-http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_lushan.m3u8
-#EXTINF:-1 tvg-name="九江.彭泽综合" group-title="江西",九江.彭泽综合
-http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_pengze.m3u8
-#EXTINF:-1 tvg-name="九江.武宁综合" group-title="江西",九江.武宁综合
-http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_wuning.m3u8
-#EXTINF:-1 tvg-name="萍乡新闻综合" group-title="江西",萍乡新闻综合
-http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_px_xwzh.m3u8
-#EXTINF:-1 tvg-name="萍乡公共" group-title="江西",萍乡公共
-http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_px_ggpd.m3u8
-#EXTINF:-1 tvg-name="上饶新闻综合" group-title="江西",上饶新闻综合
-http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_shangrao1.m3u8
-#EXTINF:-1 tvg-name="上饶经济旅游频道" group-title="江西",上饶经济旅游频道
-http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_shangrao2.m3u8
-#EXTINF:-1 tvg-name="上饶.广丰综合" group-title="江西",上饶.广丰综合
-http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_guangfeng.m3u8
-#EXTINF:-1 tvg-name="宜春.铜鼓综合" group-title="江西",宜春.铜鼓综合
-http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_tonggu.m3u8
