@@ -1,0 +1,17 @@
+#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://huangsuming.codeberg.page/logo/tv/satellite/陕西.png" group-title="卫视",陕西卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225729/index.m3u8
+#EXTINF:-1 tvg-name="陕西农林卫视" tvg-logo="https://huangsuming.codeberg.page/logo/tv/satellite/农林.png" group-title="卫视",农林卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226204/index.m3u8
+--
+#EXTINF:-1 tvg-name="陕西新闻资讯" group-title="陕西",陕西新闻资讯
+http://gxlive.snrtv.com/sx1-SD.m3u8
+#EXTINF:-1 tvg-name="陕西都市青春" group-title="陕西",陕西都市青春
+http://gxlive.snrtv.com/sx2-SD.m3u8
+#EXTINF:-1 tvg-name="陕西秦腔" group-title="陕西",陕西秦腔
+http://gxlive.snrtv.com/sx5-SD.m3u8
+#EXTINF:-1 tvg-name="陕西体育休闲" group-title="陕西",陕西体育休闲
+http://gxlive.snrtv.com/sx7-SD.m3u8
+#EXTINF:-1 tvg-name="陕西西部电影" group-title="陕西",陕西西部电影
+http://gxlive.snrtv.com/sx8-SD.m3u8
+#EXTINF:-1 tvg-name="陕西银龄" group-title="陕西",陕西银龄
+http://gxlive.snrtv.com/sx3-SD.m3u8

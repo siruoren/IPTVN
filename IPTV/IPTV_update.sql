@@ -446,6 +446,15 @@ INSERT into tvbox.tv_channels(name,category,url) values('重庆卫视','卫视',
 INSERT into tvbox.tv_channels(name,category,url) values('重庆汽摩','重庆','http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225506/index.m3u8?fmt=ts2hls');
 INSERT into tvbox.tv_channels(name,category,url) values('铜梁综合','重庆','http://183.64.174.171:40123/ch1.m3u8');
 INSERT into tvbox.tv_channels(name,category,url) values('潼南综合','重庆','http://183.230.184.51:65500/tntv1.m3u8');
+INSERT  into tvbox.tv_category(name,enable,type) (select '陕西','1','default' from tvbox.tv_category where not EXISTS (SELECT name from tvbox.tv_category WHERE name='陕西')limit 1);
+INSERT into tvbox.tv_channels(name,category,url) values('陕西卫视','卫视','http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225729/index.m3u8');
+INSERT into tvbox.tv_channels(name,category,url) values('陕西农林卫视','卫视','http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226204/index.m3u8');
+INSERT into tvbox.tv_channels(name,category,url) values('陕西新闻资讯','陕西','http://gxlive.snrtv.com/sx1-SD.m3u8');
+INSERT into tvbox.tv_channels(name,category,url) values('陕西都市青春','陕西','http://gxlive.snrtv.com/sx2-SD.m3u8');
+INSERT into tvbox.tv_channels(name,category,url) values('陕西秦腔','陕西','http://gxlive.snrtv.com/sx5-SD.m3u8');
+INSERT into tvbox.tv_channels(name,category,url) values('陕西体育休闲','陕西','http://gxlive.snrtv.com/sx7-SD.m3u8');
+INSERT into tvbox.tv_channels(name,category,url) values('陕西西部电影','陕西','http://gxlive.snrtv.com/sx8-SD.m3u8');
+INSERT into tvbox.tv_channels(name,category,url) values('陕西银龄','陕西','http://gxlive.snrtv.com/sx3-SD.m3u8');
 INSERT  into tvbox.tv_category(name,enable,type) (select '青海','1','default' from tvbox.tv_category where not EXISTS (SELECT name from tvbox.tv_category WHERE name='青海')limit 1);
 INSERT into tvbox.tv_channels(name,category,url) values('青海卫视','卫视','http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225727/index.m3u8');
 INSERT into tvbox.tv_channels(name,category,url) values('西宁新闻综合','青海','https://liveout.xntv.tv/a65jur/96iln2.m3u8');
