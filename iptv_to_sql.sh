@@ -24,12 +24,11 @@ echo "INSERT  into tvbox.tv_category(name,enable,type) (select '${group_name}','
     	    #echo  `sed -n "${line_next}p" ${m3u_file}|grep '^http'`
     	    check_url=`sed -n "${line_next}p" ${m3u_file}|grep '^http'|wc -l`
     	    if [[ "${check_url}" -ne 0 ]];then
-    		        item_id=`sed -n "${line_nu}p" ${m3u_file}|awk -F'tvg-name=' '{print$2}'|awk '{printf$1}' |sed 's/"//g'`
-    			item_group=`sed -n "${line_nu}p" ${m3u_file}|awk -F'group-title=' '{print$2}'|awk '{printf$1}' |sed 's/"//g'|awk -F',' '{printf$1}'`
-    			item_url=`sed -n "${line_next}p" ${m3u_file}|grep '^http'`
-    			
-    			echo "INSERT into tvbox.tv_channels(name,category,url) values('${item_id}','${item_group}','${item_url}');" >> IPTV_update.sqltmp
-    			i=` expr $i + 1 `
+    		      item_id=`sed -n "${line_nu}p" ${m3u_file}|awk -F'tvg-name=' '{print$2}'|awk '{printf$1}' |sed 's/"//g'`
+    			    item_group=`sed -n "${line_nu}p" ${m3u_file}|awk -F'group-title=' '{print$2}'|awk '{printf$1}' |sed 's/"//g'|awk -F',' '{printf$1}'|sed 's/[^[:alpha:]]//g'`
+    			    item_url=`sed -n "${line_next}p" ${m3u_file}|grep '^http'`
+    			    echo "INSERT into tvbox.tv_channels(name,category,url) values('${item_id}','${item_group}','${item_url}');" >> IPTV_update.sqltmp
+    			    i=` expr $i + 1 `
     	    fi
     	fi
 
