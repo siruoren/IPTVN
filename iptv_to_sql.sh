@@ -5,7 +5,7 @@ for m3u_file in `ls|grep '.m3u'`
 do  
 
 echo ${m3u_file}
-group_name=`echo ${m3u_file}|awk -F '.m3u' '{print$1}' `
+group_name=`echo ${m3u_file}|awk -F '.m3u' '{print$1}'|sed 's/[^[:alpha:]]//g'`
 echo "INSERT  into tvbox.tv_category(name,enable,type) (select '${group_name}','1','default' from tvbox.tv_category where not EXISTS (SELECT name from tvbox.tv_category WHERE name='${group_name}')limit 1);" >> IPTV_update.sqltmp
 
     lines_num=`wc -l ${m3u_file}|awk '{printf$1}'`
