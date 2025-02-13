@@ -25,7 +25,7 @@ jobs:
     - name: Update
       run: |
         # 央视源
-        rm -f IPTV.m3u && wget https://huangsuming.github.io/iptv/list/tvlist.txt -O IPTV.m3u
+        rm -f IPTV.m3u && wget https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/index.m3u -O IPTV.m3u
         rm -rf IPTV;
         mkdir -p IPTV;cd IPTV
         cat ../IPTV.m3u |grep 'group-title'|awk -F ',' '{print$1}'|awk '{print$NF}'|grep "^group"|sort|uniq|awk -F'"' '{print$2}'|xargs -i touch {}.m3u
