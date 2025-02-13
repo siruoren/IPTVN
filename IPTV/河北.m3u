@@ -1,7 +1,0 @@
-#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://huangsuming.codeberg.page/logo/tv/satellite/河北.png" group-title="卫视",河北卫视
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225732/index.m3u8
---
-#EXTINF:-1 tvg-name="张家口1台" group-title="河北",张家口1台
-http://nlive.zjkgdcs.com:8091/live/xwzhpd.m3u8
-#EXTINF:-1 tvg-name="张家口2台" group-title="河北",张家口2台
-http://nlive.zjkgdcs.com:8091/live/zjktv2.m3u8

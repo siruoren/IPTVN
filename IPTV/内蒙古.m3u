@@ -1,9 +1,0 @@
-#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://huangsuming.codeberg.page/logo/tv/satellite/内蒙古.png" group-title="卫视",内蒙古卫视
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225667/index.m3u8
---
-#EXTINF:-1 tvg-name="乌海新闻综合" group-title="内蒙古",乌海新闻综合
-http://live.wuhainews.org.cn/xwzh/sd/live.m3u8
-#EXTINF:-1 tvg-name="乌海都市生活" group-title="内蒙古",乌海都市生活
-http://live.wuhainews.org.cn/dssh/sd/live.m3u8
-#EXTINF:-1 tvg-name="锡林郭勒盟1台" group-title="内蒙古",锡林郭勒盟1台
-http://livecdnpull.xlglrbw.org.cn:80/live/tvzhpd.m3u8
