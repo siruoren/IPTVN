@@ -83868,6 +83868,9 @@
 	<programme channel="黑莓动画" start="20250214132200 +0800" stop="20250214135600 +0800">
 		<title lang="zh">06_嗨道奇第2季中文版</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250214135600 +0800" stop="20250214141400 +0800">
+		<title lang="zh">16_熊出没之安全勇士探险篇</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -83894,6 +83897,9 @@
 	</programme>
 	<programme channel="黑莓电影" start="20250214121300 +0800" stop="20250214135200 +0800">
 		<title lang="zh">黄玫瑰</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250214135200 +0800" stop="20250214152700 +0800">
+		<title lang="zh">别叫我酒神2</title>
 	</programme>
 	<channel id="黑龙江农业科教">
 		<display-name lang="zh">黑龙江农业科教</display-name>
@@ -84888,6 +84894,9 @@
 	<programme channel="newtv精品大剧" start="20250214131200 +0800" stop="20250214135800 +0800">
 		<title lang="zh">36_安家</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250214135800 +0800" stop="20250214144700 +0800">
+		<title lang="zh">美康利健激光前列腺治疗仪-渠道（右）</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -85194,6 +85203,9 @@
 	<programme channel="newtv热播精选" start="20250214131000 +0800" stop="20250214135900 +0800">
 		<title lang="zh">HOKO富硒RO直饮厨下即热净水机-渠道（右）</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250214135900 +0800" stop="20250214144600 +0800">
+		<title lang="zh">28_梅花红桃</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -85343,6 +85355,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250214134200 +0800" stop="20250214135300 +0800">
 		<title lang="zh">小品《大变活人》 表演：陈佩斯 朱时茂</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250214135300 +0800" stop="20250214140500 +0800">
+		<title lang="zh">小品《大城小事》 表演：王宁 艾伦</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
