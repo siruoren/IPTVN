@@ -1260,3 +1260,4 @@ INSERT into tvbox.tv_channels(name,category,url) values('中华小当家','动�
 INSERT into tvbox.tv_channels(name,category,url) values('中华小当家','动画频道','http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=3554&tk=aa0698566417');
 INSERT into tvbox.tv_channels(name,category,url) values('猫和老鼠','动画频道','http://182.40.120.180/test-txdwk.flv.huya.com/src/1423782038-1423782038-6115097289842229248-2847687532-10057-A-0-1.m3u8');
 INSERT into tvbox.tv_channels(name,category,url) values('蜡笔小新','动画频道','http://182.40.120.230/test-txdwk.flv.huya.com/src/1423787878-1423787878-6115122372451237888-2847699212-10057-A-0-1.m3u8');
+UPDATE tvbox.tv_meals SET mealname='默认套餐', listinfo='央视频道,央视付费频道,卫视频道,电影频道,经典剧场,动画频道,音乐频道,体育频道,游戏频道,港澳台,咪咕直播,更新时间,山东频道,北京频道,吉林频道,上海频道,云南频道,四川频道,天津频道,宁夏频道,安徽频道,山西频道,广东频道,广西频道,新疆频道,江苏频道,河北频道,河南频道,浙江频道,湖北频道,湖南频道,甘肃频道,福建频道,贵州频道,辽宁频道,重庆频道,陕西频道,青海频道,黑龙江频道' WHERE id=1;
