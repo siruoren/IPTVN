@@ -28,7 +28,7 @@ jobs:
         rm -f IPTV.m3u && wget https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u -O IPTV.m3u
         rm -rf IPTV;
         mkdir -p IPTV;cd IPTV
-        cat ../IPTV.m3u |grep 'group-title'|awk -F ',' '{print$1}'|awk '{print$NF}'|grep "^group"|sort|uniq|awk -F'"' '{print$2}'|sed 's/[^[:alpha:]]//g'|xargs -i touch {}.m3u
+        cat ../IPTV.m3u |grep 'group-title'|awk -F ',' '{print$1}'|awk '{print$NF}'|grep "^group"|sort|uniq|awk -F'"' '{print$2}'|xargs -i touch {}.m3u
         for i in `ls`; do group_name=`echo ${i}|awk -F '.' '{print$1}'`; grep -A 1 "${group_name}" ../IPTV.m3u > ${i}; done
         cd ../
 
