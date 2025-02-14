@@ -1,4 +1,9 @@
 #!/bin/bash
+
+default_assign_first="央视频道,央视付费频道,卫视频道,电影频道,经典剧场,动画频道,音乐频道,体育频道,游戏频道,港澳台,咪咕直播,"
+default_assign_second="山东频道,北京频道,吉林频道,上海频道,云南频道,四川频道,天津频道,宁夏频道,安徽频道,山西频道,广东频道,广西频道,新疆频道,江苏频道,河北频道,河南频道,浙江频道,湖北频道,湖南频道,甘肃频道,福建频道,贵州频道,辽宁频道,重庆频道,陕西频道,青海频道,黑龙江频道"
+
+
 cd IPTV;
 > IPTV_update.sqltmp;
 for m3u_file in `ls|grep '.m3u'`
@@ -7,6 +12,12 @@ do
 echo ${m3u_file}
 group_name=`echo ${m3u_file}|awk -F '.m3u' '{print$1}'|sed 's/[^[:alpha:]]//g'`
 echo "INSERT  into tvbox.tv_category(name,enable,type) (select '${group_name}','1','default' from tvbox.tv_category where not EXISTS (SELECT name from tvbox.tv_category WHERE name='${group_name}')limit 1);" >> IPTV_update.sqltmp
+if [[ ${default_assign_first} =~ ${group_name} ]] || [[ ${default_assign_second} =~ ${group_name} ]];then
+    echo "${group_name} has in there default assign......"
+else
+    default_assign_first=`echo ${default_assign_first}${group_name},`
+fi
+
 
     lines_num=`wc -l ${m3u_file}|awk '{printf$1}'`
     for (( i=1;i<${lines_num};i++ ))
@@ -41,6 +52,11 @@ echo "set character_set_server='utf8';" >> IPTV_update.sql;
 echo "TRUNCATE table tvbox.tv_channels;" >> IPTV_update.sql;
 cat IPTV_update.sqltmp|grep -iE "总台|央视" >> IPTV_update.sql;
 cat IPTV_update.sqltmp|grep -ivE "总台|央视" >> IPTV_update.sql;
+default_assign_all="${default_assign_first}${default_assign_second}"
+
+#添加自动赋权
+echo "UPDATE tvbox.tv_meals SET mealname='默认套餐', listinfo='${default_assign_all}' WHERE id=1;" >> IPTV_update.sql;
+
 rm -f IPTV_update.sqltmp;
 cd ../;
 
