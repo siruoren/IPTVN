@@ -41181,6 +41181,9 @@
 	<programme channel="明星大片" start="20250224154900 +0800" stop="20250224163500 +0800">
 		<title lang="zh">31_向往的生活</title>
 	</programme>
+	<programme channel="明星大片" start="20250224163500 +0800" stop="20250224172100 +0800">
+		<title lang="zh">32_向往的生活</title>
+	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
 	</channel>
@@ -63315,6 +63318,9 @@
 	<programme channel="纯享4K" start="20250224161100 +0800" stop="20250224163900 +0800">
 		<title lang="zh">记住乡愁4K第八季 西安村——药香满山林</title>
 	</programme>
+	<programme channel="纯享4K" start="20250224163900 +0800" stop="20250224170700 +0800">
+		<title lang="zh">记住乡愁4K第八季 南一村——桂北古村 葡萄满园</title>
+	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
 	</channel>
@@ -67706,6 +67712,9 @@
 	</programme>
 	<programme channel="超级电影" start="20250224152700 +0800" stop="20250224163200 +0800">
 		<title lang="zh">电影《肇事者》</title>
+	</programme>
+	<programme channel="超级电影" start="20250224163200 +0800" stop="20250224175500 +0800">
+		<title lang="zh">电影《绝对忠诚之国家利益》</title>
 	</programme>
 	<channel id="超级电视剧">
 		<display-name lang="zh">超级电视剧</display-name>
@@ -77475,6 +77484,9 @@
 	<programme channel="黑莓动画" start="20250224160000 +0800" stop="20250224162600 +0800">
 		<title lang="zh">17_甜心格格5</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250224162600 +0800" stop="20250224165100 +0800">
+		<title lang="zh">02_谁能做到百步穿杨</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -78411,6 +78423,9 @@
 	<programme channel="newtv超级电影" start="20250224152700 +0800" stop="20250224163200 +0800">
 		<title lang="zh">电影《肇事者》</title>
 	</programme>
+	<programme channel="newtv超级电影" start="20250224163200 +0800" stop="20250224175500 +0800">
+		<title lang="zh">电影《绝对忠诚之国家利益》</title>
+	</programme>
 	<channel id="newtv超级电视剧">
 		<display-name lang="zh">NEWTV超级电视剧</display-name>
 	</channel>
@@ -78552,6 +78567,9 @@
 	<programme channel="newtv精品大剧" start="20250224155800 +0800" stop="20250224164300 +0800">
 		<title lang="zh">德国海德堡肾动力特殊膳食-渠道（右）</title>
 	</programme>
+	<programme channel="newtv精品大剧" start="20250224164300 +0800" stop="20250224172800 +0800">
+		<title lang="zh">32_锦绣未央</title>
+	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
 	</channel>
@@ -78635,6 +78653,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20250224153400 +0800" stop="20250224162300 +0800">
 		<title lang="zh">01_斗转星移</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20250224162300 +0800" stop="20250224171100 +0800">
+		<title lang="zh">02_野性的世界</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -78767,6 +78788,9 @@
 	</programme>
 	<programme channel="newtv军旅剧场" start="20250224154200 +0800" stop="20250224162900 +0800">
 		<title lang="zh">05_侦察英雄</title>
+	</programme>
+	<programme channel="newtv军旅剧场" start="20250224162900 +0800" stop="20250224171400 +0800">
+		<title lang="zh">06_侦察英雄</title>
 	</programme>
 	<channel id="newtv家庭剧场">
 		<display-name lang="zh">NEWTV家庭剧场</display-name>
@@ -79257,6 +79281,9 @@
 	<programme channel="newtv军事评论" start="20250224161400 +0800" stop="20250224163500 +0800">
 		<title lang="zh">美军欲打造陆基导弹“三重火力环”</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250224163500 +0800" stop="20250224165700 +0800">
+		<title lang="zh">七零八碎的菲军装备</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -79329,6 +79356,9 @@
 	<programme channel="newtv炫舞未来" start="20250224153900 +0800" stop="20250224163500 +0800">
 		<title lang="zh">生活服务</title>
 	</programme>
+	<programme channel="newtv炫舞未来" start="20250224163500 +0800" stop="20250224165600 +0800">
+		<title lang="zh">脊柱灵活性训练（20240604）</title>
+	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
 	</channel>
@@ -79391,6 +79421,9 @@
 	</programme>
 	<programme channel="newtv精品综合" start="20250224154900 +0800" stop="20250224163500 +0800">
 		<title lang="zh">31_向往的生活</title>
+	</programme>
+	<programme channel="newtv精品综合" start="20250224163500 +0800" stop="20250224172100 +0800">
+		<title lang="zh">32_向往的生活</title>
 	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
@@ -79478,6 +79511,9 @@
 	</programme>
 	<programme channel="newtv金牌综艺" start="20250224154500 +0800" stop="20250224164100 +0800">
 		<title lang="zh">美康利健心血通激光治疗仪升级款-渠道（右）</title>
+	</programme>
+	<programme channel="newtv金牌综艺" start="20250224164100 +0800" stop="20250224180600 +0800">
+		<title lang="zh">喜剧大会</title>
 	</programme>
 	<channel id="newtv精品体育">
 		<display-name lang="zh">NEWTV精品体育</display-name>
