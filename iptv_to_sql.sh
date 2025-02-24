@@ -99,3 +99,6 @@ if [ "${check_res}" -ne "0" ];then
 fi
   rm -f duochang_update.sqltmp;
 cd ../;
+
+
+
