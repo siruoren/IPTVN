@@ -84,8 +84,8 @@ done
 echo "set character_set_server='utf8';" >> IPTV_update.sql;
 echo "TRUNCATE table tvbox.tv_channels;" >> IPTV_update.sql;
 echo "SELECT SLEEP(5);" >> IPTV_update.sql;
-cat IPTV_update.sqltmp|sort|uniq|grep -iE "总台|央视" >> IPTV_update.sql;
-cat IPTV_update.sqltmp|sort|uniq|grep -ivE "总台|央视" >> IPTV_update.sql;
+cat IPTV_update.sqltmp|grep -iE "总台|央视" >> IPTV_update.sql;
+cat IPTV_update.sqltmp|grep -ivE "总台|央视" >> IPTV_update.sql;
 default_assign_all="${default_assign_first}${default_assign_second}"
 
 #添加自动赋权
