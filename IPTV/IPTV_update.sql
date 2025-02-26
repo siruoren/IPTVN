@@ -1,5 +1,6 @@
 set character_set_server='utf8';
 TRUNCATE table tvbox.tv_channels;
+SELECT SLEEP(5);
 INSERT  into tvbox.tv_category(name,enable,type) (select '央视频道','1','default' from tvbox.tv_category where not EXISTS (SELECT name from tvbox.tv_category WHERE name='央视频道')limit 1);
 INSERT into tvbox.tv_channels(name,category,url) (select 'CCTV1','央视频道','http://116.9.204.242:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0' from tvbox.tv_channels where not EXISTS(select url from tvbox.tv_channels where url='http://116.9.204.242:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0'));
 INSERT into tvbox.tv_channels(name,category,url) (select 'CCTV1','央视频道','http://3501776.xyz:35455/gaoma/cctv1.m3u8' from tvbox.tv_channels where not EXISTS(select url from tvbox.tv_channels where url='http://3501776.xyz:35455/gaoma/cctv1.m3u8'));
