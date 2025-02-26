@@ -1,9 +1,18 @@
 #!/bin/bash
 
 # 源
-rm -f IPTV.m3u && wget https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u -O IPTV.m3u
-wget https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u -O fangming.m3u
-cat fangming.m3u >> IPTV.m3u;rm -f fangming.m3u;
+rm -f IPTV.m3u 
+wget https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u -O IPTV.m3u
+wget https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u -O fangming.m3u;cat fangming.m3u >> IPTV.m3u;rm -f fangming.m3u;
+wget https://raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.m3u -O vbskycn_iptv4.m3u;cat vbskycn_iptv4.m3u >> IPTV.m3u;rm -f vbskycn_iptv4.m3u;
+wget https://raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv6.m3u -O vbskycn_iptv6.m3u;cat vbskycn_iptv6.m3u >> IPTV.m3u;rm -f vbskycn_iptv6.m3u;
+
+
+
+
+
+
+
 rm -rf IPTV;
 mkdir -p IPTV;cd IPTV
 cat ../IPTV.m3u |grep 'group-title'|awk -F ',' '{print$1}'|awk '{print$NF}'|grep "^group"|sort|uniq|awk -F'"' '{print$2}'|xargs -i touch {}.m3u
