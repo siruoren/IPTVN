@@ -39867,6 +39867,9 @@
 	<programme channel="惊悚悬疑" start="20250226105400 +0800" stop="20250226120000 +0800">
 		<title lang="zh">罗布泊之九龙天棺</title>
 	</programme>
+	<programme channel="惊悚悬疑" start="20250226120000 +0800" stop="20250226124900 +0800">
+		<title lang="zh">德国卡赫纯钛RO反渗透净水器 -渠道（右）</title>
+	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
 	</channel>
@@ -43214,6 +43217,9 @@
 	</programme>
 	<programme channel="明星大片" start="20250226110900 +0800" stop="20250226115900 +0800">
 		<title lang="zh">中国药材九制黄精套组-春节版-渠道（右）</title>
+	</programme>
+	<programme channel="明星大片" start="20250226115900 +0800" stop="20250226133400 +0800">
+		<title lang="zh">扑朔迷离</title>
 	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
@@ -59540,6 +59546,9 @@
 	</programme>
 	<programme channel="爱情喜剧" start="20250226110100 +0800" stop="20250226114800 +0800">
 		<title lang="zh">27_长歌行</title>
+	</programme>
+	<programme channel="爱情喜剧" start="20250226114800 +0800" stop="20250226123700 +0800">
+		<title lang="zh">德国卡赫纯钛RO反渗透净水器 -渠道（右）</title>
 	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
@@ -80931,6 +80940,9 @@
 	<programme channel="newtv超级综艺" start="20250226104000 +0800" stop="20250226115700 +0800">
 		<title lang="zh">越战越勇</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250226115700 +0800" stop="20250226124700 +0800">
+		<title lang="zh">绽放吧！妈妈</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -80942,6 +80954,9 @@
 	</programme>
 	<programme channel="newtv超级体育" start="20250226090500 +0800" stop="20250226120000 +0800">
 		<title lang="zh">体育赛事精选</title>
+	</programme>
+	<programme channel="newtv超级体育" start="20250226120000 +0800" stop="20250226130500 +0800">
+		<title lang="zh">体坛快讯</title>
 	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
@@ -81131,6 +81146,9 @@
 	</programme>
 	<programme channel="newtv精品纪录" start="20250226112700 +0800" stop="20250226115200 +0800">
 		<title lang="zh">第3集：泰国</title>
+	</programme>
+	<programme channel="newtv精品纪录" start="20250226115200 +0800" stop="20250226121700 +0800">
+		<title lang="zh">第4集：马来西亚</title>
 	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
@@ -81356,6 +81374,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20250226110100 +0800" stop="20250226114800 +0800">
 		<title lang="zh">27_长歌行</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20250226114800 +0800" stop="20250226123700 +0800">
+		<title lang="zh">德国卡赫纯钛RO反渗透净水器 -渠道（右）</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -81666,6 +81687,9 @@
 	<programme channel="newtv精品综合" start="20250226110900 +0800" stop="20250226115900 +0800">
 		<title lang="zh">中国药材九制黄精套组-春节版-渠道（右）</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20250226115900 +0800" stop="20250226133400 +0800">
+		<title lang="zh">扑朔迷离</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -81695,6 +81719,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20250226105400 +0800" stop="20250226120000 +0800">
 		<title lang="zh">罗布泊之九龙天棺</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250226120000 +0800" stop="20250226124900 +0800">
+		<title lang="zh">德国卡赫纯钛RO反渗透净水器 -渠道（右）</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
@@ -81821,6 +81848,9 @@
 	</programme>
 	<programme channel="newtv中国功夫" start="20250226111300 +0800" stop="20250226120000 +0800">
 		<title lang="zh">15_长安少年行</title>
+	</programme>
+	<programme channel="newtv中国功夫" start="20250226120000 +0800" stop="20250226125000 +0800">
+		<title lang="zh">中国药材九制黄精套组-春节版-渠道（右）</title>
 	</programme>
 	<channel id="求索生活">
 		<display-name lang="zh">求索生活</display-name>
