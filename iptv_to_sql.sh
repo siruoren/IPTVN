@@ -1,5 +1,20 @@
 #!/bin/bash
 
+# 源
+rm -f IPTV.m3u && wget https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u -O IPTV.m3u
+wget https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u -O fangming.m3u
+cat fangming.m3u >> IPTV.m3u;rm -f fangming.m3u;
+rm -rf IPTV;
+mkdir -p IPTV;cd IPTV
+cat ../IPTV.m3u |grep 'group-title'|awk -F ',' '{print$1}'|awk '{print$NF}'|grep "^group"|sort|uniq|awk -F'"' '{print$2}'|xargs -i touch {}.m3u
+for i in `ls`; do group_name=`echo ${i}|awk -F '.' '{print$1}'`; grep -A 1 "${group_name}" ../IPTV.m3u > ${i}; done
+cd ../
+# 节目源
+rm -f EPG.xml && wget https://epg.112114.xyz/pp.xml -O EPG.xml
+echo "Auto Update IPTV in ${{ steps.date.outputs.date }}" > README.md
+#iptv_to_sql
+
+
 default_assign_first="央视频道,卫视频道,电影频道,经典剧场,动画频道,音乐频道,体育频道,游戏频道,港澳台,"
 default_assign_second="山东频道,北京频道,吉林频道,上海频道,云南频道,四川频道,天津频道,宁夏频道,安徽频道,山西频道,广东频道,广西频道,新疆频道,江苏频道,河北频道,河南频道,浙江频道,湖北频道,湖南频道,甘肃频道,福建频道,贵州频道,辽宁频道,重庆频道,陕西频道,青海频道,黑龙江频道"
 

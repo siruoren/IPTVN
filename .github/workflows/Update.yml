@@ -24,26 +24,6 @@ jobs:
 
     - name: Update
       run: |
-        # 源
-        rm -f IPTV.m3u && wget https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u -O IPTV.m3u
-        wget https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u -O fangming.m3u
-        cat fangming.m3u >> IPTV.m3u;rm -f fangming.m3u;
-        rm -rf IPTV;
-        mkdir -p IPTV;cd IPTV
-        cat ../IPTV.m3u |grep 'group-title'|awk -F ',' '{print$1}'|awk '{print$NF}'|grep "^group"|sort|uniq|awk -F'"' '{print$2}'|xargs -i touch {}.m3u
-        for i in `ls`; do group_name=`echo ${i}|awk -F '.' '{print$1}'`; grep -A 1 "${group_name}" ../IPTV.m3u > ${i}; done
-        cd ../
-
-        
-
-
-
-
-        # 节目源
-        rm -f EPG.xml && wget https://epg.112114.xyz/pp.xml -O EPG.xml
-        echo "Auto Update IPTV in ${{ steps.date.outputs.date }}" > README.md
-
-        #iptv_to_sql
         chmod +x iptv_to_sql.sh;
         bash -vvv ./iptv_to_sql.sh
 
