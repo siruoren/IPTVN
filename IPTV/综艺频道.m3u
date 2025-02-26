@@ -1,0 +1,9 @@
+#EXTINF:-1 tvg-name="有线新闻" tvg-id="有线新闻" tvg-logo="https://live.zbds.top/logo/有线新闻.png" group-title="综艺频道", 有线新闻
+http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u8
+--
+#EXTINF:-1 tvg-name="热门综艺" tvg-id="热门综艺" tvg-logo="https://live.zbds.top/logo/热门综艺.png" group-title="综艺频道", 热门综艺
+http://wouu.net:9977/udp/239.93.0.151:5140
+#EXTINF:-1 tvg-name="超级综艺" tvg-id="超级综艺" tvg-logo="https://live.zbds.top/logo/超级综艺.png" group-title="综艺频道", 超级综艺
+http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000001000025771&livemode=1&stbId=yu&mode=1
+#EXTINF:-1 tvg-name="金牌综艺" tvg-id="金牌综艺" tvg-logo="https://live.zbds.top/logo/金牌综艺.png" group-title="综艺频道", 金牌综艺
+http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=ystenlive&Contentid=1000000004000026167&livemode=1&stbId=yu&mode=1
