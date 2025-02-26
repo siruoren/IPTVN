@@ -1,14 +1,17 @@
 #!/bin/bash
 
 # 源
-> IPTV.m3u 
-wget https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u -O Guovin.m3uu;cat Guovin.m3u >> IPTV.m3u;rm -f Guovin.m3u;
-wget https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u -O fangming.m3u;cat fangming.m3u >> IPTV.m3u;rm -f fangming.m3u;
-wget https://raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.m3u -O vbskycn_iptv4.m3u;cat vbskycn_iptv4.m3u >> IPTV.m3u;rm -f vbskycn_iptv4.m3u;
-wget https://raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv6.m3u -O vbskycn_iptv6.m3u;cat vbskycn_iptv6.m3u >> IPTV.m3u;rm -f vbskycn_iptv6.m3u;
+> IPTV.m3u
+
+while read line
+do
+
+src_name=`echo $line|awk '{print$1}'`
+src_url=`echo $line|awk '{print$2}'`
+wget ${src_url} -O ${src_name}.m3u;cat ${src_name}.m3u >> IPTV.m3u;rm -f ${src_name}.m3u;
 
 
-
+done < iptv_src.list;
 
 
 
