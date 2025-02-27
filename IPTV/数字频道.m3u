@@ -3,6 +3,24 @@ http://home.wwang.pw:35455/itv/1000000006000032327.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-name="哒啵赛事" tvg-id="哒啵赛事" tvg-logo="https://live.zbds.top/logo/哒啵赛事.png" group-title="数字频道", 哒啵赛事
 http://home.wwang.pw:35455/itv/1000000001000003775.m3u8?cdn=ystenlive
 --
+#EXTINF:-1 tvg-name="五星体育" tvg-id="五星体育" tvg-logo="https://live.zbds.top/logo/五星体育.png" group-title="数字频道", 五星体育
+http://home.wwang.pw:35455/itv/5000000010000017540.m3u8?cdn=bestzb
+--
+#EXTINF:-1 tvg-name="超级体育" tvg-id="超级体育" tvg-logo="https://epg.iill.top/logo/NewTV超级体育.png" group-title="数字频道", 超级体育
+http://home.wwang.pw:35455/itv/1000000001000009601.m3u8?cdn=ystenlive
+#EXTINF:-1 tvg-name="魅力足球" tvg-id="魅力足球" tvg-logo="https://live.zbds.top/logo/魅力足球.png" group-title="数字频道", 魅力足球
+http://home.wwang.pw:35455/itv/5000000011000031207.m3u8?cdn=bestzb
+--
+#EXTINF:-1 tvg-name="五星体育" tvg-id="五星体育" tvg-logo="https://live.zbds.top/logo/五星体育.png" group-title="数字频道", 五星体育
+http://home.wwang.pw:35455/itv/5000000010000017540.m3u8?cdn=bestzb
+--
+#EXTINF:-1 tvg-name="求索动物" tvg-id="184" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/shuzi/Qiusuo3.png" group-title="数字频道", 求索动物
+http://home.wwang.pw:35455/itv/2000000004000000009.m3u8?cdn=hnbblive
+#EXTINF:-1 tvg-name="求索纪录" tvg-id="149" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/shuzi/Qiusuo1.png" group-title="数字频道", 求索纪录
+http://home.wwang.pw:35455/itv/2000000004000000010.m3u8?cdn=hnbblive
+--
+#EXTINF:-1 tvg-name="求索生活" tvg-id="171" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/shuzi/Qiusuo4.png" group-title="数字频道", 求索生活
+http://home.wwang.pw:35455/itv/2000000004000000008.m3u8?cdn=hnbblive
 #EXTINF:-1 tvg-name="法治天地" tvg-id="法治天地" tvg-logo="https://live.zbds.top/logo/法治天地.png" group-title="数字频道", 法治天地
 http://home.wwang.pw:35455/itv/2000000002000000014.m3u8?cdn=hnbblive
 #EXTINF:-1 tvg-name="金色学堂" tvg-id="金色学堂" tvg-logo="https://live.zbds.top/logo/金色学堂.png" group-title="数字频道", 金色学堂
@@ -14,12 +32,39 @@ http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
 #EXTINF:-1 tvg-name="法治天地" tvg-id="法治天地" tvg-logo="https://live.zbds.top/logo/法治天地.png" group-title="数字频道", 法治天地
 http://home.wwang.pw:35455/itv/2000000002000000014.m3u8?cdn=hnbblive
 --
+#EXTINF:-1 tvg-name="求索动物" tvg-id="184" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/shuzi/Qiusuo3.png" group-title="数字频道", 求索动物
+http://home.wwang.pw:35455/itv/2000000004000000009.m3u8?cdn=hnbblive
+#EXTINF:-1 tvg-name="求索纪录" tvg-id="149" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/shuzi/Qiusuo1.png" group-title="数字频道", 求索纪录
+http://home.wwang.pw:35455/itv/2000000004000000010.m3u8?cdn=hnbblive
+--
+#EXTINF:-1 tvg-name="求索生活" tvg-id="171" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/shuzi/Qiusuo4.png" group-title="数字频道", 求索生活
+http://home.wwang.pw:35455/itv/2000000004000000008.m3u8?cdn=hnbblive
+--
+#EXTINF:-1 tvg-name="五星体育" tvg-id="五星体育" tvg-logo="https://live.zbds.top/logo/五星体育.png" group-title="数字频道", 五星体育
+http://home.wwang.pw:35455/itv/5000000010000017540.m3u8?cdn=bestzb
+--
+#EXTINF:-1 tvg-name="超级体育" tvg-id="超级体育" tvg-logo="https://epg.iill.top/logo/NewTV超级体育.png" group-title="数字频道", 超级体育
+http://home.wwang.pw:35455/itv/1000000001000009601.m3u8?cdn=ystenlive
+--
+#EXTINF:-1 tvg-name="魅力足球" tvg-id="魅力足球" tvg-logo="https://live.zbds.top/logo/魅力足球.png" group-title="数字频道", 魅力足球
+http://home.wwang.pw:35455/itv/5000000011000031207.m3u8?cdn=bestzb
+--
+#EXTINF:-1 tvg-name="五星体育" tvg-id="五星体育" tvg-logo="https://live.zbds.top/logo/五星体育.png" group-title="数字频道", 五星体育
+http://home.wwang.pw:35455/itv/5000000010000017540.m3u8?cdn=bestzb
+--
 #EXTINF:-1 tvg-name="哒啵电竞" tvg-id="哒啵电竞" tvg-logo="https://live.zbds.top/logo/哒啵电竞.png" group-title="数字频道", 哒啵电竞
 http://home.wwang.pw:35455/itv/1000000006000032327.m3u8?cdn=ystenlive
 --
 #EXTINF:-1 tvg-name="哒啵赛事" tvg-id="哒啵赛事" tvg-logo="https://live.zbds.top/logo/哒啵赛事.png" group-title="数字频道", 哒啵赛事
 http://home.wwang.pw:35455/itv/1000000001000003775.m3u8?cdn=ystenlive
 --
+#EXTINF:-1 tvg-name="求索动物" tvg-id="184" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/shuzi/Qiusuo3.png" group-title="数字频道", 求索动物
+http://home.wwang.pw:35455/itv/2000000004000000009.m3u8?cdn=hnbblive
+#EXTINF:-1 tvg-name="求索纪录" tvg-id="149" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/shuzi/Qiusuo1.png" group-title="数字频道", 求索纪录
+http://home.wwang.pw:35455/itv/2000000004000000010.m3u8?cdn=hnbblive
+--
+#EXTINF:-1 tvg-name="求索生活" tvg-id="171" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/shuzi/Qiusuo4.png" group-title="数字频道", 求索生活
+http://home.wwang.pw:35455/itv/2000000004000000008.m3u8?cdn=hnbblive
 #EXTINF:-1 tvg-name="金色学堂" tvg-id="金色学堂" tvg-logo="https://live.zbds.top/logo/金色学堂.png" group-title="数字频道", 金色学堂
 http://home.wwang.pw:35455/itv/5000000010000026105.m3u8?cdn=bestzb
 --
@@ -45,6 +90,12 @@ http://home.wwang.pw:35455/itv/5000000002000009455.m3u8?cdn=bestzb
 http://wouu.net:9977/udp/239.93.0.97:5140
 #EXTINF:-1 tvg-name="爱情喜剧" tvg-id="爱情喜剧" tvg-logo="https://epg.iill.top/logo/NewTV爱情喜剧.png" group-title="数字频道", 爱情喜剧
 http://home.wwang.pw:35455/itv/2000000003000000010.m3u8?cdn=hnbblive
+#EXTINF:-1 tvg-name="睛彩广场舞" tvg-id="睛彩广场舞" tvg-logo="https://live.zbds.top/logo/睛彩广场舞.png" group-title="数字频道", 睛彩广场舞
+http://home.wwang.pw:35455/itv/2000000003000000062.m3u8?cdn=hnbblive
+#EXTINF:-1 tvg-name="睛彩青少" tvg-id="睛彩青少" tvg-logo="https://live.zbds.top/logo/睛彩青少.png" group-title="数字频道", 睛彩青少
+http://home.wwang.pw:35455/itv/1000000006000270007.m3u8?cdn=ystenlive
+#EXTINF:-1 tvg-name="纪实科教" tvg-id="纪实科教" tvg-logo="https://live.zbds.top/logo/北京纪实科教.png" group-title="数字频道", 纪实科教
+http://home.wwang.pw:35455/itv/1000000001000001910.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-name="纯享4K" tvg-id="纯享4K" tvg-logo="https://live.zbds.top/logo/纯享4K.png" group-title="数字频道", 纯享4K
 http://home.wwang.pw:35455/itv/1000000004000011651.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-name="茶频道" tvg-id="茶频道" tvg-logo="https://live.zbds.top/logo/茶.png" group-title="数字频道", 茶频道
