@@ -4,7 +4,7 @@ on:
   watch:
     types: [started]
   schedule:
-    - cron: '0 15,16 * * *'
+    - cron: '01 16 * * *'
   push:
     branches: [ "Files" ]
 
