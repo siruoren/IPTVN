@@ -1,29 +1,23 @@
 #EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/游戏风云.png" group-title="🎮游戏频道",游戏风云
 http://tvbox6.icu/tv/migu.php?id=yxfy
 #EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/游戏风云.png" group-title="🎮游戏频道",游戏风云
-http://3501776.xyz:35455/itv/5000000011000031114.m3u8?cdn=bestzb
-#EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/游戏风云.png" group-title="🎮游戏频道",游戏风云
-http://36.105.100.208:35455/itv/5000000011000031114.m3u8?cdn=bestzb
+http://home.wwang.pw:35455/itv/5000000011000031114.m3u8?cdn=bestzb
 #EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/游戏风云.png" group-title="🎮游戏频道",游戏风云
 http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0002&tk=f6cc1e0a0e1a
 #EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/游戏风云.png" group-title="🎮游戏频道",游戏风云
 http://120.55.49.231:3095/rtp/233.50.201.183:5140
 #EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/游戏风云.png" group-title="🎮游戏频道",游戏风云
-http://home.wwang.pw:35455/itv/5000000011000031114.m3u8?cdn=bestzb
-#EXTINF:-1 tvg-name="海看电竞" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/海看电竞.png" group-title="🎮游戏频道",海看电竞
-http://139.129.231.228/rtp/239.21.1.135:5002
+http://139.196.151.191:2051/rtp/239.45.3.131:5140
+#EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/游戏风云.png" group-title="🎮游戏频道",游戏风云
+http://139.196.214.238/rtp/239.45.3.131:5140
 #EXTINF:-1 tvg-name="电竞天堂" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/电竞天堂.png" group-title="🎮游戏频道",电竞天堂
 http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6056&tk=23a9aca1f79f
 --
 #EXTINF:-1 tvg-name="游戏风云" tvg-id="游戏风云" tvg-logo="https://live.zbds.top/logo/游戏风云.png" group-title="游戏频道", 游戏风云
 http://nas.hssvm.com:8888/udp/225.1.1.135:5002
-#EXTINF:-1 tvg-name="哒啵电竞" tvg-id="哒啵电竞" tvg-logo="https://live.zbds.top/logo/哒啵电竞.png" group-title="游戏频道", 哒啵电竞
-http://3501776.xyz:35455/itv/1000000006000032327.m3u8?cdn=ystenlive
 --
 #EXTINF:-1 tvg-name="游戏风云" tvg-id="游戏风云" tvg-logo="https://live.zbds.top/logo/游戏风云.png" group-title="游戏频道", 游戏风云
 http://nas.hssvm.com:8888/udp/225.1.1.135:5002
-#EXTINF:-1 tvg-name="哒啵电竞" tvg-id="哒啵电竞" tvg-logo="https://live.zbds.top/logo/哒啵电竞.png" group-title="游戏频道", 哒啵电竞
-http://3501776.xyz:35455/itv/1000000006000032327.m3u8?cdn=ystenlive
 --
 #EXTINF:-1 tvg-name="B站JJ斗地主" tvg-id="B站JJ斗地主" tvg-logo="https://live.zbds.top/logo/B站JJ斗地主.png" group-title="游戏频道", B站JJ斗地主
 http://dns.yiandrive.com:15907/bilibili/22021983
@@ -61,11 +55,11 @@ http://wouu.net:9977/udp/239.93.1.135:5140
 http://dns.yiandrive.com:15907/huya/660118
 #EXTINF:-1 tvg-name="虎牙使命召唤手游" tvg-id="虎牙使命召唤手游" tvg-logo="https://live.zbds.top/logo/虎牙使命召唤手游.png" group-title="游戏频道", 虎牙使命召唤手游
 http://dns.yiandrive.com:15907/huya/11718629
-#EXTINF:-1 tvg-name="虎牙和平精英" tvg-id="虎牙和平精英" tvg-logo="https://live.zbds.top/logo/虎牙和平精英.png" group-title="游戏频道", 虎牙和平精英
-http://dns.yiandrive.com:15907/huya/660006
 #EXTINF:-1 tvg-name="虎牙无畏契约" tvg-id="虎牙无畏契约" tvg-logo="https://live.zbds.top/logo/虎牙无畏契约.png" group-title="游戏频道", 虎牙无畏契约
 http://dns.yiandrive.com:15907/huya/660679
 #EXTINF:-1 tvg-name="虎牙永劫无间" tvg-id="虎牙永劫无间" tvg-logo="https://live.zbds.top/logo/虎牙永劫无间.png" group-title="游戏频道", 虎牙永劫无间
 http://dns.yiandrive.com:15907/huya/660115
-#EXTINF:-1 tvg-name="虎牙穿越火线手游" tvg-id="虎牙穿越火线手游" tvg-logo="https://live.zbds.top/logo/虎牙穿越火线手游.png" group-title="游戏频道", 虎牙穿越火线手游
-http://dns.yiandrive.com:15907/huya/660102
+#EXTINF:-1 tvg-name="虎牙穿越火线" tvg-id="虎牙穿越火线" tvg-logo="https://live.zbds.top/logo/虎牙穿越火线.png" group-title="游戏频道", 虎牙穿越火线
+http://dns.yiandrive.com:15907/huya/660101
+#EXTINF:-1 tvg-name="虎牙金铲铲之战" tvg-id="虎牙金铲铲之战" tvg-logo="https://live.zbds.top/logo/虎牙金铲铲之战.png" group-title="游戏频道", 虎牙金铲铲之战
+http://dns.yiandrive.com:15907/huya/660579
