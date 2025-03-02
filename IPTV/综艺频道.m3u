@@ -3,7 +3,3 @@ http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u8
 --
 #EXTINF:-1 tvg-name="热门综艺" tvg-id="热门综艺" tvg-logo="https://live.zbds.top/logo/热门综艺.png" group-title="综艺频道", 热门综艺
 http://wouu.net:9977/udp/239.93.0.151:5140
-#EXTINF:-1 tvg-name="超级综艺" tvg-id="超级综艺" tvg-logo="https://live.zbds.top/logo/超级综艺.png" group-title="综艺频道", 超级综艺
-http://111.29.9.33:6610/000000001000/1000000004000023658/index.m3u8?channel-id=bestzb&Contentid=1000000004000023658&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="金牌综艺" tvg-id="金牌综艺" tvg-logo="https://live.zbds.top/logo/金牌综艺.png" group-title="综艺频道", 金牌综艺
-http://111.29.9.33:6610/000000001000/1000000004000026167/index.m3u8?channel-id=bestzb&Contentid=1000000004000026167&livemode=1&stbId=3

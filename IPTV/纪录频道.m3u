@@ -1,16 +1,8 @@
 #EXTINF:-1 tvg-name="求索动物" tvg-id="求索动物" tvg-logo="https://live.zbds.top/logo/求索动物.png" group-title="纪录频道", 求索动物
-http://iptv.0564.org:35455/itv/6000000002000010046.m3u8?cdn=wasusyt
-#EXTINF:-1 tvg-name="求索纪录" tvg-id="求索纪录" tvg-logo="https://live.zbds.top/logo/求索纪录.png" group-title="纪录频道", 求索纪录
-http://home.wwang.pw:35455/itv/6000000002000032052.m3u8?cdn=wasusyt
-#EXTINF:-1 tvg-name="求索科学" tvg-id="求索科学" tvg-logo="https://live.zbds.top/logo/求索科学.png" group-title="纪录频道", 求索科学
-http://iptv.0564.org:35455/itv/6000000002000032344.m3u8?cdn=wasusyt
+http://36.105.100.208:35455/itv/2000000004000000009.m3u8?cdn=hnbblive
 --
 #EXTINF:-1 tvg-name="求索动物" tvg-id="求索动物" tvg-logo="https://live.zbds.top/logo/求索动物.png" group-title="纪录频道", 求索动物
-http://iptv.0564.org:35455/itv/6000000002000010046.m3u8?cdn=wasusyt
-#EXTINF:-1 tvg-name="求索纪录" tvg-id="求索纪录" tvg-logo="https://live.zbds.top/logo/求索纪录.png" group-title="纪录频道", 求索纪录
-http://home.wwang.pw:35455/itv/6000000002000032052.m3u8?cdn=wasusyt
-#EXTINF:-1 tvg-name="求索科学" tvg-id="求索科学" tvg-logo="https://live.zbds.top/logo/求索科学.png" group-title="纪录频道", 求索科学
-http://iptv.0564.org:35455/itv/6000000002000032344.m3u8?cdn=wasusyt
+http://36.105.100.208:35455/itv/2000000004000000009.m3u8?cdn=hnbblive
 --
 #EXTINF:-1 tvg-name="Discovery" tvg-id="Discovery" tvg-logo="https://live.zbds.top/logo/Discovery.png" group-title="纪录频道", Discovery
 http://ott.watch/stream/E9LDH2ZCN7/177.m3u8
@@ -20,7 +12,7 @@ http://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/8edf3fb6a69148ea9a7
 http://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/2bdfdad540b342f592f9817cb7f3b79a/4000.m3u8
 --
 #EXTINF:-1 tvg-name="求索动物" tvg-id="求索动物" tvg-logo="https://live.zbds.top/logo/求索动物.png" group-title="纪录频道", 求索动物
-http://iptv.0564.org:35455/itv/6000000002000010046.m3u8?cdn=wasusyt
+http://36.105.100.208:35455/itv/2000000004000000009.m3u8?cdn=hnbblive
 --
 #EXTINF:-1 tvg-name="中国党员教育" tvg-id="中国党员教育" tvg-logo="https://live.zbds.top/logo/中国党员教育.png" group-title="纪录频道", 中国党员教育
 http://12371ksc.v.kcdnvip.com/12371/dangyuanwang_1/index.m3u8

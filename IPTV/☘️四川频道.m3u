@@ -1,5 +1,5 @@
-#EXTINF:-1 tvg-name="万源新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/万源新闻综合.png" group-title="☘️四川频道",万源新闻综合
-http://live.wanyuannews.com/wytv/hd/live.m3u8?zsicd
+#EXTINF:-1 tvg-name="乐山新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/乐山新闻综合.png" group-title="☘️四川频道",乐山新闻综合
+http://m3u8file.lstv.org.cn/nmip-media/channellive/channel1/playlist.m3u8
 #EXTINF:-1 tvg-name="乐至综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/乐至综合.png" group-title="☘️四川频道",乐至综合
 http://175.155.106.72:89/live1/live1.m3u8?zsicd
 #EXTINF:-1 tvg-name="利州综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/利州综合.png" group-title="☘️四川频道",利州综合
@@ -29,9 +29,11 @@ http://home.wwang.pw:35455/itv/1000000005000266002.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-name="康巴卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/康巴卫视.png" group-title="☘️四川频道",康巴卫视
 http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=2449&tk=a0c4f6cfaba3
 #EXTINF:-1 tvg-name="康巴卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/康巴卫视.png" group-title="☘️四川频道",康巴卫视
-http://139.196.151.191:2051/rtp/239.45.1.251:5140
+http://36.105.100.208:35455/itv/1000000005000266002.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-name="康巴卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/康巴卫视.png" group-title="☘️四川频道",康巴卫视
 http://139.196.214.238/rtp/239.45.1.251:5140
+#EXTINF:-1 tvg-name="康巴卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/康巴卫视.png" group-title="☘️四川频道",康巴卫视
+http://139.196.151.191:2051/rtp/239.45.1.251:5140
 #EXTINF:-1 tvg-name="德阳公共" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/德阳公共.png" group-title="☘️四川频道",德阳公共
 http://scdytv.cn:1935/live/m_ggpd_livevideo/playlist.m3u8?zsicd
 #EXTINF:-1 tvg-name="德阳新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/德阳新闻综合.png" group-title="☘️四川频道",德阳新闻综合
@@ -40,12 +42,8 @@ http://scdytv.cn:1935/live/m_xwpd_livevideo/playlist.m3u8?zsicd
 http://channel.wcrmt.cn:80/nmip-media/channellive/channel105268/playlist.m3u8
 #EXTINF:-1 tvg-name="沐川综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/沐川综合.png" group-title="☘️四川频道",沐川综合
 http://tvfile.swrmt.com:80/nmip-media/channellive/channel100064/playlist.m3u8
-#EXTINF:-1 tvg-name="金川乡村" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/金川乡村.png" group-title="☘️四川频道",金川乡村
-http://live.jinchuanrmt.com:90/live/jcxc.m3u8?zsicd
 #EXTINF:-1 tvg-name="金川新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/金川新闻综合.png" group-title="☘️四川频道",金川新闻综合
 http://139.203.180.9:90/live/zhxw.m3u8
-#EXTINF:-1 tvg-name="金川新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/金川新闻综合.png" group-title="☘️四川频道",金川新闻综合
-http://live.jinchuanrmt.com:90/live/zhxw.m3u8?zsicd
 #EXTINF:-1 tvg-name="长宁综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/长宁综合.png" group-title="☘️四川频道",长宁综合
 http://cnpull.sccnfb.com/live/123456.m3u8?zsicd
 #EXTINF:-1 tvg-name="马尔康综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/马尔康综合.png" group-title="☘️四川频道",马尔康综合
