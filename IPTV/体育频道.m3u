@@ -97,47 +97,30 @@ http://tvbox6.icu/tv/mgtv.php?id=218
 #EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/快乐垂钓.png" group-title="🏀体育频道",快乐垂钓
 http://home.wwang.pw:35455/itv/5000000011000031206.m3u8?cdn=bestzb
 --
-#EXTINF:-1 tvg-name="劲爆体育" tvg-id="劲爆体育" tvg-logo="https://live.zbds.top/logo/劲爆体育.png" group-title="体育频道", 劲爆体育
+#EXTINF:-1 tvg-name="劲爆体育" tvg-id="劲爆体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/劲爆体育.png" group-title="体育频道", 劲爆体育
 http://36.105.100.208:35455/itv/5000000002000029972.m3u8?cdn=bestzb
---
-#EXTINF:-1 tvg-name="睛彩竞技" tvg-id="睛彩竞技" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/assets/logo/睛彩竞技.png" group-title="体育频道", 睛彩竞技
-http://83.229.120.192:50001/2000000003000000060/hnbblive/index.m3u8
-#EXTINF:-1 tvg-name="睛彩篮球" tvg-id="睛彩篮球" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/assets/logo/睛彩篮球.png" group-title="体育频道", 睛彩篮球
-http://83.229.120.192:50001/2000000003000000065/hnbblive/index.m3u8
+#EXTINF:-1 tvg-name="五星体育" tvg-id="五星体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/五星体育.png" group-title="体育频道", 五星体育
+http://36.105.100.208:35455/itv/5000000010000017540.m3u8?cdn=bestzb
+#EXTINF:-1 tvg-name="睛彩篮球" tvg-id="睛彩篮球" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/睛彩篮球.png" group-title="体育频道", 睛彩篮球
+http://39.134.67.108/PLTV/88888888/224/3221225895/1.m3u8
 #EXTINF:-1 tvg-name="超级体育" tvg-id="超级体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/超级体育.png" group-title="体育频道", 超级体育
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
+http://111.29.9.33:6610/000000001000/1000000004000007755/index.m3u8?channel-id=bestzb&Contentid=1000000004000007755&livemode=1&stbId=3
 --
-#EXTINF:-1 tvg-name="天元围棋" tvg-id="天元围棋" tvg-logo="https://live.zbds.top/logo/天元围棋.png" group-title="体育频道", 天元围棋
-http://120.76.248.139/live/bfgd/4200000633.m3u8
+#EXTINF:-1 tvg-name="魅力足球" tvg-id="魅力足球" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/魅力足球.png" group-title="体育频道", 魅力足球
+http://home.wwang.pw:35455/itv/5000000011000031207.m3u8?cdn=bestzb
+#EXTINF:-1 tvg-name="五星体育" tvg-id="五星体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/五星体育.png" group-title="体育频道", 五星体育
+http://36.105.100.208:35455/itv/5000000010000017540.m3u8?cdn=bestzb
+#EXTINF:-1 tvg-name="快乐垂钓" tvg-id="快乐垂钓" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/快乐垂钓.png" group-title="体育频道", 快乐垂钓
+http://180.213.174.225:9901/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="纬来体育" tvg-id="纬来体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/五星体育.png" group-title="体育频道", 纬来体育
+http://home.wwang.pw:35455/itv/5000000010000017540.m3u8?cdn=bestzb
 --
-#EXTINF:-1 tvg-name="快乐垂钓" tvg-id="快乐垂钓" tvg-logo="https://live.zbds.top/logo/快乐垂钓.png" group-title="体育频道", 快乐垂钓
-http://wouu.net:9977/udp/239.93.1.151:5140
---
-#EXTINF:-1 tvg-name="劲爆体育" tvg-id="劲爆体育" tvg-logo="https://live.zbds.top/logo/劲爆体育.png" group-title="体育频道", 劲爆体育
-http://36.105.100.208:35455/itv/5000000002000029972.m3u8?cdn=bestzb
---
-#EXTINF:-1 tvg-name="精品体育" tvg-id="精品体育" tvg-logo="https://live.zbds.top/logo/NEWTV精品体育.png" group-title="体育频道", 精品体育
-https://epg.pw/stream/f7556eccd4ae06b0c2991fdc7a4f8388496559f728cc82459a8e50346040e226.m3u8
-#EXTINF:-1 tvg-name="睛彩竞技" tvg-id="睛彩竞技" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/assets/logo/睛彩竞技.png" group-title="体育频道", 睛彩竞技
-http://83.229.120.192:50001/2000000003000000060/hnbblive/index.m3u8
-#EXTINF:-1 tvg-name="睛彩篮球" tvg-id="睛彩篮球" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/assets/logo/睛彩篮球.png" group-title="体育频道", 睛彩篮球
-http://83.229.120.192:50001/2000000003000000065/hnbblive/index.m3u8
-#EXTINF:-1 tvg-name="超级体育" tvg-id="超级体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/超级体育.png" group-title="体育频道", 超级体育
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
---
-#EXTINF:-1 tvg-name="辽宁体育" tvg-id="辽宁体育" tvg-logo="https://live.zbds.top/logo/辽宁体育.png" group-title="体育频道", 辽宁体育
-http://120.76.248.139/live/bfgd/4200000611.m3u8
---
-#EXTINF:-1 tvg-name="天元围棋" tvg-id="天元围棋" tvg-logo="https://live.zbds.top/logo/天元围棋.png" group-title="体育频道", 天元围棋
-http://120.76.248.139/live/bfgd/4200000633.m3u8
---
-#EXTINF:-1 tvg-name="快乐垂钓" tvg-id="快乐垂钓" tvg-logo="https://live.zbds.top/logo/快乐垂钓.png" group-title="体育频道", 快乐垂钓
-http://wouu.net:9977/udp/239.93.1.151:5140
-#EXTINF:-1 tvg-name="纬来体育" tvg-id="纬来体育" tvg-logo="https://live.zbds.top/logo/纬来体育.png" group-title="体育频道", 纬来体育
-https://epg.pw/stream/8855a9936e37e608a0ec8a014cce1673dee9c5d68d560da376cc92e5edef2b25.m3u8
---
-#EXTINF:-1 tvg-name="睛彩羽毛球" tvg-id="睛彩羽毛球" tvg-logo="https://live.zbds.top/logo/睛彩羽毛球.png" group-title="体育频道", 睛彩羽毛球
-http://drive.mxmy.net:8888/udp/239.3.1.127:8001
+#EXTINF:-1 tvg-name="山东体育" tvg-id="山东体育" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/山东体育.png" group-title="体育频道", 山东体育
+http://111.14.181.15:9901/tsfile/live/1022_1.m3u8
+#EXTINF:-1 tvg-name="广州竞赛" tvg-id="广州竞赛" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/广州竞赛.png" group-title="体育频道", 广州竞赛
+https://tencentplay.gztv.com/live/jingsai.m3u8?txSecret=a4d04c27d0d1d8b7efef2ed7ff1c3eae&txTime=191b60cc9ca
+#EXTINF:-1 tvg-name="睛彩广场舞" tvg-id="睛彩广场舞" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/睛彩广场舞.png" group-title="体育频道", 睛彩广场舞
+http://home.wwang.pw:35455/itv/2000000003000000062.m3u8?cdn=hnbblive
 --
 #EXTINF:-1 tvg-name="精品体育" tvg-id="" tvg-logo="https://raw.githubusercontent.com/qw1363673600/PNG/main/newtvcjty.png" group-title="体育频道", 精品体育
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225709/2/index.m3u8
