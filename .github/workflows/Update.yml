@@ -24,8 +24,8 @@ jobs:
 
     - name: Update
       run: |
-        chmod +x iptv_to_sql.sh;
-        bash -vvv ./iptv_to_sql.sh
+        chmod -R 755 scripts/*;
+        bash -vvv scripts/iptv_to_sql.sh
 
     - name: Clean
       run: |
