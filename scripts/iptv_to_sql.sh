@@ -1,14 +1,14 @@
 #!/bin/bash
-
+cd $(dirname $0);
 # 源
-> IPTV.m3u
+> ../IPTV.m3u
 
 while read line
 do
 
 src_name=`echo $line|awk '{print$1}'`
 src_url=`echo $line|awk '{print$2}'`
-wget ${src_url} -O ${src_name}.m3u;cat ${src_name}.m3u >> IPTV.m3u;rm -f ${src_name}.m3u;
+wget ${src_url} -O ${src_name}.m3u;cat ${src_name}.m3u >> ../IPTV.m3u;rm -f ${src_name}.m3u;
 
 
 done < iptv_src.list;
@@ -16,8 +16,8 @@ done < iptv_src.list;
 
 
 
-rm -rf IPTV;
-mkdir -p IPTV;cd IPTV
+rm -rf ../IPTV;
+mkdir -p ../IPTV;cd ../IPTV
 cat ../IPTV.m3u |grep 'group-title'|awk -F ',' '{print$1}'|awk '{print$NF}'|grep "^group"|sort|uniq|awk -F'"' '{print$2}'|xargs -i touch {}.m3u
 for i in `ls`; do group_name=`echo ${i}|awk -F '.' '{print$1}'`; grep -A 1 "${group_name}" ../IPTV.m3u > ${i}; done
 cd ../
