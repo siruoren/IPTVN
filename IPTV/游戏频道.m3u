@@ -2,16 +2,14 @@
 http://tvbox6.icu/tv/migu.php?id=yxfy
 #EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/游戏风云.png" group-title="🎮游戏频道",游戏风云
 http://home.wwang.pw:35455/itv/5000000011000031114.m3u8?cdn=bestzb
-#EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/游戏风云.png" group-title="🎮游戏频道",游戏风云
-http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0002&tk=f6cc1e0a0e1a
-#EXTINF:-1 tvg-name="电竞天堂" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/电竞天堂.png" group-title="🎮游戏频道",电竞天堂
-http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6056&tk=23a9aca1f79f
+#EXTINF:-1 tvg-name="海看电竞" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/海看电竞.png" group-title="🎮游戏频道",海看电竞
+http://139.129.231.228/rtp/239.21.1.135:5002
 --
 #EXTINF:-1 tvg-name="游戏风云" tvg-id="游戏风云" tvg-logo="https://live.zbds.top/logo/游戏风云.png" group-title="游戏频道", 游戏风云
-http://nas.hssvm.com:8888/udp/225.1.1.135:5002
+http://wouu.net:9977/udp/239.93.0.136:5140
 --
 #EXTINF:-1 tvg-name="游戏风云" tvg-id="游戏风云" tvg-logo="https://live.zbds.top/logo/游戏风云.png" group-title="游戏频道", 游戏风云
-http://nas.hssvm.com:8888/udp/225.1.1.135:5002
+http://wouu.net:9977/udp/239.93.0.136:5140
 --
 #EXTINF:-1 tvg-name="B站JJ斗地主" tvg-id="B站JJ斗地主" tvg-logo="https://live.zbds.top/logo/B站JJ斗地主.png" group-title="游戏频道", B站JJ斗地主
 http://dns.yiandrive.com:15907/bilibili/22021983
@@ -49,5 +47,7 @@ http://dns.yiandrive.com:15907/huya/660118
 http://dns.yiandrive.com:15907/huya/11718629
 #EXTINF:-1 tvg-name="虎牙和平精英" tvg-id="虎牙和平精英" tvg-logo="https://live.zbds.top/logo/虎牙和平精英.png" group-title="游戏频道", 虎牙和平精英
 http://dns.yiandrive.com:15907/huya/660006
+#EXTINF:-1 tvg-name="虎牙穿越火线" tvg-id="虎牙穿越火线" tvg-logo="https://live.zbds.top/logo/虎牙穿越火线.png" group-title="游戏频道", 虎牙穿越火线
+http://dns.yiandrive.com:15907/huya/660101
 #EXTINF:-1 tvg-name="虎牙穿越火线手游" tvg-id="虎牙穿越火线手游" tvg-logo="https://live.zbds.top/logo/虎牙穿越火线手游.png" group-title="游戏频道", 虎牙穿越火线手游
 http://dns.yiandrive.com:15907/huya/660102
