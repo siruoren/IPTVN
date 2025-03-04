@@ -23,7 +23,7 @@ for i in `ls`; do group_name=`echo ${i}|awk -F '.' '{print$1}'`; grep -A 1 "${gr
 cd ../
 # 节目源
 rm -f EPG.xml && wget https://epg.112114.xyz/pp.xml -O EPG.xml
-echo "Auto Update IPTV in ${{ steps.date.outputs.date }}" > README.md
+
 #iptv_to_sql
 
 

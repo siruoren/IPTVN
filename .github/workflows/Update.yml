@@ -29,6 +29,7 @@ jobs:
 
     - name: Clean
       run: |
+        echo "Auto Update IPTV at ${{ steps.date.outputs.date }}" > README.md
         git config --local user.email "actions@github.com"
         git config --local user.name "GitHub Actions"
         git add -A
