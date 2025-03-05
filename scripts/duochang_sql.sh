@@ -60,9 +60,10 @@ do
 	fi
 	
     echo "start check ${api_url}......"
-    response=$( curl -s -L --max-time 10 "$api_url"|grep key|grep name|wc -l)
+    response=$(curl -o /dev/null -L -s -w "%{http_code}" --max-time 10 "$api_url")
 
-    if [[ $response -gt 10  ]]; then
+    if [[ $response -ge 200 && $response -lt 400 ]]; then
+
       echo "URL is accessible"
 
       echo "INSERT into tvbox.tv_app_duocang(name, url, appid, status, status_dcjm) select '${api_name}','${api_url}','10000','y','n' where NOT EXISTS (SELECT 1 FROM tvbox.tv_app_duocang WHERE name = '${api_name}');" >> duochang_update.sqltmp
