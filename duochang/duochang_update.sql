@@ -1,5 +1,10 @@
 set character_set_server='utf8';
 UPDATE tvbox.tv_app SET appkey = 'bef838a270105a93935038c844192fd3' WHERE name = '群晖影视';
+INSERT into tvbox.tv_app_duocang(name, url, appid, status, status_dcjm) select 'm家庭线路','https://m.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=m','10000','y','n' where NOT EXISTS (SELECT 1 FROM tvbox.tv_app_duocang WHERE name = 'm家庭线路');
+INSERT into tvbox.tv_app_duocang(name, url, appid, status, status_dcjm) select 'm云盘线路','https://m.nxog.top/m/111.php?ou=公众号欧歌app&mz=all&jar=all&b=m','10000','y','n' where NOT EXISTS (SELECT 1 FROM tvbox.tv_app_duocang WHERE name = 'm云盘线路');
+INSERT into tvbox.tv_app_duocang(name, url, appid, status, status_dcjm) select 'm学习线路','https://m.nxog.top/m/111.php?ou=公众号欧歌app&mz=a3&jar=a3&b=m','10000','y','n' where NOT EXISTS (SELECT 1 FROM tvbox.tv_app_duocang WHERE name = 'm学习线路');
+INSERT into tvbox.tv_app_duocang(name, url, appid, status, status_dcjm) select '下面m收集网络线路','https://m.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&321&b=m','10000','y','n' where NOT EXISTS (SELECT 1 FROM tvbox.tv_app_duocang WHERE name = '下面m收集网络线路');
+INSERT into tvbox.tv_app_duocang(name, url, appid, status, status_dcjm) select 'm收集不分排名','https://m.nxog.top/m/333.php?ou=公众号欧歌app&mz=1&jar=all&b=m','10000','y','n' where NOT EXISTS (SELECT 1 FROM tvbox.tv_app_duocang WHERE name = 'm收集不分排名');
 INSERT into tvbox.tv_app_duocang(name, url, appid, status, status_dcjm) select '高天','https://wget.la/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json','10000','y','n' where NOT EXISTS (SELECT 1 FROM tvbox.tv_app_duocang WHERE name = '高天');
 INSERT into tvbox.tv_app_duocang(name, url, appid, status, status_dcjm) select '香雅情','https://wget.la/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json','10000','y','n' where NOT EXISTS (SELECT 1 FROM tvbox.tv_app_duocang WHERE name = '香雅情');
 INSERT into tvbox.tv_app_duocang(name, url, appid, status, status_dcjm) select 'qist_tvbox','https://wget.la/raw.githubusercontent.com/qist/tvbox/master/jsm.json','10000','y','n' where NOT EXISTS (SELECT 1 FROM tvbox.tv_app_duocang WHERE name = 'qist_tvbox');
