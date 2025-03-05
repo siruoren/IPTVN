@@ -81,7 +81,7 @@ if [ "${check_res}" -ne "0" ];then
 
   echo "set character_set_server='utf8';" >> duochang_update.sql;
   echo "UPDATE tvbox.tv_app SET appkey = 'bef838a270105a93935038c844192fd3' WHERE name = '群晖影视';" >> duochang_update.sql;
-  cat duochang_update.sqltmp >> duochang_update.sql;
+  cat duochang_update.sqltmp|sort|uniq >> duochang_update.sql;
 fi
   rm -f duochang_update.sqltmp;
 
