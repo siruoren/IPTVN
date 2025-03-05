@@ -1,6 +1,6 @@
 
 import urllib.request
-import simplejson as json
+import json
 import sys
 
 def main(url):
