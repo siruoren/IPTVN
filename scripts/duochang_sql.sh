@@ -6,13 +6,14 @@ echo "check duochang......"
 cd duochang;
 > duochang_update.sql;
 > duochang_update.sqltmp;
->duochang.listtmp;
+> duochang.listtmp;
 
 #duochangjuhe
 cat juhe.list|while read line;
 do
     api_name=`echo -n ${line}|awk '{print$1}'`
     api_url=`echo -n ${line}|awk '{print$2}'`
+    echo ${api_name} ${api_url}
     	if [ "${api_name}" == "" ] || [ "${api_url}" == "" ];then
 	   continue
 	fi
@@ -46,6 +47,7 @@ do
     fi
 done
 
+rm -f duochang.listtmp;
 
 
 cat api.list|while read line;
