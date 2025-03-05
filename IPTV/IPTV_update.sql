@@ -46,7 +46,7 @@ INSERT into tvbox.tv_channels(name,category,url) values('CCTV5','央视频道','
 INSERT into tvbox.tv_channels(name,category,url) values('CCTV5','央视频道','http://xn--tiq422d.xn--qoqw77q.top:8811/jump?url=http%3A%2F%2Fxn--tiq422d.xn--qoqw77q.top%3A8810%2Fgaoma%2Fcctv5p.m3u8');
 INSERT into tvbox.tv_channels(name,category,url) values('CCTV5','央视频道','http://goo.bkpcp.top/mg/cctv5p#rtsp://60.13.23.179/PLTV/88888910/224/3221225570/10000100000000060000000000107350_0.smil');
 INSERT into tvbox.tv_channels(name,category,url) values('CCTV5','央视频道','http://1.180.2.93:9901/tsfile/live/1027_1.m3u8');
-INSERT into tvbox.tv_channels(name,category,url) values('CCTV5','央视频道','http://z.b.bkpcp.top/m.php?id=cctv5p\');
+INSERT into tvbox.tv_channels(name,category,url) values('CCTV5','央视频道','http://z.b.bkpcp.top/m.php?id=cctv5p');
 INSERT into tvbox.tv_channels(name,category,url) values('CCTV5','央视频道','http://itv.uat.news:80/TVOD/1000000005000265016/ystenlive/index.m3u8');
 INSERT into tvbox.tv_channels(name,category,url) values('CCTV5','央视频道','http://120.198.101.106:9901/tsfile/live/1030_1.m3u8');
 INSERT into tvbox.tv_channels(name,category,url) values('CCTV5','央视频道','http://45.145.229.71:8866/TVOD/1000000001000020505/ystenlive/index.m3u8');
