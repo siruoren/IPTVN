@@ -1,5 +1,4 @@
 set character_set_server='utf8';
-UPDATE tvbox.tv_app SET appkey = 'bef838a270105a93935038c844192fd3' WHERE name = '群晖影视';
 INSERT into tvbox.tv_app_duocang(name, url, appid, status, status_dcjm) select 'OK影视','https://jsdelivr.pai233.top/gh/2hacc/TVBox@main/oktv.json','10000','y','n' where NOT EXISTS (SELECT 1 FROM tvbox.tv_app_duocang WHERE name = 'OK影视');
 INSERT into tvbox.tv_app_duocang(name, url, appid, status, status_dcjm) select 'OK线路','http://ok321.top/tv','10000','y','n' where NOT EXISTS (SELECT 1 FROM tvbox.tv_app_duocang WHERE name = 'OK线路');
 INSERT into tvbox.tv_app_duocang(name, url, appid, status, status_dcjm) select 'Ray','https://wget.la/https://raw.githubusercontent.com/dxawi/0/main/0.json','10000','y','n' where NOT EXISTS (SELECT 1 FROM tvbox.tv_app_duocang WHERE name = 'Ray');
@@ -24,12 +23,12 @@ INSERT into tvbox.tv_app_duocang(name, url, appid, status, status_dcjm) select '
 INSERT into tvbox.tv_app_duocang(name, url, appid, status, status_dcjm) select '开心软件','https://wget.la/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/天天开心/api.json','10000','y','n' where NOT EXISTS (SELECT 1 FROM tvbox.tv_app_duocang WHERE name = '开心软件');
 INSERT into tvbox.tv_app_duocang(name, url, appid, status, status_dcjm) select '影视仓','http://影视仓.com','10000','y','n' where NOT EXISTS (SELECT 1 FROM tvbox.tv_app_duocang WHERE name = '影视仓');
 INSERT into tvbox.tv_app_duocang(name, url, appid, status, status_dcjm) select '懒人线路','http://175.178.251.183:6689/tv.txt','10000','y','n' where NOT EXISTS (SELECT 1 FROM tvbox.tv_app_duocang WHERE name = '懒人线路');
+INSERT into tvbox.tv_app_duocang(name, url, appid, status, status_dcjm) select '欧歌','https://xn--tkh-mf3g9f.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌tkh','10000','y','n' where NOT EXISTS (SELECT 1 FROM tvbox.tv_app_duocang WHERE name = '欧歌');
 INSERT into tvbox.tv_app_duocang(name, url, appid, status, status_dcjm) select '欧歌线路','http://o.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌','10000','y','n' where NOT EXISTS (SELECT 1 FROM tvbox.tv_app_duocang WHERE name = '欧歌线路');
 INSERT into tvbox.tv_app_duocang(name, url, appid, status, status_dcjm) select '盒子迷','https://盒子迷.top/春盈天下','10000','y','n' where NOT EXISTS (SELECT 1 FROM tvbox.tv_app_duocang WHERE name = '盒子迷');
 INSERT into tvbox.tv_app_duocang(name, url, appid, status, status_dcjm) select '短剧大全','http://74.120.175.78/JK/XYQTVBox/dj.json','10000','y','n' where NOT EXISTS (SELECT 1 FROM tvbox.tv_app_duocang WHERE name = '短剧大全');
 INSERT into tvbox.tv_app_duocang(name, url, appid, status, status_dcjm) select '老刘线路','https://github.moeyy.xyz/https://raw.githubusercontent.com/liu673cn/box/main/m.json','10000','y','n' where NOT EXISTS (SELECT 1 FROM tvbox.tv_app_duocang WHERE name = '老刘线路');
 INSERT into tvbox.tv_app_duocang(name, url, appid, status, status_dcjm) select '肥猫','http://肥猫.com','10000','y','n' where NOT EXISTS (SELECT 1 FROM tvbox.tv_app_duocang WHERE name = '肥猫');
-INSERT into tvbox.tv_app_duocang(name, url, appid, status, status_dcjm) select '胖虎','https://notabug.org/imbig66/tv-spider-man/raw/master/配置/0801.json','10000','y','n' where NOT EXISTS (SELECT 1 FROM tvbox.tv_app_duocang WHERE name = '胖虎');
 INSERT into tvbox.tv_app_duocang(name, url, appid, status, status_dcjm) select '讴歌','http://tv.nxog.top/m','10000','y','n' where NOT EXISTS (SELECT 1 FROM tvbox.tv_app_duocang WHERE name = '讴歌');
 INSERT into tvbox.tv_app_duocang(name, url, appid, status, status_dcjm) select '讴歌线路','http://tv.nxog.top/m/111.php?ou=公众号欧歌','10000','y','n' where NOT EXISTS (SELECT 1 FROM tvbox.tv_app_duocang WHERE name = '讴歌线路');
 INSERT into tvbox.tv_app_duocang(name, url, appid, status, status_dcjm) select '采集之王','https://wget.la/https://raw.githubusercontent.com/jiushizhe/daozhang/main/drpy_dzlive6.21/index.json','10000','y','n' where NOT EXISTS (SELECT 1 FROM tvbox.tv_app_duocang WHERE name = '采集之王');
