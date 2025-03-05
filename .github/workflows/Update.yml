@@ -26,6 +26,7 @@ jobs:
       run: |
         chmod -R 755 scripts/*;
         bash -vvv scripts/iptv_to_sql.sh
+        bash -vvv scripts/duochang_sql.sh
 
     - name: Clean
       run: |
