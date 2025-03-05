@@ -6,6 +6,48 @@ echo "check duochang......"
 cd duochang;
 > duochang_update.sql;
 > duochang_update.sqltmp;
+>duochang.listtmp;
+
+#duochangjuhe
+cat juhe.list|while read line;
+do
+    api_name=`echo -n ${line}|awk '{print$1}'`
+    api_url=`echo -n ${line}|awk '{print$2}'`
+    	if [ "${api_name}" == "" ] || [ "${api_url}" == "" ];then
+	   continue
+	fi
+    curl -s -L --max-time 10 ${api_url} |grep 'url'|grep name|awk -F'":' '{print$3" " $2}' |sed 's/"//g'|sed 's/},//g'|sed 's/,name//g' >>duochang.listtmp;
+
+
+done
+
+
+cat duochang.listtmp|while read line;
+do
+    api_name=`echo -n ${line}|awk '{print$1}'|sed 's/[^[:alpha:]]//g'`
+    api_url=`echo -n ${line}|awk '{print$2}'`
+	
+	if [ "${api_name}" == "" ] || [ "${api_url}" == "" ];then
+	   continue
+	fi
+	
+    echo "start check ${api_url}......"
+    response=$( curl -s -L --max-time 10 "$api_url"|grep key|grep name|wc -l)
+
+    if [[ $response -gt 10  ]]; then
+      echo "URL is accessible"
+
+      echo "INSERT into tvbox.tv_app_duocang(name, url, appid, status, status_dcjm) select '${api_name}','${api_url}','10000','y','n' where NOT EXISTS (SELECT 1 FROM tvbox.tv_app_duocang WHERE name = '${api_name}');" >> duochang_update.sqltmp
+
+
+
+    else
+      echo "URL is unaccessible,ignore update"
+    fi
+done
+
+
+
 cat api.list|while read line;
 do
     api_name=`echo -n ${line}|awk '{print$1}'`
@@ -39,7 +81,6 @@ if [ "${check_res}" -ne "0" ];then
   cat duochang_update.sqltmp >> duochang_update.sql;
 fi
   rm -f duochang_update.sqltmp;
+
+
 cd ../;
-
-
-
