@@ -17,7 +17,7 @@ do
     	if [ "${api_name}" == "" ] || [ "${api_url}" == "" ];then
 	   continue
 	fi
-    curl -s -L --max-time 10 ${api_url} |grep 'url'|grep name|awk -F'":' '{print$3" " $2}' |sed 's/"//g'|sed 's/},//g'|sed 's/,name//g' >>duochang.listtmp;
+    python ../scripts/analyse_json.py ${api_url}  >>duochang.listtmp;
 
 
 done
