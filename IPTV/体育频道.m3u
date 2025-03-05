@@ -264,14 +264,11 @@ https://lunbo.freetv.top/douyu/488743
 #EXTINF:-1 tvg-name="CCTV央视台球" tvg-id="CCTV央视台球" tvg-logo="https://live.zbds.top/logo/CCTV央视台球.png" group-title="体育频道", CCTV央视台球
 http://itv.uat.news:80/TVOD/1000000006000270006/ystenlive/index.m3u8
 --
-#EXTINF:-1 tvg-name="天元围棋" tvg-id="天元围棋" tvg-logo="https://live.zbds.top/logo/天元围棋.png" group-title="体育频道", 天元围棋
-http://120.76.248.139/live/bfgd/4200000633.m3u8
---
 #EXTINF:-1 tvg-name="CCTV央视台球" tvg-id="CCTV央视台球" tvg-logo="https://live.zbds.top/logo/CCTV央视台球.png" group-title="体育频道", CCTV央视台球
 http://itv.uat.news:80/TVOD/1000000006000270006/ystenlive/index.m3u8
 --
-#EXTINF:-1 tvg-name="劲爆体育" tvg-id="劲爆体育" tvg-logo="http://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/劲爆体育.png" group-title="体育频道", 劲爆体育
-http://120.238.94.82:9901/tsfile/live/1086_1.m3u8
+#EXTINF:-1 tvg-name="劲爆体育" tvg-id="劲爆体育" tvg-logo="https://live.zbds.top/logo/劲爆体育.png" group-title="体育频道", 劲爆体育
+http://150.230.250.89:50001/TVOD/5000000002000029972/bestzb/index.m3u8
 #EXTINF:-1 tvg-name="五星体育" tvg-id="五星体育" tvg-logo="http://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/五星体育.png" group-title="体育频道", 五星体育
 http://live.xmcdn.com/live/57/64.m3u8
 #EXTINF:-1 tvg-name="精品体育" tvg-id="精品体育" tvg-logo="https://live.zbds.top/logo/NEWTV精品体育.png" group-title="体育频道", 精品体育
@@ -297,9 +294,9 @@ http://dassby.qqff.top:99/live/快乐垂钓/index.m3u8
 http://aktv_stream1.m16tv.cfd/stream/aktv3/null-1/AKTV.m3u8
 --
 #EXTINF:-1 tvg-name="iHOT爱体育" tvg-id="iHOT爱体育" tvg-logo="https://live.zbds.top/logo/IHOT爱体育.png" group-title="体育频道", iHOT爱体育
-http://111.119.250.248:50001/TVOD/2000000004000000060/hnbblive/index.m3u8
+http://34.81.243.214:50001/TVOD/2000000004000000060/hnbblive/index.m3u8
 #EXTINF:-1 tvg-name="体育赛事" tvg-id="体育赛事" tvg-logo="http://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/体育赛事.png" group-title="体育频道", 体育赛事
-http://3501776.xyz:35455/gaoma/cctv5p.m3u8
+http://120.238.94.82:9901/tsfile/live/1031_1.m3u8
 #EXTINF:-1 tvg-name="爱体育" tvg-id="爱体育" tvg-logo="http://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/爱体育.png" group-title="体育频道", 爱体育
 http://103.235.18.223:50001/TVOD/6000000006000290630/wasusyt/index.m3u8
 #EXTINF:-1 tvg-name="睛彩羽毛球" tvg-id="睛彩羽毛球" tvg-logo="https://live.zbds.top/logo/睛彩羽毛球.png" group-title="体育频道", 睛彩羽毛球
