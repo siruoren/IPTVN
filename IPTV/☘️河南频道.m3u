@@ -1,9 +1,5 @@
 #EXTINF:-1 tvg-name="梨园" tvg-logo="http://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/梨园.png" group-title="☘️河南频道",梨园
-https://www.shqsy.com/tv/zb/hndx.php?id=hnly
-#EXTINF:-1 tvg-name="梨园" tvg-logo="http://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/梨园.png" group-title="☘️河南频道",梨园
-http://dassby.qqff.top:99/live/梨园/index.m3u8
-#EXTINF:-1 tvg-name="梨园" tvg-logo="http://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/梨园.png" group-title="☘️河南频道",梨园
-http://live.dxhmt.cn:9080/19903718786/3159ec673c114135816d45dd52ad7396.m3u8?
+http://live.dxhmt.cn:9081/tv/11122-1.m3u8#http://tvpull.dxhmt.cn:9081/tv/11122-1.m3u8
 #EXTINF:-1 tvg-name="梨园" tvg-logo="http://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/梨园.png" group-title="☘️河南频道",梨园
 http://61.163.181.78:9901/tsfile/live/1006_1.m3u8
 #EXTINF:-1 tvg-name="梨园" tvg-logo="http://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/梨园.png" group-title="☘️河南频道",梨园
@@ -18,6 +14,10 @@ rtsp://118.212.169.207:554/PLTV/88888888/224/3221227267/100001000000000600000000
 rtsp://115.153.245.70/PLTV/88888888/224/3221226822/59781815.smil
 #EXTINF:-1 tvg-name="梨园" tvg-logo="http://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/梨园.png" group-title="☘️河南频道",梨园
 rtsp://115.153.254.81/PLTV/88888888/224/3221226822/59781815.smil
+#EXTINF:-1 tvg-name="梨园" tvg-logo="http://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/梨园.png" group-title="☘️河南频道",梨园
+rtsp://115.153.240.228:554/PLTV/88888888/224/3221226822/59781815.smil
+#EXTINF:-1 tvg-name="梨园" tvg-logo="http://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/梨园.png" group-title="☘️河南频道",梨园
+rtsp://115.153.212.72/PLTV/88888888/224/3221226822/59781815.smil
 #EXTINF:-1 tvg-name="临颍综合" tvg-logo="http://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/临颍综合.png" group-title="☘️河南频道",临颍综合
 http://live.dxhmt.cn:9081/tv/11122-1.m3u8#http://tvpull.dxhmt.cn:9081/tv/11122-1.m3u8
 #EXTINF:-1 tvg-name="义马新闻综合" tvg-logo="http://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/义马新闻综合.png" group-title="☘️河南频道",义马新闻综合
@@ -74,6 +74,8 @@ http://live.dxhmt.cn:9081/tv/11625-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E
 http://live.dxhmt.cn:9081/tv/11024-1.m3u8#http://tvpull.dxhmt.cn:9081/tv/11024-1.m3u8
 #EXTINF:-1 tvg-name="项城新闻" tvg-logo="http://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/项城新闻.png" group-title="☘️河南频道",项城新闻
 http://live.dxhmt.cn:9081/tv/11681-1.m3u8#http://tvpull.dxhmt.cn:9081/tv/11681-1.m3u8
+#EXTINF:-1 tvg-name="项城新闻" tvg-logo="http://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/项城新闻.png" group-title="☘️河南频道",项城新闻
+https://play-hsbj.vzan.com/978354/446938712125478466/live.m3u8?zbid=978354&tpid=1651937429#@http://tvpull.dxhmt.cn:9081/tv/11681-1.m3u8#@http://live.dxhmt.cn:9081/tv/11681-1.m3u8
 #EXTINF:-1 tvg-name="邓州新闻" tvg-logo="http://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/邓州新闻.png" group-title="☘️河南频道",邓州新闻
 http://live.dxhmt.cn:9081/tv/11381-1.m3u8#http://tvpull.dxhmt.cn:9081/tv/11381-1.m3u8?zhend#http://tvpull.dxhmt.cn:9081/tv/11381-1.m3u8
 #EXTINF:-1 tvg-name="荥阳综合" tvg-logo="http://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/荥阳综合.png" group-title="☘️河南频道",荥阳综合
@@ -87,21 +89,15 @@ http://live.dxhmt.cn:9081/tv/19001-1.m3u8
 #EXTINF:-1 tvg-name="洛阳综合" tvg-logo="http://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/洛阳综合.png" group-title="☘️河南频道",洛阳综合
 https://wshlslive.migucloud.com/live/6AL7GTQX_C0/playlist.m3u8
 #EXTINF:-1 tvg-name="洛阳综合" tvg-logo="http://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/洛阳综合.png" group-title="☘️河南频道",洛阳综合
-https://ls.qingting.fm/live/1225/64k.m3u8
-#EXTINF:-1 tvg-name="洛阳综合" tvg-logo="http://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/洛阳综合.png" group-title="☘️河南频道",洛阳综合
 http://live.xmcdn.com/live/491/64.m3u8
+#EXTINF:-1 tvg-name="洛阳综合" tvg-logo="http://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/洛阳综合.png" group-title="☘️河南频道",洛阳综合
+https://ls.qingting.fm/live/1225/64k.m3u8
 #EXTINF:-1 tvg-name="洛阳科教" tvg-logo="http://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/洛阳科教.png" group-title="☘️河南频道",洛阳科教
 https://wshlslive.migucloud.com/live/RJ0EYBCZ_C0/playlist.m3u8
 #EXTINF:-1 tvg-name="洛阳文旅" tvg-logo="http://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/洛阳文旅.png" group-title="☘️河南频道",洛阳文旅
 https://wshlslive.migucloud.com/live/CVN934JS_C0/playlist.m3u8
 #EXTINF:-1 tvg-name="河南都市" tvg-logo="http://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/河南都市.png" group-title="☘️河南频道",河南都市
-http://zzssw01.55555.io:9901/tsfile/live/1002_1.m3u8
-#EXTINF:-1 tvg-name="河南都市" tvg-logo="http://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/河南都市.png" group-title="☘️河南频道",河南都市
-https://www.shqsy.com/tv/zb/hndx.php?id=hnds
-#EXTINF:-1 tvg-name="河南都市" tvg-logo="http://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/河南都市.png" group-title="☘️河南频道",河南都市
 http://61.163.181.78:9901/tsfile/live/1004_1.m3u8
-#EXTINF:-1 tvg-name="河南民生" tvg-logo="http://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/河南民生.png" group-title="☘️河南频道",河南民生
-https://www.shqsy.com/tv/zb/hndx.php?id=hnms
 #EXTINF:-1 tvg-name="河南民生" tvg-logo="http://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/河南民生.png" group-title="☘️河南频道",河南民生
 http://61.163.181.78:85/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="沁阳新闻综合" tvg-logo="http://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/沁阳新闻综合.png" group-title="☘️河南频道",沁阳新闻综合
