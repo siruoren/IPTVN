@@ -27687,6 +27687,9 @@
 	<programme channel="咪咕综合体育" start="20250306191000 +0800" stop="20250306205000 +0800">
 		<title lang="zh">足球世界-24/25赛季亚冠精英联赛 东亚区 1/8决赛首回合 上海海港-横滨水手</title>
 	</programme>
+	<programme channel="咪咕综合体育" start="20250306210000 +0800" stop="20250306212500 +0800">
+		<title lang="zh">欧陆足球版图</title>
+	</programme>
 	<channel id="咪咕足球">
 		<display-name lang="zh">咪咕足球</display-name>
 	</channel>
@@ -79131,6 +79134,9 @@
 	<programme channel="黑莓动画" start="20250306204000 +0800" stop="20250306205300 +0800">
 		<title lang="zh">21_托宝战士之银河侦探1</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250306210100 +0800" stop="20250306210800 +0800">
+		<title lang="zh">03_联盟破裂</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -80115,6 +80121,9 @@
 	<programme channel="newtv超级综艺" start="20250306193000 +0800" stop="20250306205200 +0800">
 		<title lang="zh">星光大道—这一站星光</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250306205200 +0800" stop="20250306214800 +0800">
+		<title lang="zh">我的艺术清单</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -81033,6 +81042,9 @@
 	<programme channel="newtv怡伴健康" start="20250306200800 +0800" stop="20250306205600 +0800">
 		<title lang="zh">辽宁智慧斗vs北京东炸团 第1局</title>
 	</programme>
+	<programme channel="newtv怡伴健康" start="20250306205600 +0800" stop="20250306213300 +0800">
+		<title lang="zh">辽宁智慧斗vs北京东炸团 第2局</title>
+	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
 	</channel>
@@ -81110,6 +81122,9 @@
 	</programme>
 	<programme channel="newtv潮妈辣婆" start="20250306201500 +0800" stop="20250306210100 +0800">
 		<title lang="zh">04_六姊妹</title>
+	</programme>
+	<programme channel="newtv潮妈辣婆" start="20250306210100 +0800" stop="20250306214600 +0800">
+		<title lang="zh">05_六姊妹</title>
 	</programme>
 	<channel id="newtv军事评论">
 		<display-name lang="zh">NEWTV军事评论</display-name>
@@ -81243,6 +81258,9 @@
 	<programme channel="newtv军事评论" start="20250306203000 +0800" stop="20250306205600 +0800">
 		<title lang="zh">打卡机务摇篮博物馆</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250306205600 +0800" stop="20250306212300 +0800">
+		<title lang="zh">川黔红色游记</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -81329,6 +81347,9 @@
 	</programme>
 	<programme channel="newtv炫舞未来" start="20250306201200 +0800" stop="20250306210100 +0800">
 		<title lang="zh">返乡任教将自己的钢琴搬进教室 只为让孩子们爱上唱歌（20231214）</title>
+	</programme>
+	<programme channel="newtv炫舞未来" start="20250306210100 +0800" stop="20250306215100 +0800">
+		<title lang="zh">生活服务</title>
 	</programme>
 	<channel id="newtv精品综合">
 		<display-name lang="zh">NEWTV精品综合</display-name>
