@@ -1,5 +1,4 @@
 set character_set_server='utf8';
-TRUNCATE table tvbox.tv_channels;
 INSERT into tvbox.tv_channels(name,category,url) values('default', 'default', 'default');
 SELECT SLEEP(5);
 INSERT  into tvbox.tv_category(name,enable,type) (select '央视频道','1','default' from tvbox.tv_category where not EXISTS (SELECT name from tvbox.tv_category WHERE name='央视频道')limit 1);
