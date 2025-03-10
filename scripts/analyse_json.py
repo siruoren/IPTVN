@@ -7,7 +7,7 @@ def main(url,type):
     response = urllib.request.urlopen(url)
     data = json.load(response)
     if type == 'sum':
-        duochang_file=with.open('duochang.json','a+w')
+        duochang_file= open('duochang.json','a+w')
         sum_data = json.load(duochang_file)
         for list in data['urls']:
             sum_data['urls'].append(list)
