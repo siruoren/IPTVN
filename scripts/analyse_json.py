@@ -7,7 +7,6 @@ def main(url):
 
     response = urllib.request.urlopen(url)
     data = json.load(response)
-    sum_data = json.load(duochang_file)
     for list in data['urls']:
         print(list['name']+ ' ' + list['url'])
 
