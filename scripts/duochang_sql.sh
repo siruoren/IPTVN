@@ -23,7 +23,7 @@ do
 done
 
 
-cat duochang.listtmp|while read line;
+cat duochang.listtmp|sort|uniq|while read line;
 do
     api_name=`echo -n ${line}|awk '{print$1}'|sed 's/[^[:alpha:]]//g'`
     api_url=`echo -n ${line}|awk '{print$2}'`
