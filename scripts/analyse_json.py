@@ -3,13 +3,20 @@ import urllib.request
 import json
 import sys
 
-def main(url):
+def main(url,type):
     response = urllib.request.urlopen(url)
     data = json.load(response)
-
-    for list in data['urls']:
-        print(list['name']+ ' ' + list['url'])
+    if type == 'sum':
+        duochang_file=with.open('duochang.json','a+w')
+        sum_data = json.load(duochang_file)
+        for list in data['urls']:
+            sum_data['urls'].append(list)
+        duochang_file.close()
+    else if type == 'add':
+        for list in data['urls']:
+            print(list['name']+ ' ' + list['url'])
 
 
 item=sys.argv[1]
-main(item)
+type=sys.argv[2]
+main(item,type)

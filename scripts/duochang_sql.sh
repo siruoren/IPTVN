@@ -17,7 +17,9 @@ do
     	if [ "${api_name}" == "" ] || [ "${api_url}" == "" ];then
 	   continue
 	fi
-    python ../scripts/analyse_json.py ${api_url}  >>duochang.listtmp;
+    > duochang.json;
+    python ../scripts/analyse_json.py ${api_url} 'sum'
+    python ../scripts/analyse_json.py ${api_url} 'add' >>duochang.listtmp;
 
 
 done
@@ -47,7 +49,7 @@ do
     fi
 done
 
-## rm -f duochang.listtmp;
+ rm -f duochang.listtmp;
 
 
 cat api.list|while read line;
