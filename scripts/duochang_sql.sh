@@ -47,7 +47,7 @@ do
     fi
 done
 
-rm -f duochang.listtmp;
+## rm -f duochang.listtmp;
 
 
 cat api.list|while read line;
