@@ -1290,6 +1290,9 @@
 	<programme channel="4K综艺" start="20250310153200 +0800" stop="20250310164100 +0800">
 		<title lang="zh">小小的追球20200204</title>
 	</programme>
+	<programme channel="4K综艺" start="20250310164100 +0800" stop="20250310174200 +0800">
+		<title lang="zh">小小的追球20200205</title>
+	</programme>
 	<channel id="4K美食">
 		<display-name lang="zh">4K美食</display-name>
 	</channel>
@@ -36408,6 +36411,9 @@
 	<programme channel="惊悚悬疑" start="20250310150900 +0800" stop="20250310163700 +0800">
 		<title lang="zh">索命暹罗之按摩师</title>
 	</programme>
+	<programme channel="惊悚悬疑" start="20250310163700 +0800" stop="20250310172500 +0800">
+		<title lang="zh">（券）头号海即食海参超值品质组-渠道（右）</title>
+	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
 	</channel>
@@ -39008,6 +39014,9 @@
 	</programme>
 	<programme channel="明星大片" start="20250310155200 +0800" stop="20250310163600 +0800">
 		<title lang="zh">03_婚内婚外</title>
+	</programme>
+	<programme channel="明星大片" start="20250310163600 +0800" stop="20250310172700 +0800">
+		<title lang="zh">04_婚内婚外</title>
 	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
@@ -55043,6 +55052,9 @@
 	</programme>
 	<programme channel="爱情喜剧" start="20250310152400 +0800" stop="20250310164300 +0800">
 		<title lang="zh">枪神赵子龙</title>
+	</programme>
+	<programme channel="爱情喜剧" start="20250310164300 +0800" stop="20250310173300 +0800">
+		<title lang="zh">康企半导体激光治疗仪买一送一特惠组（赠送益生菌敖东）-渠道（右）</title>
 	</programme>
 	<channel id="爱看导视">
 		<display-name lang="zh">爱看导视</display-name>
@@ -75528,6 +75540,9 @@
 	<programme channel="newtv超级综艺" start="20250310150700 +0800" stop="20250310164700 +0800">
 		<title lang="zh">开播吧！国潮</title>
 	</programme>
+	<programme channel="newtv超级综艺" start="20250310164700 +0800" stop="20250310180400 +0800">
+		<title lang="zh">非常6+1</title>
+	</programme>
 	<channel id="newtv超级体育">
 		<display-name lang="zh">NEWTV超级体育</display-name>
 	</channel>
@@ -75678,6 +75693,9 @@
 	<programme channel="newtv超级电视剧" start="20250310155600 +0800" stop="20250310164500 +0800">
 		<title lang="zh">01_大奉打更人</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250310164500 +0800" stop="20250310173200 +0800">
+		<title lang="zh">02_大奉打更人</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -75822,6 +75840,9 @@
 	<programme channel="newtv精品纪录" start="20250310155900 +0800" stop="20250310164200 +0800">
 		<title lang="zh">第2集：求是</title>
 	</programme>
+	<programme channel="newtv精品纪录" start="20250310164200 +0800" stop="20250310170600 +0800">
+		<title lang="zh">03_共生</title>
+	</programme>
 	<channel id="newtv古装剧场">
 		<display-name lang="zh">NEWTV古装剧场</display-name>
 	</channel>
@@ -75884,6 +75905,9 @@
 	</programme>
 	<programme channel="newtv古装剧场" start="20250310154700 +0800" stop="20250310163300 +0800">
 		<title lang="zh">32_九重紫</title>
+	</programme>
+	<programme channel="newtv古装剧场" start="20250310163300 +0800" stop="20250310171800 +0800">
+		<title lang="zh">33_九重紫</title>
 	</programme>
 	<channel id="newtv军旅剧场">
 		<display-name lang="zh">NEWTV军旅剧场</display-name>
@@ -76074,6 +76098,9 @@
 	<programme channel="newtv热播精选" start="20250310154000 +0800" stop="20250310163100 +0800">
 		<title lang="zh">08_前夜</title>
 	</programme>
+	<programme channel="newtv热播精选" start="20250310163100 +0800" stop="20250310171000 +0800">
+		<title lang="zh">轻姿细美保健贴-渠道（右）</title>
+	</programme>
 	<channel id="newtv爱情喜剧">
 		<display-name lang="zh">NEWTV爱情喜剧</display-name>
 	</channel>
@@ -76127,6 +76154,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20250310152400 +0800" stop="20250310164300 +0800">
 		<title lang="zh">枪神赵子龙</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20250310164300 +0800" stop="20250310173300 +0800">
+		<title lang="zh">康企半导体激光治疗仪买一送一特惠组（赠送益生菌敖东）-渠道（右）</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -76392,6 +76422,9 @@
 	<programme channel="newtv军事评论" start="20250310161700 +0800" stop="20250310163800 +0800">
 		<title lang="zh">台自制潜艇“海鲲”号闹剧</title>
 	</programme>
+	<programme channel="newtv军事评论" start="20250310163800 +0800" stop="20250310170000 +0800">
+		<title lang="zh">美军公布多款新型制导武器</title>
+	</programme>
 	<channel id="newtv炫舞未来">
 		<display-name lang="zh">NEWTV炫舞未来</display-name>
 	</channel>
@@ -76533,6 +76566,9 @@
 	<programme channel="newtv精品综合" start="20250310155200 +0800" stop="20250310163600 +0800">
 		<title lang="zh">03_婚内婚外</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20250310163600 +0800" stop="20250310172700 +0800">
+		<title lang="zh">04_婚内婚外</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -76574,6 +76610,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20250310150900 +0800" stop="20250310163700 +0800">
 		<title lang="zh">索命暹罗之按摩师</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250310163700 +0800" stop="20250310172500 +0800">
+		<title lang="zh">（券）头号海即食海参超值品质组-渠道（右）</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
