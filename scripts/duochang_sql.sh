@@ -18,7 +18,6 @@ do
 	   continue
 	fi
     > duochang.json;
-    python ../scripts/analyse_json.py ${api_url} 'sum'
     python ../scripts/analyse_json.py ${api_url} 'add' >>duochang.listtmp;
 
 
