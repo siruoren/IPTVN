@@ -17,7 +17,6 @@ do
     	if [ "${api_name}" == "" ] || [ "${api_url}" == "" ];then
 	   continue
 	fi
-    > duochang.json;
     python ../scripts/analyse_json.py ${api_url} 'add' >>duochang.listtmp;
 
 
