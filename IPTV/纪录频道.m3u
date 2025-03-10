@@ -1,11 +1,20 @@
 #EXTINF:-1 tvg-name="求索动物" tvg-id="求索动物" tvg-logo="https://live.zbds.top/logo/求索动物.png" group-title="纪录频道", 求索动物
-http://47.84.87.22:6016/TVOD/6000000002000010046/wasusyt/index.m3u8
+http://189.1.232.104:50001/6000000002000010046/wasusyt/index.m3u8
 #EXTINF:-1 tvg-name="求索纪录" tvg-id="求索纪录" tvg-logo="https://live.zbds.top/logo/求索纪录.png" group-title="纪录频道", 求索纪录
 http://36.134.80.169:8833/TVOD/6000000002000032052/wasusyt/index.m3u8
 #EXTINF:-1 tvg-name="求索科学" tvg-id="求索科学" tvg-logo="https://live.zbds.top/logo/求索科学.png" group-title="纪录频道", 求索科学
 http://189.1.232.104:50001/6000000002000032344/wasusyt/index.m3u8
 #EXTINF:-1 tvg-name="求索生活" tvg-id="求索生活" tvg-logo="https://live.zbds.top/logo/求索生活.png" group-title="纪录频道", 求索生活
-http://36.134.80.169:8833/TVOD/6000000002000003382/wasusyt/index.m3u8
+http://8.209.196.123:32768/6000000002000003382/wasusyt/index.m3u8
+--
+#EXTINF:-1 tvg-name="求索动物" tvg-id="求索动物" tvg-logo="https://live.zbds.top/logo/求索动物.png" group-title="纪录频道", 求索动物
+http://189.1.232.104:50001/6000000002000010046/wasusyt/index.m3u8
+#EXTINF:-1 tvg-name="求索纪录" tvg-id="求索纪录" tvg-logo="https://live.zbds.top/logo/求索纪录.png" group-title="纪录频道", 求索纪录
+http://36.134.80.169:8833/TVOD/6000000002000032052/wasusyt/index.m3u8
+#EXTINF:-1 tvg-name="求索科学" tvg-id="求索科学" tvg-logo="https://live.zbds.top/logo/求索科学.png" group-title="纪录频道", 求索科学
+http://189.1.232.104:50001/6000000002000032344/wasusyt/index.m3u8
+#EXTINF:-1 tvg-name="求索生活" tvg-id="求索生活" tvg-logo="https://live.zbds.top/logo/求索生活.png" group-title="纪录频道", 求索生活
+http://8.209.196.123:32768/6000000002000003382/wasusyt/index.m3u8
 #EXTINF:-1 tvg-name="Discovery" tvg-id="Discovery" tvg-logo="https://live.zbds.top/logo/Discovery.png" group-title="纪录频道", Discovery
 http://ott.watch/stream/E9LDH2ZCN7/146.m3u8
 #EXTINF:-1 tvg-name="航拍中国第一季" tvg-id="航拍中国第一季" tvg-logo="https://live.zbds.top/logo/航拍中国第一季.png" group-title="纪录频道", 航拍中国第一季
@@ -14,11 +23,9 @@ http://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/8edf3fb6a69148ea9a7
 http://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/2bdfdad540b342f592f9817cb7f3b79a/4000.m3u8
 --
 #EXTINF:-1 tvg-name="求索动物" tvg-id="求索动物" tvg-logo="https://live.zbds.top/logo/求索动物.png" group-title="纪录频道", 求索动物
-http://47.84.87.22:6016/TVOD/6000000002000010046/wasusyt/index.m3u8
-#EXTINF:-1 tvg-name="求索纪录" tvg-id="求索纪录" tvg-logo="https://live.zbds.top/logo/求索纪录.png" group-title="纪录频道", 求索纪录
-http://36.134.80.169:8833/TVOD/6000000002000032052/wasusyt/index.m3u8
+http://189.1.232.104:50001/6000000002000010046/wasusyt/index.m3u8
 #EXTINF:-1 tvg-name="求索生活" tvg-id="求索生活" tvg-logo="https://live.zbds.top/logo/求索生活.png" group-title="纪录频道", 求索生活
-http://36.134.80.169:8833/TVOD/6000000002000003382/wasusyt/index.m3u8
+http://8.209.196.123:32768/6000000002000003382/wasusyt/index.m3u8
 --
 #EXTINF:-1 tvg-name="中国党员教育" tvg-id="中国党员教育" tvg-logo="https://live.zbds.top/logo/中国党员教育.png" group-title="纪录频道", 中国党员教育
 http://12371ksc.v.kcdnvip.com/12371/dangyuanwang_1/index.m3u8
@@ -52,8 +59,6 @@ http://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/51d937a0201f4c78a5878
 http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/81a1ad3a661748bfb8560c92d38204ca/1200.m3u8
 #EXTINF:-1 tvg-name="鄂托克旗电视台" tvg-id="鄂托克旗电视台" tvg-logo="https://live.zbds.top/logo/鄂托克旗电视台.png" group-title="纪录频道", 鄂托克旗电视台
 http://110.19.181.138:10080/hls/F509Rh7GR/F509Rh7GR_live.m3u8?zneimd
-#EXTINF:-1 tvg-name="长白山电视台" tvg-id="长白山电视台" tvg-logo="https://live.zbds.top/logo/长白山电视台.png" group-title="纪录频道", 长白山电视台
-http://stream8.jlntv.cn/cbstv/sd/live.m3u8?zjild
 #EXTINF:-1 tvg-name="飞碟之谜01" tvg-id="飞碟之谜01" tvg-logo="https://live.zbds.top/logo/飞碟之谜01.png" group-title="纪录频道", 飞碟之谜01
 https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/f0a47e155d32450daa1d36a04fd7d262/2000.m3u8
 #EXTINF:-1 tvg-name="飞碟之谜02" tvg-id="飞碟之谜02" tvg-logo="https://live.zbds.top/logo/飞碟之谜02.png" group-title="纪录频道", 飞碟之谜02
