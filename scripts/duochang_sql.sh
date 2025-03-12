@@ -22,7 +22,7 @@ do
 
 done
 
-sed -i 's#https://ghproxy.net/#$g' duochang.listtmp;
+sed -i 's#https://ghproxy.net/##g' duochang.listtmp;
 
 cat duochang.listtmp|sort|uniq|while read line;
 do
