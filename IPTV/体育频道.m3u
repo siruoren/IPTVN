@@ -215,6 +215,10 @@ https://lunbo.freetv.top/douyu/488743
 http://150.230.250.89:50001/TVOD/5000000002000029972/bestzb/index.m3u8
 #EXTINF:-1 tvg-name="五星体育" tvg-id="五星体育" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/五星体育.png" group-title="体育频道", 五星体育
 http://live.xmcdn.com/live/57/64.m3u8
+#EXTINF:-1 tvg-name="睛彩竞技" tvg-id="睛彩竞技" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/assets/logo/睛彩竞技.png" group-title="体育频道", 睛彩竞技
+http://36.134.80.169:8833/TVOD/2000000003000000060/hnbblive/index.m3u8
+#EXTINF:-1 tvg-name="睛彩篮球" tvg-id="睛彩篮球" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/assets/logo/睛彩篮球.png" group-title="体育频道", 睛彩篮球
+http://36.134.80.169:8833/TVOD/2000000003000000061/hnbblive/index.m3u8
 #EXTINF:-1 tvg-name="魅力足球" tvg-id="魅力足球" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/魅力足球.png" group-title="体育频道", 魅力足球
 http://dassby.qqff.top:99/live/快乐垂钓/index.m3u8
 #EXTINF:-1 tvg-name="天元围棋" tvg-id="天元围棋" tvg-logo="https://live.zbds.top/logo/天元围棋.png" group-title="体育频道", 天元围棋
@@ -230,12 +234,12 @@ http://150.230.250.89:50001/TVOD/5000000002000029972/bestzb/index.m3u8
 #EXTINF:-1 tvg-name="五星体育" tvg-id="五星体育" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/五星体育.png" group-title="体育频道", 五星体育
 http://live.xmcdn.com/live/57/64.m3u8
 #EXTINF:-1 tvg-name="精品体育" tvg-id="精品体育" tvg-logo="https://live.zbds.top/logo/NEWTV精品体育.png" group-title="体育频道", 精品体育
-https://epg.pw/stream/f7556eccd4ae06b0c2991fdc7a4f8388496559f728cc82459a8e50346040e226.m3u8
+http://140.245.86.67:50001/1000000004000014634/ystenlive/index.m3u8
 #EXTINF:-1 tvg-name="睛彩竞技" tvg-id="睛彩竞技" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/assets/logo/睛彩竞技.png" group-title="体育频道", 睛彩竞技
-http://189.1.232.104:50001/2000000003000000060/hnbblive/index.m3u8
+http://36.134.80.169:8833/TVOD/2000000003000000060/hnbblive/index.m3u8
 #EXTINF:-1 tvg-name="睛彩篮球" tvg-id="睛彩篮球" tvg-logo="https://ghproxy.net/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/assets/logo/睛彩篮球.png" group-title="体育频道", 睛彩篮球
 http://36.134.80.169:8833/TVOD/2000000003000000061/hnbblive/index.m3u8
-#EXTINF:-1 tvg-name="超级体育" tvg-id="超级体育" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/超级体育.png" group-title="体育频道", 超级体育
+#EXTINF:-1 tvg-name="超级体育" tvg-id="超级体育" tvg-logo="https://live.zbds.top/logo/超级体育.png" group-title="体育频道", 超级体育
 http://feiyang.ak47s.top:35455/itv/1000000001000009601.m3u8?cdn=ystenlive
 --
 #EXTINF:-1 tvg-name="辽宁体育" tvg-id="辽宁体育" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/辽宁体育.png" group-title="体育频道", 辽宁体育
@@ -249,12 +253,10 @@ http://live.xmcdn.com/live/57/64.m3u8
 #EXTINF:-1 tvg-name="快乐垂钓" tvg-id="快乐垂钓" tvg-logo="https://live.zbds.top/logo/快乐垂钓.png" group-title="体育频道", 快乐垂钓
 http://nas.hssvm.com:8888/udp/225.1.2.18:5002
 #EXTINF:-1 tvg-name="纬来体育" tvg-id="纬来体育" tvg-logo="https://live.zbds.top/logo/纬来体育.png" group-title="体育频道", 纬来体育
-http://aktv_stream1.m16tv.cfd/stream/aktv3/null-1/AKTV.m3u8
+http://aktv_stream1.m16tv.cfd/stream/tuntun/null/AKTV.m3u8
 --
 #EXTINF:-1 tvg-name="体育赛事" tvg-id="体育赛事" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/体育赛事.png" group-title="体育频道", 体育赛事
 http://3501776.xyz:35455/gaoma/cctv5p.m3u8
-#EXTINF:-1 tvg-name="睛彩广场舞" tvg-id="睛彩广场舞" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/睛彩广场舞.png" group-title="体育频道", 睛彩广场舞
-http://36.105.100.208:35455/itv/2000000003000000062.m3u8?cdn=hnbblive
 #EXTINF:-1 tvg-name="睛彩羽毛球" tvg-id="睛彩羽毛球" tvg-logo="https://live.zbds.top/logo/睛彩羽毛球.png" group-title="体育频道", 睛彩羽毛球
 http://drive.mxmy.net:8888/udp/239.3.1.127:8001
 --
