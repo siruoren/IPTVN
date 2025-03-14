@@ -31,8 +31,8 @@ jobs:
         echo "# Auto Update IPTV at ${{ steps.date.outputs.date }}" >> README.md
         echo '----------------------------------------------------' >> README.md
         chmod -R 755 scripts/*;
-        bash -vvv scripts/iptv_to_sql.sh >> README.md
-        bash -vvv scripts/duochang_sql.sh >> README.md
+        bash -vvv scripts/iptv_to_sql.sh >> README.md  2>&1
+        bash -vvv scripts/duochang_sql.sh >> README.md  2>&1
 
     - name: Clean
       run: |
