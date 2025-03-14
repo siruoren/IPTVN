@@ -1,3 +1,6 @@
+#EXTINF:-1 tvg-name="CGTN法语" tvg-id="CGTN法语" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CGTN法语.png" group-title="其他频道", CGTN法语
+https://news.cgtn.com/resource/live/french/cgtn-f.m3u8?zshijd
+--
 #EXTINF:-1 tvg-name="旅游卫视" tvg-id="旅游卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/旅游卫视.png" group-title="其他频道", 旅游卫视
 http://111.61.236.247:9081/hls/50/index.m3u8
 #EXTINF:-1 tvg-name="内蒙卫视" tvg-id="内蒙卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/内蒙卫视.png" group-title="其他频道", 内蒙卫视
@@ -75,7 +78,7 @@ https://alimov2.a.kwimgs.com/upic/2023/01/06/16/BMjAyMzAxMDYxNjMxMTRfNDAzMDAxOTl
 #EXTINF:-1 tvg-name="2019年" tvg-id="2019年" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/2019年.png" group-title="其他频道", 2019年
 https://txmov2.a.kwimgs.com/upic/2023/01/06/16/BMjAyMzAxMDYxNjMxMTRfNDAzMDAxOTlfOTI4OTY2ODE2MTBfMF8z_b_B11a778e34390a21de42d407e94f45b91.mp4
 #EXTINF:-1 tvg-name="2020年" tvg-id="2020年" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/2020年.png" group-title="其他频道", 2020年
-https://txmov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzA5NDdfNDAzMDAxOTlfNjYxNzQ2MDAyMTFfMF8z_b_B5d51d9564c5670dc66faeba20aa7af3f.mp4
+http://txmov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzA5NDdfNDAzMDAxOTlfNjYxNzQ2MDAyMTFfMF8z_b_B5d51d9564c5670dc66faeba20aa7af3f.mp4
 #EXTINF:-1 tvg-name="2021一夜火爆几首DJ舞曲" tvg-id="2021一夜火爆几首DJ舞曲" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/2021一夜火爆几首DJ舞曲.png" group-title="其他频道", 2021一夜火爆几首DJ舞曲
 https://vdse.bdstatic.com//1fc9fd16e02ca272bb81666b85bf4135.mp4
 #EXTINF:-1 tvg-name="2021五首女声伤感DJ情歌精品" tvg-id="2021五首女声伤感DJ情歌精品" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/2021五首女声伤感DJ情歌精品.png" group-title="其他频道", 2021五首女声伤感DJ情歌精品
@@ -83,7 +86,7 @@ https://vdse.bdstatic.com//c92e81328ef6d13ba7d44e6eb80f9f1e.mp4
 #EXTINF:-1 tvg-name="2021伤感洗脑神曲" tvg-id="2021伤感洗脑神曲" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/2021伤感洗脑神曲.png" group-title="其他频道", 2021伤感洗脑神曲
 https://vdse.bdstatic.com//8ad29ca92a901b9992431cf0c5266101.mp4
 #EXTINF:-1 tvg-name="2021年" tvg-id="2021年" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/2021年.png" group-title="其他频道", 2021年
-https://alimov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzE4NTJfNDAzMDAxOTlfNjYxNzUzOTg3NjlfMF8z_b_Be41d9503181d7b0608a839ed401e02c2.mp4
+http://txmov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzE4NTJfNDAzMDAxOTlfNjYxNzUzOTg3NjlfMF8z_b_Be41d9503181d7b0608a839ed401e02c2.mp4
 #EXTINF:-1 tvg-name="2021年最好听的DJ串烧" tvg-id="2021年最好听的DJ串烧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/2021年最好听的DJ串烧.png" group-title="其他频道", 2021年最好听的DJ串烧
 https://vdse.bdstatic.com//cd396057d1fbcb12f0600d38a16effbc.mp4
 #EXTINF:-1 tvg-name="2021最佳伤感情歌" tvg-id="2021最佳伤感情歌" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/2021最佳伤感情歌.png" group-title="其他频道", 2021最佳伤感情歌
@@ -243,7 +246,7 @@ http://220.249.114.102:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid
 #EXTINF:-1 tvg-name="cctv7" tvg-id="cctv7" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/cctv7.png" group-title="其他频道", cctv7
 http://220.249.114.102:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="cctv8" tvg-id="cctv8" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/cctv8.png" group-title="其他频道", cctv8
-http://220.249.114.102:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+http://116.128.242.83:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="dj" tvg-id="dj" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/dj.png" group-title="其他频道", dj
 https://txmov2.a.kwimgs.com/upic/2022/03/21/19/BMjAyMjAzMjExOTA2MjRfMjYyNzI4Mjc4MV83MDE2MTEwMjY1Ml8yXzM=_b_B977559109a6b2bec30b01e11d458d398.mp4
 #EXTINF:-1 tvg-name="dj新歌句句在理" tvg-id="dj新歌句句在理" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/dj新歌句句在理.png" group-title="其他频道", dj新歌句句在理
@@ -419,7 +422,7 @@ https://vd4.bdstatic.com/mda-nmbgkraen7gak8pt/sc/cae_h264/1670845819054513601/md
 #EXTINF:-1 tvg-name="人生没有回头路" tvg-id="人生没有回头路" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/人生没有回头路.png" group-title="其他频道", 人生没有回头路
 https://vd3.bdstatic.com/mda-nju6xz3npn63s197/576p/h264/1667019653413448151/mda-nju6xz3npn63s197.mp4
 #EXTINF:-1 tvg-name="人生的第一步" tvg-id="人生的第一步" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/人生的第一步.png" group-title="其他频道", 人生的第一步
-https://vd2.bdstatic.com/mda-jdsnd19m47jrqp4d/mda-jdsnd19m47jrqp4d.mp4
+https://vd1.bdstatic.com/mda-hj3j627k0yf2ycbr/vs-10823507f6723f1b8f49bff37417885d-watermark/hd/mda-hj3j627k0yf2ycbr.mp4
 #EXTINF:-1 tvg-name="人生还遇多少苦" tvg-id="人生还遇多少苦" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/人生还遇多少苦.png" group-title="其他频道", 人生还遇多少苦
 https://vd3.bdstatic.com/mda-pbb6nzvkf52i5vqf/hd/cae_h264/1676181003641729972/mda-pbb6nzvkf52i5vqf.mp4
 #EXTINF:-1 tvg-name="人生这杯酒你可曾喝醉" tvg-id="人生这杯酒你可曾喝醉" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/人生这杯酒你可曾喝醉.png" group-title="其他频道", 人生这杯酒你可曾喝醉
@@ -444,12 +447,16 @@ http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
 http://ott.watch/stream/E9LDH2ZCN7/423.m3u8
 #EXTINF:-1 tvg-name="伊拉克SharqiyaNews" tvg-id="伊拉克SharqiyaNews" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/伊拉克-SharqiyaNews.png" group-title="其他频道", 伊拉克SharqiyaNews
 http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
+#EXTINF:-1 tvg-name="伊拉克life" tvg-id="伊拉克life" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/伊拉克life.png" group-title="其他频道", 伊拉克life
+http://195.142.3.105/artidijital_lifetv/lifetv/chunks.m3u8?autoplay=1
 #EXTINF:-1 tvg-name="伤不起dj" tvg-id="伤不起dj" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/伤不起dj.png" group-title="其他频道", 伤不起dj
 https://vd2.bdstatic.com/mda-ndk1gp50bp71j652/cae_h264_delogo/1650507809324077232/mda-ndk1gp50bp71j652.mp4
 #EXTINF:-1 tvg-name="伤心的眼泪" tvg-id="伤心的眼泪" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/伤心的眼泪.png" group-title="其他频道", 伤心的眼泪
 https://vd3.bdstatic.com/mda-ncn2c816zrf6u0im/sc/cae_h264_delogo/1648002300550722369/mda-ncn2c816zrf6u0im.mp4
 #EXTINF:-1 tvg-name="伤心的酒吧伤心的雨" tvg-id="伤心的酒吧伤心的雨" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/伤心的酒吧伤心的雨.png" group-title="其他频道", 伤心的酒吧伤心的雨
 https://txmov2.a.kwimgs.com/bs3/video-hls/5222768292229481631_hlsb.m3u8
+#EXTINF:-1 tvg-name="伤心的雨" tvg-id="伤心的雨" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/伤心的雨.png" group-title="其他频道", 伤心的雨
+https://txmov2.a.kwimgs.com/bs3/video-hls/5205879795988127777_hlsb.m3u8
 #EXTINF:-1 tvg-name="伤感DJ串烧为爱流泪" tvg-id="伤感DJ串烧为爱流泪" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/伤感DJ串烧为爱流泪.png" group-title="其他频道", 伤感DJ串烧为爱流泪
 https://vd3.bdstatic.com/mda-nci8jqpzeyqkhdxe/720p/h264_delogo/1647670097763149460/mda-nci8jqpzeyqkhdxe.mp4
 #EXTINF:-1 tvg-name="伤感DJ等" tvg-id="伤感DJ等" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/伤感DJ等.png" group-title="其他频道", 伤感DJ等
@@ -746,18 +753,16 @@ https://vip.lzcdn2.com/20230407/25103_b92c794a/index.m3u8
 https://vip.lzcdn2.com/20230407/25102_05aa2477/index.m3u8
 #EXTINF:-1 tvg-name="尘封十三载第09集" tvg-id="尘封十三载第09集" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/尘封十三载第09集.png" group-title="其他频道", 尘封十三载第09集
 https://vip.lzcdn2.com/20230409/25141_b85f9b8d/index.m3u8
-#EXTINF:-1 tvg-name="尘封十三载第10集" tvg-id="尘封十三载第10集" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/尘封十三载第10集.png" group-title="其他频道", 尘封十三载第10集
-https://vip.lzcdn2.com/20230409/25140_584a8930/index.m3u8
 #EXTINF:-1 tvg-name="尘封十三载第13集" tvg-id="尘封十三载第13集" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/尘封十三载第13集.png" group-title="其他频道", 尘封十三载第13集
 https://vip.lzcdn2.com/20230411/25176_02a2ce33/index.m3u8
 #EXTINF:-1 tvg-name="尘封十三载第14集" tvg-id="尘封十三载第14集" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/尘封十三载 第14集.png" group-title="其他频道", 尘封十三载第14集
 https://vip.lzcdn2.com/20230411/25175_95075a3c/index.m3u8
-#EXTINF:-1 tvg-name="尘封十三载第17集" tvg-id="尘封十三载第17集" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/尘封十三载 第17集.png" group-title="其他频道", 尘封十三载第17集
-https://vip.lzcdn2.com/20230413/25210_d63b081b/index.m3u8
 #EXTINF:-1 tvg-name="尘封十三载第18集" tvg-id="尘封十三载第18集" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/尘封十三载第18集.png" group-title="其他频道", 尘封十三载第18集
 https://vip.lzcdn2.com/20230413/25209_25921bc5/index.m3u8
 #EXTINF:-1 tvg-name="尘封十三载第21集" tvg-id="尘封十三载第21集" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/尘封十三载第21集.png" group-title="其他频道", 尘封十三载第21集
 https://vip.lzcdn2.com/20230415/25244_a551c726/index.m3u8
+#EXTINF:-1 tvg-name="尘封十三载第22集" tvg-id="尘封十三载第22集" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/尘封十三载第22集.png" group-title="其他频道", 尘封十三载第22集
+https://vip.lzcdn2.com/20230415/25243_a2e60486/index.m3u8
 #EXTINF:-1 tvg-name="就差钱" tvg-id="就差钱" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/就差钱.png" group-title="其他频道", 就差钱
 https://vdse.bdstatic.com//812d49e751aa31530ec39debfe54a359.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2022-06-14T08%3A49%3A09Z%2F-1%2Fhost%2Fa58bdb86d23b53b6909e8e19d85dad9fed3adeba4a664a22eef9a7d32ac2486a
 #EXTINF:-1 tvg-name="就算没有如果张杰" tvg-id="就算没有如果张杰" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/就算没有如果张杰.png" group-title="其他频道", 就算没有如果张杰
@@ -1136,8 +1141,6 @@ https://vdse.bdstatic.com//21736d388636d7648510b2a36fc7cbfd.mp4
 https://vdse.bdstatic.com//68a1b89e79d7d9add230585a90f81391.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2023-04-09T03%3A27%3A08Z%2F-1%2Fhost%2F8ee273c655e618233a03b59750e537394083a7050eaf693d0c840e149f39a04e
 #EXTINF:-1 tvg-name="江苏南京玄武湖公园" tvg-id="江苏南京玄武湖公园" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏南京玄武湖公园.png" group-title="其他频道", 江苏南京玄武湖公园
 https://gcalic.v.myalicdn.com/gc/xwh01_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 tvg-name="江苏综艺" tvg-id="江苏综艺" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏综艺.png" group-title="其他频道", 江苏综艺
-http://58.220.219.14:9901/tsfile/live/0120_4.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="没有结果的结果" tvg-id="没有结果的结果" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/没有结果的结果.png" group-title="其他频道", 没有结果的结果
 https://txmov2.a.kwimgs.com/bs3/video-hls/5192087523054845025_hlsb.m3u8
 #EXTINF:-1 tvg-name="没有那杯忘情水DJ版" tvg-id="没有那杯忘情水DJ版" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/没有那杯忘情水DJ版.png" group-title="其他频道", 没有那杯忘情水DJ版
@@ -1253,7 +1256,7 @@ http://vdown.kuwo.cn:80/resource//t4/69/75/bD9N0L_qjcM.mp4
 #EXTINF:-1 tvg-name="爱把我包围" tvg-id="爱把我包围" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/爱把我包围.png" group-title="其他频道", 爱把我包围
 https://txmov2.a.kwimgs.com/bs3/video-hls/5222205345619284859_hlsb.m3u8
 #EXTINF:-1 tvg-name="爱拼才会赢" tvg-id="爱拼才会赢" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/爱拼才会赢.png" group-title="其他频道", 爱拼才会赢
-https://vd1.bdstatic.com/mda-hc6petr0yeuhsnwe/mda-hc6petr0yeuhsnwe.mp4
+http://vdown.kuwo.cn:80/resource//t4/20/1/y12_ecvVJgA.mp4
 #EXTINF:-1 tvg-name="爱江山更爱美人金典" tvg-id="爱江山更爱美人金典" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/爱江山更爱美人金典.png" group-title="其他频道", 爱江山更爱美人金典
 https://vd4.bdstatic.com/mda-mm2a18n5jdh6d8bs/sc/cae_h264/1638516147610932793/mda-mm2a18n5jdh6d8bs.mp4
 #EXTINF:-1 tvg-name="牛群冯巩两个弄潮儿" tvg-id="牛群冯巩两个弄潮儿" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/牛群冯巩两个弄潮儿.png" group-title="其他频道", 牛群冯巩两个弄潮儿
@@ -1470,32 +1473,24 @@ https://rescdn.yishihui.com/longvideo/transcode/video/vpc/20201112/5623330ySHJCz
 https://vd4.bdstatic.com:443/mda-mcbs0hpjpkpwethe/1080p/h264_cae/1620492489548087433/mda-mcbs0hpjpkpwethe.mp4
 #EXTINF:-1 tvg-name="赤焰锦衣卫第01集" tvg-id="赤焰锦衣卫第01集" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赤焰锦衣卫第01集.png" group-title="其他频道", 赤焰锦衣卫第01集
 https://vip.lz-cdn9.com/20221231/16778_e7666586/index.m3u8
-#EXTINF:-1 tvg-name="赤焰锦衣卫第02集" tvg-id="赤焰锦衣卫第02集" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赤焰锦衣卫 第02集.png" group-title="其他频道", 赤焰锦衣卫第02集
-https://vip.lz-cdn9.com/20221231/16779_38ed83a0/index.m3u8
-#EXTINF:-1 tvg-name="赤焰锦衣卫第03集" tvg-id="赤焰锦衣卫第03集" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赤焰锦衣卫 第03集.png" group-title="其他频道", 赤焰锦衣卫第03集
-https://vip.lz-cdn9.com/20221231/16780_7c9b6742/index.m3u8
-#EXTINF:-1 tvg-name="赤焰锦衣卫第05集" tvg-id="赤焰锦衣卫第05集" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赤焰锦衣卫 第05集.png" group-title="其他频道", 赤焰锦衣卫第05集
-https://vip.lz-cdn14.com/20230111/17159_84083cec/index.m3u8
-#EXTINF:-1 tvg-name="赤焰锦衣卫第07" tvg-id="赤焰锦衣卫第07" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赤焰锦衣卫 第07.png" group-title="其他频道", 赤焰锦衣卫第07
-https://vip.lz-cdn14.com/20230125/17928_a85638cb/index.m3u8
+#EXTINF:-1 tvg-name="赤焰锦衣卫第04集" tvg-id="赤焰锦衣卫第04集" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赤焰锦衣卫 第04集.png" group-title="其他频道", 赤焰锦衣卫第04集
+https://vip.lz-cdn14.com/20230104/16759_4c65503b/index.m3u8
+#EXTINF:-1 tvg-name="赤焰锦衣卫第06集" tvg-id="赤焰锦衣卫第06集" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赤焰锦衣卫 第06集.png" group-title="其他频道", 赤焰锦衣卫第06集
+https://vip.lz-cdn14.com/20230118/17534_0e417c9c/index.m3u8
 #EXTINF:-1 tvg-name="赤焰锦衣卫第09集" tvg-id="赤焰锦衣卫第09集" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赤焰锦衣卫 第09集.png" group-title="其他频道", 赤焰锦衣卫第09集
 https://vip.lz-cdn14.com/20230208/18619_4976ff19/index.m3u8
+#EXTINF:-1 tvg-name="赤焰锦衣卫第10集" tvg-id="赤焰锦衣卫第10集" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赤焰锦衣卫 第10集.png" group-title="其他频道", 赤焰锦衣卫第10集
+https://vip.lz-cdn14.com/20230215/18956_595bd54e/index.m3u8
 #EXTINF:-1 tvg-name="赤焰锦衣卫第11集" tvg-id="赤焰锦衣卫第11集" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赤焰锦衣卫第11集.png" group-title="其他频道", 赤焰锦衣卫第11集
 https://vip.lz-cdn14.com/20230222/19324_274d9862/index.m3u8
-#EXTINF:-1 tvg-name="赤焰锦衣卫第12集" tvg-id="赤焰锦衣卫第12集" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赤焰锦衣卫第12集.png" group-title="其他频道", 赤焰锦衣卫第12集
-https://vip.lz-cdn14.com/20230301/19690_06102866/index.m3u8
-#EXTINF:-1 tvg-name="赤焰锦衣卫第14集" tvg-id="赤焰锦衣卫第14集" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赤焰锦衣卫 第14集.png" group-title="其他频道", 赤焰锦衣卫第14集
-https://vip.lz-cdn14.com/20230315/20390_9982b9ee/index.m3u8
+#EXTINF:-1 tvg-name="赤焰锦衣卫第13集" tvg-id="赤焰锦衣卫第13集" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赤焰锦衣卫第13集.png" group-title="其他频道", 赤焰锦衣卫第13集
+https://vip.lz-cdn14.com/20230308/20039_ec7149b8/index.m3u8
 #EXTINF:-1 tvg-name="赤焰锦衣卫第15集" tvg-id="赤焰锦衣卫第15集" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赤焰锦衣卫第15集.png" group-title="其他频道", 赤焰锦衣卫第15集
 https://vip.lz-cdn14.com/20230322/20740_824f29cf/index.m3u8
 #EXTINF:-1 tvg-name="赤焰锦衣卫第16集" tvg-id="赤焰锦衣卫第16集" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赤焰锦衣卫第16集.png" group-title="其他频道", 赤焰锦衣卫第16集
 https://vip.lz-cdn14.com/20230329/21085_b4de445a/index.m3u8
 #EXTINF:-1 tvg-name="赤焰锦衣卫第17集" tvg-id="赤焰锦衣卫第17集" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赤焰锦衣卫第17集.png" group-title="其他频道", 赤焰锦衣卫第17集
 https://vip.lz-cdn14.com/20230405/21390_cca4dedc/index.m3u8
-#EXTINF:-1 tvg-name="赤焰锦衣卫第19集" tvg-id="赤焰锦衣卫第19集" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赤焰锦衣卫 第19集.png" group-title="其他频道", 赤焰锦衣卫第19集
-https://vip.lz-cdn14.com/20230419/22006_68ec6a1e/index.m3u8
-#EXTINF:-1 tvg-name="赤焰锦衣卫第20集" tvg-id="赤焰锦衣卫第20集" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赤焰锦衣卫第20集.png" group-title="其他频道", 赤焰锦衣卫第20集
-https://vip.lz-cdn14.com/20230426/22408_e50e0fc7/index.m3u8
 #EXTINF:-1 tvg-name="赵蕾蕾寂寞的城伤心的人" tvg-id="赵蕾蕾寂寞的城伤心的人" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赵蕾蕾寂寞的城伤心的人.png" group-title="其他频道", 赵蕾蕾寂寞的城伤心的人
 https://vd2.bdstatic.com/mda-mesdm11tdp69a9ye/1080p/cae_h264/1622115758783335310/mda-mesdm11tdp69a9ye.mp4
 #EXTINF:-1 tvg-name="超强车载重音乐" tvg-id="超强车载重音乐" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/超强车载重音乐.png" group-title="其他频道", 超强车载重音乐
@@ -1760,6 +1755,8 @@ https://vip.ffzy-play.com/20221020/2353_f4506552/2000k/hls/mixed.m3u8
 https://vip.ffzy-play.com/20221020/2354_5169f8e8/2000k/hls/mixed.m3u8
 #EXTINF:-1 tvg-name="雪中悍刀行05" tvg-id="雪中悍刀行05" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/雪中悍刀行05.png" group-title="其他频道", 雪中悍刀行05
 https://vip.ffzy-play.com/20221020/2355_2d59e771/2000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-name="雪中悍刀行06" tvg-id="雪中悍刀行06" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/雪中悍刀行06.png" group-title="其他频道", 雪中悍刀行06
+https://vip.ffzy-play.com/20221020/2357_8e507635/2000k/hls/mixed.m3u8
 #EXTINF:-1 tvg-name="雪中悍刀行07" tvg-id="雪中悍刀行07" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/雪中悍刀行07.png" group-title="其他频道", 雪中悍刀行07
 https://vip.ffzy-play.com/20221020/2356_070acb8b/2000k/hls/mixed.m3u8
 #EXTINF:-1 tvg-name="雪中悍刀行09" tvg-id="雪中悍刀行09" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/雪中悍刀行09.png" group-title="其他频道", 雪中悍刀行09
@@ -1806,8 +1803,12 @@ https://vip.ffzy-play.com/20221020/2393_ae951140/2000k/hls/mixed.m3u8
 https://vip.ffzy-play.com/20221020/2395_c2015fa4/2000k/hls/mixed.m3u8
 #EXTINF:-1 tvg-name="雪中悍刀行30" tvg-id="雪中悍刀行30" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/雪中悍刀行30.png" group-title="其他频道", 雪中悍刀行30
 https://vip.ffzy-play.com/20221020/2394_ce892208/2000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-name="雪中悍刀行31" tvg-id="雪中悍刀行31" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/雪中悍刀行31.png" group-title="其他频道", 雪中悍刀行31
+https://vip.ffzy-play.com/20221020/2397_5c268c41/2000k/hls/mixed.m3u8
 #EXTINF:-1 tvg-name="雪中悍刀行32" tvg-id="雪中悍刀行32" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/雪中悍刀行32.png" group-title="其他频道", 雪中悍刀行32
 https://vip.ffzy-play.com/20221020/2396_c5809db5/2000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-name="雪中悍刀行33" tvg-id="雪中悍刀行33" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/雪中悍刀行33.png" group-title="其他频道", 雪中悍刀行33
+https://vip.ffzy-play.com/20221020/2398_5b84ca60/2000k/hls/mixed.m3u8
 #EXTINF:-1 tvg-name="雪中悍刀行34" tvg-id="雪中悍刀行34" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/雪中悍刀行34.png" group-title="其他频道", 雪中悍刀行34
 https://vip.ffzy-play.com/20221020/2399_2e58d6d4/2000k/hls/mixed.m3u8
 #EXTINF:-1 tvg-name="雪中悍刀行35" tvg-id="雪中悍刀行35" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/雪中悍刀行35.png" group-title="其他频道", 雪中悍刀行35

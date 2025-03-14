@@ -1,7 +1,5 @@
 #EXTINF:-1 tvg-name="黑龙江新闻法治" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/黑龙江新闻法治.png" group-title="☘️黑龙江频道",黑龙江新闻法治
 https://satellitepull.cnr.cn/live/wx32hljxwgb/playlist.m3u8
-#EXTINF:-1 tvg-name="黑龙江新闻法治" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/黑龙江新闻法治.png" group-title="☘️黑龙江频道",黑龙江新闻法治
-http://satellitepull.cnr.cn/live/wx32hljxwgb/playlist.m3u8
 #EXTINF:-1 tvg-name="哈尔滨新闻综合" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/哈尔滨新闻综合.png" group-title="☘️黑龙江频道",哈尔滨新闻综合
 https://stream.hrbtv.net/xwzh/playlist.m3u8
 #EXTINF:-1 tvg-name="哈尔滨新闻综合" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/哈尔滨新闻综合.png" group-title="☘️黑龙江频道",哈尔滨新闻综合
@@ -20,7 +18,15 @@ http://stream.hrbtv.net/shpd/sd/live.m3u8?zheild
 https://stream.hrbtv.net/ylpd/sd/live.m3u8
 #EXTINF:-1 tvg-name="哈尔滨娱乐" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/哈尔滨娱乐.png" group-title="☘️黑龙江频道",哈尔滨娱乐
 http://stream.hrbtv.net/ylpd/sd/live.m3u8?zheild#http://stream.hrbtv.net/ylpd/sd/live.m3u8#https://stream.hrbtv.net/ylpd/sd/live.m3u8
+#EXTINF:-1 tvg-name="大庆新闻综合" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/大庆新闻综合.png" group-title="☘️黑龙江频道",大庆新闻综合
+http://live.qthnews.org.cn:1935/live/live1/800k/tzwj_video.m3u8
+#EXTINF:-1 tvg-name="七台河新闻综合" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/七台河新闻综合.png" group-title="☘️黑龙江频道",七台河新闻综合
+http://live.qthnews.org.cn:1935/live/live1/800k/tzwj_video.m3u8
 #EXTINF:-1 tvg-name="佳木斯新闻综合" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/佳木斯新闻综合.png" group-title="☘️黑龙江频道",佳木斯新闻综合
 https://stream.hrbtv.net/zxpd/sd/live.m3u8
 #EXTINF:-1 tvg-name="哈尔滨都市资讯" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/哈尔滨都市资讯.png" group-title="☘️黑龙江频道",哈尔滨都市资讯
 https://stream.hrbtv.net/zxpd/sd/live.m3u8
+#EXTINF:-1 tvg-name="齐齐哈尔新闻综合" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/齐齐哈尔新闻综合.png" group-title="☘️黑龙江频道",齐齐哈尔新闻综合
+http://live.qthnews.org.cn:1935/live/live2/800k/tzwj_video.m3u8
+#EXTINF:-1 tvg-name="七台河民生社教" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/七台河民生社教.png" group-title="☘️黑龙江频道",七台河民生社教
+http://live.qthnews.org.cn:1935/live/live2/800k/tzwj_video.m3u8
