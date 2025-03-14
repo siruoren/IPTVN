@@ -2,8 +2,246 @@
 
 # 本源码仅供学习，禁止用于违法犯罪行为，否则后果自负！
 
-# Auto Update IPTV at 2025-03-14 09:08:57 CST
+# Auto Update IPTV at 2025-03-14 11:52:46 CST
 ----------------------------------------------------
+#!/bin/bash
+cd $(dirname $0);
+# 源
+> ../IPTV.m3u
+
+while read line
+do
+
+src_name=`echo $line|awk '{print$1}'`
+src_url=`echo $line|awk '{print$2}'`
+wget ${src_url} -O ${src_name}.m3u;cat ${src_name}.m3u >> ../IPTV.m3u;rm -f ${src_name}.m3u;
+
+
+done < iptv_src.list;
+--2025-03-14 11:52:46--  https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u
+Resolving raw.githubusercontent.com (raw.githubusercontent.com)... 185.199.109.133, 185.199.111.133, 185.199.110.133, ...
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|185.199.109.133|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 562149 (549K) [text/plain]
+Saving to: ‘Guovin.m3u’
+
+     0K .......... .......... .......... .......... ..........  9% 5.45M 0s
+    50K .......... .......... .......... .......... .......... 18% 7.30M 0s
+   100K .......... .......... .......... .......... .......... 27% 33.5M 0s
+   150K .......... .......... .......... .......... .......... 36% 33.1M 0s
+   200K .......... .......... .......... .......... .......... 45% 42.6M 0s
+   250K .......... .......... .......... .......... .......... 54% 9.43M 0s
+   300K .......... .......... .......... .......... .......... 63%  130M 0s
+   350K .......... .......... .......... .......... .......... 72% 46.0M 0s
+   400K .......... .......... .......... .......... .......... 81% 76.9M 0s
+   450K .......... .......... .......... .......... .......... 91% 45.4M 0s
+   500K .......... .......... .......... .......... ........  100% 13.2M=0.03s
+
+2025-03-14 11:52:47 (16.9 MB/s) - ‘Guovin.m3u’ saved [562149/562149]
+
+--2025-03-14 11:52:47--  https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
+Resolving raw.githubusercontent.com (raw.githubusercontent.com)... 185.199.111.133, 185.199.109.133, 185.199.108.133, ...
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|185.199.111.133|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 48434 (47K) [text/plain]
+Saving to: ‘fangming.m3u’
+
+     0K .......... .......... .......... .......... .......   100% 5.81M=0.008s
+
+2025-03-14 11:52:47 (5.81 MB/s) - ‘fangming.m3u’ saved [48434/48434]
+
+--2025-03-14 11:52:47--  https://raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.m3u
+Resolving raw.githubusercontent.com (raw.githubusercontent.com)... 185.199.109.133, 185.199.110.133, 185.199.111.133, ...
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|185.199.109.133|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 567691 (554K) [text/plain]
+Saving to: ‘vbskycn_iptv4.m3u’
+
+     0K .......... .......... .......... .......... ..........  9% 5.93M 0s
+    50K .......... .......... .......... .......... .......... 18% 6.42M 0s
+   100K .......... .......... .......... .......... .......... 27% 32.4M 0s
+   150K .......... .......... .......... .......... .......... 36% 30.0M 0s
+   200K .......... .......... .......... .......... .......... 45% 34.1M 0s
+   250K .......... .......... .......... .......... .......... 54% 12.2M 0s
+   300K .......... .......... .......... .......... .......... 63% 43.0M 0s
+   350K .......... .......... .......... .......... .......... 72% 46.6M 0s
+   400K .......... .......... .......... .......... .......... 81% 70.3M 0s
+   450K .......... .......... .......... .......... .......... 90% 44.5M 0s
+   500K .......... .......... .......... .......... .......... 99%  213M 0s
+   550K ....                                                  100% 64.1M=0.03s
+
+2025-03-14 11:52:47 (18.9 MB/s) - ‘vbskycn_iptv4.m3u’ saved [567691/567691]
+
+--2025-03-14 11:52:47--  https://raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv6.m3u
+Resolving raw.githubusercontent.com (raw.githubusercontent.com)... 185.199.108.133, 185.199.110.133, 185.199.111.133, ...
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|185.199.108.133|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 16603 (16K) [text/plain]
+Saving to: ‘vbskycn_iptv6.m3u’
+
+     0K .......... ......                                     100% 18.9M=0.001s
+
+2025-03-14 11:52:47 (18.9 MB/s) - ‘vbskycn_iptv6.m3u’ saved [16603/16603]
+
+
+
+
+
+rm -rf ../IPTV;
+mkdir -p ../IPTV;cd ../IPTV
+cat ../IPTV.m3u |grep 'group-title'|awk -F ',' '{print$1}'|awk '{print$NF}'|grep "^group"|sort|uniq|awk -F'"' '{print$2}'|xargs -i touch {}.m3u
+for i in `ls`; do group_name=`echo ${i}|awk -F '.' '{print$1}'`; grep -A 1 "${group_name}" ../IPTV.m3u > ${i}; done
+cd ../
+# 节目源
+rm -f EPG.xml && wget https://epg.112114.xyz/pp.xml -O EPG.xml
+--2025-03-14 11:52:48--  https://epg.112114.xyz/pp.xml
+Resolving epg.112114.xyz (epg.112114.xyz)... 172.67.203.219, 104.21.85.82
+Connecting to epg.112114.xyz (epg.112114.xyz)|172.67.203.219|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 4104606 (3.9M) [text/xml]
+Saving to: ‘EPG.xml’
+
+     0K .......... .......... .......... .......... ..........  1% 31.8M 0s
+    50K .......... .......... .......... .......... ..........  2% 1.48M 1s
+   100K .......... .......... .......... .......... ..........  3% 1.53M 2s
+   150K .......... .......... .......... .......... ..........  4% 38.1M 1s
+   200K .......... .......... .......... .......... ..........  6% 21.3M 1s
+   250K .......... .......... .......... .......... ..........  7% 24.2M 1s
+   300K .......... .......... .......... .......... ..........  8% 30.1M 1s
+   350K .......... .......... .......... .......... ..........  9% 1.87M 1s
+   400K .......... .......... .......... .......... .......... 11% 32.2M 1s
+   450K .......... .......... .......... .......... .......... 12% 28.1M 1s
+   500K .......... .......... .......... .......... .......... 13% 28.6M 1s
+   550K .......... .......... .......... .......... .......... 14% 21.5M 1s
+   600K .......... .......... .......... .......... .......... 16% 29.6M 1s
+   650K .......... .......... .......... .......... .......... 17% 21.7M 1s
+   700K .......... .......... .......... .......... .......... 18% 24.7M 0s
+   750K .......... .......... .......... .......... .......... 19% 23.8M 0s
+   800K .......... .......... .......... .......... .......... 21% 20.6M 0s
+   850K .......... .......... .......... .......... .......... 22% 26.7M 0s
+   900K .......... .......... .......... .......... .......... 23% 25.9M 0s
+   950K .......... .......... .......... .......... .......... 24% 3.92M 0s
+  1000K .......... .......... .......... .......... .......... 26% 32.7M 0s
+  1050K .......... .......... .......... .......... .......... 27% 19.1M 0s
+  1100K .......... .......... .......... .......... .......... 28% 27.2M 0s
+  1150K .......... .......... .......... .......... .......... 29% 19.0M 0s
+  1200K .......... .......... .......... .......... .......... 31% 35.3M 0s
+  1250K .......... .......... .......... .......... .......... 32% 23.5M 0s
+  1300K .......... .......... .......... .......... .......... 33% 24.0M 0s
+  1350K .......... .......... .......... .......... .......... 34% 42.6M 0s
+  1400K .......... .......... .......... .......... .......... 36% 25.9M 0s
+  1450K .......... .......... .......... .......... .......... 37% 24.1M 0s
+  1500K .......... .......... .......... .......... .......... 38% 46.1M 0s
+  1550K .......... .......... .......... .......... .......... 39% 26.1M 0s
+  1600K .......... .......... .......... .......... .......... 41% 28.1M 0s
+  1650K .......... .......... .......... .......... .......... 42% 42.4M 0s
+  1700K .......... .......... .......... .......... .......... 43% 30.0M 0s
+  1750K .......... .......... .......... .......... .......... 44% 49.3M 0s
+  1800K .......... .......... .......... .......... .......... 46% 46.7M 0s
+  1850K .......... .......... .......... .......... .......... 47% 29.0M 0s
+  1900K .......... .......... .......... .......... .......... 48% 48.9M 0s
+  1950K .......... .......... .......... .......... .......... 49% 19.1M 0s
+  2000K .......... .......... .......... .......... .......... 51% 49.3M 0s
+  2050K .......... .......... .......... .......... .......... 52% 44.0M 0s
+  2100K .......... .......... .......... .......... .......... 53% 24.9M 0s
+  2150K .......... .......... .......... .......... .......... 54%  152M 0s
+  2200K .......... .......... .......... .......... .......... 56% 55.6M 0s
+  2250K .......... .......... .......... .......... .......... 57% 57.8M 0s
+  2300K .......... .......... .......... .......... .......... 58% 61.9M 0s
+  2350K .......... .......... .......... .......... .......... 59% 49.0M 0s
+  2400K .......... .......... .......... .......... .......... 61% 44.8M 0s
+  2450K .......... .......... .......... .......... .......... 62% 59.3M 0s
+  2500K .......... .......... .......... .......... .......... 63% 53.4M 0s
+  2550K .......... .......... .......... .......... .......... 64% 35.2M 0s
+  2600K .......... .......... .......... .......... .......... 66% 70.1M 0s
+  2650K .......... .......... .......... .......... .......... 67% 44.8M 0s
+  2700K .......... .......... .......... .......... .......... 68% 47.9M 0s
+  2750K .......... .......... .......... .......... .......... 69% 48.3M 0s
+  2800K .......... .......... .......... .......... .......... 71% 51.2M 0s
+  2850K .......... .......... .......... .......... .......... 72% 44.2M 0s
+  2900K .......... .......... .......... .......... .......... 73% 46.7M 0s
+  2950K .......... .......... .......... .......... .......... 74% 41.9M 0s
+  3000K .......... .......... .......... .......... .......... 76% 73.3M 0s
+  3050K .......... .......... .......... .......... .......... 77% 80.2M 0s
+  3100K .......... .......... .......... .......... .......... 78% 54.3M 0s
+  3150K .......... .......... .......... .......... .......... 79% 36.2M 0s
+  3200K .......... .......... .......... .......... .......... 81% 83.7M 0s
+  3250K .......... .......... .......... .......... .......... 82% 65.1M 0s
+  3300K .......... .......... .......... .......... .......... 83% 43.0M 0s
+  3350K .......... .......... .......... .......... .......... 84% 56.1M 0s
+  3400K .......... .......... .......... .......... .......... 86% 53.1M 0s
+  3450K .......... .......... .......... .......... .......... 87% 51.4M 0s
+  3500K .......... .......... .......... .......... .......... 88%  351M 0s
+  3550K .......... .......... .......... .......... .......... 89% 38.7M 0s
+  3600K .......... .......... .......... .......... .......... 91% 70.1M 0s
+  3650K .......... .......... .......... .......... .......... 92% 51.7M 0s
+  3700K .......... .......... .......... .......... .......... 93% 60.0M 0s
+  3750K .......... .......... .......... .......... .......... 94% 56.8M 0s
+  3800K .......... .......... .......... .......... .......... 96%  143M 0s
+  3850K .......... .......... .......... .......... .......... 97% 52.5M 0s
+  3900K .......... .......... .......... .......... .......... 98% 57.2M 0s
+  3950K .......... .......... .......... .......... .......... 99% 58.1M 0s
+  4000K ........                                              100% 15.7T=0.2s
+
+2025-03-14 11:52:48 (19.2 MB/s) - ‘EPG.xml’ saved [4104606/4104606]
+
+
+#iptv_to_sql
+
+
+default_assign_first="央视频道,卫视频道,电影频道,经典剧场,动画频道,音乐频道,体育频道,游戏频道,港澳台,"
+default_assign_second="山东频道,北京频道,吉林频道,上海频道,云南频道,四川频道,天津频道,宁夏频道,安徽频道,山西频道,广东频道,广西频道,新疆频道,江苏频道,河北频道,河南频道,浙江频道,湖北频道,湖南频道,甘肃频道,福建频道,贵州频道,辽宁频道,重庆频道,陕西频道,青海频道,黑龙江频道,内蒙频道"
+
+exclude_pd="其他频道,地方频道,解说频道,春晚频道,体验频道,央视付费频道,咪咕直播,更新时间,"
+
+
+cd IPTV;
+> IPTV_update.sqltmp;
+for m3u_file in `ls|grep '.m3u'`
+do  
+
+echo ${m3u_file}
+group_name=`echo ${m3u_file}|awk -F '.m3u' '{print$1}'|sed 's/[^[:alpha:]]//g'`
+echo "INSERT  into tvbox.tv_category(name,enable,type) (select '${group_name}','1','default' from tvbox.tv_category where not EXISTS (SELECT name from tvbox.tv_category WHERE name='${group_name}')limit 1);" >> IPTV_update.sqltmp
+if [[ ${default_assign_first} =~ ${group_name} ]] || [[ ${default_assign_second} =~ ${group_name} ]];then
+    echo "${group_name} has in there default assign......"
+else
+    if [[ ${exclude_pd} =~ ${group_name} ]]; then
+       echo "${group_name} is in exclude_pd,not assign!!!!"
+    else
+      default_assign_first=`echo ${default_assign_first}${group_name},`
+    fi
+fi
+
+
+    lines_num=`wc -l ${m3u_file}|awk '{printf$1}'`
+    for (( i=1;i<${lines_num};i++ ))
+    do 
+        line_nu=$i
+        line_next=` expr $i + 1 `
+        #echo $line_nu
+        #echo $line_next
+        
+        #echo `sed -n "${line_nu}p" ${m3u_file}|grep '^#'`
+        check_id=`sed -n "${line_nu}p" ${m3u_file}|grep '^#'|wc -l`
+        if [ ` sed -n "${line_nu}p" ${m3u_file}|grep -E "4K|8K|欧洲|美洲"|wc -l `  -eq "0" ];then
+           
+        if [ "${check_id}" -ne 0 ];then
+    	    #echo  `sed -n "${line_next}p" ${m3u_file}|grep '^http'`
+    	    check_url=`sed -n "${line_next}p" ${m3u_file}|grep '^http'|wc -l`
+    	    if [[ "${check_url}" -ne 0 ]];then
+    		      item_id=`sed -n "${line_nu}p" ${m3u_file}|awk -F'tvg-name=' '{print$2}'|awk '{printf$1}' |sed 's/"//g'`
+    			    item_group=`sed -n "${line_nu}p" ${m3u_file}|awk -F'group-title=' '{print$2}'|awk '{printf$1}' |sed 's/"//g'|awk -F',' '{printf$1}'|sed 's/[^[:alpha:]]//g'`
+    			    item_url=`sed -n "${line_next}p" ${m3u_file}|grep '^http'`
+    			    echo "INSERT into tvbox.tv_channels(name,category,url) select '${item_id}','${item_group}','${item_url}' where NOT EXISTS (SELECT 1 FROM tvbox.tv_channels WHERE url='${item_url}');" >> IPTV_update.sqltmp
+    			    i=` expr $i + 1 `
+    	    fi
+    	fi
+
+     fi
+    done
+
+done
 ☘️上海频道.m3u
 上海频道 has in there default assign......
 ☘️云南频道.m3u
@@ -116,21 +354,181 @@
 更新时间 is in exclude_pd,not assign!!!!
 🪁动画频道.m3u
 动画频道 has in there default assign......
+> IPTV_update.sql;
+echo "set character_set_server='utf8';" >> IPTV_update.sql;
+echo "TRUNCATE table tvbox.tv_channels;" >> IPTV_update.sql;
+echo "INSERT into tvbox.tv_channels(name,category,url) values('default', 'default', 'default');" >> IPTV_update.sql;
+echo "SELECT SLEEP(5);" >> IPTV_update.sql;
+cat IPTV_update.sqltmp|grep -iE "总台|央视"|grep -v '\\'|grep -v liveshow >> IPTV_update.sql;
+cat IPTV_update.sqltmp|grep -ivE "总台|央视"|grep -v '\\' >> IPTV_update.sql;
+echo "DELETE FROM tvbox.tv_channels where name='default';" >> IPTV_update.sql;
+default_assign_all="${default_assign_first}${default_assign_second}"
+
+#添加自动赋权
+echo "UPDATE tvbox.tv_meals SET mealname='默认套餐', listinfo='${default_assign_all}' WHERE id=1;" >> IPTV_update.sql;
+
+rm -f IPTV_update.sqltmp;
+cd ../;
+#!/bin/bash
+cd $(dirname $0);
+cd ../;
+echo "check duochang......"
 check duochang......
+
+cd duochang;
+> duochang_update.sql;
+> duochang_update.sqltmp;
+> duochang.listtmp;
+
+#duochangjuhe
+cat juhe.list|while read line;
+do
+    api_name=`echo -n ${line}|awk '{print$1}'`
+    api_url=`echo -n ${line}|awk '{print$2}'`
+    echo ${api_name} ${api_url}
+    	if [ "${api_name}" == "" ] || [ "${api_url}" == "" ];then
+	   continue
+	fi
+    python ../scripts/analyse_json.py ${api_url} 'add' >>duochang.listtmp;
+
+
+done
 欧歌聚合 https://m.nxog.top/nxog/ou1.php
+Traceback (most recent call last):
+  File "/home/runner/work/IPTVN/IPTVN/duochang/../scripts/analyse_json.py", line 15, in <module>
+    main(item)
+  File "/home/runner/work/IPTVN/IPTVN/duochang/../scripts/analyse_json.py", line 8, in main
+    response = urllib.request.urlopen(url,timeout=10.0)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 215, in urlopen
+    return opener.open(url, data, timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 521, in open
+    response = meth(req, response)
+               ^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 630, in http_response
+    response = self.parent.error(
+               ^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 559, in error
+    return self._call_chain(*args)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 492, in _call_chain
+    result = func(*args)
+             ^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 639, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 404: Not Found
 七星线路 https://qixing.myhkw.com/DC.txt
 宝盒视界 https://raw.githubusercontent.com/guot55/yg/main/ysdc.json
 天微精选仓 https://qixing.myhkw.com/DC.txt
 毒药 https://tv.youdu.fan:666
 小盒子多仓 http://xhztv.top/tvbox.txt
 星河多仓 http://52bsj.vip:81/api/v3/file/get/65430/zongcang.txt?sign=9ncAS6eZ86xmIZGf5FGGdNuBvztyubgFNamtypebe08%3D%3A0
+Traceback (most recent call last):
+  File "/usr/lib/python3.12/urllib/request.py", line 1344, in do_open
+    h.request(req.get_method(), req.selector, req.data, headers,
+  File "/usr/lib/python3.12/http/client.py", line 1336, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "/usr/lib/python3.12/http/client.py", line 1382, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "/usr/lib/python3.12/http/client.py", line 1331, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "/usr/lib/python3.12/http/client.py", line 1091, in _send_output
+    self.send(msg)
+  File "/usr/lib/python3.12/http/client.py", line 1035, in send
+    self.connect()
+  File "/usr/lib/python3.12/http/client.py", line 1001, in connect
+    self.sock = self._create_connection(
+                ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/socket.py", line 852, in create_connection
+    raise exceptions[0]
+  File "/usr/lib/python3.12/socket.py", line 837, in create_connection
+    sock.connect(sa)
+TimeoutError: timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/runner/work/IPTVN/IPTVN/duochang/../scripts/analyse_json.py", line 15, in <module>
+    main(item)
+  File "/home/runner/work/IPTVN/IPTVN/duochang/../scripts/analyse_json.py", line 8, in main
+    response = urllib.request.urlopen(url,timeout=10.0)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 215, in urlopen
+    return opener.open(url, data, timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 515, in open
+    response = self._open(req, data)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 532, in _open
+    result = self._call_chain(self.handle_open, protocol, protocol +
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 492, in _call_chain
+    result = func(*args)
+             ^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 1373, in http_open
+    return self.do_open(http.client.HTTPConnection, req)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 1347, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error timed out>
 业余打发多仓 https://raw.githubusercontent.com/yyfxz/qqtv/main/qq.json
 运输车多仓 https://weixine.net/api.json
+Traceback (most recent call last):
+  File "/home/runner/work/IPTVN/IPTVN/duochang/../scripts/analyse_json.py", line 15, in <module>
+    main(item)
+  File "/home/runner/work/IPTVN/IPTVN/duochang/../scripts/analyse_json.py", line 8, in main
+    response = urllib.request.urlopen(url,timeout=10.0)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 215, in urlopen
+    return opener.open(url, data, timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 521, in open
+    response = meth(req, response)
+               ^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 630, in http_response
+    response = self.parent.error(
+               ^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 559, in error
+    return self._call_chain(*args)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 492, in _call_chain
+    result = func(*args)
+             ^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 639, in http_error_default
+    raise HTTPError(req.full_url, code, msg, hdrs, fp)
+urllib.error.HTTPError: HTTP Error 403: Forbidden
 影视线路 https://raw.githubusercontent.com/adminouyang/231006/refs/heads/main/tvbox/%E5%BD%B1%E8%A7%86%E7%BA%BF%E8%B7%AF.txt
 网络名家 https://raw.githubusercontent.com/adminouyang/231006/refs/heads/main/tvbox/%E7%BD%91%E7%BB%9C%E5%90%8D%E5%AE%B6.txt
 
 
 
+
+sed -i 's#https://ghproxy.net/##g' duochang.listtmp;
+
+cat duochang.listtmp|sort|uniq|while read line;
+do
+    api_name=`echo -n ${line}|awk '{print$1}'|sed 's/[^[:alpha:]]//g'`
+    api_url=`echo -n ${line}|awk '{print$2}'`
+	
+	if [ "${api_name}" == "" ] || [ "${api_url}" == "" ];then
+	   continue
+	fi
+	
+    echo "start check ${api_url}......"
+    response=$( curl -s -L --max-time 10 "$api_url"|grep key|grep name|wc -l)
+
+    if [[ $response -gt 10  ]]; then
+      echo "URL is accessible"
+
+      echo "INSERT into tvbox.tv_app_duocang(name, url, appid, status, status_dcjm) select '${api_name}','${api_url}','10000','y','n' where NOT EXISTS (SELECT 1 FROM tvbox.tv_app_duocang WHERE name = '${api_name}');" >> duochang_update.sqltmp
+
+
+
+    else
+      echo "URL is unaccessible,ignore update"
+    fi
+done
 start check https://ghproxy.cc/https://raw.githubusercontent.com/adminouyang/231006/refs/heads/main/tvbox/点播源/CandyMuj.txt......
 URL is accessible
 start check https://download.kstore.space/download/2883/nzk/nzk0722.json......
@@ -156,6 +554,7 @@ URL is unaccessible,ignore update
 start check https://play.iptv365.org/iptv365/api.json......
 URL is unaccessible,ignore update
 start check http://ok321.top/tv......
+grep: (standard input): binary file matches
 URL is unaccessible,ignore update
 start check https://gitcode.net/ygbh66/yg/-/raw/main/pg/bh2.json......
 URL is unaccessible,ignore update
@@ -391,6 +790,34 @@ start check http://fmys.top/fmys.json......
 URL is unaccessible,ignore update
 start check https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json......
 URL is accessible
+
+ rm -f duochang.listtmp;
+
+
+cat api.list|while read line;
+do
+    api_name=`echo -n ${line}|awk '{print$1}'`
+    api_url=`echo -n ${line}|awk '{print$2}'`
+	
+	if [ "${api_name}" == "" ] || [ "${api_url}" == "" ];then
+	   continue
+	fi
+	
+    echo "start check ${api_url}......"
+    response=$(curl -o /dev/null -L -s -w "%{http_code}" --max-time 10 "$api_url")
+
+    if [[ $response -ge 200 && $response -lt 400 ]]; then
+
+      echo "URL is accessible"
+
+      echo "INSERT into tvbox.tv_app_duocang(name, url, appid, status, status_dcjm) select '${api_name}','${api_url}','10000','y','n' where NOT EXISTS (SELECT 1 FROM tvbox.tv_app_duocang WHERE name = '${api_name}');" >> duochang_update.sqltmp
+
+
+
+    else
+      echo "URL is unaccessible,ignore update"
+    fi
+done
 start check http://影视仓.com......
 URL is accessible
 start check http://我不是.摸鱼儿.com......
@@ -447,3 +874,16 @@ start check https://wget.la/raw.githubusercontent.com/gaotianliuyun/gao/master/j
 URL is accessible
 start check https://raw.liucn.cc/box/m.json......
 URL is accessible
+
+check_res=`cat duochang_update.sqltmp|sort|uniq|wc -l`
+
+if [ "${check_res}" -ne "0" ];then
+
+  echo "set character_set_server='utf8';" >> duochang_update.sql;
+  #echo "UPDATE tvbox.tv_app SET appkey = 'bef838a270105a93935038c844192fd3' WHERE name = '群晖影视';" >> duochang_update.sql;
+  cat duochang_update.sqltmp|sort|uniq >> duochang_update.sql;
+fi
+  rm -f duochang_update.sqltmp;
+
+
+cd ../;
