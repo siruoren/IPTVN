@@ -2,7 +2,7 @@
 
 # 本源码仅供学习，禁止用于违法犯罪行为，否则后果自负！
 
-# Auto Update IPTV at 2025-03-16 00:23:38 CST
+# Auto Update IPTV at 2025-03-17 00:24:12 CST
 ----------------------------------------------------
 #!/bin/bash
 cd $(dirname $0);
@@ -18,70 +18,70 @@ wget ${src_url} -O ${src_name}.m3u;cat ${src_name}.m3u >> ../IPTV.m3u;rm -f ${sr
 
 
 done < iptv_src.list;
---2025-03-16 00:23:38--  https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u
-Resolving raw.githubusercontent.com (raw.githubusercontent.com)... 185.199.108.133, 185.199.109.133, 185.199.110.133, ...
-Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|185.199.108.133|:443... connected.
+--2025-03-17 00:24:12--  https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u
+Resolving raw.githubusercontent.com (raw.githubusercontent.com)... 185.199.111.133, 185.199.108.133, 185.199.109.133, ...
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|185.199.111.133|:443... connected.
 HTTP request sent, awaiting response... 200 OK
-Length: 524689 (512K) [text/plain]
+Length: 523324 (511K) [text/plain]
 Saving to: ‘Guovin.m3u’
 
-     0K .......... .......... .......... .......... ..........  9% 10.7M 0s
-    50K .......... .......... .......... .......... .......... 19% 19.5M 0s
-   100K .......... .......... .......... .......... .......... 29%  114M 0s
-   150K .......... .......... .......... .......... .......... 39% 88.6M 0s
-   200K .......... .......... .......... .......... .......... 48% 31.7M 0s
-   250K .......... .......... .......... .......... .......... 58%  162M 0s
-   300K .......... .......... .......... .......... .......... 68%  216M 0s
-   350K .......... .......... .......... .......... .......... 78%  193M 0s
-   400K .......... .......... .......... .......... .......... 87%  152M 0s
-   450K .......... .......... .......... .......... .......... 97% 49.5M 0s
-   500K .......... ..                                         100%  152M=0.01s
+     0K .......... .......... .......... .......... ..........  9% 7.79M 0s
+    50K .......... .......... .......... .......... .......... 19% 23.2M 0s
+   100K .......... .......... .......... .......... .......... 29% 16.2M 0s
+   150K .......... .......... .......... .......... .......... 39% 52.9M 0s
+   200K .......... .......... .......... .......... .......... 48% 34.4M 0s
+   250K .......... .......... .......... .......... .......... 58% 18.0M 0s
+   300K .......... .......... .......... .......... .......... 68%  177M 0s
+   350K .......... .......... .......... .......... .......... 78%  243M 0s
+   400K .......... .......... .......... .......... .......... 88% 61.1M 0s
+   450K .......... .......... .......... .......... .......... 97% 37.9M 0s
+   500K .......... .                                          100% 20.6T=0.02s
 
-2025-03-16 00:23:39 (42.5 MB/s) - ‘Guovin.m3u’ saved [524689/524689]
+2025-03-17 00:24:12 (26.3 MB/s) - ‘Guovin.m3u’ saved [523324/523324]
 
---2025-03-16 00:23:39--  https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
-Resolving raw.githubusercontent.com (raw.githubusercontent.com)... 185.199.108.133, 185.199.110.133, 185.199.111.133, ...
-Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|185.199.108.133|:443... connected.
+--2025-03-17 00:24:13--  https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
+Resolving raw.githubusercontent.com (raw.githubusercontent.com)... 185.199.109.133, 185.199.108.133, 185.199.111.133, ...
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|185.199.109.133|:443... connected.
 HTTP request sent, awaiting response... 200 OK
 Length: 48434 (47K) [text/plain]
 Saving to: ‘fangming.m3u’
 
-     0K .......... .......... .......... .......... .......   100% 23.5M=0.002s
+     0K .......... .......... .......... .......... .......   100% 8.93M=0.005s
 
-2025-03-16 00:23:39 (23.5 MB/s) - ‘fangming.m3u’ saved [48434/48434]
+2025-03-17 00:24:13 (8.93 MB/s) - ‘fangming.m3u’ saved [48434/48434]
 
---2025-03-16 00:23:39--  https://raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.m3u
-Resolving raw.githubusercontent.com (raw.githubusercontent.com)... 185.199.110.133, 185.199.109.133, 185.199.108.133, ...
-Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|185.199.110.133|:443... connected.
-HTTP request sent, awaiting response... 200 OK
-Length: 593562 (580K) [text/plain]
-Saving to: ‘vbskycn_iptv4.m3u’
-
-     0K .......... .......... .......... .......... ..........  8% 23.3M 0s
-    50K .......... .......... .......... .......... .......... 17% 59.8M 0s
-   100K .......... .......... .......... .......... .......... 25% 26.6M 0s
-   150K .......... .......... .......... .......... .......... 34%  205M 0s
-   200K .......... .......... .......... .......... .......... 43%  198M 0s
-   250K .......... .......... .......... .......... .......... 51% 31.2M 0s
-   300K .......... .......... .......... .......... .......... 60%  199M 0s
-   350K .......... .......... .......... .......... .......... 69%  147M 0s
-   400K .......... .......... .......... .......... .......... 77%  201M 0s
-   450K .......... .......... .......... .......... .......... 86%  186M 0s
-   500K .......... .......... .......... .......... .......... 94%  235M 0s
-   550K .......... .......... .........                       100%  391M=0.008s
-
-2025-03-16 00:23:39 (69.4 MB/s) - ‘vbskycn_iptv4.m3u’ saved [593562/593562]
-
---2025-03-16 00:23:39--  https://raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv6.m3u
-Resolving raw.githubusercontent.com (raw.githubusercontent.com)... 185.199.108.133, 185.199.109.133, 185.199.110.133, ...
+--2025-03-17 00:24:13--  https://raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.m3u
+Resolving raw.githubusercontent.com (raw.githubusercontent.com)... 185.199.108.133, 185.199.111.133, 185.199.110.133, ...
 Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|185.199.108.133|:443... connected.
 HTTP request sent, awaiting response... 200 OK
-Length: 17487 (17K) [text/plain]
+Length: 587133 (573K) [text/plain]
+Saving to: ‘vbskycn_iptv4.m3u’
+
+     0K .......... .......... .......... .......... ..........  8% 8.92M 0s
+    50K .......... .......... .......... .......... .......... 17% 24.0M 0s
+   100K .......... .......... .......... .......... .......... 26% 12.1M 0s
+   150K .......... .......... .......... .......... .......... 34% 75.5M 0s
+   200K .......... .......... .......... .......... .......... 43% 11.6M 0s
+   250K .......... .......... .......... .......... .......... 52%  170M 0s
+   300K .......... .......... .......... .......... .......... 61%  189M 0s
+   350K .......... .......... .......... .......... .......... 69% 58.3M 0s
+   400K .......... .......... .......... .......... .......... 78%  149M 0s
+   450K .......... .......... .......... .......... .......... 87%  102M 0s
+   500K .......... .......... .......... .......... .......... 95% 16.6M 0s
+   550K .......... .......... ...                             100% 55.3M=0.02s
+
+2025-03-17 00:24:13 (25.5 MB/s) - ‘vbskycn_iptv4.m3u’ saved [587133/587133]
+
+--2025-03-17 00:24:13--  https://raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv6.m3u
+Resolving raw.githubusercontent.com (raw.githubusercontent.com)... 185.199.111.133, 185.199.110.133, 185.199.108.133, ...
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|185.199.111.133|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 16929 (17K) [text/plain]
 Saving to: ‘vbskycn_iptv6.m3u’
 
-     0K .......... .......                                    100% 85.1M=0s
+     0K .......... ......                                     100% 38.6M=0s
 
-2025-03-16 00:23:39 (85.1 MB/s) - ‘vbskycn_iptv6.m3u’ saved [17487/17487]
+2025-03-17 00:24:13 (38.6 MB/s) - ‘vbskycn_iptv6.m3u’ saved [16929/16929]
 
 
 
@@ -94,55 +94,56 @@ for i in `ls`; do group_name=`echo ${i}|awk -F '.' '{print$1}'`; grep -A 1 "${gr
 cd ../
 # 节目源
 rm -f EPG.xml && wget https://epg.112114.xyz/pp.xml -O EPG.xml
---2025-03-16 00:23:39--  https://epg.112114.xyz/pp.xml
-Resolving epg.112114.xyz (epg.112114.xyz)... 104.21.85.82, 172.67.203.219
-Connecting to epg.112114.xyz (epg.112114.xyz)|104.21.85.82|:443... connected.
+--2025-03-17 00:24:13--  https://epg.112114.xyz/pp.xml
+Resolving epg.112114.xyz (epg.112114.xyz)... 172.67.203.219, 104.21.85.82
+Connecting to epg.112114.xyz (epg.112114.xyz)|172.67.203.219|:443... connected.
 HTTP request sent, awaiting response... 200 OK
-Length: 2035510 (1.9M) [text/xml]
+Length: 2083868 (2.0M) [text/xml]
 Saving to: ‘EPG.xml’
 
-     0K .......... .......... .......... .......... ..........  2%  100M 0s
-    50K .......... .......... .......... .......... ..........  5% 21.2M 0s
-   100K .......... .......... .......... .......... ..........  7% 25.7M 0s
-   150K .......... .......... .......... .......... .......... 10% 57.2M 0s
-   200K .......... .......... .......... .......... .......... 12%  336M 0s
-   250K .......... .......... .......... .......... .......... 15% 35.9M 0s
-   300K .......... .......... .......... .......... .......... 17%  246M 0s
-   350K .......... .......... .......... .......... .......... 20% 76.7M 0s
-   400K .......... .......... .......... .......... .......... 22% 51.8M 0s
-   450K .......... .......... .......... .......... .......... 25%  300M 0s
-   500K .......... .......... .......... .......... .......... 27%  369M 0s
-   550K .......... .......... .......... .......... .......... 30%  316M 0s
-   600K .......... .......... .......... .......... .......... 32%  339M 0s
-   650K .......... .......... .......... .......... .......... 35%  267M 0s
-   700K .......... .......... .......... .......... .......... 37%  368M 0s
-   750K .......... .......... .......... .......... .......... 40%  223M 0s
-   800K .......... .......... .......... .......... .......... 42%  304M 0s
-   850K .......... .......... .......... .......... .......... 45%  333M 0s
-   900K .......... .......... .......... .......... .......... 47%  371M 0s
-   950K .......... .......... .......... .......... .......... 50%  336M 0s
-  1000K .......... .......... .......... .......... .......... 52% 54.5M 0s
-  1050K .......... .......... .......... .......... .......... 55%  159M 0s
-  1100K .......... .......... .......... .......... .......... 57%  344M 0s
-  1150K .......... .......... .......... .......... .......... 60% 84.2M 0s
-  1200K .......... .......... .......... .......... .......... 62%  354M 0s
-  1250K .......... .......... .......... .......... .......... 65%  334M 0s
-  1300K .......... .......... .......... .......... .......... 67%  271M 0s
-  1350K .......... .......... .......... .......... .......... 70%  375M 0s
-  1400K .......... .......... .......... .......... .......... 72%  379M 0s
-  1450K .......... .......... .......... .......... .......... 75%  375M 0s
-  1500K .......... .......... .......... .......... .......... 77%  109M 0s
-  1550K .......... .......... .......... .......... .......... 80%  224M 0s
-  1600K .......... .......... .......... .......... .......... 83%  280M 0s
-  1650K .......... .......... .......... .......... .......... 85%  364M 0s
-  1700K .......... .......... .......... .......... .......... 88%  378M 0s
-  1750K .......... .......... .......... .......... .......... 90%  319M 0s
-  1800K .......... .......... .......... .......... .......... 93%  353M 0s
-  1850K .......... .......... .......... .......... .......... 95%  376M 0s
-  1900K .......... .......... .......... .......... .......... 98%  377M 0s
-  1950K .......... .......... .......... .......              100%  277M=0.02s
+     0K .......... .......... .......... .......... ..........  2%  116M 0s
+    50K .......... .......... .......... .......... ..........  4% 8.80M 0s
+   100K .......... .......... .......... .......... ..........  7% 10.4M 0s
+   150K .......... .......... .......... .......... ..........  9% 47.5M 0s
+   200K .......... .......... .......... .......... .......... 12%  154M 0s
+   250K .......... .......... .......... .......... .......... 14% 11.0M 0s
+   300K .......... .......... .......... .......... .......... 17% 77.2M 0s
+   350K .......... .......... .......... .......... .......... 19%  224M 0s
+   400K .......... .......... .......... .......... .......... 22%  315M 0s
+   450K .......... .......... .......... .......... .......... 24%  318M 0s
+   500K .......... .......... .......... .......... .......... 27% 98.5M 0s
+   550K .......... .......... .......... .......... .......... 29%  297M 0s
+   600K .......... .......... .......... .......... .......... 31% 14.6M 0s
+   650K .......... .......... .......... .......... .......... 34%  140M 0s
+   700K .......... .......... .......... .......... .......... 36%  264M 0s
+   750K .......... .......... .......... .......... .......... 39%  152M 0s
+   800K .......... .......... .......... .......... .......... 41%  219M 0s
+   850K .......... .......... .......... .......... .......... 44%  270M 0s
+   900K .......... .......... .......... .......... .......... 46%  224M 0s
+   950K .......... .......... .......... .......... .......... 49%  201M 0s
+  1000K .......... .......... .......... .......... .......... 51%  243M 0s
+  1050K .......... .......... .......... .......... .......... 54% 93.0M 0s
+  1100K .......... .......... .......... .......... .......... 56%  351M 0s
+  1150K .......... .......... .......... .......... .......... 58%  106M 0s
+  1200K .......... .......... .......... .......... .......... 61%  348M 0s
+  1250K .......... .......... .......... .......... .......... 63%  194M 0s
+  1300K .......... .......... .......... .......... .......... 66%  219M 0s
+  1350K .......... .......... .......... .......... .......... 68%  139M 0s
+  1400K .......... .......... .......... .......... .......... 71%  323M 0s
+  1450K .......... .......... .......... .......... .......... 73% 38.0M 0s
+  1500K .......... .......... .......... .......... .......... 76%  311M 0s
+  1550K .......... .......... .......... .......... .......... 78%  137M 0s
+  1600K .......... .......... .......... .......... .......... 81%  106M 0s
+  1650K .......... .......... .......... .......... .......... 83%  309M 0s
+  1700K .......... .......... .......... .......... .......... 85%  285M 0s
+  1750K .......... .......... .......... .......... .......... 88%  254M 0s
+  1800K .......... .......... .......... .......... .......... 90%  245M 0s
+  1850K .......... .......... .......... .......... .......... 93%  257M 0s
+  1900K .......... .......... .......... .......... .......... 95%  204M 0s
+  1950K .......... .......... .......... .......... .......... 98%  196M 0s
+  2000K .......... .......... .......... .....                100%  273M=0.03s
 
-2025-03-16 00:23:40 (128 MB/s) - ‘EPG.xml’ saved [2035510/2035510]
+2025-03-17 00:24:13 (67.3 MB/s) - ‘EPG.xml’ saved [2083868/2083868]
 
 
 #iptv_to_sql
@@ -356,6 +357,33 @@ do
 done
 欧歌聚合 https://m.nxog.top/nxog/ou1.php
 Traceback (most recent call last):
+  File "/usr/lib/python3.12/urllib/request.py", line 1344, in do_open
+    h.request(req.get_method(), req.selector, req.data, headers,
+  File "/usr/lib/python3.12/http/client.py", line 1336, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "/usr/lib/python3.12/http/client.py", line 1382, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "/usr/lib/python3.12/http/client.py", line 1331, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "/usr/lib/python3.12/http/client.py", line 1091, in _send_output
+    self.send(msg)
+  File "/usr/lib/python3.12/http/client.py", line 1035, in send
+    self.connect()
+  File "/usr/lib/python3.12/http/client.py", line 1477, in connect
+    self.sock = self._context.wrap_socket(self.sock,
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/ssl.py", line 455, in wrap_socket
+    return self.sslsocket_class._create(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/ssl.py", line 1042, in _create
+    self.do_handshake()
+  File "/usr/lib/python3.12/ssl.py", line 1320, in do_handshake
+    self._sslobj.do_handshake()
+ConnectionResetError: [Errno 104] Connection reset by peer
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
   File "/home/runner/work/IPTVN/IPTVN/duochang/../scripts/analyse_json.py", line 15, in <module>
     main(item)
   File "/home/runner/work/IPTVN/IPTVN/duochang/../scripts/analyse_json.py", line 8, in main
@@ -364,27 +392,51 @@ Traceback (most recent call last):
   File "/usr/lib/python3.12/urllib/request.py", line 215, in urlopen
     return opener.open(url, data, timeout)
            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/usr/lib/python3.12/urllib/request.py", line 521, in open
-    response = meth(req, response)
-               ^^^^^^^^^^^^^^^^^^^
-  File "/usr/lib/python3.12/urllib/request.py", line 630, in http_response
-    response = self.parent.error(
-               ^^^^^^^^^^^^^^^^^^
-  File "/usr/lib/python3.12/urllib/request.py", line 559, in error
-    return self._call_chain(*args)
-           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 515, in open
+    response = self._open(req, data)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 532, in _open
+    result = self._call_chain(self.handle_open, protocol, protocol +
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
   File "/usr/lib/python3.12/urllib/request.py", line 492, in _call_chain
     result = func(*args)
              ^^^^^^^^^^^
-  File "/usr/lib/python3.12/urllib/request.py", line 639, in http_error_default
-    raise HTTPError(req.full_url, code, msg, hdrs, fp)
-urllib.error.HTTPError: HTTP Error 404: Not Found
+  File "/usr/lib/python3.12/urllib/request.py", line 1392, in https_open
+    return self.do_open(http.client.HTTPSConnection, req,
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/urllib/request.py", line 1347, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error [Errno 104] Connection reset by peer>
 七星线路 https://qixing.myhkw.com/DC.txt
 宝盒视界 https://raw.githubusercontent.com/guot55/yg/main/ysdc.json
 天微精选仓 https://qixing.myhkw.com/DC.txt
 毒药 https://tv.youdu.fan:666
 小盒子多仓 http://xhztv.top/tvbox.txt
 星河多仓 http://52bsj.vip:81/api/v3/file/get/65430/zongcang.txt?sign=9ncAS6eZ86xmIZGf5FGGdNuBvztyubgFNamtypebe08%3D%3A0
+Traceback (most recent call last):
+  File "/usr/lib/python3.12/urllib/request.py", line 1344, in do_open
+    h.request(req.get_method(), req.selector, req.data, headers,
+  File "/usr/lib/python3.12/http/client.py", line 1336, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "/usr/lib/python3.12/http/client.py", line 1382, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "/usr/lib/python3.12/http/client.py", line 1331, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "/usr/lib/python3.12/http/client.py", line 1091, in _send_output
+    self.send(msg)
+  File "/usr/lib/python3.12/http/client.py", line 1035, in send
+    self.connect()
+  File "/usr/lib/python3.12/http/client.py", line 1001, in connect
+    self.sock = self._create_connection(
+                ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/socket.py", line 852, in create_connection
+    raise exceptions[0]
+  File "/usr/lib/python3.12/socket.py", line 837, in create_connection
+    sock.connect(sa)
+TimeoutError: timed out
+
+During handling of the above exception, another exception occurred:
+
 Traceback (most recent call last):
   File "/home/runner/work/IPTVN/IPTVN/duochang/../scripts/analyse_json.py", line 15, in <module>
     main(item)
@@ -406,21 +458,9 @@ Traceback (most recent call last):
   File "/usr/lib/python3.12/urllib/request.py", line 1373, in http_open
     return self.do_open(http.client.HTTPConnection, req)
            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/usr/lib/python3.12/urllib/request.py", line 1348, in do_open
-    r = h.getresponse()
-        ^^^^^^^^^^^^^^^
-  File "/usr/lib/python3.12/http/client.py", line 1428, in getresponse
-    response.begin()
-  File "/usr/lib/python3.12/http/client.py", line 331, in begin
-    version, status, reason = self._read_status()
-                              ^^^^^^^^^^^^^^^^^^^
-  File "/usr/lib/python3.12/http/client.py", line 292, in _read_status
-    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
-               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/usr/lib/python3.12/socket.py", line 707, in readinto
-    return self._sock.recv_into(b)
-           ^^^^^^^^^^^^^^^^^^^^^^^
-TimeoutError: timed out
+  File "/usr/lib/python3.12/urllib/request.py", line 1347, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error timed out>
 业余打发多仓 https://raw.githubusercontent.com/yyfxz/qqtv/main/qq.json
 运输车多仓 https://weixine.net/api.json
 Traceback (most recent call last):
