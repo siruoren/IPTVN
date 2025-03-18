@@ -1,17 +1,17 @@
-#EXTINF:-1 tvg-name="金鹰卡通" tvg-id="金鹰卡通" tvg-logo="https://livecdn.zbds.top/logo/金鹰卡通.png" group-title="儿童频道", 金鹰卡通
-http://58.57.40.22:9901/tsfile/live/1059_1.m3u8
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-id="金鹰卡通" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/金鹰卡通.png" group-title="儿童频道", 金鹰卡通
+http://120.192.226.35:8009/hls/67/index.m3u8
 --
 #EXTINF:-1 tvg-name="黑莓动画" tvg-id="黑莓动画" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/黑莓动画.png" group-title="儿童频道", 黑莓动画
-http://api3.52tb.xyz/info?id=173&token=20221127jxwhhemby
+http://36.105.100.208:35455/itv/1000000004000021734.m3u8?cdn=ystenlive
 --
 #EXTINF:-1 tvg-name="卡酷少儿" tvg-id="卡酷少儿" tvg-logo="https://livecdn.zbds.top/logo/卡酷少儿.png" group-title="儿童频道", 卡酷少儿
 http://58.57.40.22:9901/tsfile/live/1060_1.m3u8
 #EXTINF:-1 tvg-name="嘉佳卡通" tvg-id="嘉佳卡通" tvg-logo="https://livecdn.zbds.top/logo/嘉佳卡通.png" group-title="儿童频道", 嘉佳卡通
 http://183.3.134.56:9901/tsfile/live/1007_1.m3u8
 #EXTINF:-1 tvg-name="炫动卡通" tvg-id="炫动卡通" tvg-logo="https://livecdn.zbds.top/logo/炫动卡通.png" group-title="儿童频道", 炫动卡通
-http://huangtong-com.cn:9902/tsfile/live/1033_1.m3u8
-#EXTINF:-1 tvg-name="金鹰卡通" tvg-id="金鹰卡通" tvg-logo="https://livecdn.zbds.top/logo/金鹰卡通.png" group-title="儿童频道", 金鹰卡通
-http://58.57.40.22:9901/tsfile/live/1059_1.m3u8
+http://218.15.183.23:9901/tsfile/live/23042_1.m3u8
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-id="金鹰卡通" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/金鹰卡通.png" group-title="儿童频道", 金鹰卡通
+http://120.192.226.35:8009/hls/67/index.m3u8
 #EXTINF:-1 tvg-name="浙江少儿" tvg-id="浙江少儿" tvg-logo="https://livecdn.zbds.top/logo/浙江少儿.png" group-title="儿童频道", 浙江少儿
 https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 --
@@ -49,6 +49,8 @@ http://124.248.69.76:26781/huya/11352919
 http://183.11.239.36:808/hls/157/index.m3u8
 #EXTINF:-1 tvg-name="火影忍者" tvg-id="火影忍者" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/火影忍者.png" group-title="儿童频道", 火影忍者
 https://hd.ijycnd.com/play/Yer3NWLa/index.m3u8
+#EXTINF:-1 tvg-name="猫和老鼠" tvg-id="猫和老鼠" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/猫和老鼠.png" group-title="儿童频道", 猫和老鼠
+http://1.94.31.214:35455/huya/11352879
 #EXTINF:-1 tvg-name="福州少儿" tvg-id="福州少儿" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/福州少儿.png" group-title="儿童频道", 福州少儿
 http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
 #EXTINF:-1 tvg-name="福建少儿" tvg-id="福建少儿" tvg-logo="https://livecdn.zbds.top/logo/福建少儿.png" group-title="儿童频道", 福建少儿

@@ -1,7 +1,6 @@
 set character_set_server='utf8';
 INSERT into tvbox.tv_app_duocang(name, url, appid, status, status_dcjm) select 'CandyMuj','https://ghproxy.cc/https://raw.githubusercontent.com/adminouyang/231006/refs/heads/main/tvbox/点播源/CandyMuj.txt','10000','y','n' where NOT EXISTS (SELECT 1 FROM tvbox.tv_app_duocang WHERE name = 'CandyMuj');
 INSERT into tvbox.tv_app_duocang(name, url, appid, status, status_dcjm) select 'Moew','https://ghproxy.cc/https://raw.githubusercontent.com/adminouyang/231006/refs/heads/main/tvbox/点播源/Moew.txt','10000','y','n' where NOT EXISTS (SELECT 1 FROM tvbox.tv_app_duocang WHERE name = 'Moew');
-INSERT into tvbox.tv_app_duocang(name, url, appid, status, status_dcjm) select 'OK影视','https://jsdelivr.pai233.top/gh/2hacc/TVBox@main/oktv.json','10000','y','n' where NOT EXISTS (SELECT 1 FROM tvbox.tv_app_duocang WHERE name = 'OK影视');
 INSERT into tvbox.tv_app_duocang(name, url, appid, status, status_dcjm) select 'OK线路','http://ok321.top/tv','10000','y','n' where NOT EXISTS (SELECT 1 FROM tvbox.tv_app_duocang WHERE name = 'OK线路');
 INSERT into tvbox.tv_app_duocang(name, url, appid, status, status_dcjm) select 'Ray','https://wget.la/https://raw.githubusercontent.com/dxawi/0/main/0.json','10000','y','n' where NOT EXISTS (SELECT 1 FROM tvbox.tv_app_duocang WHERE name = 'Ray');
 INSERT into tvbox.tv_app_duocang(name, url, appid, status, status_dcjm) select 'kstore','https://12586.kstore.space/123.json','10000','y','n' where NOT EXISTS (SELECT 1 FROM tvbox.tv_app_duocang WHERE name = 'kstore');

@@ -56,12 +56,6 @@ http://220.180.124.18:888/live/ch0.m3u8
 http://112.30.194.221:20080/live/4f38ef59c79e4d4bac1a995681102573/hls.m3u8
 #EXTINF:-1 tvg-name="广德生活" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/广德生活.png" group-title="☘️安徽频道",广德生活
 https://live.gdtv.ah.cn/live/newsTV.m3u8
-#EXTINF:-1 tvg-name="宿州科教" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/宿州科教.png" group-title="☘️安徽频道",宿州科教
-http://live.ahsz.tv/video/s10001-kxjy/index.m3u8#rtmp://live.ahsz.tv/video/s10001-kxjy
-#EXTINF:-1 tvg-name="宿州新闻综合" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/宿州新闻综合.png" group-title="☘️安徽频道",宿州新闻综合
-http://live.ahsz.tv/video/s10001-szzh/index.m3u8?zanhd
-#EXTINF:-1 tvg-name="宿州公共" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/宿州公共.png" group-title="☘️安徽频道",宿州公共
-http://live.ahsz.tv/video/s10001-ggpd/index.m3u8#@http://live.ahsz.tv/video/s10001-ggpd
 #EXTINF:-1 tvg-name="安徽影院" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/安徽影院.png" group-title="☘️安徽频道",安徽影院
 http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be/hls.m3u8?zanhd,
 #EXTINF:-1 tvg-name="六安新闻综合" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/六安新闻综合.png" group-title="☘️安徽频道",六安新闻综合
