@@ -1,11 +1,11 @@
 #EXTINF:-1 tvg-name="求索动物" tvg-id="求索动物" tvg-logo="https://livecdn.zbds.top/logo/求索动物.png" group-title="纪录频道", 求索动物
-http://102.134.52.163:50001/6000000002000010046/wasusyt/index.m3u8
+http://138.2.61.159:5000/6000000002000010046/wasusyt/index.m3u8
 #EXTINF:-1 tvg-name="求索纪录" tvg-id="求索纪录" tvg-logo="https://livecdn.zbds.top/logo/求索纪录.png" group-title="纪录频道", 求索纪录
-http://102.134.52.163:50001/6000000002000032052/wasusyt/index.m3u8
+http://138.2.61.159:5000/6000000002000032052/wasusyt/index.m3u8
 #EXTINF:-1 tvg-name="求索科学" tvg-id="求索科学" tvg-logo="https://livecdn.zbds.top/logo/求索科学.png" group-title="纪录频道", 求索科学
-http://102.134.52.163:50001/6000000002000032344/wasusyt/index.m3u8
+http://138.2.61.159:5000/6000000002000032344/wasusyt/index.m3u8
 #EXTINF:-1 tvg-name="求索生活" tvg-id="求索生活" tvg-logo="https://livecdn.zbds.top/logo/求索生活.png" group-title="纪录频道", 求索生活
-http://102.134.52.163:50001/6000000002000003382/wasusyt/index.m3u8
+http://138.2.61.159:5000/6000000002000003382/wasusyt/index.m3u8
 #EXTINF:-1 tvg-name="Discovery" tvg-id="Discovery" tvg-logo="https://livecdn.zbds.top/logo/Discovery.png" group-title="纪录频道", Discovery
 http://ott.watch/stream/E9LDH2ZCN7/146.m3u8
 #EXTINF:-1 tvg-name="航拍中国第一季" tvg-id="航拍中国第一季" tvg-logo="https://livecdn.zbds.top/logo/航拍中国第一季.png" group-title="纪录频道", 航拍中国第一季
@@ -14,43 +14,79 @@ http://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/8edf3fb6a69148ea9a7
 http://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/2bdfdad540b342f592f9817cb7f3b79a/4000.m3u8
 --
 #EXTINF:-1 tvg-name="求索动物" tvg-id="求索动物" tvg-logo="https://livecdn.zbds.top/logo/求索动物.png" group-title="纪录频道", 求索动物
-http://102.134.52.163:50001/6000000002000010046/wasusyt/index.m3u8
+http://138.2.61.159:5000/6000000002000010046/wasusyt/index.m3u8
 #EXTINF:-1 tvg-name="求索纪录" tvg-id="求索纪录" tvg-logo="https://livecdn.zbds.top/logo/求索纪录.png" group-title="纪录频道", 求索纪录
-http://102.134.52.163:50001/6000000002000032052/wasusyt/index.m3u8
+http://138.2.61.159:5000/6000000002000032052/wasusyt/index.m3u8
 #EXTINF:-1 tvg-name="求索科学" tvg-id="求索科学" tvg-logo="https://livecdn.zbds.top/logo/求索科学.png" group-title="纪录频道", 求索科学
-http://102.134.52.163:50001/6000000002000032344/wasusyt/index.m3u8
+http://138.2.61.159:5000/6000000002000032344/wasusyt/index.m3u8
 #EXTINF:-1 tvg-name="求索生活" tvg-id="求索生活" tvg-logo="https://livecdn.zbds.top/logo/求索生活.png" group-title="纪录频道", 求索生活
-http://102.134.52.163:50001/6000000002000003382/wasusyt/index.m3u8
+http://138.2.61.159:5000/6000000002000003382/wasusyt/index.m3u8
 --
+#EXTINF:-1 tvg-name="东丰" tvg-id="东丰" tvg-logo="https://livecdn.zbds.top/logo/东丰.png" group-title="纪录频道", 东丰
+http://stream5.jlntv.cn/df/sd/live.m3u8?zjild
 #EXTINF:-1 tvg-name="中国党员教育" tvg-id="中国党员教育" tvg-logo="https://livecdn.zbds.top/logo/中国党员教育.png" group-title="纪录频道", 中国党员教育
 http://12371ksc.v.kcdnvip.com/12371/dangyuanwang_1/index.m3u8
 #EXTINF:-1 tvg-name="中国村庄" tvg-id="中国村庄" tvg-logo="https://livecdn.zbds.top/logo/中国村庄.png" group-title="纪录频道", 中国村庄
 http://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/93fc12dbf14241c18c23da104fbade23/4000.m3u8
+#EXTINF:-1 tvg-name="乘着火车看中国" tvg-id="乘着火车看中国" tvg-logo="https://livecdn.zbds.top/logo/乘着火车看中国.png" group-title="纪录频道", 乘着火车看中国
+http://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/2b0f397ed9d948eb9fac38d73cde241b/4000.m3u8
+#EXTINF:-1 tvg-name="九台" tvg-id="九台" tvg-logo="https://livecdn.zbds.top/logo/九台.png" group-title="纪录频道", 九台
+http://stream10.jlntv.cn/jiutaitv/sd/live.m3u8?zjild
 #EXTINF:-1 tvg-name="人与自然" tvg-id="人与自然" tvg-logo="https://livecdn.zbds.top/logo/人与自然.png" group-title="纪录频道", 人与自然
 http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1425e1d505654cb48ba82b807b221193/1200.m3u8
 #EXTINF:-1 tvg-name="兵团五师双河影" tvg-id="兵团五师双河影" tvg-logo="https://livecdn.zbds.top/logo/兵团五师双河影.png" group-title="纪录频道", 兵团五师双河影
 https://liveout.btzx.com.cn/62ds9e/6o77s4.m3u8?zxinjd
 #EXTINF:-1 tvg-name="动物星球" tvg-id="动物星球" tvg-logo="https://livecdn.zbds.top/logo/动物星球.png" group-title="纪录频道", 动物星球
 http://61.221.215.25:8800/hls/57/index.m3u8
+#EXTINF:-1 tvg-name="双辽" tvg-id="双辽" tvg-logo="https://livecdn.zbds.top/logo/双辽.png" group-title="纪录频道", 双辽
+http://stream5.jlntv.cn/sl/sd/live.m3u8?zjild
 #EXTINF:-1 tvg-name="地理中国" tvg-id="地理中国" tvg-logo="https://livecdn.zbds.top/logo/地理中国.png" group-title="纪录频道", 地理中国
 http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/c6baf6f74bb944aeacee1065ea72c798/1200.m3u8
+#EXTINF:-1 tvg-name="奎屯汉语" tvg-id="奎屯汉语" tvg-logo="https://livecdn.zbds.top/logo/奎屯汉语.png" group-title="纪录频道", 奎屯汉语
+http://218.84.12.186:8001/hls/main/playlist.m3u8?zxinjd
 #EXTINF:-1 tvg-name="巧家" tvg-id="巧家" tvg-logo="https://livecdn.zbds.top/logo/巧家.png" group-title="纪录频道", 巧家
 http://livebroadcast.ccwb.cn/live/w1593303918254963.m3u8?zyund
 #EXTINF:-1 tvg-name="怒江新闻" tvg-id="怒江新闻" tvg-logo="https://livecdn.zbds.top/logo/怒江新闻.png" group-title="纪录频道", 怒江新闻
 http://livebroadcast.ccwb.cn/live/w1620805130988936.m3u8?zyund
 #EXTINF:-1 tvg-name="晋中公共" tvg-id="晋中公共" tvg-logo="https://livecdn.zbds.top/logo/晋中公共.png" group-title="纪录频道", 晋中公共
 http://jzlive.jztvnews.com:90/live/jzgg.m3u8?zshanxd
+#EXTINF:-1 tvg-name="柳河" tvg-id="柳河" tvg-logo="https://livecdn.zbds.top/logo/柳河.png" group-title="纪录频道", 柳河
+http://stream5.jlntv.cn/lh/sd/live.m3u8?zjild
+#EXTINF:-1 tvg-name="桦甸" tvg-id="桦甸" tvg-logo="https://livecdn.zbds.top/logo/桦甸.png" group-title="纪录频道", 桦甸
+http://stream10.jlntv.cn/huadian/sd/live.m3u8?zjild
+#EXTINF:-1 tvg-name="梵净山" tvg-id="梵净山" tvg-logo="https://livecdn.zbds.top/logo/梵净山.png" group-title="纪录频道", 梵净山
+http://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/b9571df1181c4422a83901e827519fe6/4000.m3u8
+#EXTINF:-1 tvg-name="江津新闻" tvg-id="江津新闻" tvg-logo="https://livecdn.zbds.top/logo/江津新闻.png" group-title="纪录频道", 江津新闻
+http://222.179.155.21:1935/ch1.m3u8?zzhongqd
+#EXTINF:-1 tvg-name="汪清" tvg-id="汪清" tvg-logo="https://livecdn.zbds.top/logo/汪清.png" group-title="纪录频道", 汪清
+http://stream5.jlntv.cn/wq/sd/live.m3u8?zjild
+#EXTINF:-1 tvg-name="潞城新闻" tvg-id="潞城新闻" tvg-logo="https://livecdn.zbds.top/logo/潞城新闻.png" group-title="纪录频道", 潞城新闻
+http://59.48.42.6:62204/lucheng.m3u8?zshanxd
+#EXTINF:-1 tvg-name="珲春新闻" tvg-id="珲春新闻" tvg-logo="https://livecdn.zbds.top/logo/珲春新闻.png" group-title="纪录频道", 珲春新闻
+http://stream8.jlntv.cn/hctv/sd/live.m3u8?zjild
 #EXTINF:-1 tvg-name="生命脉动" tvg-id="生命脉动" tvg-logo="https://livecdn.zbds.top/logo/生命脉动.png" group-title="纪录频道", 生命脉动
 http://hls.cntv.myhwcdn.cn/asp/hls/850/0303000a/3/default/c481b5826ffc4e99a92e01704c862dbc/850.m3u8
 #EXTINF:-1 tvg-name="白山公共" tvg-id="白山公共" tvg-logo="https://livecdn.zbds.top/logo/白山公共.png" group-title="纪录频道", 白山公共
 http://stream8.jlntv.cn/baishan2/playlist.m3u8?zjild
+#EXTINF:-1 tvg-name="磐石" tvg-id="磐石" tvg-logo="https://livecdn.zbds.top/logo/磐石.png" group-title="纪录频道", 磐石
+http://stream5.jlntv.cn/ps/sd/live.m3u8?zjild
 #EXTINF:-1 tvg-name="美丽中国自然" tvg-id="美丽中国自然" tvg-logo="https://livecdn.zbds.top/logo/美丽中国自然.png" group-title="纪录频道", 美丽中国自然
 http://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/51d937a0201f4c78a5878b4b37089f3b/4000.m3u8
 #EXTINF:-1 tvg-name="自然传奇" tvg-id="自然传奇" tvg-logo="https://livecdn.zbds.top/logo/自然传奇.png" group-title="纪录频道", 自然传奇
 http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/81a1ad3a661748bfb8560c92d38204ca/1200.m3u8
+#EXTINF:-1 tvg-name="舒兰新闻" tvg-id="舒兰新闻" tvg-logo="https://livecdn.zbds.top/logo/舒兰新闻.png" group-title="纪录频道", 舒兰新闻
+http://stream8.jlntv.cn/shulan/sd/live.m3u8?zjild
+#EXTINF:-1 tvg-name="辉南新闻" tvg-id="辉南新闻" tvg-logo="https://livecdn.zbds.top/logo/辉南新闻.png" group-title="纪录频道", 辉南新闻
+http://stream5.jlntv.cn/hn/sd/live.m3u8?zjild
 #EXTINF:-1 tvg-name="鄂托克旗电视台" tvg-id="鄂托克旗电视台" tvg-logo="https://livecdn.zbds.top/logo/鄂托克旗电视台.png" group-title="纪录频道", 鄂托克旗电视台
 http://110.19.181.138:10080/hls/F509Rh7GR/F509Rh7GR_live.m3u8?zneimd
+#EXTINF:-1 tvg-name="靖宇" tvg-id="靖宇" tvg-logo="https://livecdn.zbds.top/logo/靖宇.png" group-title="纪录频道", 靖宇
+http://stream8.jlntv.cn/jytv/sd/live.m3u8?zjild
+#EXTINF:-1 tvg-name="飞碟之谜01" tvg-id="飞碟之谜01" tvg-logo="https://livecdn.zbds.top/logo/飞碟之谜01.png" group-title="纪录频道", 飞碟之谜01
+https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/f0a47e155d32450daa1d36a04fd7d262/2000.m3u8
 #EXTINF:-1 tvg-name="飞碟之谜02" tvg-id="飞碟之谜02" tvg-logo="https://livecdn.zbds.top/logo/飞碟之谜02.png" group-title="纪录频道", 飞碟之谜02
 https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/d2454bbb542d4613a9db478dab2addfd/2000.m3u8
 #EXTINF:-1 tvg-name="麻栗坡电视台" tvg-id="麻栗坡电视台" tvg-logo="https://livecdn.zbds.top/logo/麻栗坡电视台.png" group-title="纪录频道", 麻栗坡电视台
 http://tvdrs.wsrtv.com.cn:8100/channellive/mlptv.flv?zyund
+#EXTINF:-1 tvg-name="龙井" tvg-id="龙井" tvg-logo="https://livecdn.zbds.top/logo/龙井.png" group-title="纪录频道", 龙井
+http://stream8.jlntv.cn/ljtv/sd/live.m3u8?zjild
