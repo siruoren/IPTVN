@@ -1,23 +1,23 @@
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="🎵音乐频道",CCTV-15
-http://58.243.224.244:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=0&authid=0
+http://tvbox6.icu/tv/migu.php?id=cctv15
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="🎵音乐频道",CCTV-15
 http://1.24.39.180:9003/hls/15/index.m3u8
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="🎵音乐频道",CCTV-15
+http://58.243.224.244:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="🎵音乐频道",CCTV-15
+http://219.135.180.210:18888/hls/15/index.m3u8
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="🎵音乐频道",CCTV-15
 http://113.140.12.230:8888/newlive/live/hls/15/live.m3u8
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="🎵音乐频道",CCTV-15
 http://110.53.52.63:8888/newlive/live/hls/17/live.m3u8
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="🎵音乐频道",CCTV-15
-https://api.olelive.com/dis/live/CCTV15HD/hls.m3u8
-#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="🎵音乐频道",CCTV-15
-http://219.135.180.210:18888/hls/15/index.m3u8
-#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="🎵音乐频道",CCTV-15
-http://huashetou.fun:35455/gaoma/cctv15.m3u8
-#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="🎵音乐频道",CCTV-15
 http://3501776.xyz:35455/itv/1000000005000265014.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="🎵音乐频道",CCTV-15
-http://39.77.34.83:35455/gaoma/cctv15.m3u8
-#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="🎵音乐频道",CCTV-15
 http://112.81.218.254:35455/gaoma/cctv15.m3u8
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="🎵音乐频道",CCTV-15
+http://36.105.100.208:35455/gaoma/cctv15.m3u8
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="🎵音乐频道",CCTV-15
+https://api.olelive.com/dis/live/CCTV15HD/hls.m3u8
 #EXTINF:-1 tvg-name="风云音乐" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/风云音乐.png" group-title="🎵音乐频道",风云音乐
 http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
 #EXTINF:-1 tvg-name="风云音乐" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/风云音乐.png" group-title="🎵音乐频道",风云音乐
