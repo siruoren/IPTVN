@@ -52,9 +52,20 @@ http://www.xzbn.site:35455/itv/1000000006000032327.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-name="哒啵赛事" tvg-id="哒啵赛事" tvg-logo="https://livecdn.zbds.top/logo/哒啵赛事.png" group-title="数字频道", 哒啵赛事
 http://www.xzbn.site:35455/itv/1000000001000003775.m3u8?cdn=ystenlive
 --
-#EXTINF:-1 tvg-name="魅力足球" tvg-id="魅力足球" tvg-logo="https://livecdn.zbds.top/logo/魅力足球.png" group-title="数字频道", 魅力足球
-http://www.xzbn.site:35455/itv/5000000011000031207.m3u8?cdn=bestzb
+#EXTINF:-1 tvg-name="五星体育" tvg-id="五星体育" tvg-logo="https://livecdn.zbds.top/logo/五星体育.png" group-title="数字频道", 五星体育
+http://www.xzbn.site:35455/itv/5000000010000017540.m3u8?cdn=bestzb
 --
+#EXTINF:-1 tvg-name="五星体育" tvg-id="五星体育" tvg-logo="https://livecdn.zbds.top/logo/五星体育.png" group-title="数字频道", 五星体育
+http://www.xzbn.site:35455/itv/5000000010000017540.m3u8?cdn=bestzb
+--
+#EXTINF:-1 tvg-name="求索动物" tvg-id="184" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/shuzi/Qiusuo3.png" group-title="数字频道", 求索动物
+http://www.xzbn.site:35455/itv/2000000004000000009.m3u8?cdn=hnbblive
+#EXTINF:-1 tvg-name="求索纪录" tvg-id="149" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/shuzi/Qiusuo1.png" group-title="数字频道", 求索纪录
+http://www.xzbn.site:35455/itv/2000000004000000010.m3u8?cdn=hnbblive
+#EXTINF:-1 tvg-name="求索科学" tvg-id="150" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/shuzi/Qiusuo2.png" group-title="数字频道", 求索科学
+http://www.xzbn.site:35455/itv/2000000004000000011.m3u8?cdn=hnbblive
+#EXTINF:-1 tvg-name="求索生活" tvg-id="171" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/shuzi/Qiusuo4.png" group-title="数字频道", 求索生活
+http://www.xzbn.site:35455/itv/2000000004000000008.m3u8?cdn=hnbblive
 #EXTINF:-1 tvg-name="法治天地" tvg-id="法治天地" tvg-logo="https://livecdn.zbds.top/logo/法治天地.png" group-title="数字频道", 法治天地
 http://www.xzbn.site:35455/itv/2000000002000000014.m3u8?cdn=hnbblive
 #EXTINF:-1 tvg-name="金色学堂" tvg-id="金色学堂" tvg-logo="https://livecdn.zbds.top/logo/金色学堂.png" group-title="数字频道", 金色学堂
@@ -66,16 +77,37 @@ http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
 --
 #EXTINF:-1 tvg-name="法治天地" tvg-id="法治天地" tvg-logo="https://livecdn.zbds.top/logo/法治天地.png" group-title="数字频道", 法治天地
 http://www.xzbn.site:35455/itv/2000000002000000014.m3u8?cdn=hnbblive
+#EXTINF:-1 tvg-name="求索动物" tvg-id="184" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/shuzi/Qiusuo3.png" group-title="数字频道", 求索动物
+http://www.xzbn.site:35455/itv/2000000004000000009.m3u8?cdn=hnbblive
+#EXTINF:-1 tvg-name="求索纪录" tvg-id="149" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/shuzi/Qiusuo1.png" group-title="数字频道", 求索纪录
+http://www.xzbn.site:35455/itv/2000000004000000010.m3u8?cdn=hnbblive
+#EXTINF:-1 tvg-name="求索科学" tvg-id="150" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/shuzi/Qiusuo2.png" group-title="数字频道", 求索科学
+http://www.xzbn.site:35455/itv/2000000004000000011.m3u8?cdn=hnbblive
+#EXTINF:-1 tvg-name="求索生活" tvg-id="171" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/shuzi/Qiusuo4.png" group-title="数字频道", 求索生活
+http://www.xzbn.site:35455/itv/2000000004000000008.m3u8?cdn=hnbblive
 --
-#EXTINF:-1 tvg-name="魅力足球" tvg-id="魅力足球" tvg-logo="https://livecdn.zbds.top/logo/魅力足球.png" group-title="数字频道", 魅力足球
-http://www.xzbn.site:35455/itv/5000000011000031207.m3u8?cdn=bestzb
+#EXTINF:-1 tvg-name="五星体育" tvg-id="五星体育" tvg-logo="https://livecdn.zbds.top/logo/五星体育.png" group-title="数字频道", 五星体育
+http://www.xzbn.site:35455/itv/5000000010000017540.m3u8?cdn=bestzb
+--
+#EXTINF:-1 tvg-name="五星体育" tvg-id="五星体育" tvg-logo="https://livecdn.zbds.top/logo/五星体育.png" group-title="数字频道", 五星体育
+http://www.xzbn.site:35455/itv/5000000010000017540.m3u8?cdn=bestzb
 --
 #EXTINF:-1 tvg-name="哒啵电竞" tvg-id="哒啵电竞" tvg-logo="https://livecdn.zbds.top/logo/哒啵电竞.png" group-title="数字频道", 哒啵电竞
 http://www.xzbn.site:35455/itv/1000000006000032327.m3u8?cdn=ystenlive
 --
 #EXTINF:-1 tvg-name="哒啵电竞" tvg-id="哒啵电竞" tvg-logo="https://livecdn.zbds.top/logo/哒啵电竞.png" group-title="数字频道", 哒啵电竞
 http://www.xzbn.site:35455/itv/1000000006000032327.m3u8?cdn=ystenlive
+#EXTINF:-1 tvg-name="哒啵赛事" tvg-id="哒啵赛事" tvg-logo="https://livecdn.zbds.top/logo/哒啵赛事.png" group-title="数字频道", 哒啵赛事
+http://www.xzbn.site:35455/itv/1000000001000003775.m3u8?cdn=ystenlive
 --
+#EXTINF:-1 tvg-name="求索动物" tvg-id="184" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/shuzi/Qiusuo3.png" group-title="数字频道", 求索动物
+http://www.xzbn.site:35455/itv/2000000004000000009.m3u8?cdn=hnbblive
+#EXTINF:-1 tvg-name="求索纪录" tvg-id="149" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/shuzi/Qiusuo1.png" group-title="数字频道", 求索纪录
+http://www.xzbn.site:35455/itv/2000000004000000010.m3u8?cdn=hnbblive
+#EXTINF:-1 tvg-name="求索科学" tvg-id="150" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/shuzi/Qiusuo2.png" group-title="数字频道", 求索科学
+http://www.xzbn.site:35455/itv/2000000004000000011.m3u8?cdn=hnbblive
+#EXTINF:-1 tvg-name="求索生活" tvg-id="171" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/shuzi/Qiusuo4.png" group-title="数字频道", 求索生活
+http://www.xzbn.site:35455/itv/2000000004000000008.m3u8?cdn=hnbblive
 #EXTINF:-1 tvg-name="金色学堂" tvg-id="金色学堂" tvg-logo="https://livecdn.zbds.top/logo/金色学堂.png" group-title="数字频道", 金色学堂
 http://www.xzbn.site:35455/itv/5000000010000026105.m3u8?cdn=bestzb
 --
@@ -89,8 +121,6 @@ http://www.xzbn.site:35455/itv/5000000005000031974.m3u8?cdn=bestzb
 http://www.xzbn.site:35455/itv/5000000011000031112.m3u8?cdn=bestzb
 #EXTINF:-1 tvg-name="华数4K" tvg-id="华数4K" tvg-logo="https://livecdn.zbds.top/logo/华数4K.png" group-title="数字频道", 华数4K
 http://www.xzbn.site:35455/itv/2000000004000000014.m3u8?cdn=hnbblive
-#EXTINF:-1 tvg-name="南国都市" tvg-id="南国都市" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/tvlog/南国都市.png" group-title="数字频道", 南国都市
-https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
 #EXTINF:-1 tvg-name="新视觉" tvg-id="新视觉" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/xsj.png" group-title="数字频道", 新视觉
 http://120.76.248.139/live/bfgd/4200000249.m3u8
 #EXTINF:-1 tvg-name="欢笑剧场" tvg-id="欢笑剧场" tvg-logo="https://livecdn.zbds.top/logo/欢笑剧场.png" group-title="数字频道", 欢笑剧场
