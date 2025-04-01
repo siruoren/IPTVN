@@ -52,12 +52,6 @@ http://www.xzbn.site:35455/itv/1000000006000032327.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-name="哒啵赛事" tvg-id="哒啵赛事" tvg-logo="https://livecdn.zbds.top/logo/哒啵赛事.png" group-title="数字频道", 哒啵赛事
 http://www.xzbn.site:35455/itv/1000000001000003775.m3u8?cdn=ystenlive
 --
-#EXTINF:-1 tvg-name="五星体育" tvg-id="五星体育" tvg-logo="https://livecdn.zbds.top/logo/五星体育.png" group-title="数字频道", 五星体育
-http://www.xzbn.site:35455/itv/5000000010000017540.m3u8?cdn=bestzb
---
-#EXTINF:-1 tvg-name="五星体育" tvg-id="五星体育" tvg-logo="https://livecdn.zbds.top/logo/五星体育.png" group-title="数字频道", 五星体育
-http://www.xzbn.site:35455/itv/5000000010000017540.m3u8?cdn=bestzb
---
 #EXTINF:-1 tvg-name="求索动物" tvg-id="184" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/shuzi/Qiusuo3.png" group-title="数字频道", 求索动物
 http://www.xzbn.site:35455/itv/2000000004000000009.m3u8?cdn=hnbblive
 #EXTINF:-1 tvg-name="求索纪录" tvg-id="149" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/shuzi/Qiusuo1.png" group-title="数字频道", 求索纪录
@@ -86,20 +80,11 @@ http://www.xzbn.site:35455/itv/2000000004000000011.m3u8?cdn=hnbblive
 #EXTINF:-1 tvg-name="求索生活" tvg-id="171" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/shuzi/Qiusuo4.png" group-title="数字频道", 求索生活
 http://www.xzbn.site:35455/itv/2000000004000000008.m3u8?cdn=hnbblive
 --
-#EXTINF:-1 tvg-name="五星体育" tvg-id="五星体育" tvg-logo="https://livecdn.zbds.top/logo/五星体育.png" group-title="数字频道", 五星体育
-http://www.xzbn.site:35455/itv/5000000010000017540.m3u8?cdn=bestzb
---
-#EXTINF:-1 tvg-name="五星体育" tvg-id="五星体育" tvg-logo="https://livecdn.zbds.top/logo/五星体育.png" group-title="数字频道", 五星体育
-http://www.xzbn.site:35455/itv/5000000010000017540.m3u8?cdn=bestzb
---
 #EXTINF:-1 tvg-name="哒啵电竞" tvg-id="哒啵电竞" tvg-logo="https://livecdn.zbds.top/logo/哒啵电竞.png" group-title="数字频道", 哒啵电竞
 http://www.xzbn.site:35455/itv/1000000006000032327.m3u8?cdn=ystenlive
 --
 #EXTINF:-1 tvg-name="哒啵电竞" tvg-id="哒啵电竞" tvg-logo="https://livecdn.zbds.top/logo/哒啵电竞.png" group-title="数字频道", 哒啵电竞
 http://www.xzbn.site:35455/itv/1000000006000032327.m3u8?cdn=ystenlive
-#EXTINF:-1 tvg-name="哒啵赛事" tvg-id="哒啵赛事" tvg-logo="https://livecdn.zbds.top/logo/哒啵赛事.png" group-title="数字频道", 哒啵赛事
-http://www.xzbn.site:35455/itv/1000000001000003775.m3u8?cdn=ystenlive
---
 #EXTINF:-1 tvg-name="求索动物" tvg-id="184" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/shuzi/Qiusuo3.png" group-title="数字频道", 求索动物
 http://www.xzbn.site:35455/itv/2000000004000000009.m3u8?cdn=hnbblive
 #EXTINF:-1 tvg-name="求索纪录" tvg-id="149" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/shuzi/Qiusuo1.png" group-title="数字频道", 求索纪录
@@ -121,6 +106,8 @@ http://www.xzbn.site:35455/itv/5000000005000031974.m3u8?cdn=bestzb
 http://www.xzbn.site:35455/itv/5000000011000031112.m3u8?cdn=bestzb
 #EXTINF:-1 tvg-name="华数4K" tvg-id="华数4K" tvg-logo="https://livecdn.zbds.top/logo/华数4K.png" group-title="数字频道", 华数4K
 http://www.xzbn.site:35455/itv/2000000004000000014.m3u8?cdn=hnbblive
+#EXTINF:-1 tvg-name="南国都市" tvg-id="南国都市" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/tvlog/南国都市.png" group-title="数字频道", 南国都市
+https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
 #EXTINF:-1 tvg-name="新视觉" tvg-id="新视觉" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/xsj.png" group-title="数字频道", 新视觉
 http://120.76.248.139/live/bfgd/4200000249.m3u8
 #EXTINF:-1 tvg-name="欢笑剧场" tvg-id="欢笑剧场" tvg-logo="https://livecdn.zbds.top/logo/欢笑剧场.png" group-title="数字频道", 欢笑剧场
@@ -169,5 +156,3 @@ http://www.xzbn.site:35455/itv/1000000004000011651.m3u8?cdn=ystenlive
 http://www.xzbn.site:35455/itv/5000000011000031209.m3u8?cdn=bestzb
 #EXTINF:-1 tvg-name="超级电视剧" tvg-id="超级电视剧" tvg-logo="https://epg.iill.top/logo/NewTV超级电视剧.png" group-title="数字频道", 超级电视剧
 http://www.xzbn.site:35455/itv/1000000004000024993.m3u8?cdn=ystenlive
-#EXTINF:-1 tvg-name="都市剧场" tvg-id="都市剧场" tvg-logo="https://livecdn.zbds.top/logo/都市剧场.png" group-title="数字频道", 都市剧场
-http://www.xzbn.site:35455/itv/5000000011000031111.m3u8?cdn=bestzb
