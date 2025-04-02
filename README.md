@@ -2,7 +2,7 @@
 
 # 本源码仅供学习，禁止用于违法犯罪行为，否则后果自负！
 
-# Auto Update IPTV at 2025-04-02 00:26:52 CST
+# Auto Update IPTV at 2025-04-03 00:29:15 CST
 ----------------------------------------------------
 #!/bin/bash
 cd $(dirname $0);
@@ -18,69 +18,70 @@ wget ${src_url} -O ${src_name}.m3u;cat ${src_name}.m3u >> ../IPTV.m3u;rm -f ${sr
 
 
 done < iptv_src.list;
---2025-04-02 00:26:52--  https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u
+--2025-04-03 00:29:15--  https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u
 Resolving raw.githubusercontent.com (raw.githubusercontent.com)... 185.199.109.133, 185.199.110.133, 185.199.111.133, ...
 Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|185.199.109.133|:443... connected.
 HTTP request sent, awaiting response... 200 OK
-Length: 516408 (504K) [text/plain]
+Length: 524561 (512K) [text/plain]
 Saving to: ‘Guovin.m3u’
 
-     0K .......... .......... .......... .......... ..........  9% 18.9M 0s
-    50K .......... .......... .......... .......... .......... 19% 35.9M 0s
-   100K .......... .......... .......... .......... .......... 29%  136M 0s
-   150K .......... .......... .......... .......... .......... 39%  142M 0s
-   200K .......... .......... .......... .......... .......... 49% 45.9M 0s
-   250K .......... .......... .......... .......... .......... 59%  199M 0s
-   300K .......... .......... .......... .......... .......... 69%  171M 0s
-   350K .......... .......... .......... .......... .......... 79%  191M 0s
-   400K .......... .......... .......... .......... .......... 89%  229M 0s
-   450K .......... .......... .......... .......... .......... 99%  249M 0s
-   500K ....                                                  100% 8.02T=0.007s
+     0K .......... .......... .......... .......... ..........  9% 50.6M 0s
+    50K .......... .......... .......... .......... .......... 19% 47.0M 0s
+   100K .......... .......... .......... .......... .......... 29%  157M 0s
+   150K .......... .......... .......... .......... .......... 39%  163M 0s
+   200K .......... .......... .......... .......... .......... 48%  239M 0s
+   250K .......... .......... .......... .......... .......... 58% 97.1M 0s
+   300K .......... .......... .......... .......... .......... 68%  174M 0s
+   350K .......... .......... .......... .......... .......... 78%  172M 0s
+   400K .......... .......... .......... .......... .......... 87%  197M 0s
+   450K .......... .......... .......... .......... .......... 97%  249M 0s
+   500K .......... ..                                         100%  172M=0.004s
 
-2025-04-02 00:26:52 (71.4 MB/s) - ‘Guovin.m3u’ saved [516408/516408]
+2025-04-03 00:29:15 (114 MB/s) - ‘Guovin.m3u’ saved [524561/524561]
 
---2025-04-02 00:26:52--  https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
-Resolving raw.githubusercontent.com (raw.githubusercontent.com)... 185.199.109.133, 185.199.111.133, 185.199.108.133, ...
-Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|185.199.109.133|:443... connected.
+--2025-04-03 00:29:15--  https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
+Resolving raw.githubusercontent.com (raw.githubusercontent.com)... 185.199.108.133, 185.199.110.133, 185.199.109.133, ...
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|185.199.108.133|:443... connected.
 HTTP request sent, awaiting response... 200 OK
 Length: 33254 (32K) [text/plain]
 Saving to: ‘fangming.m3u’
 
-     0K .......... .......... .......... ..                   100% 56.7M=0.001s
+     0K .......... .......... .......... ..                   100% 92.8M=0s
 
-2025-04-02 00:26:52 (56.7 MB/s) - ‘fangming.m3u’ saved [33254/33254]
+2025-04-03 00:29:15 (92.8 MB/s) - ‘fangming.m3u’ saved [33254/33254]
 
---2025-04-02 00:26:52--  https://raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.m3u
-Resolving raw.githubusercontent.com (raw.githubusercontent.com)... 185.199.110.133, 185.199.111.133, 185.199.109.133, ...
-Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|185.199.110.133|:443... connected.
+--2025-04-03 00:29:15--  https://raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.m3u
+Resolving raw.githubusercontent.com (raw.githubusercontent.com)... 185.199.108.133, 185.199.111.133, 185.199.109.133, ...
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|185.199.108.133|:443... connected.
 HTTP request sent, awaiting response... 200 OK
-Length: 560861 (548K) [text/plain]
+Length: 568210 (555K) [text/plain]
 Saving to: ‘vbskycn_iptv4.m3u’
 
-     0K .......... .......... .......... .......... ..........  9% 28.9M 0s
-    50K .......... .......... .......... .......... .......... 18%  101M 0s
-   100K .......... .......... .......... .......... .......... 27% 34.8M 0s
-   150K .......... .......... .......... .......... .......... 36%  231M 0s
-   200K .......... .......... .......... .......... .......... 45%  236M 0s
-   250K .......... .......... .......... .......... .......... 54% 48.5M 0s
-   300K .......... .......... .......... .......... .......... 63%  226M 0s
-   350K .......... .......... .......... .......... .......... 73%  163M 0s
-   400K .......... .......... .......... .......... .......... 82%  214M 0s
-   450K .......... .......... .......... .......... .......... 91%  240M 0s
-   500K .......... .......... .......... .......... .......   100%  233M=0.006s
+     0K .......... .......... .......... .......... ..........  9% 43.0M 0s
+    50K .......... .......... .......... .......... .......... 18% 75.5M 0s
+   100K .......... .......... .......... .......... .......... 27% 75.7M 0s
+   150K .......... .......... .......... .......... .......... 36%  232M 0s
+   200K .......... .......... .......... .......... .......... 45%  250M 0s
+   250K .......... .......... .......... .......... .......... 54% 85.0M 0s
+   300K .......... .......... .......... .......... .......... 63%  245M 0s
+   350K .......... .......... .......... .......... .......... 72%  246M 0s
+   400K .......... .......... .......... .......... .......... 81%  178M 0s
+   450K .......... .......... .......... .......... .......... 90%  260M 0s
+   500K .......... .......... .......... .......... .......... 99%  226M 0s
+   550K ....                                                  100% 71.2M=0.005s
 
-2025-04-02 00:26:52 (87.0 MB/s) - ‘vbskycn_iptv4.m3u’ saved [560861/560861]
+2025-04-03 00:29:16 (119 MB/s) - ‘vbskycn_iptv4.m3u’ saved [568210/568210]
 
---2025-04-02 00:26:52--  https://raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv6.m3u
-Resolving raw.githubusercontent.com (raw.githubusercontent.com)... 185.199.110.133, 185.199.111.133, 185.199.108.133, ...
-Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|185.199.110.133|:443... connected.
+--2025-04-03 00:29:16--  https://raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv6.m3u
+Resolving raw.githubusercontent.com (raw.githubusercontent.com)... 185.199.109.133, 185.199.110.133, 185.199.108.133, ...
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|185.199.109.133|:443... connected.
 HTTP request sent, awaiting response... 200 OK
-Length: 9632 (9.4K) [text/plain]
+Length: 8317 (8.1K) [text/plain]
 Saving to: ‘vbskycn_iptv6.m3u’
 
-     0K .........                                             100% 38.7M=0s
+     0K ........                                              100% 72.1M=0s
 
-2025-04-02 00:26:53 (38.7 MB/s) - ‘vbskycn_iptv6.m3u’ saved [9632/9632]
+2025-04-03 00:29:16 (72.1 MB/s) - ‘vbskycn_iptv6.m3u’ saved [8317/8317]
 
 
 
@@ -93,63 +94,60 @@ for i in `ls`; do group_name=`echo ${i}|awk -F '.' '{print$1}'`; grep -A 1 "${gr
 cd ../
 # 节目源
 rm -f EPG.xml && wget https://epg.112114.xyz/pp.xml -O EPG.xml
---2025-04-02 00:26:53--  https://epg.112114.xyz/pp.xml
+--2025-04-03 00:29:16--  https://epg.112114.xyz/pp.xml
 Resolving epg.112114.xyz (epg.112114.xyz)... 172.67.203.219, 104.21.85.82
 Connecting to epg.112114.xyz (epg.112114.xyz)|172.67.203.219|:443... connected.
 HTTP request sent, awaiting response... 200 OK
-Length: 2420958 (2.3M) [text/xml]
+Length: 2298799 (2.2M) [text/xml]
 Saving to: ‘EPG.xml’
 
-     0K .......... .......... .......... .......... ..........  2%  101M 0s
-    50K .......... .......... .......... .......... ..........  4% 30.7M 0s
-   100K .......... .......... .......... .......... ..........  6%  153M 0s
-   150K .......... .......... .......... .......... ..........  8% 49.8M 0s
-   200K .......... .......... .......... .......... .......... 10% 76.5M 0s
-   250K .......... .......... .......... .......... .......... 12%  343M 0s
-   300K .......... .......... .......... .......... .......... 14%  239M 0s
-   350K .......... .......... .......... .......... .......... 16%  150M 0s
-   400K .......... .......... .......... .......... .......... 19%  133M 0s
-   450K .......... .......... .......... .......... .......... 21%  288M 0s
-   500K .......... .......... .......... .......... .......... 23%  216M 0s
-   550K .......... .......... .......... .......... .......... 25%  318M 0s
-   600K .......... .......... .......... .......... .......... 27%  313M 0s
-   650K .......... .......... .......... .......... .......... 29%  401M 0s
-   700K .......... .......... .......... .......... .......... 31%  146M 0s
-   750K .......... .......... .......... .......... .......... 33%  267M 0s
-   800K .......... .......... .......... .......... .......... 35%  297M 0s
-   850K .......... .......... .......... .......... .......... 38%  278M 0s
-   900K .......... .......... .......... .......... .......... 40%  321M 0s
-   950K .......... .......... .......... .......... .......... 42%  268M 0s
-  1000K .......... .......... .......... .......... .......... 44%  306M 0s
-  1050K .......... .......... .......... .......... .......... 46%  244M 0s
-  1100K .......... .......... .......... .......... .......... 48%  298M 0s
-  1150K .......... .......... .......... .......... .......... 50%  231M 0s
-  1200K .......... .......... .......... .......... .......... 52%  290M 0s
-  1250K .......... .......... .......... .......... .......... 54%  320M 0s
-  1300K .......... .......... .......... .......... .......... 57%  254M 0s
-  1350K .......... .......... .......... .......... .......... 59%  273M 0s
-  1400K .......... .......... .......... .......... .......... 61%  372M 0s
-  1450K .......... .......... .......... .......... .......... 63%  206M 0s
-  1500K .......... .......... .......... .......... .......... 65%  202M 0s
-  1550K .......... .......... .......... .......... .......... 67%  238M 0s
-  1600K .......... .......... .......... .......... .......... 69%  225M 0s
-  1650K .......... .......... .......... .......... .......... 71%  324M 0s
-  1700K .......... .......... .......... .......... .......... 74%  376M 0s
-  1750K .......... .......... .......... .......... .......... 76%  378M 0s
-  1800K .......... .......... .......... .......... .......... 78%  190M 0s
-  1850K .......... .......... .......... .......... .......... 80%  347M 0s
-  1900K .......... .......... .......... .......... .......... 82%  253M 0s
-  1950K .......... .......... .......... .......... .......... 84%  275M 0s
-  2000K .......... .......... .......... .......... .......... 86%  317M 0s
-  2050K .......... .......... .......... .......... .......... 88%  241M 0s
-  2100K .......... .......... .......... .......... .......... 90%  329M 0s
-  2150K .......... .......... .......... .......... .......... 93%  373M 0s
-  2200K .......... .......... .......... .......... .......... 95%  379M 0s
-  2250K .......... .......... .......... .......... .......... 97%  311M 0s
-  2300K .......... .......... .......... .......... .......... 99%  372M 0s
-  2350K .......... ....                                       100%  321M=0.01s
+     0K .......... .......... .......... .......... ..........  2%  576K 4s
+    50K .......... .......... .......... .......... ..........  4% 1.18M 3s
+   100K .......... .......... .......... .......... ..........  6%  960K 3s
+   150K .......... .......... .......... .......... ..........  8% 1.51M 2s
+   200K .......... .......... .......... .......... .......... 11% 1.50M 2s
+   250K .......... .......... .......... .......... .......... 13% 2.62M 2s
+   300K .......... .......... .......... .......... .......... 15% 3.13M 2s
+   350K .......... .......... .......... .......... .......... 17% 3.34M 1s
+   400K .......... .......... .......... .......... .......... 20% 3.57M 1s
+   450K .......... .......... .......... .......... .......... 22% 3.65M 1s
+   500K .......... .......... .......... .......... .......... 24% 4.05M 1s
+   550K .......... .......... .......... .......... .......... 26% 3.83M 1s
+   600K .......... .......... .......... .......... .......... 28% 5.90M 1s
+   650K .......... .......... .......... .......... .......... 31% 5.78M 1s
+   700K .......... .......... .......... .......... .......... 33% 6.77M 1s
+   750K .......... .......... .......... .......... .......... 35% 6.63M 1s
+   800K .......... .......... .......... .......... .......... 37% 6.13M 1s
+   850K .......... .......... .......... .......... .......... 40% 9.77M 1s
+   900K .......... .......... .......... .......... .......... 42% 7.95M 1s
+   950K .......... .......... .......... .......... .......... 44% 6.41M 1s
+  1000K .......... .......... .......... .......... .......... 46% 9.57M 0s
+  1050K .......... .......... .......... .......... .......... 48% 8.98M 0s
+  1100K .......... .......... .......... .......... .......... 51% 9.48M 0s
+  1150K .......... .......... .......... .......... .......... 53% 10.2M 0s
+  1200K .......... .......... .......... .......... .......... 55% 7.40M 0s
+  1250K .......... .......... .......... .......... .......... 57% 21.7M 0s
+  1300K .......... .......... .......... .......... .......... 60% 11.9M 0s
+  1350K .......... .......... .......... .......... .......... 62% 8.70M 0s
+  1400K .......... .......... .......... .......... .......... 64% 11.2M 0s
+  1450K .......... .......... .......... .......... .......... 66% 14.1M 0s
+  1500K .......... .......... .......... .......... .......... 69% 11.0M 0s
+  1550K .......... .......... .......... .......... .......... 71% 14.9M 0s
+  1600K .......... .......... .......... .......... .......... 73% 13.1M 0s
+  1650K .......... .......... .......... .......... .......... 75% 13.7M 0s
+  1700K .......... .......... .......... .......... .......... 77% 13.3M 0s
+  1750K .......... .......... .......... .......... .......... 80% 14.8M 0s
+  1800K .......... .......... .......... .......... .......... 82% 17.7M 0s
+  1850K .......... .......... .......... .......... .......... 84% 13.7M 0s
+  1900K .......... .......... .......... .......... .......... 86% 17.0M 0s
+  1950K .......... .......... .......... .......... .......... 89% 13.2M 0s
+  2000K .......... .......... .......... .......... .......... 91% 17.8M 0s
+  2050K .......... .......... .......... .......... .......... 93% 18.9M 0s
+  2100K .......... .......... .......... .......... .......... 95% 17.6M 0s
+  2150K .......... .......... .......... .......... .......... 97% 18.6M 0s
+  2200K .......... .......... .......... .......... ....      100% 23.8M=0.5s
 
-2025-04-02 00:26:53 (196 MB/s) - ‘EPG.xml’ saved [2420958/2420958]
+2025-04-03 00:29:17 (4.40 MB/s) - ‘EPG.xml’ saved [2298799/2298799]
 
 
 #iptv_to_sql
@@ -358,30 +356,6 @@ do
 
 done
 欧歌聚合 https://m.nxog.top/nxog/ou1.php
-Traceback (most recent call last):
-  File "/home/runner/work/IPTVN/IPTVN/duochang/../scripts/analyse_json.py", line 15, in <module>
-    main(item)
-  File "/home/runner/work/IPTVN/IPTVN/duochang/../scripts/analyse_json.py", line 8, in main
-    response = urllib.request.urlopen(url,timeout=10.0)
-               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/usr/lib/python3.12/urllib/request.py", line 215, in urlopen
-    return opener.open(url, data, timeout)
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/usr/lib/python3.12/urllib/request.py", line 521, in open
-    response = meth(req, response)
-               ^^^^^^^^^^^^^^^^^^^
-  File "/usr/lib/python3.12/urllib/request.py", line 630, in http_response
-    response = self.parent.error(
-               ^^^^^^^^^^^^^^^^^^
-  File "/usr/lib/python3.12/urllib/request.py", line 559, in error
-    return self._call_chain(*args)
-           ^^^^^^^^^^^^^^^^^^^^^^^
-  File "/usr/lib/python3.12/urllib/request.py", line 492, in _call_chain
-    result = func(*args)
-             ^^^^^^^^^^^
-  File "/usr/lib/python3.12/urllib/request.py", line 639, in http_error_default
-    raise HTTPError(req.full_url, code, msg, hdrs, fp)
-urllib.error.HTTPError: HTTP Error 404: Not Found
 七星线路 https://qixing.myhkw.com/DC.txt
 宝盒视界 https://raw.githubusercontent.com/guot55/yg/main/ysdc.json
 天微精选仓 https://qixing.myhkw.com/DC.txt
@@ -658,8 +632,58 @@ start check https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json..
 URL is accessible
 start check https://龙伊.top......
 URL is unaccessible,ignore update
+start check https://123.yy.nxog.top/1/18.php?ou=https://py.nxog.eu.org/https://raw.gitmirror.com/ouhaibo1980/tvbox/master/pg/jsm.json......
+URL is unaccessible,ignore update
+start check https://123.yy.nxog.top/1/2.php?ou=https://notabug.org/qizhen15800/My9394/raw/master/%e4%b8%8d%e8%89%af%e5%b8%85.json......
+URL is unaccessible,ignore update
+start check https://123.yy.nxog.top/1/20.php?ou=https://py.nxog.eu.org/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json......
+URL is unaccessible,ignore update
+start check https://123.yy.nxog.top/1/9.php?ou=http://www.meowtv.top......
+URL is unaccessible,ignore update
+start check https://123.yy.nxog.top/1/12.php?ou=https://git.acwing.com/iduoduo/orange/-/raw/main/config.bin......
+URL is unaccessible,ignore update
+start check https://123.yy.nxog.top/1/7.php?ou=https://py.nxog.eu.org/https://www.mpanso.com/小米/DEMO.json......
+URL is unaccessible,ignore update
+start check https://123.yy.nxog.top/1/17.php?ou=http://cdn.qiaoji8.com/tvbox.json......
+URL is unaccessible,ignore update
+start check https://123.yy.nxog.top/1/15.php?ou=https://jihulab.com/mengzhu2/ysc/-/raw/main/YSC.json......
+URL is unaccessible,ignore update
+start check https://123.yy.nxog.top/1/21.php?ou=https://xn--dkw0c.u.xn--dkw.xn--6qq986b3xl/m/333.php?ou=公众号欧歌app&mz=index&jar=index&b=杰歌......
+URL is unaccessible,ignore update
+start check https://123.yy.nxog.top/1//6.php?ou=https://xn--8owq8u.com/tv/......
+URL is unaccessible,ignore update
+start check https://123.yy.nxog.top/1/8.php?ou=http://tvbox.xn--4kq62z5rby2qupq9ub.top......
+URL is unaccessible,ignore update
+start check https://123.yy.nxog.top/1/3.php?ou=https://盒子迷.top/禁止贩卖......
+URL is unaccessible,ignore update
+start check https://123.yy.nxog.top/1/5.php?ou=https://py.nxog.eu.org/https://raw.gitmirror.com/ouhaibo1980/tvbox/master/zx/FongMi.json......
+URL is unaccessible,ignore update
+start check https://123.yy.nxog.top/1/13.php?ou=http://box.ufuzi.com/tv/qq/%E7%9F%AD%E5%89%A7%E9%A2%91%E9%81%93/api.json......
+URL is unaccessible,ignore update
+start check https://123.yy.nxog.top/1/14.php?ou=http://tv.laohu.cool/tvbox.json......
+URL is unaccessible,ignore update
+start check https://123.yy.nxog.top/1/4.php?ou=http://ceshi.xn--z7x900a.com/PandaQ......
+URL is unaccessible,ignore update
+start check https://123.yy.nxog.top/1/16.php?ou=https://tv.xn--yhqu5zs87a.top......
+URL is unaccessible,ignore update
+start check https://123.yy.nxog.top/1/10.php?ou=https://tv.蜗牛.top/svip......
+URL is unaccessible,ignore update
+start check https://123.yy.nxog.top/1/19.php?ou=https://gitee.com/yiwu369/6758/raw/master/1.json......
+URL is unaccessible,ignore update
+start check https://123.yy.nxog.top/1/1.php?ou=https://www.饭太硬.com/tv/......
+URL is unaccessible,ignore update
 start check https://gh-proxy.com/https://raw.githubusercontent.com/adminouyang/231006/main/tvbox/直播源/iptv.json......
 URL is unaccessible,ignore update
+start check https://m.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&321&b=m......
+URL is accessible
+start check https://m.nxog.top/m/111.php?ou=公众号欧歌app&mz=a3&jar=a3&b=m......
+URL is accessible
+start check https://m.nxog.top/m/111.php?ou=公众号欧歌app&mz=all&jar=all&b=m......
+URL is accessible
+start check https://m.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=m......
+URL is accessible
+start check https://m.nxog.top/m/333.php?ou=公众号欧歌app&mz=1&jar=all&b=m......
+URL is accessible
 start check http://2883.kstore.space/nzk/nzk0722.json......
 URL is unaccessible,ignore update
 start check https://ghproxy.cn/https://raw.githubusercontent.com/leevi0709/one/main/jsm.json......
@@ -795,7 +819,7 @@ URL is accessible
 start check https://wget.la/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json......
 URL is accessible
 start check http://tv.nxog.top/m......
-URL is unaccessible,ignore update
+URL is accessible
 start check https://raw.githubusercontent.com/gaotianliuyun/fongmi/main/json/config.json......
 URL is unaccessible,ignore update
 start check http://home.jundie.top:81/top98.json......

@@ -1,5 +1,7 @@
 #EXTINF:-1 tvg-name="旅游卫视" tvg-id="旅游卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/旅游卫视.png" group-title="其他频道", 旅游卫视
 http://111.61.236.247:9081/hls/50/index.m3u8
+#EXTINF:-1 tvg-name="内蒙卫视" tvg-id="内蒙卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/内蒙卫视.png" group-title="其他频道", 内蒙卫视
+http://58.220.219.14:9901/tsfile/live/0114_1.m3u8?key=txiptv&playlive=1&authid=0
 --
 #EXTINF:-1 tvg-name="ATVWORLD" tvg-id="ATVWORLD" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/ATVWORLD.png" group-title="其他频道", ATVWORLD
 http://ott.watch/stream/E9LDH2ZCN7/36.m3u8
@@ -13,7 +15,7 @@ https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5MTRfNDAzMDAxOTl
 #EXTINF:-1 tvg-name="1984年" tvg-id="1984年" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/1984年.png" group-title="其他频道", 1984年
 http://txmov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5NTRfNDAzMDAxOTlfNjYyNzMyMzg3MTRfMF8z_b_B192356dadbc90d207ba16964d4c2914c.mp4
 #EXTINF:-1 tvg-name="1985年" tvg-id="1985年" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/1985年.png" group-title="其他频道", 1985年
-https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDFfNDAzMDAxOTlfNjYyNzMyNTAwMzJfMF8z_b_Be73c5abcbc0eeb2ec9fce6842e1362a4.mp4
+http://txmov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDFfNDAzMDAxOTlfNjYyNzMyNTAwMzJfMF8z_b_Be73c5abcbc0eeb2ec9fce6842e1362a4.mp4
 #EXTINF:-1 tvg-name="1986年" tvg-id="1986年" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/1986年.png" group-title="其他频道", 1986年
 https://txmov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDRfNDAzMDAxOTlfNjYyNzMyNTU0OTRfMF8z_b_B24f7d19f1132fa5d7f502f8377ad5567.mp4
 #EXTINF:-1 tvg-name="1987年" tvg-id="1987年" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/1987年.png" group-title="其他频道", 1987年
@@ -21,7 +23,7 @@ https://txmov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMDhfNDAzMDAxOTlf
 #EXTINF:-1 tvg-name="1988年" tvg-id="1988年" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/1988年.png" group-title="其他频道", 1988年
 https://txmov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMTJfNDAzMDAxOTlfNjYyNzMyNjkxNjBfMF8z_b_B8c835b83a92d25bde81ba22c5cd9521e.mp4
 #EXTINF:-1 tvg-name="1989年" tvg-id="1989年" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/1989年.png" group-title="其他频道", 1989年
-https://txmov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMTVfNDAzMDAxOTlfNjYyNzMyNzQ2OTlfMF8z_b_Be477b27b9ce655d2372df56a5a3d96ef.mp4
+http://txmov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjAwMTVfNDAzMDAxOTlfNjYyNzMyNzQ2OTlfMF8z_b_Be477b27b9ce655d2372df56a5a3d96ef.mp4
 #EXTINF:-1 tvg-name="1991年" tvg-id="1991年" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/1991年.png" group-title="其他频道", 1991年
 https://alimov2.a.kwimgs.com/upic/2022/01/31/16/BMjAyMjAxMzExNjI2MTVfNDAzMDAxOTlfNjYyNzYwNjUxNjVfMF8z_b_B8feb7b85888678d71bf37a259c6850f6.mp4
 #EXTINF:-1 tvg-name="1993年" tvg-id="1993年" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/1993年.png" group-title="其他频道", 1993年
@@ -88,8 +90,8 @@ https://vdse.bdstatic.com//cd396057d1fbcb12f0600d38a16effbc.mp4
 https://vdse.bdstatic.com//59c5abc138bf1da5585bb765c530137e.mp4
 #EXTINF:-1 tvg-name="2021爆红6首女生版伤感DJ" tvg-id="2021爆红6首女生版伤感DJ" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/2021爆红6首女生版伤感DJ.png" group-title="其他频道", 2021爆红6首女生版伤感DJ
 https://vdse.bdstatic.com//2e77709380ad7e6163e80c4d5c179689.mp4
-#EXTINF:-1 tvg-name="2021酒吧夜店经典中文车载劲爆DJ舞曲大串烧F" tvg-id="2021酒吧夜店经典中文车载劲爆DJ舞曲大串烧F" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/2021酒吧夜店经典中文车载劲爆DJ舞曲大串烧FHD.png" group-title="其他频道", 2021酒吧夜店经典中文车载劲爆DJ舞曲大串烧F
-https://vdse.bdstatic.com//f222c3fafbcc09db6f39991e5c982450.mp4
+#EXTINF:-1 tvg-name="2021精选5首酒吧DJ舞曲" tvg-id="2021精选5首酒吧DJ舞曲" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/2021《精选5首酒吧DJ舞曲》.png" group-title="其他频道", 2021精选5首酒吧DJ舞曲
+https://vdse.bdstatic.com//0e59c29ddbc68ed60dce8a6f4631c1f1.mp4
 #EXTINF:-1 tvg-name="2021醉人情歌" tvg-id="2021醉人情歌" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/2021醉人情歌.png" group-title="其他频道", 2021醉人情歌
 https://vd2.bdstatic.com/mda-mmd9mt3nssu3xigc/480p/h264/1639464847859702051/mda-mmd9mt3nssu3xigc.mp4
 #EXTINF:-1 tvg-name="2022伤感DJ串烧dj" tvg-id="2022伤感DJ串烧dj" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/2022伤感DJ串烧dj.png" group-title="其他频道", 2022伤感DJ串烧dj
@@ -132,8 +134,6 @@ http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8?zshijd
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Arirang阿里郎" tvg-id="Arirang阿里郎" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Arirang阿里郎.png" group-title="其他频道", Arirang阿里郎
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist.m3u8
-#EXTINF:-1 tvg-name="BBCNewsAsiaPacific" tvg-id="BBCNewsAsiaPacific" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/BBCNewsAsiaPacific.png" group-title="其他频道", BBCNewsAsiaPacific
-https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 #EXTINF:-1 tvg-name="BTV卡通" tvg-id="BTV卡通" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/BTV卡通.png" group-title="其他频道", BTV卡通
 http://113.57.20.158:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="BobGirlsNoway" tvg-id="BobGirlsNoway" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/BobGirlsNoway.png" group-title="其他频道", BobGirlsNoway
@@ -156,8 +156,6 @@ https://vd4.bdstatic.com/mda-ncvd174zfzapmvyb/hd/cae_h264_delogo/164885900016499
 https://vd3.bdstatic.com/mda-nckdkm6sj1p9q7c9/sc/cae_h264_delogo/1647859589943780399/mda-nckdkm6sj1p9q7c9.mp4
 #EXTINF:-1 tvg-name="DJ爆红情歌" tvg-id="DJ爆红情歌" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/DJ爆红情歌.png" group-title="其他频道", DJ爆红情歌
 https://vd3.bdstatic.com/mda-ndv4c2sjkixp16nw/hd/cae_h264_delogo/1651314865313430355/mda-ndv4c2sjkixp16nw.mp4
-#EXTINF:-1 tvg-name="DJ给我一把爱情火" tvg-id="DJ给我一把爱情火" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/DJ给我一把爱情火.png" group-title="其他频道", DJ给我一把爱情火
-https://vd2.bdstatic.com/mda-ncg42rnzxats8h83/cae_h264_delogo/1647486932330653636/mda-ncg42rnzxats8h83.mp4
 #EXTINF:-1 tvg-name="DJ舞曲三月里的小雨" tvg-id="DJ舞曲三月里的小雨" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/DJ舞曲三月里的小雨.png" group-title="其他频道", DJ舞曲三月里的小雨
 https://txmov2.a.kwimgs.com/upic/2022/02/09/16/BMjAyMjAyMDkxNjQxMDRfNzM5MzQzNzIyXzY3MTA3OTE3NTMyXzJfMw==_b_Ba7c5a89dd9a598be8d05e6492119a7c6.mp4
 #EXTINF:-1 tvg-name="DJ要爱爱httpsst92kucomzwmtv2016E783ADE8889EE78E8BE9BA9FDJE78988E8A681E788B1E788B1mp4" tvg-id="DJ要爱爱httpsst92kucomzwmtv2016E783ADE8889EE78E8BE9BA9FDJE78988E8A681E788B1E788B1mp4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/我的小心肝dj版.png" group-title="其他频道", DJ要爱爱httpsst92kucomzwmtv2016E783ADE8889EE78E8BE9BA9FDJE78988E8A681E788B1E788B1mp4
@@ -192,10 +190,10 @@ http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
 https://15799848.s21v.faiusr.com/58/ABUIABA6GAAggq-W4gUouLym-QQ.mp4
 #EXTINF:-1 tvg-name="LUNA即便如此" tvg-id="LUNA即便如此" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/LUNA即便如此.png" group-title="其他频道", LUNA即便如此
 https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgxfG98AUogN6hqgU.mp4
+#EXTINF:-1 tvg-name="MBC" tvg-id="MBC" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/MBC.png" group-title="其他频道", MBC
+http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
 #EXTINF:-1 tvg-name="RedBullTV" tvg-id="RedBullTV" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Red Bull TV HD.png" group-title="其他频道", RedBullTV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?denmstv.m3u8
-#EXTINF:-1 tvg-name="Soda东南亚之旅" tvg-id="Soda东南亚之旅" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/Soda东南亚之旅.png" group-title="其他频道", Soda东南亚之旅
-https://vdse.bdstatic.com//b6295e9776c2cd347716fc2447e27fac.mp4
 #EXTINF:-1 tvg-name="TV5MondePacifique" tvg-id="TV5MondePacifique" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TV5Monde_Pacifique_(1080p).png" group-title="其他频道", TV5MondePacifique
 https://ott.tv5monde.com/Content/HLS/Live/channel(pacifique)/variant.m3u8
 #EXTINF:-1 tvg-name="TVEInternacionalEuropeAsia" tvg-id="TVEInternacionalEuropeAsia" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/TVEInternacionalEuropeAsia.png" group-title="其他频道", TVEInternacionalEuropeAsia
@@ -222,10 +220,6 @@ http://61.136.172.236:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=
 https://txmov2.a.kwimgs.com/upic/2022/03/21/19/BMjAyMjAzMjExOTA2MjRfMjYyNzI4Mjc4MV83MDE2MTEwMjY1Ml8yXzM=_b_B977559109a6b2bec30b01e11d458d398.mp4
 #EXTINF:-1 tvg-name="dj新歌句句在理" tvg-id="dj新歌句句在理" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/dj新歌句句在理.png" group-title="其他频道", dj新歌句句在理
 https://vd4.bdstatic.com/mda-ncmb65kfdfysdq4g/sc/cae_h264_delogo/1647946141035592767/mda-ncmb65kfdfysdq4g.mp4
-#EXTINF:-1 tvg-name="dj舞曲交流" tvg-id="dj舞曲交流" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/dj舞曲交流.png" group-title="其他频道", dj舞曲交流
-https://vd2.bdstatic.com/mda-majhhns1q3ggkdi6/v1-cae/sc/mda-majhhns1q3ggkdi6.mp4
-#EXTINF:-1 tvg-name="dj舞曲合集" tvg-id="dj舞曲合集" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/dj舞曲合集.png" group-title="其他频道", dj舞曲合集
-https://vd2.bdstatic.com/mda-mkmeak5hsf7hmguz/sc/cae_h264/1637579072201459045/mda-mkmeak5hsf7hmguz.mp4
 #EXTINF:-1 tvg-name="dj舞曲金典" tvg-id="dj舞曲金典" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/dj舞曲金典.png" group-title="其他频道", dj舞曲金典
 https://vd2.bdstatic.com/mda-mkk0g8x89nnx62tm/sc/cae_h264/1637456174213928981/mda-mkk0g8x89nnx62tm.mp4
 #EXTINF:-1 tvg-name="ycccc满天星辰不及你" tvg-id="ycccc满天星辰不及你" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/ycccc-满天星辰不及你.png" group-title="其他频道", ycccc满天星辰不及你
@@ -238,8 +232,12 @@ https://vd2.bdstatic.com/mda-mm52zzkus5fqm4xh/sc/cae_h264/1638783595083455661/md
 https://vd2.bdstatic.com/mda-mkn4yr0d9ypy9wns/sc/cae_h264_delogo/1643224005214992888/mda-mkn4yr0d9ypy9wns.mp4
 #EXTINF:-1 tvg-name="一砖一瓦杨哲" tvg-id="一砖一瓦杨哲" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/一砖一瓦-杨哲.png" group-title="其他频道", 一砖一瓦杨哲
 http://txmov2.a.yximgs.com/upic/2020/11/07/23/BMjAyMDExMDcyMzQxMzZfMTU0MDc1NjUwOF8zODg5OTUwODg5MF8yXzM=_b_B41249b6fddaf4b4ef4bb5aee7c4f431c.mp4
+#EXTINF:-1 tvg-name="一颗狼星无人区玫瑰" tvg-id="一颗狼星无人区玫瑰" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/一颗狼星无人区玫瑰.png" group-title="其他频道", 一颗狼星无人区玫瑰
+https://vd2.bdstatic.com/mda-pd3axkm3kku2t24z/sc/cae_h264/1680598025754390239/mda-pd3axkm3kku2t24z.mp4
 #EXTINF:-1 tvg-name="一首老婆花送给全国的女同胞们" tvg-id="一首老婆花送给全国的女同胞们" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/一首老婆花送给全国的女同胞们.png" group-title="其他频道", 一首老婆花送给全国的女同胞们
 https://vd3.bdstatic.com/mda-nc33eu0a1v7zxcnu/sc/bd265_cae_delogo/1646450712283095420/mda-nc33eu0a1v7zxcnu.mp4#
+#EXTINF:-1 tvg-name="七星酒吧舞曲" tvg-id="七星酒吧舞曲" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/七星酒吧舞曲.png" group-title="其他频道", 七星酒吧舞曲
+https://vd2.bdstatic.com/mda-mkq4p7459ade8936/sc/cae_h264/1637813773613914093/mda-mkq4p7459ade8936.mp4
 #EXTINF:-1 tvg-name="万州科教" tvg-id="万州科教" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/万州科教.png" group-title="其他频道", 万州科教
 http://123.146.162.24:8013/tslslive/URetCnP/hls/live_sd.m3u8
 #EXTINF:-1 tvg-name="万州科教频道" tvg-id="万州科教频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/万州科教频道.png" group-title="其他频道", 万州科教频道
@@ -254,8 +252,14 @@ https://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8
 https://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8
 #EXTINF:-1 tvg-name="上虞经济文化Not247" tvg-id="上虞经济文化Not247" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/上虞经济文化Not247.png" group-title="其他频道", 上虞经济文化Not247
 https://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
+#EXTINF:-1 tvg-name="不再痴情" tvg-id="不再痴情" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/不再痴情.png" group-title="其他频道", 不再痴情
+https://vd2.bdstatic.com/mda-nbcbghq0pu0fp0p3/1080p/cae_h264_delogo/1644740193093958815/mda-nbcbghq0pu0fp0p3.mp4
+#EXTINF:-1 tvg-name="不再痴情黄静美" tvg-id="不再痴情黄静美" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/不再痴情黄静美.png" group-title="其他频道", 不再痴情黄静美
+https://vd2.bdstatic.com/mda-mguiyws4cia6d0rf/1080p/cae_h264/1627568961141809995/mda-mguiyws4cia6d0rf.mp4
 #EXTINF:-1 tvg-name="不差钱" tvg-id="不差钱" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/不差钱.png" group-title="其他频道", 不差钱
 https://vdse.bdstatic.com//769f31778a85f33825c44a9b0c70ac37.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2022-06-15T10%3A24%3A57Z%2F-1%2Fhost%2F9d4a74ab09dc18c2f4d9b0b8f77c621471a15359ec3b77c186f51611f4712005
+#EXTINF:-1 tvg-name="不才拂雪" tvg-id="不才拂雪" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/不才拂雪.png" group-title="其他频道", 不才拂雪
+https://vd2.bdstatic.com/mda-pc489zc05u5gqd86/sc/cae_h264/1677995923284542424/mda-pc489zc05u5gqd86.mp4
 #EXTINF:-1 tvg-name="世间的酒你醉了没有" tvg-id="世间的酒你醉了没有" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/世间的酒你醉了没有.png" group-title="其他频道", 世间的酒你醉了没有
 https://txmov2.a.kwimgs.com/bs3/video-hls/5245849239862387651_hlsb.m3u8
 #EXTINF:-1 tvg-name="东台综合频道" tvg-id="东台综合频道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/东台综合频道.png" group-title="其他频道", 东台综合频道
@@ -322,12 +326,8 @@ https://bcovlive-a.akamaihd.net/0b75ef0a49e24704a4ca023d3a82c2df/ap-south-1/6203
 http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
 #EXTINF:-1 tvg-name="伊拉克Cinema1" tvg-id="伊拉克Cinema1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/伊拉克Cinema1.png" group-title="其他频道", 伊拉克Cinema1
 http://ott.watch/stream/E9LDH2ZCN7/423.m3u8
-#EXTINF:-1 tvg-name="伊拉克SharqiyaNews" tvg-id="伊拉克SharqiyaNews" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/伊拉克-SharqiyaNews.png" group-title="其他频道", 伊拉克SharqiyaNews
-http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
 #EXTINF:-1 tvg-name="伊拉克life" tvg-id="伊拉克life" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/伊拉克life.png" group-title="其他频道", 伊拉克life
 http://195.142.3.105/artidijital_lifetv/lifetv/chunks.m3u8?autoplay=1
-#EXTINF:-1 tvg-name="伤不起dj" tvg-id="伤不起dj" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/伤不起dj.png" group-title="其他频道", 伤不起dj
-https://vd2.bdstatic.com/mda-ndk1gp50bp71j652/cae_h264_delogo/1650507809324077232/mda-ndk1gp50bp71j652.mp4
 #EXTINF:-1 tvg-name="伤心的眼泪" tvg-id="伤心的眼泪" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/伤心的眼泪.png" group-title="其他频道", 伤心的眼泪
 https://vd3.bdstatic.com/mda-ncn2c816zrf6u0im/sc/cae_h264_delogo/1648002300550722369/mda-ncn2c816zrf6u0im.mp4
 #EXTINF:-1 tvg-name="伤心的酒吧伤心的雨" tvg-id="伤心的酒吧伤心的雨" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/伤心的酒吧伤心的雨.png" group-title="其他频道", 伤心的酒吧伤心的雨
@@ -374,26 +374,16 @@ http://ott.watch/stream/E9LDH2ZCN7/117.m3u8
 https://vd4.bdstatic.com/mda-ma7y4ug97hcdf710/v1-cae/1080p/mda-ma7y4ug97hcdf710.mp4
 #EXTINF:-1 tvg-name="免失志" tvg-id="免失志" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/免失志.png" group-title="其他频道", 免失志
 https://vd4.bdstatic.com/mda-je7nte3m37r5t44a/hd/mda-je7nte3m37r5t44a.mp4
-#EXTINF:-1 tvg-name="免饮人先醉" tvg-id="免饮人先醉" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/免饮人先醉.png" group-title="其他频道", 免饮人先醉
-https://vd2.bdstatic.com/mda-jenpdh07589ewyb2/v1-cae/mda-jenpdh07589ewyb2.mp4
 #EXTINF:-1 tvg-name="全球最大唱片公司宝丽金15周年1986群星演唱会完整版" tvg-id="全球最大唱片公司宝丽金15周年1986群星演唱会完整版" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/全球最大唱片公司宝丽金15周年1986群星演唱会完整版.png" group-title="其他频道", 全球最大唱片公司宝丽金15周年1986群星演唱会完整版
 https://vd4.bdstatic.com/mda-pbndmfww1uvvr7hh/cae_h264/1677147471612943557/mda-pbndmfww1uvvr7hh.mp4
 #EXTINF:-1 tvg-name="全球最大唱片公司宝丽金成立20周年1990群星演唱会完整版" tvg-id="全球最大唱片公司宝丽金成立20周年1990群星演唱会完整版" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/全球最大唱片公司宝丽金成立20周年1990群星演唱会完整版.png" group-title="其他频道", 全球最大唱片公司宝丽金成立20周年1990群星演唱会完整版
 https://vd3.bdstatic.com/mda-pbp4sapcn5kmpxhg/sc/cae_h264/1677214872183868613/mda-pbp4sapcn5kmpxhg.mp4
-#EXTINF:-1 tvg-name="全球最大唱片公司宝丽金成立25周年群星演唱会完整版" tvg-id="全球最大唱片公司宝丽金成立25周年群星演唱会完整版" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/全球最大唱片公司宝丽金成立25周年群星演唱会完整版.png" group-title="其他频道", 全球最大唱片公司宝丽金成立25周年群星演唱会完整版
-https://vd2.bdstatic.com/mda-pbq9cde2ii3ti6dc/sc/cae_h264/1677313014207602418/mda-pbq9cde2ii3ti6dc.mp4
-#EXTINF:-1 tvg-name="全球最大唱片公司宝丽金成立30周年群星演唱会完整版" tvg-id="全球最大唱片公司宝丽金成立30周年群星演唱会完整版" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/全球最大唱片公司宝丽金成立30周年群星演唱会完整版.png" group-title="其他频道", 全球最大唱片公司宝丽金成立30周年群星演唱会完整版
-https://vd2.bdstatic.com/mda-pbr4g2edssnu2heu/720p/h264/1677381477864191175/mda-pbr4g2edssnu2heu.mp4
 #EXTINF:-1 tvg-name="六首伤感DJ舞曲为爱受尽相思罪爱过了头心伤透" tvg-id="六首伤感DJ舞曲为爱受尽相思罪爱过了头心伤透" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/六首伤感DJ舞曲为爱受尽相思罪爱过了头心伤透.png" group-title="其他频道", 六首伤感DJ舞曲为爱受尽相思罪爱过了头心伤透
 https://vdse.bdstatic.com//f27d59d8b75915e122f53c173e27a32e.mp4
 #EXTINF:-1 tvg-name="兵团八师石河子影文体" tvg-id="兵团八师石河子影文体" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/兵团八师石河子影文体.png" group-title="其他频道", 兵团八师石河子影文体
 http://124.88.144.73:1935/live/jjsh/playlist.m3u8?zxinjd
-#EXTINF:-1 tvg-name="再不珍惜你就失去我了" tvg-id="再不珍惜你就失去我了" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/再不珍惜你就失去我了.png" group-title="其他频道", 再不珍惜你就失去我了
-https://vd2.bdstatic.com/mda-nc2atthveb54m8pm/1080p/cae_h264_delogo/1646474471600456394/mda-nc2atthveb54m8pm.mp4
 #EXTINF:-1 tvg-name="冯巩相声" tvg-id="冯巩相声" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/冯巩相声.png" group-title="其他频道", 冯巩相声
 https://vdse.bdstatic.com//65873c285f222c4cfeecf527f3e84259.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2022-06-15T09%3A55%3A46Z%2F-1%2Fhost%2F9119b3500a8e21fb21665d9576bbf410e5a0fa8904ccc1ce0d3aabde21c99c8a
-#EXTINF:-1 tvg-name="冯巩郭冬临狗不理包子" tvg-id="冯巩郭冬临狗不理包子" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/冯巩郭冬临狗不理包子.png" group-title="其他频道", 冯巩郭冬临狗不理包子
-https://vd2.bdstatic.com/mda-jdqwqnk1xxszhw8c/mda-jdqwqnk1xxszhw8c.mp4?pd=-1&pt=0&cr=0&vt=0&cd=0&did=cfcd208495d565ef66e7dff9f98764da&logid=2275698282&vid=17330773072848394300&auth_key=1655291275-0-0-73fe6c276ababcdb43b87a4fda6002df&bcevod_channel=searchbox_feed
 #EXTINF:-1 tvg-name="冷漠你把爱情给了谁" tvg-id="冷漠你把爱情给了谁" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/冷漠-你把爱情给了谁.png" group-title="其他频道", 冷漠你把爱情给了谁
 http://antiserver.kuwo.cn/anti.s?rid=MUSIC_1210771&response=res&format=mp4&type=convert_url
 #EXTINF:-1 tvg-name="冷漠再爱也没有用" tvg-id="冷漠再爱也没有用" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/冷漠-再爱也没有用.png" group-title="其他频道", 冷漠再爱也没有用
@@ -402,6 +392,8 @@ http://antiserver.kuwo.cn/anti.s?rid=MUSIC_5834217&response=res&format=mp4&type=
 http://antiserver.kuwo.cn/anti.s?rid=MUSIC_6210858&response=res&format=mp4&type=convert_url
 #EXTINF:-1 tvg-name="冷漠古咖啡" tvg-id="冷漠古咖啡" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/冷漠-古咖啡.png" group-title="其他频道", 冷漠古咖啡
 http://antiserver.kuwo.cn/anti.s?rid=MUSIC_3142984&response=res&format=mp4&type=convert_url
+#EXTINF:-1 tvg-name="冷漠多情的人不该相遇" tvg-id="冷漠多情的人不该相遇" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/冷漠-多情的人不该相遇.png" group-title="其他频道", 冷漠多情的人不该相遇
+http://antiserver.kuwo.cn/anti.s?rid=MUSIC_1041689&response=res&format=mp4&type=convert_url
 #EXTINF:-1 tvg-name="冷漠我是否也在你心中" tvg-id="冷漠我是否也在你心中" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/冷漠-我是否也在你心中.png" group-title="其他频道", 冷漠我是否也在你心中
 http://antiserver.kuwo.cn/anti.s?rid=MUSIC_4378249&response=res&format=mp4&type=convert_url
 #EXTINF:-1 tvg-name="冷漠时光海湾" tvg-id="冷漠时光海湾" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/冷漠-时光海灣.png" group-title="其他频道", 冷漠时光海湾
@@ -416,10 +408,18 @@ https://vdse.bdstatic.com//4d7e8fe409b2ba9e08b179de8e146fa3.mp4
 https://vdse.bdstatic.com//c5c64b60c9fdfbdfa3e959bb1d56c4b0.mp4
 #EXTINF:-1 tvg-name="凤凰传奇中国味道" tvg-id="凤凰传奇中国味道" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰传奇-中国味道.png" group-title="其他频道", 凤凰传奇中国味道
 http://antiserver.kuwo.cn/anti.s?rid=MUSIC_24042021&response=res&format=mp4&type=convert_url
+#EXTINF:-1 tvg-name="凤凰传奇今生的缘" tvg-id="凤凰传奇今生的缘" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰传奇-今生的缘.png" group-title="其他频道", 凤凰传奇今生的缘
+http://antiserver.kuwo.cn/anti.s?rid=MUSIC_646024&response=res&format=mp4&type=convert_url
+#EXTINF:-1 tvg-name="凤凰传奇光芒" tvg-id="凤凰传奇光芒" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰传奇-光芒.png" group-title="其他频道", 凤凰传奇光芒
+http://antiserver.kuwo.cn/anti.s?rid=MUSIC_24042019&response=res&format=mp4&type=convert_url
 #EXTINF:-1 tvg-name="凤凰传奇奇迹世界" tvg-id="凤凰传奇奇迹世界" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰传奇-奇迹世界.png" group-title="其他频道", 凤凰传奇奇迹世界
 http://antiserver.kuwo.cn/anti.s?rid=MUSIC_954805&response=res&format=mp4&type=convert_url
 #EXTINF:-1 tvg-name="凤凰传奇奢香夫人" tvg-id="凤凰传奇奢香夫人" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰传奇-奢香夫人.png" group-title="其他频道", 凤凰传奇奢香夫人
 http://antiserver.kuwo.cn/anti.s?rid=MUSIC_51674527&response=res&format=mp4&type=convert_url
+#EXTINF:-1 tvg-name="凤凰传奇御龙归字谣" tvg-id="凤凰传奇御龙归字谣" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰传奇-御龙归字谣.png" group-title="其他频道", 凤凰传奇御龙归字谣
+http://antiserver.kuwo.cn/anti.s?rid=MUSIC_1164118&response=res&format=mp4&type=convert_url
+#EXTINF:-1 tvg-name="凤凰传奇月亮之上" tvg-id="凤凰传奇月亮之上" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰传奇-月亮之上.png" group-title="其他频道", 凤凰传奇月亮之上
+http://antiserver.kuwo.cn/anti.s?rid=MUSIC_7084968&response=res&format=mp4&type=convert_url
 #EXTINF:-1 tvg-name="凤凰传奇歌唱二小放牛郎" tvg-id="凤凰传奇歌唱二小放牛郎" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰传奇-歌唱二小放牛郎.png" group-title="其他频道", 凤凰传奇歌唱二小放牛郎
 http://antiserver.kuwo.cn/anti.s?rid=MUSIC_8120530&response=res&format=mp4&type=convert_url
 #EXTINF:-1 tvg-name="凤凰传奇温柔姑娘" tvg-id="凤凰传奇温柔姑娘" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰传奇温柔姑娘.png" group-title="其他频道", 凤凰传奇温柔姑娘
@@ -432,6 +432,8 @@ http://antiserver.kuwo.cn/anti.s?rid=MUSIC_24042025&response=res&format=mp4&type
 http://antiserver.kuwo.cn/anti.s?rid=MUSIC_18747906&response=res&format=mp4&type=convert_url
 #EXTINF:-1 tvg-name="凤凰传奇荷塘月色" tvg-id="凤凰传奇荷塘月色" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰传奇荷塘月色.png" group-title="其他频道", 凤凰传奇荷塘月色
 http://antiserver.kuwo.cn/anti.s?rid=MUSIC_1565837&response=res&format=mp4&type=convert_url
+#EXTINF:-1 tvg-name="刀郎的西海情歌" tvg-id="刀郎的西海情歌" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/刀郎的西海情歌.png" group-title="其他频道", 刀郎的西海情歌
+https://vd2.bdstatic.com/mda-nctex3rji1v42a0w/sc/cae_h264_delogo/1648464135631429287/mda-nctex3rji1v42a0w.mp4
 #EXTINF:-1 tvg-name="刀郎经典歌曲7首西海情歌敖包相会情人冲动的惩罚" tvg-id="刀郎经典歌曲7首西海情歌敖包相会情人冲动的惩罚" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/刀郎经典歌曲7首西海情歌敖包相会情人冲动的惩罚.png" group-title="其他频道", 刀郎经典歌曲7首西海情歌敖包相会情人冲动的惩罚
 https://vdse.bdstatic.com//628ca08719cef5987ea2ae3c6f0d2386.mp4
 #EXTINF:-1 tvg-name="刀郎经典歌曲精选" tvg-id="刀郎经典歌曲精选" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/刀郎经典歌曲精选.png" group-title="其他频道", 刀郎经典歌曲精选
@@ -440,8 +442,12 @@ https://vdse.bdstatic.com//4fcca19a19aa4974230c5ee70ab5fa55.mp4
 https://vdse.bdstatic.com//bfbb0871ed01eb3328497faae6a8531b.mp4
 #EXTINF:-1 tvg-name="刀郎远方的人" tvg-id="刀郎远方的人" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/刀郎远方的人.png" group-title="其他频道", 刀郎远方的人
 http://vd3.bdstatic.com/mda-pc0ahpf83marscup/hd/bd265_cae_visr_v5/1677750292486275743/mda-pc0ahpf83marscup.mp4
+#EXTINF:-1 tvg-name="初恋" tvg-id="初恋" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/初恋.png" group-title="其他频道", 初恋
+https://vd2.bdstatic.com/mda-jecre7pwujhk9za9/mda-jecre7pwujhk9za9.mp4
 #EXTINF:-1 tvg-name="初恋情人" tvg-id="初恋情人" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/初恋情人.png" group-title="其他频道", 初恋情人
 https://vd3.bdstatic.com:443/mda-me57bm308iu6stcz/1080p/cae_h264/1620279663855106642/mda-me57bm308iu6stcz.mp4
+#EXTINF:-1 tvg-name="初恋的人" tvg-id="初恋的人" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/初恋的人.png" group-title="其他频道", 初恋的人
+https://vd2.bdstatic.com:443/mda-mhwdgysnspnb1nnr/1080p/cae_h264/1630404398162757730/mda-mhwdgysnspnb1nnr.mp4
 #EXTINF:-1 tvg-name="功夫" tvg-id="功夫" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/功夫.png" group-title="其他频道", 功夫
 https://vd3.bdstatic.com/mda-mjn3rmcivntas8ez/hd/cae_h264_nowatermark/1635016788091110865/mda-mjn3rmcivntas8ez.mp4?pd=19&vt=1
 #EXTINF:-1 tvg-name="动听DJ情歌红颜知己今夜为你醉别忘了我在等你等" tvg-id="动听DJ情歌红颜知己今夜为你醉别忘了我在等你等" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/动听DJ情歌红颜知己今夜为你醉别忘了我在等你等.png" group-title="其他频道", 动听DJ情歌红颜知己今夜为你醉别忘了我在等你等
@@ -486,6 +492,8 @@ https://vd3.bdstatic.com/mda-je7mtzyr5cybtyr8/v1-cae/hd/mda-je7mtzyr5cybtyr8.mp4
 http://vodcdn.video.taobao.com/oss/ali-video/0ea34400f2502a94ee14aea506e0042b/video.m3u8
 #EXTINF:-1 tvg-name="叶倩文潇洒走一回" tvg-id="叶倩文潇洒走一回" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/叶倩文潇洒走一回.png" group-title="其他频道", 叶倩文潇洒走一回
 http://vodcdn.video.taobao.com/oss/ali-video/371d75312720e701b5f3988d46cdf4ef/video.m3u8
+#EXTINF:-1 tvg-name="叶弦清归去来兮" tvg-id="叶弦清归去来兮" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/叶弦清归去来兮.png" group-title="其他频道", 叶弦清归去来兮
+https://vd2.bdstatic.com/mda-pc3ehnng4wk6jf7a/sc/cae_h264/1677925573265006809/mda-pc3ehnng4wk6jf7a.mp4
 #EXTINF:-1 tvg-name="叶筱萱爱到最后是孤独" tvg-id="叶筱萱爱到最后是孤独" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/叶筱萱爱到最后是孤独.png" group-title="其他频道", 叶筱萱爱到最后是孤独
 https://vd4.bdstatic.com/mda-mh9fjm2j86uyymfa/1080p/cae_h264/1628593607912074882/mda-mh9fjm2j86uyymfa.mp4
 #EXTINF:-1 tvg-name="吃面" tvg-id="吃面" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/吃面.png" group-title="其他频道", 吃面
@@ -532,8 +540,6 @@ http://gcalic.v.myalicdn.com/gc/xiongmao23_1/index.m3u8
 https://vd2.bdstatic.com/mda-njfs5ri0iww7kpw7/720p/h264/1665945072697136168/mda-njfs5ri0iww7kpw7.mp4
 #EXTINF:-1 tvg-name="大话西游" tvg-id="大话西游" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/大话西游.png" group-title="其他频道", 大话西游
 https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgk9aq4gUogIDbxwQ.mp4
-#EXTINF:-1 tvg-name="天公不作美黄静美" tvg-id="天公不作美黄静美" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/天公不作美黄静美.png" group-title="其他频道", 天公不作美黄静美
-https://vd2.bdstatic.com/mda-mcibj6pxkwe3x1ji/1080p/cae_h264/1616117049/mda-mcibj6pxkwe3x1ji.mp4
 #EXTINF:-1 tvg-name="天津天津海河" tvg-id="天津天津海河" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/天津天津海河.png" group-title="其他频道", 天津天津海河
 https://gcalic.v.myalicdn.com/gc/tjhh02_1/index.m3u8?contentid=2820180516001
 #EXTINF:-1 tvg-name="天灰灰" tvg-id="天灰灰" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/天灰灰.png" group-title="其他频道", 天灰灰
@@ -564,6 +570,8 @@ http://live.dxhmt.cn:9081/tv/10883-1.m3u8
 https://txmov2.a.kwimgs.com/bs3/video-hls/5257952666920024382_hlsb.m3u8
 #EXTINF:-1 tvg-name="学猫叫" tvg-id="学猫叫" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/学猫叫.png" group-title="其他频道", 学猫叫
 https://vd3.bdstatic.com/mda-masjedkvyxfa0uin/sc/bd265_nowatermark/1611743300/mda-masjedkvyxfa0uin.mp4
+#EXTINF:-1 tvg-name="学生dj舞曲" tvg-id="学生dj舞曲" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/学生dj舞曲.png" group-title="其他频道", 学生dj舞曲
+https://vd2.bdstatic.com/mda-mkncvdu8w51mdbqw/sc/cae_h264/1637659554429325643/mda-mkncvdu8w51mdbqw.mp4
 #EXTINF:-1 tvg-name="宇宁千里江山大型纪录片紫禁城主题歌" tvg-id="宇宁千里江山大型纪录片紫禁城主题歌" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/宇宁千里江山大型纪录片紫禁城主题歌.png" group-title="其他频道", 宇宁千里江山大型纪录片紫禁城主题歌
 https://vdse.bdstatic.com//688046e42c39cf6585106f945e2798e7.mov
 #EXTINF:-1 tvg-name="守候在凌晨二点的伤心秀吧" tvg-id="守候在凌晨二点的伤心秀吧" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/守候在凌晨二点的伤心秀吧.png" group-title="其他频道", 守候在凌晨二点的伤心秀吧
@@ -594,8 +602,6 @@ https://vd3.bdstatic.com/mda-maqs355itqp221rx/v2-hknm/hd/mda-maqs355itqp221rx.mp
 https://txmov2.a.kwimgs.com/upic/2021/11/15/12/BMjAyMTExMTUxMjM1NTdfMTcyOTc0NDgyXzYwOTA5Mjc4OTA1XzBfMw==_b_Bb5e73a4c4d12f84f6ca09819219dbdca.mp4?tag=1-1640750475-std-1-9ehmzmtg02-bf8ce9a5fa89fea1&clientCacheKey=3xh6npxa6hktmp9_b.mp4&tt=b&di=529d11df&bp=12681
 #EXTINF:-1 tvg-name="小鱼授权" tvg-id="小鱼授权" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/小鱼授权.png" group-title="其他频道", 小鱼授权
 https://vd4.bdstatic.com/mda-mkn4iq79ihtufbc1/sc/cae_h264/1637639849265611965/mda-mkn4iq79ihtufbc1.mp4
-#EXTINF:-1 tvg-name="尘封十三载第05集" tvg-id="尘封十三载第05集" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/尘封十三载第05集.png" group-title="其他频道", 尘封十三载第05集
-https://vip.lzcdn2.com/20230407/25103_b92c794a/index.m3u8
 #EXTINF:-1 tvg-name="尘封十三载第06集" tvg-id="尘封十三载第06集" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/尘封十三载第06集.png" group-title="其他频道", 尘封十三载第06集
 https://vip.lzcdn2.com/20230407/25102_05aa2477/index.m3u8
 #EXTINF:-1 tvg-name="尘封十三载第09集" tvg-id="尘封十三载第09集" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/尘封十三载第09集.png" group-title="其他频道", 尘封十三载第09集
@@ -604,12 +610,16 @@ https://vip.lzcdn2.com/20230409/25141_b85f9b8d/index.m3u8
 https://vip.lzcdn2.com/20230409/25140_584a8930/index.m3u8
 #EXTINF:-1 tvg-name="尘封十三载第13集" tvg-id="尘封十三载第13集" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/尘封十三载第13集.png" group-title="其他频道", 尘封十三载第13集
 https://vip.lzcdn2.com/20230411/25176_02a2ce33/index.m3u8
+#EXTINF:-1 tvg-name="尘封十三载第14集" tvg-id="尘封十三载第14集" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/尘封十三载 第14集.png" group-title="其他频道", 尘封十三载第14集
+https://vip.lzcdn2.com/20230411/25175_95075a3c/index.m3u8
 #EXTINF:-1 tvg-name="尘封十三载第17集" tvg-id="尘封十三载第17集" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/尘封十三载 第17集.png" group-title="其他频道", 尘封十三载第17集
 https://vip.lzcdn2.com/20230413/25210_d63b081b/index.m3u8
 #EXTINF:-1 tvg-name="尘封十三载第18集" tvg-id="尘封十三载第18集" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/尘封十三载第18集.png" group-title="其他频道", 尘封十三载第18集
 https://vip.lzcdn2.com/20230413/25209_25921bc5/index.m3u8
 #EXTINF:-1 tvg-name="尘封十三载第21集" tvg-id="尘封十三载第21集" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/尘封十三载第21集.png" group-title="其他频道", 尘封十三载第21集
 https://vip.lzcdn2.com/20230415/25244_a551c726/index.m3u8
+#EXTINF:-1 tvg-name="尘封十三载第22集" tvg-id="尘封十三载第22集" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/尘封十三载第22集.png" group-title="其他频道", 尘封十三载第22集
+https://vip.lzcdn2.com/20230415/25243_a2e60486/index.m3u8
 #EXTINF:-1 tvg-name="就差钱" tvg-id="就差钱" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/就差钱.png" group-title="其他频道", 就差钱
 https://vdse.bdstatic.com//812d49e751aa31530ec39debfe54a359.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2022-06-14T08%3A49%3A09Z%2F-1%2Fhost%2Fa58bdb86d23b53b6909e8e19d85dad9fed3adeba4a664a22eef9a7d32ac2486a
 #EXTINF:-1 tvg-name="就算没有如果张杰" tvg-id="就算没有如果张杰" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/就算没有如果张杰.png" group-title="其他频道", 就算没有如果张杰
@@ -680,8 +690,6 @@ https://vd3.bdstatic.com/mda-nedewsa4vwr212k3/hd/cae_h264/1652539451367005768/md
 http://116.128.242.83:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="怀旧金曲刀郎黄玫瑰" tvg-id="怀旧金曲刀郎黄玫瑰" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/怀旧金曲刀郎黄玫瑰.png" group-title="其他频道", 怀旧金曲刀郎黄玫瑰
 https://vdse.bdstatic.com//893331fdfab5d04e5c93e2adbbf1e949.mp4
-#EXTINF:-1 tvg-name="怒击摇" tvg-id="怒击摇" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/怒击摇.png" group-title="其他频道", 怒击摇
-https://vd2.bdstatic.com/mda-mkibx9zvknj8d2fu/sc/cae_h264_nowatermark/1637355659217322910/mda-mkibx9zvknj8d2fu.mp4
 #EXTINF:-1 tvg-name="思念情歌我是真的好爱你永远放你在心底百听不厌" tvg-id="思念情歌我是真的好爱你永远放你在心底百听不厌" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/思念情歌我是真的好爱你永远放你在心底百听不厌.png" group-title="其他频道", 思念情歌我是真的好爱你永远放你在心底百听不厌
 https://vd3.bdstatic.com/mda-ndea5au6knwizprv/1080p/cae_h264_delogo/1650064725615866173/mda-ndea5au6knwizprv.mp4
 #EXTINF:-1 tvg-name="思念情歌民谣等你等了那么久想让雨滴问问你" tvg-id="思念情歌民谣等你等了那么久想让雨滴问问你" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/思念情歌民谣等你等了那么久想让雨滴问问你.png" group-title="其他频道", 思念情歌民谣等你等了那么久想让雨滴问问你
@@ -702,6 +710,8 @@ https://vdse.bdstatic.com//4eece717c6cc2fb9086a59a13ce30623.mp4
 https://vd2.bdstatic.com/mda-nag6y4ryfy5a0hjb/720p/h264_delogo/1642396108696963578/mda-nag6y4ryfy5a0hjb.mp4
 #EXTINF:-1 tvg-name="情歌你是我今生不能忘的唯一DJ版" tvg-id="情歌你是我今生不能忘的唯一DJ版" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/情歌你是我今生不能忘的唯一DJ版.png" group-title="其他频道", 情歌你是我今生不能忘的唯一DJ版
 https://vd4.bdstatic.com/mda-mbdzgfvp4bz1hhg8/v1-cae/1080p/mda-mbdzgfvp4bz1hhg8.mp4
+#EXTINF:-1 tvg-name="情歌皇后林翠萍相见不如不见F" tvg-id="情歌皇后林翠萍相见不如不见F" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/情歌皇后林翠萍相见不如不见F.png" group-title="其他频道", 情歌皇后林翠萍相见不如不见F
+https://vdse.bdstatic.com//1f65ad884619a069c68572f1ac9e2b0e.mp4
 #EXTINF:-1 tvg-name="想你的时候问月亮" tvg-id="想你的时候问月亮" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/想你的时候问月亮.png" group-title="其他频道", 想你的时候问月亮
 https://vdse.bdstatic.com//ec33a3aaab2aafb34d5816962f2a5ae5.mp4
 #EXTINF:-1 tvg-name="慢摇dj舞曲" tvg-id="慢摇dj舞曲" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/慢摇dj舞曲.png" group-title="其他频道", 慢摇dj舞曲
@@ -734,6 +744,8 @@ https://vdse.bdstatic.com//13da18e12728e9d7849f6589a3070b4c.mp4
 https://vd3.bdstatic.com/mda-jaqz8g17b9cvryks/hd/mda-jaqz8g17b9cvryks.mp4?pd=19&vt=1
 #EXTINF:-1 tvg-name="捐助后传" tvg-id="捐助后传" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/捐助后传.png" group-title="其他频道", 捐助后传
 https://vd3.bdstatic.com/mda-kbsrpz9zmbbvznjw/hd/mda-kbsrpz9zmbbvznjw.mp4?pd=19&vt=1&playlist=%5B%22hd%22%2C%22sc%22%5D
+#EXTINF:-1 tvg-name="推荐9首DJ舞曲" tvg-id="推荐9首DJ舞曲" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/推荐9首DJ舞曲.png" group-title="其他频道", 推荐9首DJ舞曲
+https://vd2.bdstatic.com/mda-mhig1c3sw223mx8p/1080p/cae_h264/1629380139191731149/mda-mhig1c3sw223mx8p.mp4
 #EXTINF:-1 tvg-name="故乡" tvg-id="故乡" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/故乡.png" group-title="其他频道", 故乡
 http://vdown.kuwo.cn:80/resource/t4/23/63/hQYKyFEiljU.mp4
 #EXTINF:-1 tvg-name="整容归来" tvg-id="整容归来" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/整容归来.png" group-title="其他频道", 整容归来
@@ -826,12 +838,16 @@ http://vdown.kuwo.cn:80/resource/t4/59/86/iXqIb2KOC3M.mp4
 https://txmov2.a.kwimgs.com/bs3/video-hls/5241627115538696157_hlsb.m3u8
 #EXTINF:-1 tvg-name="来生再去拥抱你梨花飞情人泪落雨的秋梦醉荷塘" tvg-id="来生再去拥抱你梨花飞情人泪落雨的秋梦醉荷塘" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/来生再去拥抱你梨花飞情人泪落雨的秋梦醉荷塘.png" group-title="其他频道", 来生再去拥抱你梨花飞情人泪落雨的秋梦醉荷塘
 https://vdse.bdstatic.com//d5e3237c7ef186217ea1c9b24d58e2ae.mp4
+#EXTINF:-1 tvg-name="杯中影" tvg-id="杯中影" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/杯中影.png" group-title="其他频道", 杯中影
+https://vd2.bdstatic.com/mda-jdnnsnviqbzm3sm9/v1-cae/hd/mda-jdnnsnviqbzm3sm9.mp4
 #EXTINF:-1 tvg-name="极速汽车" tvg-id="极速汽车" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/极速汽车.png" group-title="其他频道", 极速汽车
 http://180.213.174.225:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="林淑容经典情歌美女KTV字幕版" tvg-id="林淑容经典情歌美女KTV字幕版" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/林淑容经典情歌美女KTV字幕版.png" group-title="其他频道", 林淑容经典情歌美女KTV字幕版
 https://vd4.bdstatic.com/mda-nkm9mjnqe6xaqktc/sc/cae_h264/1669104767343049961/mda-nkm9mjnqe6xaqktc.mp4
 #EXTINF:-1 tvg-name="林翠萍情网" tvg-id="林翠萍情网" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/林翠萍情网.png" group-title="其他频道", 林翠萍情网
 https://vd4.bdstatic.com:443/mda-mipn4ccctdasgr2r/fhd/cae_h264_nowatermark/1632498915227563300/mda-mipn4ccctdasgr2r.mp4
+#EXTINF:-1 tvg-name="林翠萍的我太傻" tvg-id="林翠萍的我太傻" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/林翠萍的我太傻.png" group-title="其他频道", 林翠萍的我太傻
+https://vd2.bdstatic.com/mda-mb5qq1ic4yvekk6r/v2-hknm/sc/mda-mb5qq1ic4yvekk6r.mp4
 #EXTINF:-1 tvg-name="林翠萍经典情歌相思豆F" tvg-id="林翠萍经典情歌相思豆F" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/林翠萍经典情歌相思豆F.png" group-title="其他频道", 林翠萍经典情歌相思豆F
 https://vdse.bdstatic.com//986498bb0ccd2114ba1274df22fae332.mp4
 #EXTINF:-1 tvg-name="林翠萍经典老歌相会在梦里F" tvg-id="林翠萍经典老歌相会在梦里F" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/林翠萍经典老歌相会在梦里F.png" group-title="其他频道", 林翠萍经典老歌相会在梦里F
@@ -844,6 +860,52 @@ https://vdse.bdstatic.com//5b388a47b1233105831e09b8cadc1edd.mp4
 http://txmov2.a.yximgs.com/upic/2020/11/08/21/BMjAyMDExMDgyMTAwMTNfMTU0MDc1NjUwOF8zODk0OTg4ODcxN18yXzM=_b_B5faf49255e0be7fc042ea521c28a458e.mp4
 #EXTINF:-1 tvg-name="欢喜就好" tvg-id="欢喜就好" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/欢喜就好.png" group-title="其他频道", 欢喜就好
 http://vdown.kuwo.cn:80/resource//t4/33/65/I4Vpjif2dxY.mp4
+#EXTINF:-1 tvg-name="歌MV1" tvg-id="歌MV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/歌MV1.png" group-title="其他频道", 歌MV1
+http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgypLV4gUo-ZmUhwc.mp4
+#EXTINF:-1 tvg-name="歌MV10" tvg-id="歌MV10" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/歌MV10.png" group-title="其他频道", 歌MV10
+http://15799848.s21v.faiusr.com/58/ABUIABA6GAAg59bE4gUo0P3y9QM.mp4
+#EXTINF:-1 tvg-name="歌MV11" tvg-id="歌MV11" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/歌MV11.png" group-title="其他频道", 歌MV11
+http://15799848.s21v.faiusr.com/58/ABUIABA6GAAg8NfE4gUomOLI6gM.mp4
+#EXTINF:-1 tvg-name="歌MV12" tvg-id="歌MV12" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/歌MV12.png" group-title="其他频道", 歌MV12
+http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgotjE4gUo8Jvi8Ac.mp4
+#EXTINF:-1 tvg-name="歌MV13" tvg-id="歌MV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/歌MV13.png" group-title="其他频道", 歌MV13
+http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgvp_b4gUovoTAwAI.mp4
+#EXTINF:-1 tvg-name="歌MV14" tvg-id="歌MV14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/歌MV14.png" group-title="其他频道", 歌MV14
+http://15799848.s21v.faiusr.com/58/ABUIABA6GAAglYC24gUokJDpqQU.mp4
+#EXTINF:-1 tvg-name="歌MV15" tvg-id="歌MV15" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/歌MV15.png" group-title="其他频道", 歌MV15
+http://15799848.s21v.faiusr.com/58/ABUIABA6GAAg0YC24gUoyvO6Ng.mp4
+#EXTINF:-1 tvg-name="歌MV16" tvg-id="歌MV16" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/歌MV16.png" group-title="其他频道", 歌MV16
+http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgxa_M5gUooKTfxAE.mp4
+#EXTINF:-1 tvg-name="歌MV17" tvg-id="歌MV17" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/歌MV17.png" group-title="其他频道", 歌MV17
+http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgtpai5wUoyLvuugU.mp4
+#EXTINF:-1 tvg-name="歌MV18" tvg-id="歌MV18" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/歌MV18.png" group-title="其他频道", 歌MV18
+http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgyKyM5gUooJurKA.mp4
+#EXTINF:-1 tvg-name="歌MV19" tvg-id="歌MV19" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/歌MV19.png" group-title="其他频道", 歌MV19
+http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgvPi-4gUov5GSxQM.mp4
+#EXTINF:-1 tvg-name="歌MV2" tvg-id="歌MV2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/歌MV2.png" group-title="其他频道", 歌MV2
+http://15799848.s21v.faiusr.com/58/ABUIABA6GAAglZTV4gUo1tiHrgM.mp4
+#EXTINF:-1 tvg-name="歌MV20" tvg-id="歌MV20" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/歌MV20.png" group-title="其他频道", 歌MV20
+http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgh7GM5gUowOmHhwM.mp4
+#EXTINF:-1 tvg-name="歌MV21" tvg-id="歌MV21" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/歌MV21.png" group-title="其他频道", 歌MV21
+http://15799848.s21v.faiusr.com/58/ABUIABA6GAAg-feR5wUo5M2ibw.mp4
+#EXTINF:-1 tvg-name="歌MV22" tvg-id="歌MV22" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/歌MV22.png" group-title="其他频道", 歌MV22
+http://15799848.s21v.faiusr.com/58/ABUIABA6GAAglNbE4gUoham84wU.mp4
+#EXTINF:-1 tvg-name="歌MV23" tvg-id="歌MV23" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/歌MV23.png" group-title="其他频道", 歌MV23
+http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgsK2M5gUosN7C7QQ.mp4
+#EXTINF:-1 tvg-name="歌MV25" tvg-id="歌MV25" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/歌MV25.png" group-title="其他频道", 歌MV25
+http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgnJ3x5gUo0-uHqwM.mp4
+#EXTINF:-1 tvg-name="歌MV26" tvg-id="歌MV26" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/歌MV26.png" group-title="其他频道", 歌MV26
+http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgr7qk4wUoqqvYowU.mp4
+#EXTINF:-1 tvg-name="歌MV27" tvg-id="歌MV27" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/歌MV27.png" group-title="其他频道", 歌MV27
+http://15799848.s21v.faiusr.com/58/ABUIABA6GAAghbGM5gUonv2rzgY.mp4
+#EXTINF:-1 tvg-name="歌MV3" tvg-id="歌MV3" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/歌MV3.png" group-title="其他频道", 歌MV3
+http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgmJbV4gUogpLGkgM.mp4
+#EXTINF:-1 tvg-name="歌MV30" tvg-id="歌MV30" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/歌MV30.png" group-title="其他频道", 歌MV30
+http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgp7CM5gUo0rva5QU.mp4
+#EXTINF:-1 tvg-name="歌MV31" tvg-id="歌MV31" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/歌MV31.png" group-title="其他频道", 歌MV31
+http://15799848.s21v.faiusr.com/58/ABUIABA6GAAg--nW4gUokMvrzgY.mp4
+#EXTINF:-1 tvg-name="歌MV32" tvg-id="歌MV32" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/歌MV32.png" group-title="其他频道", 歌MV32
+http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgpPTW4gUoz_DgdQ.mp4
 #EXTINF:-1 tvg-name="歌MV33" tvg-id="歌MV33" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/歌MV33.png" group-title="其他频道", 歌MV33
 http://vd4.bdstatic.com/mda-ickhjq8gkcxz55i1/sc/mda-ickhjq8gkcxz55i1.mp4
 #EXTINF:-1 tvg-name="歌MV34" tvg-id="歌MV34" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/歌MV34.png" group-title="其他频道", 歌MV34
@@ -856,8 +918,50 @@ http://vd4.bdstatic.com/mda-icpieeuwfuwruijw/sc/mda-icpieeuwfuwruijw.mp4
 http://vd4.bdstatic.com/mda-jhtriuc2z5fddtre/sc/mda-jhtriuc2z5fddtre.mp4
 #EXTINF:-1 tvg-name="歌MV38" tvg-id="歌MV38" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/歌MV38.png" group-title="其他频道", 歌MV38
 http://vd4.bdstatic.com/mda-jepbbqntd414qsem/sc/mda-jepbbqntd414qsem.mp4
+#EXTINF:-1 tvg-name="歌MV39" tvg-id="歌MV39" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/歌MV39.png" group-title="其他频道", 歌MV39
+http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgueWa4gUo_-2vowI.mp4
+#EXTINF:-1 tvg-name="歌MV4" tvg-id="歌MV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/歌MV4.png" group-title="其他频道", 歌MV4
+http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgk5nV4gUo5KyapQI.mp4
+#EXTINF:-1 tvg-name="歌MV40" tvg-id="歌MV40" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/歌MV40.png" group-title="其他频道", 歌MV40
+http://15799848.s21v.faiusr.com/58/ABUIABA6GAAg3MOv5wUojLD3vgE.mp4
+#EXTINF:-1 tvg-name="歌MV41" tvg-id="歌MV41" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/歌MV41.png" group-title="其他频道", 歌MV41
+http://15799848.s21v.faiusr.com/58/ABUIABA6GAAg8JWi5wUokMTQ0AE.mp4
+#EXTINF:-1 tvg-name="歌MV42" tvg-id="歌MV42" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/歌MV42.png" group-title="其他频道", 歌MV42
+http://15799848.s21v.faiusr.com/58/ABUIABA6GAAg2bGM5gUo_NXfoAI.mp4
+#EXTINF:-1 tvg-name="歌MV43" tvg-id="歌MV43" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/歌MV43.png" group-title="其他频道", 歌MV43
+http://15799848.s21v.faiusr.com/58/ABUIABA6GAAglcSv5wUospmsmQU.mp4
+#EXTINF:-1 tvg-name="歌MV44" tvg-id="歌MV44" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/歌MV44.png" group-title="其他频道", 歌MV44
+http://15799848.s21v.faiusr.com/58/ABUIABA6GAAggpvX4gUo7e7N8QI.mp4
+#EXTINF:-1 tvg-name="歌MV45" tvg-id="歌MV45" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/歌MV45.png" group-title="其他频道", 歌MV45
+http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgw_ma4gUouNqBoAQ.mp4
+#EXTINF:-1 tvg-name="歌MV46" tvg-id="歌MV46" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/歌MV46.png" group-title="其他频道", 歌MV46
+http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgqMGv5wUo2ZSx8QY.mp4
+#EXTINF:-1 tvg-name="歌MV47" tvg-id="歌MV47" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/歌MV47.png" group-title="其他频道", 歌MV47
+http://15799848.s21v.faiusr.com/58/ABUIABA6GAAg38q04wUomp3jxAQ.mp4
 #EXTINF:-1 tvg-name="歌MV48" tvg-id="歌MV48" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/歌MV48.png" group-title="其他频道", 歌MV48
 http://vd4.bdstatic.com/mda-ji3nh9t9qpewj26m/sc/mda-ji3nh9t9qpewj26m.mp4
+#EXTINF:-1 tvg-name="歌MV5" tvg-id="歌MV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/歌MV5.png" group-title="其他频道", 歌MV5
+http://15799848.s21v.faiusr.com/58/ABUIABA6GAAglpvV4gUo0pn7iAQ.mp4
+#EXTINF:-1 tvg-name="歌MV50" tvg-id="歌MV50" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/歌MV50.png" group-title="其他频道", 歌MV50
+http://15799848.s21v.faiusr.com/58/ABUIABA6GAAg18Cv5wUoy_y7mQE.mp4
+#EXTINF:-1 tvg-name="歌MV51" tvg-id="歌MV51" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/歌MV51.png" group-title="其他频道", 歌MV51
+http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgzL_v5wUowL3FvAM.mp4
+#EXTINF:-1 tvg-name="歌MV52" tvg-id="歌MV52" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/歌MV52.png" group-title="其他频道", 歌MV52
+http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgy6yM5gUo7Pnd-QU.mp4
+#EXTINF:-1 tvg-name="歌MV53" tvg-id="歌MV53" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/歌MV53.png" group-title="其他频道", 歌MV53
+http://15799848.s21v.faiusr.com/58/ABUIABA6GAAghMCv5wUoqteI8gM.mp4
+#EXTINF:-1 tvg-name="歌MV54" tvg-id="歌MV54" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/歌MV54.png" group-title="其他频道", 歌MV54
+http://15799848.s21v.faiusr.com/58/ABUIABA6GAAg-JfV4gUol9ea6QM.mp4
+#EXTINF:-1 tvg-name="歌MV55" tvg-id="歌MV55" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/歌MV55.png" group-title="其他频道", 歌MV55
+http://15799848.s21v.faiusr.com/58/ABUIABA6GAAg0f2a4gUonvrdrgI.mp4
+#EXTINF:-1 tvg-name="歌MV6" tvg-id="歌MV6" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/歌MV6.png" group-title="其他频道", 歌MV6
+http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgksy04wUo17eY6Qc.mp4
+#EXTINF:-1 tvg-name="歌MV7" tvg-id="歌MV7" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/歌MV7.png" group-title="其他频道", 歌MV7
+http://15799848.s21v.faiusr.com/58/ABUIABA6GAAg49ia4gUolMGllwI.mp4
+#EXTINF:-1 tvg-name="歌MV8" tvg-id="歌MV8" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/歌MV8.png" group-title="其他频道", 歌MV8
+http://15799848.s21v.faiusr.com/58/ABUIABA6GAAghv2c4gUo1IGIhQQ.mp4
+#EXTINF:-1 tvg-name="歌MV9" tvg-id="歌MV9" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/歌MV9.png" group-title="其他频道", 歌MV9
+http://15799848.s21v.faiusr.com/58/ABUIABA6GAAg0P6c4gUogMuVmwQ.mp4
 #EXTINF:-1 tvg-name="歌声恋情" tvg-id="歌声恋情" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/歌声恋情.png" group-title="其他频道", 歌声恋情
 https://vd3.bdstatic.com/mda-jdpp3nkwjb6k8c50/hd/bd265_cae_delogo/1647594846777454740/mda-jdpp3nkwjb6k8c50.mp4
 #EXTINF:-1 tvg-name="歌曲等风等雨不如等你人生匆匆有几何想你时候问月亮" tvg-id="歌曲等风等雨不如等你人生匆匆有几何想你时候问月亮" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/歌曲等风等雨不如等你人生匆匆有几何想你时候问月亮.png" group-title="其他频道", 歌曲等风等雨不如等你人生匆匆有几何想你时候问月亮
@@ -918,6 +1022,8 @@ https://vdse.bdstatic.com/1c2dc5580507bc1b0ef507c63b3fc461.mp4?authorization=bce
 https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg2-_h7QUo0LvLxwE.mp4
 #EXTINF:-1 tvg-name="海来阿木浪子心DJ沈念版" tvg-id="海来阿木浪子心DJ沈念版" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/海来阿木浪子心DJ沈念版.png" group-title="其他频道", 海来阿木浪子心DJ沈念版
 https://vd3.bdstatic.com/mda-mgr9s5pv0jeqbcm8/1080p/cae_h264/1627298307874491239/mda-mgr9s5pv0jeqbcm8.mp4
+#EXTINF:-1 tvg-name="海看大片" tvg-id="海看大片" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/海看大片.png" group-title="其他频道", 海看大片
+http://124.128.73.58:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="海鸥飞龙梅子" tvg-id="海鸥飞龙梅子" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/海鸥飞龙梅子.png" group-title="其他频道", 海鸥飞龙梅子
 https://vd2.bdstatic.com/mda-kgrx6ftzptj5x4i9/v1-cae/1080p/mda-kgrx6ftzptj5x4i9.mp4
 #EXTINF:-1 tvg-name="涛声依旧雾里看花窗外心雨听心晚秋母亲" tvg-id="涛声依旧雾里看花窗外心雨听心晚秋母亲" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/涛声依旧雾里看花窗外心雨听心晚秋母亲.png" group-title="其他频道", 涛声依旧雾里看花窗外心雨听心晚秋母亲
@@ -1194,14 +1300,20 @@ https://vd4.bdstatic.com:443/mda-mcbs0hpjpkpwethe/1080p/h264_cae/162049248954808
 https://vip.lz-cdn9.com/20221231/16778_e7666586/index.m3u8
 #EXTINF:-1 tvg-name="赤焰锦衣卫第03集" tvg-id="赤焰锦衣卫第03集" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赤焰锦衣卫 第03集.png" group-title="其他频道", 赤焰锦衣卫第03集
 https://vip.lz-cdn9.com/20221231/16780_7c9b6742/index.m3u8
-#EXTINF:-1 tvg-name="赤焰锦衣卫第04集" tvg-id="赤焰锦衣卫第04集" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赤焰锦衣卫 第04集.png" group-title="其他频道", 赤焰锦衣卫第04集
-https://vip.lz-cdn14.com/20230104/16759_4c65503b/index.m3u8
-#EXTINF:-1 tvg-name="赤焰锦衣卫第06集" tvg-id="赤焰锦衣卫第06集" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赤焰锦衣卫 第06集.png" group-title="其他频道", 赤焰锦衣卫第06集
-https://vip.lz-cdn14.com/20230118/17534_0e417c9c/index.m3u8
+#EXTINF:-1 tvg-name="赤焰锦衣卫第05集" tvg-id="赤焰锦衣卫第05集" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赤焰锦衣卫 第05集.png" group-title="其他频道", 赤焰锦衣卫第05集
+https://vip.lz-cdn14.com/20230111/17159_84083cec/index.m3u8
 #EXTINF:-1 tvg-name="赤焰锦衣卫第07" tvg-id="赤焰锦衣卫第07" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赤焰锦衣卫 第07.png" group-title="其他频道", 赤焰锦衣卫第07
 https://vip.lz-cdn14.com/20230125/17928_a85638cb/index.m3u8
-#EXTINF:-1 tvg-name="赤焰锦衣卫第14集" tvg-id="赤焰锦衣卫第14集" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赤焰锦衣卫 第14集.png" group-title="其他频道", 赤焰锦衣卫第14集
-https://vip.lz-cdn14.com/20230315/20390_9982b9ee/index.m3u8
+#EXTINF:-1 tvg-name="赤焰锦衣卫第10集" tvg-id="赤焰锦衣卫第10集" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赤焰锦衣卫 第10集.png" group-title="其他频道", 赤焰锦衣卫第10集
+https://vip.lz-cdn14.com/20230215/18956_595bd54e/index.m3u8
+#EXTINF:-1 tvg-name="赤焰锦衣卫第12集" tvg-id="赤焰锦衣卫第12集" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赤焰锦衣卫第12集.png" group-title="其他频道", 赤焰锦衣卫第12集
+https://vip.lz-cdn14.com/20230301/19690_06102866/index.m3u8
+#EXTINF:-1 tvg-name="赤焰锦衣卫第15集" tvg-id="赤焰锦衣卫第15集" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赤焰锦衣卫第15集.png" group-title="其他频道", 赤焰锦衣卫第15集
+https://vip.lz-cdn14.com/20230322/20740_824f29cf/index.m3u8
+#EXTINF:-1 tvg-name="赤焰锦衣卫第17集" tvg-id="赤焰锦衣卫第17集" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赤焰锦衣卫第17集.png" group-title="其他频道", 赤焰锦衣卫第17集
+https://vip.lz-cdn14.com/20230405/21390_cca4dedc/index.m3u8
+#EXTINF:-1 tvg-name="赤焰锦衣卫第18集" tvg-id="赤焰锦衣卫第18集" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赤焰锦衣卫第18集.png" group-title="其他频道", 赤焰锦衣卫第18集
+https://vip.lz-cdn14.com/20230412/21683_105bf43e/index.m3u8
 #EXTINF:-1 tvg-name="赤焰锦衣卫第19集" tvg-id="赤焰锦衣卫第19集" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赤焰锦衣卫 第19集.png" group-title="其他频道", 赤焰锦衣卫第19集
 https://vip.lz-cdn14.com/20230419/22006_68ec6a1e/index.m3u8
 #EXTINF:-1 tvg-name="赵蕾蕾寂寞的城伤心的人" tvg-id="赵蕾蕾寂寞的城伤心的人" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/赵蕾蕾寂寞的城伤心的人.png" group-title="其他频道", 赵蕾蕾寂寞的城伤心的人
@@ -1298,8 +1410,6 @@ https://vd3.bdstatic.com/mda-mkq6zqsvfa164i4i/sc/cae_h264/1637829051855604521/md
 http://jintan-tv-ori-hls.jstv.com/jintan-tv-ori/jintan_xw.m3u8?zjiangsd
 #EXTINF:-1 tvg-name="金湖新闻综合" tvg-id="金湖新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/金湖新闻综合.png" group-title="其他频道", 金湖新闻综合
 http://jinhu-tv-hls.cm.jstv.com/jinhu-tv/jinhuzh.m3u8?zjiangsd
-#EXTINF:-1 tvg-name="金牌综艺" tvg-id="金牌综艺" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/金牌综艺.png" group-title="其他频道", 金牌综艺
-http://111.29.9.33:6610/000000001000/1000000004000026167/index.m3u8?channel-id=bestzb&Contentid=1000000004000026167&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="金莲的爱" tvg-id="金莲的爱" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/金莲的爱.png" group-title="其他频道", 金莲的爱
 https://txmov2.a.kwimgs.com/bs3/video-hls/5189554244470644378_hlsb.m3u8
 #EXTINF:-1 tvg-name="铁齿铜牙纪晓岚I和第十四集" tvg-id="铁齿铜牙纪晓岚I和第十四集" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/铁齿铜牙纪晓岚I和第十四集.png" group-title="其他频道", 铁齿铜牙纪晓岚I和第十四集
@@ -1410,10 +1520,14 @@ http://vd3.bdstatic.com/mda-ijjfe3s5z1iyvzgq/sc/mda-ijjfe3s5z1iyvzgq.mp4
 http://vd4.bdstatic.com/mda-jk0m1rgje4eh01cw//mda-jk0m1rgje4eh01cw.mp4
 #EXTINF:-1 tvg-name="陈瑞一生的等待" tvg-id="陈瑞一生的等待" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/陈瑞一生的等待.png" group-title="其他频道", 陈瑞一生的等待
 http://antiserver.kuwo.cn/anti.s?rid=MUSIC_1583215&response=res&format=mp4&type=convert_url
+#EXTINF:-1 tvg-name="陈瑞一辈子的真爱" tvg-id="陈瑞一辈子的真爱" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/陈瑞-一辈子的真爱.png" group-title="其他频道", 陈瑞一辈子的真爱
+http://antiserver.kuwo.cn/anti.s?rid=MUSIC_28470656&response=res&format=mp4&type=convert_url
 #EXTINF:-1 tvg-name="陈瑞三生三世" tvg-id="陈瑞三生三世" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/陈瑞三生三世.png" group-title="其他频道", 陈瑞三生三世
 http://antiserver.kuwo.cn/anti.s?rid=MUSIC_6449820&response=res&format=mp4&type=convert_url
 #EXTINF:-1 tvg-name="陈瑞分手了别来打扰我" tvg-id="陈瑞分手了别来打扰我" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/陈瑞分手了别来打扰我.png" group-title="其他频道", 陈瑞分手了别来打扰我
 http://antiserver.kuwo.cn/anti.s?rid=MUSIC_5835684&response=res&format=mp4&type=convert_url
+#EXTINF:-1 tvg-name="陈瑞别思" tvg-id="陈瑞别思" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/陈瑞-别思.png" group-title="其他频道", 陈瑞别思
+http://antiserver.kuwo.cn/anti.s?rid=MUSIC_3429064&response=res&format=mp4&type=convert_url
 #EXTINF:-1 tvg-name="陈瑞天长地久" tvg-id="陈瑞天长地久" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/陈瑞天长地久.png" group-title="其他频道", 陈瑞天长地久
 http://antiserver.kuwo.cn/anti.s?rid=MUSIC_1583220&response=res&format=mp4&type=convert_url
 #EXTINF:-1 tvg-name="陈瑞心中的牵挂" tvg-id="陈瑞心中的牵挂" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/陈瑞心中的牵挂.png" group-title="其他频道", 陈瑞心中的牵挂
@@ -1422,6 +1536,8 @@ http://antiserver.kuwo.cn/anti.s?rid=MUSIC_1583211&response=res&format=mp4&type=
 http://antiserver.kuwo.cn/anti.s?rid=MUSIC_486357&response=res&format=mp4&type=convert_url
 #EXTINF:-1 tvg-name="陈瑞有谁知道我在等你" tvg-id="陈瑞有谁知道我在等你" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/陈瑞有谁知道我在等你.png" group-title="其他频道", 陈瑞有谁知道我在等你
 http://antiserver.kuwo.cn/anti.s?rid=MUSIC_1583218&response=res&format=mp4&type=convert_url
+#EXTINF:-1 tvg-name="陈瑞烛光里的妈妈" tvg-id="陈瑞烛光里的妈妈" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/陈瑞-烛光里的妈妈.png" group-title="其他频道", 陈瑞烛光里的妈妈
+http://antiserver.kuwo.cn/anti.s?rid=MUSIC_1024266&response=res&format=mp4&type=convert_url
 #EXTINF:-1 tvg-name="陈瑞爱得真伤的深" tvg-id="陈瑞爱得真伤的深" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/陈瑞爱得真伤的深.png" group-title="其他频道", 陈瑞爱得真伤的深
 http://antiserver.kuwo.cn/anti.s?rid=MUSIC_1218839&response=res&format=mp4&type=convert_url
 #EXTINF:-1 tvg-name="陈瑞爱的痕迹" tvg-id="陈瑞爱的痕迹" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/陈瑞爱的痕迹.png" group-title="其他频道", 陈瑞爱的痕迹
@@ -1456,52 +1572,16 @@ http://180.213.174.225:9901/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid
 http://txmov2.a.yximgs.com/upic/2020/11/25/16/BMjAyMDExMjUxNjAwNDRfMTU0MDc1NjUwOF8zOTc3MTI2OTA2MF8yXzM=_b_B0652e68c50f21d5cb6bdda5dbc7a3c13.mp4
 #EXTINF:-1 tvg-name="雨花石云朵" tvg-id="雨花石云朵" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/雨花石云朵.png" group-title="其他频道", 雨花石云朵
 http://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/20a65dbb23e4448cbcb52a756ebdc74d/2000.m3u8
-#EXTINF:-1 tvg-name="雪中悍刀行01" tvg-id="雪中悍刀行01" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/雪中悍刀行01.png" group-title="其他频道", 雪中悍刀行01
-https://vip.ffzy-play.com/20221020/2351_1c211ba7/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="雪中悍刀行02" tvg-id="雪中悍刀行02" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/雪中悍刀行02.png" group-title="其他频道", 雪中悍刀行02
-https://vip.ffzy-play.com/20221020/2352_9bacc7dc/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="雪中悍刀行03" tvg-id="雪中悍刀行03" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/雪中悍刀行03.png" group-title="其他频道", 雪中悍刀行03
-https://vip.ffzy-play.com/20221020/2353_f4506552/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="雪中悍刀行04" tvg-id="雪中悍刀行04" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/雪中悍刀行04.png" group-title="其他频道", 雪中悍刀行04
-https://vip.ffzy-play.com/20221020/2354_5169f8e8/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="雪中悍刀行06" tvg-id="雪中悍刀行06" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/雪中悍刀行06.png" group-title="其他频道", 雪中悍刀行06
-https://vip.ffzy-play.com/20221020/2357_8e507635/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="雪中悍刀行07" tvg-id="雪中悍刀行07" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/雪中悍刀行07.png" group-title="其他频道", 雪中悍刀行07
-https://vip.ffzy-play.com/20221020/2356_070acb8b/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="雪中悍刀行09" tvg-id="雪中悍刀行09" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/雪中悍刀行09.png" group-title="其他频道", 雪中悍刀行09
-https://vip.ffzy-play.com/20221020/2358_12e4ca9a/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="雪中悍刀行10" tvg-id="雪中悍刀行10" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/雪中悍刀行10.png" group-title="其他频道", 雪中悍刀行10
-https://vip.ffzy-play.com/20221020/2361_ec5e0e02/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="雪中悍刀行11" tvg-id="雪中悍刀行11" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/雪中悍刀行11.png" group-title="其他频道", 雪中悍刀行11
-https://vip.ffzy-play.com/20221020/2360_e6a79909/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="雪中悍刀行13" tvg-id="雪中悍刀行13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/雪中悍刀行13.png" group-title="其他频道", 雪中悍刀行13
-https://vip.ffzy-play.com/20221020/2363_a17df885/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="雪中悍刀行14" tvg-id="雪中悍刀行14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/雪中悍刀行14.png" group-title="其他频道", 雪中悍刀行14
-https://vip.ffzy-play.com/20221020/2364_a7d93cfd/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="雪中悍刀行15" tvg-id="雪中悍刀行15" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/雪中悍刀行15.png" group-title="其他频道", 雪中悍刀行15
-https://vip.ffzy-play.com/20221020/2365_9d0fef8c/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="雪中悍刀行16" tvg-id="雪中悍刀行16" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/雪中悍刀行16.png" group-title="其他频道", 雪中悍刀行16
-https://vip.ffzy-play.com/20221020/2367_0de4e10c/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="雪中悍刀行17" tvg-id="雪中悍刀行17" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/雪中悍刀行17.png" group-title="其他频道", 雪中悍刀行17
-https://vip.ffzy-play.com/20221020/2366_a91048d1/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="雪中悍刀行18" tvg-id="雪中悍刀行18" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/雪中悍刀行18.png" group-title="其他频道", 雪中悍刀行18
-https://vip.ffzy-play.com/20221020/2368_2ca17b08/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="雪中悍刀行22" tvg-id="雪中悍刀行22" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/雪中悍刀行22.png" group-title="其他频道", 雪中悍刀行22
-https://vip.ffzy-play.com/20221020/2388_22ba622c/2000k/hls/mixed.m3u8
 #EXTINF:-1 tvg-name="雪中悍刀行23" tvg-id="雪中悍刀行23" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/雪中悍刀行23.png" group-title="其他频道", 雪中悍刀行23
 https://vip.ffzy-play.com/20221020/2389_40c78072/2000k/hls/mixed.m3u8
 #EXTINF:-1 tvg-name="雪中悍刀行24" tvg-id="雪中悍刀行24" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/雪中悍刀行24.png" group-title="其他频道", 雪中悍刀行24
 https://vip.ffzy-play.com/20221020/2377_68588071/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="雪中悍刀行25" tvg-id="雪中悍刀行25" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/雪中悍刀行25.png" group-title="其他频道", 雪中悍刀行25
-https://vip.ffzy-play.com/20221020/2390_d55ed32e/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="雪中悍刀行26" tvg-id="雪中悍刀行26" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/雪中悍刀行26.png" group-title="其他频道", 雪中悍刀行26
-https://vip.ffzy-play.com/20221020/2383_15ebbefb/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="雪中悍刀行27" tvg-id="雪中悍刀行27" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/雪中悍刀行27.png" group-title="其他频道", 雪中悍刀行27
-https://vip.ffzy-play.com/20221020/2392_3c1758ee/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="雪中悍刀行28" tvg-id="雪中悍刀行28" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/雪中悍刀行28.png" group-title="其他频道", 雪中悍刀行28
-https://vip.ffzy-play.com/20221020/2393_ae951140/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-name="雪中悍刀行29" tvg-id="雪中悍刀行29" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/雪中悍刀行29.png" group-title="其他频道", 雪中悍刀行29
-https://vip.ffzy-play.com/20221020/2395_c2015fa4/2000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-name="雪中悍刀行30" tvg-id="雪中悍刀行30" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/雪中悍刀行30.png" group-title="其他频道", 雪中悍刀行30
+https://vip.ffzy-play.com/20221020/2394_ce892208/2000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-name="雪中悍刀行31" tvg-id="雪中悍刀行31" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/雪中悍刀行31.png" group-title="其他频道", 雪中悍刀行31
+https://vip.ffzy-play.com/20221020/2397_5c268c41/2000k/hls/mixed.m3u8
+#EXTINF:-1 tvg-name="雪中悍刀行32" tvg-id="雪中悍刀行32" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/雪中悍刀行32.png" group-title="其他频道", 雪中悍刀行32
+https://vip.ffzy-play.com/20221020/2396_c5809db5/2000k/hls/mixed.m3u8
 #EXTINF:-1 tvg-name="震撼纯电音Drown" tvg-id="震撼纯电音Drown" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/震撼纯电音Drown.png" group-title="其他频道", 震撼纯电音Drown
 https://vd2.bdstatic.com/mda-mjshcpd847mhnjgj/sc/cae_h264/1635337200637124885/mda-mjshcpd847mhnjgj.mp4
 #EXTINF:-1 tvg-name="青州文化旅游" tvg-id="青州文化旅游" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/青州文化旅游_(576p).png" group-title="其他频道", 青州文化旅游
