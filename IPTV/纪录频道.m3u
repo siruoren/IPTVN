@@ -1,22 +1,22 @@
 #EXTINF:-1 tvg-name="求索动物" tvg-id="求索动物" tvg-logo="https://livecdn.zbds.top/logo/求索动物.png" group-title="纪录频道", 求索动物
-http://45.8.113.249:50001/TVOD/2000000004000000009/hnbblive/index.m3u8
+http://45.8.113.249:50001/TVOD/6000000002000010046/wasusyt/index.m3u8
 #EXTINF:-1 tvg-name="求索纪录" tvg-id="求索纪录" tvg-logo="https://livecdn.zbds.top/logo/求索纪录.png" group-title="纪录频道", 求索纪录
-http://45.8.113.249:50001/TVOD/6000000002000032052/wasusyt/index.m3u8
+http://45.8.113.249:50001/TVOD/2000000004000000010/hnbblive/index.m3u8
 #EXTINF:-1 tvg-name="求索科学" tvg-id="求索科学" tvg-logo="https://livecdn.zbds.top/logo/求索科学.png" group-title="纪录频道", 求索科学
-http://45.8.113.249:50001/TVOD/2000000004000000011/hnbblive/index.m3u8
+http://45.8.113.249:50001/TVOD/6000000002000032344/wasusyt/index.m3u8
 #EXTINF:-1 tvg-name="求索生活" tvg-id="求索生活" tvg-logo="https://livecdn.zbds.top/logo/求索生活.png" group-title="纪录频道", 求索生活
 http://45.8.113.249:50001/TVOD/6000000002000003382/wasusyt/index.m3u8
 --
 #EXTINF:-1 tvg-name="求索动物" tvg-id="求索动物" tvg-logo="https://livecdn.zbds.top/logo/求索动物.png" group-title="纪录频道", 求索动物
-http://45.8.113.249:50001/TVOD/2000000004000000009/hnbblive/index.m3u8
+http://45.8.113.249:50001/TVOD/6000000002000010046/wasusyt/index.m3u8
 #EXTINF:-1 tvg-name="求索纪录" tvg-id="求索纪录" tvg-logo="https://livecdn.zbds.top/logo/求索纪录.png" group-title="纪录频道", 求索纪录
-http://45.8.113.249:50001/TVOD/6000000002000032052/wasusyt/index.m3u8
+http://45.8.113.249:50001/TVOD/2000000004000000010/hnbblive/index.m3u8
 #EXTINF:-1 tvg-name="求索科学" tvg-id="求索科学" tvg-logo="https://livecdn.zbds.top/logo/求索科学.png" group-title="纪录频道", 求索科学
-http://45.8.113.249:50001/TVOD/2000000004000000011/hnbblive/index.m3u8
+http://45.8.113.249:50001/TVOD/6000000002000032344/wasusyt/index.m3u8
 #EXTINF:-1 tvg-name="求索生活" tvg-id="求索生活" tvg-logo="https://livecdn.zbds.top/logo/求索生活.png" group-title="纪录频道", 求索生活
 http://45.8.113.249:50001/TVOD/6000000002000003382/wasusyt/index.m3u8
 #EXTINF:-1 tvg-name="Discovery" tvg-id="Discovery" tvg-logo="https://livecdn.zbds.top/logo/Discovery.png" group-title="纪录频道", Discovery
-http://ott.watch/stream/E9LDH2ZCN7/146.m3u8
+http://ott.watch/stream/E9LDH2ZCN7/177.m3u8
 #EXTINF:-1 tvg-name="航拍中国第一季" tvg-id="航拍中国第一季" tvg-logo="https://livecdn.zbds.top/logo/航拍中国第一季.png" group-title="纪录频道", 航拍中国第一季
 http://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/8edf3fb6a69148ea9a7dc0b5a9d99fdb/4000.m3u8
 #EXTINF:-1 tvg-name="航拍中国第二季" tvg-id="航拍中国第二季" tvg-logo="https://livecdn.zbds.top/logo/航拍中国第二季.png" group-title="纪录频道", 航拍中国第二季
@@ -30,8 +30,10 @@ http://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/93fc12dbf14241c18c2
 http://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/2b0f397ed9d948eb9fac38d73cde241b/4000.m3u8
 #EXTINF:-1 tvg-name="人与自然" tvg-id="人与自然" tvg-logo="https://livecdn.zbds.top/logo/人与自然.png" group-title="纪录频道", 人与自然
 http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1425e1d505654cb48ba82b807b221193/1200.m3u8
+#EXTINF:-1 tvg-name="兵团五师双河影" tvg-id="兵团五师双河影" tvg-logo="https://livecdn.zbds.top/logo/兵团五师双河影.png" group-title="纪录频道", 兵团五师双河影
+https://liveout.btzx.com.cn/62ds9e/6o77s4.m3u8?zxinjd
 #EXTINF:-1 tvg-name="动物星球" tvg-id="动物星球" tvg-logo="https://livecdn.zbds.top/logo/动物星球.png" group-title="纪录频道", 动物星球
-http://61.221.215.25:8800/hls/57/index.m3u8
+http://122.117.71.103:8512/动物星球.m3u8
 #EXTINF:-1 tvg-name="地理中国" tvg-id="地理中国" tvg-logo="https://livecdn.zbds.top/logo/地理中国.png" group-title="纪录频道", 地理中国
 http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/c6baf6f74bb944aeacee1065ea72c798/1200.m3u8
 #EXTINF:-1 tvg-name="怒江新闻" tvg-id="怒江新闻" tvg-logo="https://livecdn.zbds.top/logo/怒江新闻.png" group-title="纪录频道", 怒江新闻
