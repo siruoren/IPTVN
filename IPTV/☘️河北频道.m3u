@@ -31,8 +31,6 @@ http://124.239.135.194:11080/live/hbds/index.m3u8
 #EXTINF:-1 tvg-name="河北都市" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/河北都市.png" group-title="☘️河北频道",河北都市
 http://v4d.xiepeiru.top:1123/iptv/tc/HeiBeiDuShi
 #EXTINF:-1 tvg-name="河北都市" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/河北都市.png" group-title="☘️河北频道",河北都市
-http://156.238.253.62:5555/tvbox/公众号好享生活小助手/hebei.php?id=hbds
-#EXTINF:-1 tvg-name="河北都市" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/河北都市.png" group-title="☘️河北频道",河北都市
 http://101.74.28.74:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="河北都市" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/河北都市.png" group-title="☘️河北频道",河北都市
 http://api3.52tb.xyz/info?id=481&token=20221127jxwhhemby
@@ -46,10 +44,6 @@ http://ls.qingting.fm/live/1650.m3u8
 http://124.239.135.194:11080/live/hbnm/index.m3u8
 #EXTINF:-1 tvg-name="河北农民" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/河北农民.png" group-title="☘️河北频道",河北农民
 http://v4d.xiepeiru.top:1123/iptv/tc/HeBeiNongMin
-#EXTINF:-1 tvg-name="河北农民" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/河北农民.png" group-title="☘️河北频道",河北农民
-http://156.238.253.62:5555/tvbox/公众号好享生活小助手/hebei.php?id=nmpd
-#EXTINF:-1 tvg-name="河北农民" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/河北农民.png" group-title="☘️河北频道",河北农民
-https://radio.pull.hebtv.com/live/hebnczx.m3u8
 #EXTINF:-1 tvg-name="河北农民" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/河北农民.png" group-title="☘️河北频道",河北农民
 http://101.74.28.74:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="昌黎综合" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/昌黎综合.png" group-title="☘️河北频道",昌黎综合
