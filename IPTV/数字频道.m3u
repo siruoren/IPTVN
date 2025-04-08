@@ -47,6 +47,8 @@ http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/322122
 #EXTINF:-1 tvg-name="中国教育4台" tvg-logo="https://live.fanmingming.cn/tv/中国教育4台.png" group-title="数字频道",中国教育4台
 http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226557/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EBzZToIaOOoaa_jAUfhUQHQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOD9BEmVSNbqSQpqXZxnxbk%2CEND
 --
+#EXTINF:-1 tvg-name="游戏风云" tvg-id="游戏风云" tvg-logo="https://livecdn.zbds.top/logo/游戏风云.png" group-title="数字频道", 游戏风云
+http://www.xzbn.site:35455/itv/5000000011000031114.m3u8?cdn=bestzb
 #EXTINF:-1 tvg-name="哒啵电竞" tvg-id="哒啵电竞" tvg-logo="https://livecdn.zbds.top/logo/哒啵电竞.png" group-title="数字频道", 哒啵电竞
 http://www.xzbn.site:35455/itv/1000000006000032327.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-name="哒啵赛事" tvg-id="哒啵赛事" tvg-logo="https://livecdn.zbds.top/logo/哒啵赛事.png" group-title="数字频道", 哒啵赛事
@@ -58,9 +60,16 @@ http://www.xzbn.site:35455/itv/5000000010000017540.m3u8?cdn=bestzb
 #EXTINF:-1 tvg-name="五星体育" tvg-id="五星体育" tvg-logo="https://livecdn.zbds.top/logo/五星体育.png" group-title="数字频道", 五星体育
 http://www.xzbn.site:35455/itv/5000000010000017540.m3u8?cdn=bestzb
 --
+#EXTINF:-1 tvg-name="快乐垂钓" tvg-id="快乐垂钓" tvg-logo="https://livecdn.zbds.top/logo/快乐垂钓.png" group-title="数字频道", 快乐垂钓
+http://www.xzbn.site:35455/itv/5000000011000031206.m3u8?cdn=bestzb
 #EXTINF:-1 tvg-name="求索动物" tvg-id="184" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/shuzi/Qiusuo3.png" group-title="数字频道", 求索动物
 http://www.xzbn.site:35455/itv/2000000004000000009.m3u8?cdn=hnbblive
---
+#EXTINF:-1 tvg-name="求索纪录" tvg-id="149" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/shuzi/Qiusuo1.png" group-title="数字频道", 求索纪录
+http://www.xzbn.site:35455/itv/2000000004000000010.m3u8?cdn=hnbblive
+#EXTINF:-1 tvg-name="求索科学" tvg-id="150" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/shuzi/Qiusuo2.png" group-title="数字频道", 求索科学
+http://www.xzbn.site:35455/itv/2000000004000000011.m3u8?cdn=hnbblive
+#EXTINF:-1 tvg-name="求索生活" tvg-id="171" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/shuzi/Qiusuo4.png" group-title="数字频道", 求索生活
+http://www.xzbn.site:35455/itv/2000000004000000008.m3u8?cdn=hnbblive
 #EXTINF:-1 tvg-name="法治天地" tvg-id="法治天地" tvg-logo="https://livecdn.zbds.top/logo/法治天地.png" group-title="数字频道", 法治天地
 http://www.xzbn.site:35455/itv/2000000002000000014.m3u8?cdn=hnbblive
 #EXTINF:-1 tvg-name="金色学堂" tvg-id="金色学堂" tvg-logo="https://livecdn.zbds.top/logo/金色学堂.png" group-title="数字频道", 金色学堂
@@ -72,6 +81,23 @@ http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
 --
 #EXTINF:-1 tvg-name="求索动物" tvg-id="184" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/shuzi/Qiusuo3.png" group-title="数字频道", 求索动物
 http://www.xzbn.site:35455/itv/2000000004000000009.m3u8?cdn=hnbblive
+#EXTINF:-1 tvg-name="求索纪录" tvg-id="149" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/shuzi/Qiusuo1.png" group-title="数字频道", 求索纪录
+http://www.xzbn.site:35455/itv/2000000004000000010.m3u8?cdn=hnbblive
+#EXTINF:-1 tvg-name="求索科学" tvg-id="150" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/shuzi/Qiusuo2.png" group-title="数字频道", 求索科学
+http://www.xzbn.site:35455/itv/2000000004000000011.m3u8?cdn=hnbblive
+#EXTINF:-1 tvg-name="求索生活" tvg-id="171" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/shuzi/Qiusuo4.png" group-title="数字频道", 求索生活
+http://www.xzbn.site:35455/itv/2000000004000000008.m3u8?cdn=hnbblive
+--
+#EXTINF:-1 tvg-name="五星体育" tvg-id="五星体育" tvg-logo="https://livecdn.zbds.top/logo/五星体育.png" group-title="数字频道", 五星体育
+http://www.xzbn.site:35455/itv/5000000010000017540.m3u8?cdn=bestzb
+--
+#EXTINF:-1 tvg-name="五星体育" tvg-id="五星体育" tvg-logo="https://livecdn.zbds.top/logo/五星体育.png" group-title="数字频道", 五星体育
+http://www.xzbn.site:35455/itv/5000000010000017540.m3u8?cdn=bestzb
+#EXTINF:-1 tvg-name="快乐垂钓" tvg-id="快乐垂钓" tvg-logo="https://livecdn.zbds.top/logo/快乐垂钓.png" group-title="数字频道", 快乐垂钓
+http://www.xzbn.site:35455/itv/5000000011000031206.m3u8?cdn=bestzb
+--
+#EXTINF:-1 tvg-name="游戏风云" tvg-id="游戏风云" tvg-logo="https://livecdn.zbds.top/logo/游戏风云.png" group-title="数字频道", 游戏风云
+http://www.xzbn.site:35455/itv/5000000011000031114.m3u8?cdn=bestzb
 --
 #EXTINF:-1 tvg-name="NewTV东北热剧" tvg-id="2" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/NewTV东北热剧.png" group-title="数字频道", NewTV东北热剧
 http://39.134.64.87:6610/PLTV/88888888/224/3221225741/index.m3u8?IASHttpSessionId=
@@ -85,8 +111,6 @@ http://39.134.64.87:6610/PLTV/88888888/224/3221225683/index.m3u8?IASHttpSessionI
 http://39.134.64.87:6610/PLTV/88888888/224/3221225677/index.m3u8?IASHttpSessionId=
 #EXTINF:-1 tvg-name="NewTV怡伴健康" tvg-id="2" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/NewTV怡伴健康.png" group-title="数字频道", NewTV怡伴健康
 http://39.134.64.87:6610/PLTV/88888888/224/3221225673/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 tvg-name="NewTV惊悚悬疑" tvg-id="4" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/NewTV惊悚悬疑.png" group-title="数字频道", NewTV惊悚悬疑
-http://39.134.64.87:6610/PLTV/88888888/224/3221225665/index.m3u8?IASHttpSessionId=
 #EXTINF:-1 tvg-name="NewTV明星大片" tvg-id="2" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/NewTV明星大片.png" group-title="数字频道", NewTV明星大片
 http://39.134.64.87:6610/PLTV/88888888/224/3221225664/index.m3u8?IASHttpSessionId=
 #EXTINF:-1 tvg-name="NewTV欢乐剧场" tvg-id="2" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/NewTV欢乐剧场.png" group-title="数字频道", NewTV欢乐剧场
