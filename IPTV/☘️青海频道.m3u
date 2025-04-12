@@ -13,11 +13,11 @@ https://livecdn.dmqhyadmin.com/hls/xjmenyuan.m3u8
 #EXTINF:-1 tvg-name="安多卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/安多卫视.png" group-title="☘️青海频道",安多卫视
 http://3501776.xyz:35455/itv/1000000005000266001.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-name="安多卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/安多卫视.png" group-title="☘️青海频道",安多卫视
-http://dtrmlive.qhdtrm.cn/xnds/sd/live.m3u8
-#EXTINF:-1 tvg-name="安多卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/安多卫视.png" group-title="☘️青海频道",安多卫视
 http://36.105.100.208:35455/itv/1000000005000266001.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-name="安多卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/安多卫视.png" group-title="☘️青海频道",安多卫视
-rtsp://116.176.26.18/PLTV/88888910/224/3221225872/376957310.smil
+http://stream.qhbtv.com/adws/playlist.m3u8?_upt=d60823ce1718441050
+#EXTINF:-1 tvg-name="安多卫视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/安多卫视.png" group-title="☘️青海频道",安多卫视
+http://dtrmlive.qhdtrm.cn/xnds/sd/live.m3u8
 #EXTINF:-1 tvg-name="西宁新闻综合" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/西宁新闻综合.png" group-title="☘️青海频道",西宁新闻综合
 https://liveout.xntv.tv/a65jur/96iln2.m3u8#@http://cm-wshls.homecdn.com/live/5a296.dlv#@http://dtrmlive.qhdtrm.cn/xnds/sd/live.m3u8#@http://cm-wshls.homecdn.com/live/5a296.m3u8#rtmp://liveout.xntv.tv/a65jur/96iln2
 #EXTINF:-1 tvg-name="西宁新闻综合" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/西宁新闻综合.png" group-title="☘️青海频道",西宁新闻综合
@@ -48,5 +48,9 @@ https://lived.dmqhyadmin.com/xhzhpd/sd/live.m3u8?
 http://lived.dmqhyadmin.com/xhzhpd/sd/live.m3u8#http://lived.dmqhyadmin.com/xhzhpd/sd/live.m3u8?
 #EXTINF:-1 tvg-name="大通电视台" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/大通电视台.png" group-title="☘️青海频道",大通电视台
 http://dtrmlive.qhdtrm.cn/testpush/playlist.m3u8#http://dtrmlive.qhdtrm.cn/testpush/sd/live.m3u8#http://dtrmlive.qhdtrm.cn/testpush/sd/live.m3u8?#http://dtrmlive.qhdtrm.cn/testpush/sd/live.m3u8?
+#EXTINF:-1 tvg-name="青海经视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/青海经视.png" group-title="☘️青海频道",青海经视
+http://stream.qhbtv.com/qhsh/sd/live.m3u8?_upt=ba357f031594546763?zqinghd?
+#EXTINF:-1 tvg-name="青海都市" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/青海都市.png" group-title="☘️青海频道",青海都市
+http://stream.qhbtv.com/qhds/sd/live.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 #EXTINF:-1 tvg-name="青海综合" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/青海综合.png" group-title="☘️青海频道",青海综合
 http://lmt.scqstv.com/live1/live1.m3u8

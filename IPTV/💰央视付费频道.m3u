@@ -33,8 +33,6 @@ rtsp://115.153.222.112:554/PLTV/88888888/224/3221226961/86128891.smil
 #EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/第一剧场.png" group-title="💰央视付费频道",第一剧场
 rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000410?AuthInfo=xxx&userid=gf001&userid=gf001
 #EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/风云剧场.png" group-title="💰央视付费频道",风云剧场
-http://huangtong-com.cn:9902/tsfile/live/1024_1.m3u8
-#EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/风云剧场.png" group-title="💰央视付费频道",风云剧场
 rtsp://115.153.245.70/PLTV/88888888/224/3221226963/86128874.smil
 #EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/风云剧场.png" group-title="💰央视付费频道",风云剧场
 rtsp://115.153.247.80/PLTV/88888888/224/3221226963/86128874.smil
@@ -42,8 +40,6 @@ rtsp://115.153.247.80/PLTV/88888888/224/3221226963/86128874.smil
 rtsp://115.153.222.112:554/PLTV/88888888/224/3221226963/86128874.smil
 #EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/风云剧场.png" group-title="💰央视付费频道",风云剧场
 rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000409?AuthInfo=xxx&userid=gf001&userid=gf001
-#EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/怀旧剧场.png" group-title="💰央视付费频道",怀旧剧场
-http://huangtong-com.cn:9902/tsfile/live/1022_1.m3u8
 #EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/怀旧剧场.png" group-title="💰央视付费频道",怀旧剧场
 rtsp://115.153.245.70/PLTV/88888888/224/3221226996/86128881.smil
 #EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/怀旧剧场.png" group-title="💰央视付费频道",怀旧剧场

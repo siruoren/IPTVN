@@ -9,9 +9,9 @@ http://58.19.43.46:9901/tsfile/live/1017_1.m3u8
 #EXTINF:-1 tvg-name="湖北生活" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/湖北生活.png" group-title="☘️湖北频道",湖北生活
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072c62e405/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNKJPodw5BcDirSOw7egztI5bUvJjqPzSNAhrA37GrbRBIAjGQpzP0QmgsmuHnQyd2c
 #EXTINF:-1 tvg-name="湖北生活" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/湖北生活.png" group-title="☘️湖北频道",湖北生活
-https://satellitepull.cnr.cn/live/wx32hubczshgb/playlist.m3u8
-#EXTINF:-1 tvg-name="湖北生活" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/湖北生活.png" group-title="☘️湖北频道",湖北生活
 http://satellitepull.cnr.cn/live/wx32hubczshgb/playlist.m3u8
+#EXTINF:-1 tvg-name="湖北生活" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/湖北生活.png" group-title="☘️湖北频道",湖北生活
+https://satellitepull.cnr.cn/live/wx32hubczshgb/playlist.m3u8
 #EXTINF:-1 tvg-name="湖北教育" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/湖北教育.png" group-title="☘️湖北频道",湖北教育
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072a6cbbf6/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNKTFQuOKNd5i0HMa3ydMWIQ6kJ2fBJGJ77BLTXK72CqUYQsX3ZguYt0954s9hfZTfc
 #EXTINF:-1 tvg-name="湖北影视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/湖北影视.png" group-title="☘️湖北频道",湖北影视
