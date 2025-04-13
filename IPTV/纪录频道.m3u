@@ -1,11 +1,3 @@
-#EXTINF:-1 tvg-name="求索动物" tvg-id="求索动物" tvg-logo="https://livecdn.zbds.top/logo/求索动物.png" group-title="纪录频道", 求索动物
-http://39.134.65.106/PLTV/88888888/224/3221225730/1.m3u8?
-#EXTINF:-1 tvg-name="求索纪录" tvg-id="求索纪录" tvg-logo="https://livecdn.zbds.top/logo/求索纪录.png" group-title="纪录频道", 求索纪录
-http://nas.suntao.online:35455/itv/6000000002000032052.m3u8?cdn=wasusyt
-#EXTINF:-1 tvg-name="求索科学" tvg-id="求索科学" tvg-logo="https://livecdn.zbds.top/logo/求索科学.png" group-title="纪录频道", 求索科学
-http://nas.suntao.online:35455/itv/6000000002000032344.m3u8?cdn=wasusyt
-#EXTINF:-1 tvg-name="求索生活" tvg-id="求索生活" tvg-logo="https://livecdn.zbds.top/logo/求索生活.png" group-title="纪录频道", 求索生活
-http://yc.myds.me:35455/itv/6000000002000003382.m3u8?cdn=wasusyt
 #EXTINF:-1 tvg-name="Discovery" tvg-id="Discovery" tvg-logo="https://livecdn.zbds.top/logo/Discovery.png" group-title="纪录频道", Discovery
 http://ott.watch/stream/E9LDH2ZCN7/177.m3u8
 #EXTINF:-1 tvg-name="航拍中国第一季" tvg-id="航拍中国第一季" tvg-logo="https://livecdn.zbds.top/logo/航拍中国第一季.png" group-title="纪录频道", 航拍中国第一季
@@ -37,8 +29,6 @@ http://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/b9571df1181c4422a8390
 http://hls.cntv.myhwcdn.cn/asp/hls/850/0303000a/3/default/c481b5826ffc4e99a92e01704c862dbc/850.m3u8
 #EXTINF:-1 tvg-name="美丽中国自然" tvg-id="美丽中国自然" tvg-logo="https://livecdn.zbds.top/logo/美丽中国自然.png" group-title="纪录频道", 美丽中国自然
 http://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/51d937a0201f4c78a5878b4b37089f3b/4000.m3u8
-#EXTINF:-1 tvg-name="自然传奇" tvg-id="自然传奇" tvg-logo="https://livecdn.zbds.top/logo/自然传奇.png" group-title="纪录频道", 自然传奇
-http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/81a1ad3a661748bfb8560c92d38204ca/1200.m3u8
 #EXTINF:-1 tvg-name="鄂托克旗电视台" tvg-id="鄂托克旗电视台" tvg-logo="https://livecdn.zbds.top/logo/鄂托克旗电视台.png" group-title="纪录频道", 鄂托克旗电视台
 http://110.19.181.138:10080/hls/F509Rh7GR/F509Rh7GR_live.m3u8?zneimd
 #EXTINF:-1 tvg-name="飞碟之谜01" tvg-id="飞碟之谜01" tvg-logo="https://livecdn.zbds.top/logo/飞碟之谜01.png" group-title="纪录频道", 飞碟之谜01
