@@ -1,9 +1,7 @@
 #EXTINF:-1 tvg-name="iHOT爱奇谈" tvg-id="iHOT爱奇谈" tvg-logo="https://livecdn.zbds.top/logo/IHOT爱奇谈.png" group-title="解说频道", iHOT爱奇谈
 http://yc.myds.me:35455/itv/6000000006000270630.m3u8?cdn=wasusyt
-#EXTINF:-1 tvg-name="七龙珠解说" tvg-id="七龙珠解说" tvg-logo="https://livecdn.zbds.top/logo/七龙珠解说.png" group-title="解说频道", 七龙珠解说
-http://dns.yiandrive.com:15907/huya/25650806
-#EXTINF:-1 tvg-name="恐怖电影解说" tvg-id="恐怖电影解说" tvg-logo="https://livecdn.zbds.top/logo/恐怖电影解说.png" group-title="解说频道", 恐怖电影解说
-http://dns.yiandrive.com:15907/huya/23419131
+#EXTINF:-1 tvg-name="动漫1解说" tvg-id="动漫1解说" tvg-logo="https://livecdn.zbds.top/logo/动漫1解说.png" group-title="解说频道", 动漫1解说
+http://dns.yiandrive.com:15907/huya/19757963
 #EXTINF:-1 tvg-name="漫画解说" tvg-id="漫画解说" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/漫画解说.png" group-title="解说频道", 漫画解说
 https://www.goodiptv.club/douyu/5907076
 #EXTINF:-1 tvg-name="爱奇谈" tvg-id="爱奇谈" tvg-logo="https://epg.iill.top/logo/iHOT爱奇谈.png" group-title="解说频道", 爱奇谈
