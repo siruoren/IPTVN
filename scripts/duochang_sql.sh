@@ -7,6 +7,7 @@ cd duochang;
 > duochang_update.sql;
 > duochang_update.sqltmp;
 > duochang.listtmp;
+echo '{ "storeHouse": []}'> duochang.json;
 
 #duochangjuhe
 cat juhe.list|while read line;
