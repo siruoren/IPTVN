@@ -5,7 +5,7 @@ import sys
 
 def main(url):
     with open('duochang.json','w',encoding='utf-8') as file:
-        duochang_json=json.loads(duochang_data)
+        duochang_json=json.loads(file)
         response = urllib.request.urlopen(url,timeout=10.0)
         data = json.load(response)
         for list in data['urls']:
