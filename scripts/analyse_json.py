@@ -4,8 +4,8 @@ import json
 import sys
 
 def main(url):
-    file = open('duochang.json','r',encoding='utf-8')
-    file_data=file.read()
+    dc_file = open('duochang.json','r',encoding='utf-8')
+    file_data=dc_file.read()
     duochang_json=json.loads(file_data)
     if 'storeHouse' not in duochang_json:
         duochang_json['storeHouse'] = []
