@@ -9,25 +9,19 @@ https://www.freetv.top/migu/790188417.m3u8?migutoken=0276ef43726b0a3df46f95059cf
 #EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/游戏风云.png" group-title="🎮游戏频道",游戏风云
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226548/index.m3u8
 #EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/游戏风云.png" group-title="🎮游戏频道",游戏风云
-http://139.196.151.191:2051/rtp/239.45.3.131:5140
-#EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/游戏风云.png" group-title="🎮游戏频道",游戏风云
 http://120.55.49.231:3095/rtp/233.50.201.183:5140
 #EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/游戏风云.png" group-title="🎮游戏频道",游戏风云
-http://180.213.174.225:9901/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
+http://3501776.xyz:35455/itv/5000000011000031114.m3u8?cdn=bestzb
 #EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/游戏风云.png" group-title="🎮游戏频道",游戏风云
 http://dassby.qqff.top:99/live/游戏风云/index.m3u8
 #EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/游戏风云.png" group-title="🎮游戏频道",游戏风云
-http://150.158.112.123/公众号~玉玉软件库/mg.php?id=yxfy
+rtsp://115.153.245.70/PLTV/88888888/224/3221225615/iptv7998.smil
+#EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/游戏风云.png" group-title="🎮游戏频道",游戏风云
+rtsp://115.153.254.81/PLTV/88888888/224/3221225615/iptv7998.smil
 #EXTINF:-1 tvg-name="电竞天堂" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/电竞天堂.png" group-title="🎮游戏频道",电竞天堂
 http://[2409:8087:5e00:24::2d]:6610/000000001000/1/5000000011000288003/index.m3u8?channel-id=bestzb&Contentid=5000000011000288003&livemode=1&stbId=YanG-1989
 #EXTINF:-1 tvg-name="爱电竞" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/爱电竞.png" group-title="🎮游戏频道",爱电竞
 http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000006000230630
---
-#EXTINF:-1 tvg-name="游戏风云" tvg-id="游戏风云" tvg-logo="https://livecdn.zbds.top/logo/游戏风云.png" group-title="游戏频道", 游戏风云
-http://nas.hssvm.com:8888/udp/225.1.1.135:5002
---
-#EXTINF:-1 tvg-name="游戏风云" tvg-id="游戏风云" tvg-logo="https://livecdn.zbds.top/logo/游戏风云.png" group-title="游戏频道", 游戏风云
-http://nas.hssvm.com:8888/udp/225.1.1.135:5002
 --
 #EXTINF:-1 tvg-name="NewTV哒啵电竞" tvg-id="NewTV哒啵电竞" tvg-logo="https://livecdn.zbds.top/logo/NewTV哒啵电竞.png" group-title="游戏频道", NewTV哒啵电竞
 http://39.134.64.87:6610/PLTV/88888888/224/3221225675/index.m3u8?IASHttpSessionId=
