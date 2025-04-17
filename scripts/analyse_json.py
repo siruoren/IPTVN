@@ -4,13 +4,17 @@ import json
 import sys
 
 def main(url):
+    file = open('duochang.json','r',encoding='utf-8')
+    file_data=file.read()
+    duochang_json=json.loads(file_data)
+    if 'storeHouse' not in duochang_json:
+        duochang_json['storeHouse'] = []
+    response = urllib.request.urlopen(url,timeout=10.0)
+    data = json.load(response)
+    for list in data['urls']:
+        print(list['name']+ ' ' + list['url'])
+        duochang_json['storeHouse'].append(list)
     with open('duochang.json','w',encoding='utf-8') as file:
-        duochang_json=json.loads(str(file))
-        response = urllib.request.urlopen(url,timeout=10.0)
-        data = json.load(response)
-        for list in data['urls']:
-            duochang_json['storeHouse'].append(list)
-            print(list['name']+ ' ' + list['url'])
         json.dump(duochang_json,file,ensure_ascii=False,indent=4)
 
 item=sys.argv[1]
