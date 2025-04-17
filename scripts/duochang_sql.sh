@@ -7,7 +7,7 @@ cd duochang;
 > duochang_update.sql;
 > duochang_update.sqltmp;
 > duochang.listtmp;
-echo '{}'> duochang.json;
+echo '{}'> duocang.json;
 
 #duochangjuhe
 cat juhe.list|while read line;
