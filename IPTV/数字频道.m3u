@@ -1,5 +1,3 @@
-#EXTINF:-1 tvg-name="游戏风云" tvg-id="游戏风云" tvg-logo="https://livecdn.zbds.top/logo/游戏风云.png" group-title="数字频道", 游戏风云
-http://www.xzbn.site:35455/itv/5000000011000031114.m3u8?cdn=bestzb
 #EXTINF:-1 tvg-name="哒啵电竞" tvg-id="哒啵电竞" tvg-logo="https://livecdn.zbds.top/logo/哒啵电竞.png" group-title="数字频道", 哒啵电竞
 http://www.xzbn.site:35455/itv/1000000006000032327.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-name="哒啵赛事" tvg-id="哒啵赛事" tvg-logo="https://livecdn.zbds.top/logo/哒啵赛事.png" group-title="数字频道", 哒啵赛事
@@ -7,18 +5,12 @@ http://www.xzbn.site:35455/itv/1000000001000003775.m3u8?cdn=ystenlive
 --
 #EXTINF:-1 tvg-name="五星体育" tvg-id="五星体育" tvg-logo="https://livecdn.zbds.top/logo/五星体育.png" group-title="数字频道", 五星体育
 http://www.xzbn.site:35455/itv/5000000010000017540.m3u8?cdn=bestzb
-#EXTINF:-1 tvg-name="睛彩竞技" tvg-id="睛彩竞技" tvg-logo="https://livecdn.zbds.top/logo/睛彩竞技.png" group-title="数字频道", 睛彩竞技
-http://www.xzbn.site:35455/itv/3000000020000011528.m3u8?cdn=FifastbLive
-#EXTINF:-1 tvg-name="睛彩篮球" tvg-id="睛彩篮球" tvg-logo="https://livecdn.zbds.top/logo/睛彩篮球.png" group-title="数字频道", 睛彩篮球
-http://www.xzbn.site:35455/itv/3000000020000011529.m3u8?cdn=FifastbLive
 --
 #EXTINF:-1 tvg-name="天元围棋" tvg-id="天元围棋" tvg-logo="https://livecdn.zbds.top/logo/天元围棋.png" group-title="数字频道", 天元围棋
 http://wouu.net:9977/udp/239.93.42.55:5140
 #EXTINF:-1 tvg-name="五星体育" tvg-id="五星体育" tvg-logo="https://livecdn.zbds.top/logo/五星体育.png" group-title="数字频道", 五星体育
 http://www.xzbn.site:35455/itv/5000000010000017540.m3u8?cdn=bestzb
 --
-#EXTINF:-1 tvg-name="快乐垂钓" tvg-id="快乐垂钓" tvg-logo="https://livecdn.zbds.top/logo/快乐垂钓.png" group-title="数字频道", 快乐垂钓
-http://www.xzbn.site:35455/itv/5000000011000031206.m3u8?cdn=bestzb
 #EXTINF:-1 tvg-name="求索动物" tvg-id="184" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/shuzi/Qiusuo3.png" group-title="数字频道", 求索动物
 http://www.xzbn.site:35455/itv/2000000004000000009.m3u8?cdn=hnbblive
 #EXTINF:-1 tvg-name="求索纪录" tvg-id="149" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/shuzi/Qiusuo1.png" group-title="数字频道", 求索纪录
@@ -47,37 +39,54 @@ http://www.xzbn.site:35455/itv/2000000004000000008.m3u8?cdn=hnbblive
 #EXTINF:-1 tvg-name="五星体育" tvg-id="五星体育" tvg-logo="https://livecdn.zbds.top/logo/五星体育.png" group-title="数字频道", 五星体育
 http://www.xzbn.site:35455/itv/5000000010000017540.m3u8?cdn=bestzb
 --
-#EXTINF:-1 tvg-name="睛彩竞技" tvg-id="睛彩竞技" tvg-logo="https://livecdn.zbds.top/logo/睛彩竞技.png" group-title="数字频道", 睛彩竞技
-http://www.xzbn.site:35455/itv/3000000020000011528.m3u8?cdn=FifastbLive
-#EXTINF:-1 tvg-name="睛彩篮球" tvg-id="睛彩篮球" tvg-logo="https://livecdn.zbds.top/logo/睛彩篮球.png" group-title="数字频道", 睛彩篮球
-http://www.xzbn.site:35455/itv/3000000020000011529.m3u8?cdn=FifastbLive
---
 #EXTINF:-1 tvg-name="五星体育" tvg-id="五星体育" tvg-logo="https://livecdn.zbds.top/logo/五星体育.png" group-title="数字频道", 五星体育
 http://www.xzbn.site:35455/itv/5000000010000017540.m3u8?cdn=bestzb
-#EXTINF:-1 tvg-name="快乐垂钓" tvg-id="快乐垂钓" tvg-logo="https://livecdn.zbds.top/logo/快乐垂钓.png" group-title="数字频道", 快乐垂钓
-http://www.xzbn.site:35455/itv/5000000011000031206.m3u8?cdn=bestzb
 --
-#EXTINF:-1 tvg-name="游戏风云" tvg-id="游戏风云" tvg-logo="https://livecdn.zbds.top/logo/游戏风云.png" group-title="数字频道", 游戏风云
-http://www.xzbn.site:35455/itv/5000000011000031114.m3u8?cdn=bestzb
+#EXTINF:-1 tvg-name="哒啵电竞" tvg-id="哒啵电竞" tvg-logo="https://livecdn.zbds.top/logo/哒啵电竞.png" group-title="数字频道", 哒啵电竞
+http://www.xzbn.site:35455/itv/1000000006000032327.m3u8?cdn=ystenlive
 --
 #EXTINF:-1 tvg-name="NewTV东北热剧" tvg-id="NewTV东北热剧" tvg-logo="https://livecdn.zbds.top/logo/NewTV东北热剧.png" group-title="数字频道", NewTV东北热剧
 http://39.134.65.175/PLTV/88888888/224/3221225679/1.m3u8
+#EXTINF:-1 tvg-name="NewTV军事评论" tvg-id="NewTV军事评论" tvg-logo="https://livecdn.zbds.top/logo/NewTV军事评论.png" group-title="数字频道", NewTV军事评论
+http://yc.myds.me:35455/itv/2000000003000000022.m3u8?cdn=hnbblive
+#EXTINF:-1 tvg-name="NewTV军旅剧场" tvg-id="NewTV军旅剧场" tvg-logo="https://livecdn.zbds.top/logo/NewTV军旅剧场.png" group-title="数字频道", NewTV军旅剧场
+http://yc.myds.me:35455/itv/2000000003000000014.m3u8?cdn=hnbblive
+#EXTINF:-1 tvg-name="NewTV古装剧场" tvg-id="NewTV古装剧场" tvg-logo="https://livecdn.zbds.top/logo/NewTV古装剧场.png" group-title="数字频道", NewTV古装剧场
+http://yc.myds.me:35455/itv/2000000003000000024.m3u8?cdn=hnbblive
 #EXTINF:-1 tvg-name="NewTV哒啵赛事" tvg-id="NewTV哒啵赛事" tvg-logo="https://livecdn.zbds.top/logo/NewTV哒啵赛事.png" group-title="数字频道", NewTV哒啵赛事
 http://yc.myds.me:35455/itv/1000000001000003775.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-name="NewTV家庭剧场" tvg-id="NewTV家庭剧场" tvg-logo="https://livecdn.zbds.top/logo/NewTV家庭剧场.png" group-title="数字频道", NewTV家庭剧场
 http://yc.myds.me:35455/itv/1000000004000008284.m3u8?cdn=ystenlive
-#EXTINF:-1 tvg-name="NewTV明星大片" tvg-id="NewTV明星大片" tvg-logo="https://livecdn.zbds.top/logo/NewTV明星大片.png" group-title="数字频道", NewTV明星大片
-http://yc.myds.me:35455/itv/2000000003000000016.m3u8?cdn=hnbblive
 #EXTINF:-1 tvg-name="NewTV欢乐剧场" tvg-id="NewTV欢乐剧场" tvg-logo="https://livecdn.zbds.top/logo/NewTV欢乐剧场.png" group-title="数字频道", NewTV欢乐剧场
 http://39.134.65.175/PLTV/88888888/224/3221225682/1.m3u8
 #EXTINF:-1 tvg-name="NewTV潮妈辣婆" tvg-id="NewTV潮妈辣婆" tvg-logo="https://livecdn.zbds.top/logo/NewTV潮妈辣婆.png" group-title="数字频道", NewTV潮妈辣婆
 http://yc.myds.me:35455/itv/2000000003000000018.m3u8?cdn=hnbblive
 #EXTINF:-1 tvg-name="NewTV爱情喜剧" tvg-id="NewTV爱情喜剧" tvg-logo="https://livecdn.zbds.top/logo/NewTV爱情喜剧.png" group-title="数字频道", NewTV爱情喜剧
 http://yc.myds.me:35455/itv/2000000003000000010.m3u8?cdn=hnbblive
+#EXTINF:-1 tvg-name="NewTV精品大剧" tvg-id="NewTV精品大剧" tvg-logo="https://livecdn.zbds.top/logo/NewTV精品大剧.png" group-title="数字频道", NewTV精品大剧
+http://yc.myds.me:35455/itv/1000000004000013968.m3u8?cdn=ystenlive
+#EXTINF:-1 tvg-name="NewTV精品纪录" tvg-id="NewTV精品纪录" tvg-logo="https://livecdn.zbds.top/logo/NewTV精品纪录.png" group-title="数字频道", NewTV精品纪录
+http://yc.myds.me:35455/itv/1000000004000013730.m3u8?cdn=ystenlive
+#EXTINF:-1 tvg-name="NewTV精品综合" tvg-id="NewTV精品综合" tvg-logo="https://livecdn.zbds.top/logo/NewTV精品综合.png" group-title="数字频道", NewTV精品综合
+http://yc.myds.me:35455/itv/1000000004000019008.m3u8?cdn=ystenlive
+#EXTINF:-1 tvg-name="NewTV精品萌宠" tvg-id="NewTV精品萌宠" tvg-logo="https://livecdn.zbds.top/logo/NewTV精品萌宠.png" group-title="数字频道", NewTV精品萌宠
+http://yc.myds.me:35455/itv/1000000006000032328.m3u8?cdn=ystenlive
+#EXTINF:-1 tvg-name="NewTV超级体育" tvg-id="NewTV超级体育" tvg-logo="https://livecdn.zbds.top/logo/NewTV超级体育.png" group-title="数字频道", NewTV超级体育
+http://39.134.64.87:6610/PLTV/88888888/224/3221225715/index.m3u8?IASHttpSessionId=
 #EXTINF:-1 tvg-name="NewTV超级电视剧" tvg-id="NewTV超级电视剧" tvg-logo="https://livecdn.zbds.top/logo/NewTV超级电视剧.png" group-title="数字频道", NewTV超级电视剧
 http://yc.myds.me:35455/itv/1000000006000268003.m3u8?cdn=ystenlive
+#EXTINF:-1 tvg-name="NewTV魅力潇湘" tvg-id="NewTV魅力潇湘" tvg-logo="https://livecdn.zbds.top/logo/NewTV魅力潇湘.png" group-title="数字频道", NewTV魅力潇湘
+http://yc.myds.me:35455/itv/1000000001000006197.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-name="NewTV黑莓电竞" tvg-id="NewTV黑莓电竞" tvg-logo="https://livecdn.zbds.top/logo/NewTV黑莓电竞.png" group-title="数字频道", NewTV黑莓电竞
 http://39.134.65.175/PLTV/88888888/224/3221225559/1.m3u8
+#EXTINF:-1 tvg-name="iHOT爱历史" tvg-id="iHOT爱历史" tvg-logo="https://livecdn.zbds.top/logo/iHOT爱历史.png" group-title="数字频道", iHOT爱历史
+http://yc.myds.me:35455/itv/6000000006000150630.m3u8?cdn=wasusyt
+#EXTINF:-1 tvg-name="iHOT爱怀旧" tvg-id="iHOT爱怀旧" tvg-logo="https://livecdn.zbds.top/logo/iHOT爱怀旧.png" group-title="数字频道", iHOT爱怀旧
+http://yc.myds.me:35455/itv/6000000006000260630.m3u8?cdn=wasusyt
+#EXTINF:-1 tvg-name="iHOT爱谍战" tvg-id="iHOT爱谍战" tvg-logo="https://livecdn.zbds.top/logo/iHOT爱谍战.png" group-title="数字频道", iHOT爱谍战
+http://yc.myds.me:35455/itv/6000000006000070630.m3u8?cdn=wasusyt
+#EXTINF:-1 tvg-name="iHOT爱都市" tvg-id="iHOT爱都市" tvg-logo="https://livecdn.zbds.top/logo/iHOT爱都市.png" group-title="数字频道", iHOT爱都市
+http://yc.myds.me:35455/itv/6000000006000080630.m3u8?cdn=wasusyt
 #EXTINF:-1 tvg-name="七彩戏剧" tvg-id="七彩戏剧" tvg-logo="https://livecdn.zbds.top/logo/七彩戏剧.png" group-title="数字频道", 七彩戏剧
 http://www.xzbn.site:35455/itv/5000000011000031116.m3u8?cdn=bestzb
 #EXTINF:-1 tvg-name="上海纪实人文" tvg-id="上海纪实人文" tvg-logo="https://livecdn.zbds.top/logo/纪实人文.png" group-title="数字频道", 上海纪实人文
