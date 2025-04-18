@@ -3,15 +3,7 @@ cd $(dirname $0);
 # 源
 > ../IPTV.m3u
 
-while read line
-do
 
-src_name=`echo $line|awk '{print$1}'`
-src_url=`echo $line|awk '{print$2}'`
-wget ${src_url} -O ${src_name}.m3u;cat ${src_name}.m3u|sed 's/$.*//g' >> ../IPTV.m3u;rm -f ${src_name}.m3u;
-
-
-done < iptv_src.list;
 
 
 while read extend_line
@@ -49,7 +41,15 @@ done < iptv_src_extend.list;
 
 
 
+while read line
+do
 
+src_name=`echo $line|awk '{print$1}'`
+src_url=`echo $line|awk '{print$2}'`
+wget ${src_url} -O ${src_name}.m3u;cat ${src_name}.m3u|sed 's/$.*//g' >> ../IPTV.m3u;rm -f ${src_name}.m3u;
+
+
+done < iptv_src.list;
 
 
 
