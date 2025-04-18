@@ -35,8 +35,10 @@ if [ "${extend_line}" != '' ];then
                 urls=`echo ${line}|awk -F',' '{print$2}'`
                 for url in `echo $urls|awk -F '#' '{for(i=1;i<=NF;i++) print$i}'`
                 do
+                if [[ ${url} =~ 'http' ]];then
                     echo "#EXTINF:-1 tvg-name=\"$channel_name\" group-title=\"${extend_group_name}\",$channel_name" >> ../IPTV.m3u
                     echo ${url}|sed 's/$.*//g' >> ../IPTV.m3u
+                fi
                 done
             fi
 
