@@ -16,6 +16,8 @@ done < iptv_src.list;
 
 while read extend_line
 do
+if [ "${extend_line}" != '' ];then
+    echo ${extend_line}
     src_name=`echo $extend_line|awk '{print$1}'`
     src_url=`echo $extend_line|awk '{print$2}'`
     wget ${src_url} -O ${src_name}.m3u;
@@ -24,11 +26,12 @@ do
     do
             if [[ ${line} =~ '#genre#' ]];then
                             extend_group_name=`echo ${line}|grep '#genre#'|awk -F',' '{print$1}'`
+                            continue
             fi
 
             if [[ ${extend_group_name} != '' || ${line} =~ 'http' ]];then
                 channel_name=`echo ${line}|awk -F',' '{print$1}'`
-                #echo ${channel_name}
+                echo ${channel_name}
                 urls=`echo ${line}|awk -F',' '{print$2}'`
                 for url in `echo $urls|awk -F '#' '{for(i=1;i<=NF;i++) print$i}'`
                 do
@@ -39,7 +42,7 @@ do
 
     done < ${src_name}.m3u
     rm -f ${src_name}.m3u;
-
+fi
 done < iptv_src_extend.list;
 
 
