@@ -39516,6 +39516,9 @@
 	<programme channel="惊悚悬疑" start="20250418142700 +0800" stop="20250418155600 +0800">
 		<title lang="zh">法医密码</title>
 	</programme>
+	<programme channel="惊悚悬疑" start="20250418155600 +0800" stop="20250418164400 +0800">
+		<title lang="zh">日本跨境Yanagozawa牛黄宝营养素-渠道（右）</title>
+	</programme>
 	<channel id="成都公共">
 		<display-name lang="zh">成都公共</display-name>
 	</channel>
@@ -43211,6 +43214,9 @@
 	</programme>
 	<programme channel="明星大片" start="20250418150900 +0800" stop="20250418154900 +0800">
 		<title lang="zh">羊奶粉推广片-渠道-4001087099</title>
+	</programme>
+	<programme channel="明星大片" start="20250418154900 +0800" stop="20250418163800 +0800">
+		<title lang="zh">42_好妻子</title>
 	</programme>
 	<channel id="明珠台">
 		<display-name lang="zh">明珠台</display-name>
@@ -60237,6 +60243,9 @@
 	<programme channel="爱情喜剧" start="20250418142600 +0800" stop="20250418155900 +0800">
 		<title lang="zh">八星报喜</title>
 	</programme>
+	<programme channel="爱情喜剧" start="20250418155900 +0800" stop="20250418164500 +0800">
+		<title lang="zh">19_大都市小爱情</title>
+	</programme>
 	<channel id="玉林公共">
 		<display-name lang="zh">玉林公共</display-name>
 	</channel>
@@ -66149,6 +66158,9 @@
 	</programme>
 	<programme channel="纯享4K" start="20250418153800 +0800" stop="20250418155300 +0800">
 		<title lang="zh">艺术里的奥林匹克4K 铜版画b7马球运动员</title>
+	</programme>
+	<programme channel="纯享4K" start="20250418155300 +0800" stop="20250418162100 +0800">
+		<title lang="zh">记住乡愁4K第九季 社渚——伍员山下虾满塘</title>
 	</programme>
 	<channel id="绍兴公共">
 		<display-name lang="zh">绍兴公共</display-name>
@@ -81447,6 +81459,9 @@
 	<programme channel="黑莓动画" start="20250418142300 +0800" stop="20250418155800 +0800">
 		<title lang="zh">蜡笔小新：决一胜负！逆袭的机器人爸爸</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250418155800 +0800" stop="20250418174000 +0800">
+		<title lang="zh">蜡笔小新：激战！涂鸦王国和约四位勇士</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -81479,6 +81494,9 @@
 	</programme>
 	<programme channel="黑莓电影" start="20250418140800 +0800" stop="20250418155600 +0800">
 		<title lang="zh">我的父亲焦裕禄</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250418155600 +0800" stop="20250418172500 +0800">
+		<title lang="zh">李时，你是真顽皮</title>
 	</programme>
 	<channel id="黑龙江农业科教">
 		<display-name lang="zh">黑龙江农业科教</display-name>
@@ -82392,6 +82410,9 @@
 	<programme channel="newtv超级体育" start="20250418142800 +0800" stop="20250418160000 +0800">
 		<title lang="zh">实况录像-2025年ATP1000男子网球大师赛 蒙特卡洛站 决赛</title>
 	</programme>
+	<programme channel="newtv超级体育" start="20250418160000 +0800" stop="20250418173000 +0800">
+		<title lang="zh">运动一起赢</title>
+	</programme>
 	<channel id="newtv超级电影">
 		<display-name lang="zh">NEWTV超级电影</display-name>
 	</channel>
@@ -82491,6 +82512,9 @@
 	<programme channel="newtv超级电视剧" start="20250418150900 +0800" stop="20250418155400 +0800">
 		<title lang="zh">01_棋士</title>
 	</programme>
+	<programme channel="newtv超级电视剧" start="20250418155400 +0800" stop="20250418164000 +0800">
+		<title lang="zh">02_棋士</title>
+	</programme>
 	<channel id="newtv精品大剧">
 		<display-name lang="zh">NEWTV精品大剧</display-name>
 	</channel>
@@ -82553,6 +82577,9 @@
 	</programme>
 	<programme channel="newtv精品大剧" start="20250418151800 +0800" stop="20250418155900 +0800">
 		<title lang="zh">46_千古玦尘</title>
+	</programme>
+	<programme channel="newtv精品大剧" start="20250418155900 +0800" stop="20250418163800 +0800">
+		<title lang="zh">国和堂牌辅酶Q10软胶囊-渠道（右）</title>
 	</programme>
 	<channel id="newtv精品纪录">
 		<display-name lang="zh">NEWTV精品纪录</display-name>
@@ -82803,6 +82830,9 @@
 	<programme channel="newtv家庭剧场" start="20250418151800 +0800" stop="20250418160100 +0800">
 		<title lang="zh">54_那年花开月正圆</title>
 	</programme>
+	<programme channel="newtv家庭剧场" start="20250418160100 +0800" stop="20250418164900 +0800">
+		<title lang="zh">日本跨境Yanagozawa牛黄宝营养素-渠道（右）</title>
+	</programme>
 	<channel id="newtv热播精选">
 		<display-name lang="zh">NEWTV热播精选</display-name>
 	</channel>
@@ -82904,6 +82934,9 @@
 	</programme>
 	<programme channel="newtv爱情喜剧" start="20250418142600 +0800" stop="20250418155900 +0800">
 		<title lang="zh">八星报喜</title>
+	</programme>
+	<programme channel="newtv爱情喜剧" start="20250418155900 +0800" stop="20250418164500 +0800">
+		<title lang="zh">19_大都市小爱情</title>
 	</programme>
 	<channel id="newtv动作电影">
 		<display-name lang="zh">NEWTV动作电影</display-name>
@@ -83009,6 +83042,9 @@
 	</programme>
 	<programme channel="newtv怡伴健康" start="20250418145700 +0800" stop="20250418154700 +0800">
 		<title lang="zh">BEYONPAN健康全钛养生壶-渠道（右）</title>
+	</programme>
+	<programme channel="newtv怡伴健康" start="20250418154700 +0800" stop="20250418161700 +0800">
+		<title lang="zh">不能随意进的“家”</title>
 	</programme>
 	<channel id="newtv潮妈辣婆">
 		<display-name lang="zh">NEWTV潮妈辣婆</display-name>
@@ -83304,6 +83340,9 @@
 	<programme channel="newtv精品综合" start="20250418150900 +0800" stop="20250418154900 +0800">
 		<title lang="zh">羊奶粉推广片-渠道-4001087099</title>
 	</programme>
+	<programme channel="newtv精品综合" start="20250418154900 +0800" stop="20250418163800 +0800">
+		<title lang="zh">42_好妻子</title>
+	</programme>
 	<channel id="newtv惊悚悬疑">
 		<display-name lang="zh">NEWTV惊悚悬疑</display-name>
 	</channel>
@@ -83339,6 +83378,9 @@
 	</programme>
 	<programme channel="newtv惊悚悬疑" start="20250418142700 +0800" stop="20250418155600 +0800">
 		<title lang="zh">法医密码</title>
+	</programme>
+	<programme channel="newtv惊悚悬疑" start="20250418155600 +0800" stop="20250418164400 +0800">
+		<title lang="zh">日本跨境Yanagozawa牛黄宝营养素-渠道（右）</title>
 	</programme>
 	<channel id="newtv金牌综艺">
 		<display-name lang="zh">NEWTV金牌综艺</display-name>
