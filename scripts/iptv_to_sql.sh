@@ -8,7 +8,7 @@ do
 
 src_name=`echo $line|awk '{print$1}'`
 src_url=`echo $line|awk '{print$2}'`
-wget ${src_url} -O ${src_name}.m3u;cat ${src_name}.m3u >> ../IPTV.m3u;rm -f ${src_name}.m3u;
+wget ${src_url} -O ${src_name}.m3u;cat ${src_name}.m3u|sed 's/$.*//g' >> ../IPTV.m3u;rm -f ${src_name}.m3u;
 
 
 done < iptv_src.list;
