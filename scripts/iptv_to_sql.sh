@@ -14,6 +14,39 @@ wget ${src_url} -O ${src_name}.m3u;cat ${src_name}.m3u >> ../IPTV.m3u;rm -f ${sr
 done < iptv_src.list;
 
 
+while read extend_line
+do
+    src_name=`echo $line|awk '{print$1}'`
+    src_url=`echo $line|awk '{print$2}'`
+    wget ${src_url} -O ${src_name}.m3u;
+    extend_group_name=''
+    while read line
+    do
+            if [[ ${line} =~ '#genre#' ]];then
+                            extend_group_name=`echo ${line}|grep '#genre#'|awk -F',' '{print$1}'`
+            fi
+
+            if [[ ${extend_group_name} != '' || ${line} =~ 'http' ]];then
+                channel_name=`echo ${line}|awk -F',' '{print$1}'`
+                #echo ${channel_name}
+                urls=`echo ${line}|awk -F',' '{print$2}'`
+                for url in `echo $urls|awk -F '#' '{for(i=1;i<=NF;i++) print$i}'`
+                do
+                    echo "#EXTINF:-1 tvg-name=\"$channel_name\" group-title=\"${extend_group_name}\",$channel_name" >> ../IPTV.m3u
+                    echo ${url}|sed 's/$.*//g' >> ../IPTV.m3u
+                done
+            fi
+
+    done < ${src_name}.m3u
+    rm -f ${src_name}.m3u;
+
+done < iptv_extend.list;
+
+
+
+
+
+
 
 
 rm -rf ../IPTV;
