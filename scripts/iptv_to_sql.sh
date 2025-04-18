@@ -16,8 +16,8 @@ done < iptv_src.list;
 
 while read extend_line
 do
-    src_name=`echo $line|awk '{print$1}'`
-    src_url=`echo $line|awk '{print$2}'`
+    src_name=`echo $extend_line|awk '{print$1}'`
+    src_url=`echo $extend_line|awk '{print$2}'`
     wget ${src_url} -O ${src_name}.m3u;
     extend_group_name=''
     while read line
@@ -40,7 +40,7 @@ do
     done < ${src_name}.m3u
     rm -f ${src_name}.m3u;
 
-done < iptv_extend.list;
+done < iptv_src_extend.list;
 
 
 
