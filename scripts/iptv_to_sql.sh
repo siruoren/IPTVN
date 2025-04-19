@@ -122,17 +122,17 @@ fi
 
                     fi
                     if [[ "${url_res}" -eq "200" ]];then
-                        echo "${item_id}: ${item_url} is ok......"
+                        #echo "${item_id}: ${item_url} is ok......"
                         echo "INSERT into tvbox.tv_channels(name,category,url) select '${item_id}','${item_group}','${item_url}' where NOT EXISTS (SELECT 1 FROM tvbox.tv_channels WHERE url='${item_url}');" >> IPTV_update.sqltmp
                     elif [[ "${url_res}" -eq "skip" ]];then
-                        echo "${item_id}: ${item_url} is skip testing......"
+                        #echo "${item_id}: ${item_url} is skip testing......"
                         echo "INSERT into tvbox.tv_channels(name,category,url) select '${item_id}','${item_group}','${item_url}' where NOT EXISTS (SELECT 1 FROM tvbox.tv_channels WHERE url='${item_url}');" >> IPTV_update.sqltmp
                     
 
                     else
                         echo "${item_id}: ${item_url} is unaccessible,ignore update"
                     fi
-                    echo $i
+                    #echo $i
     			    i=` expr $i + 1 `
     	    fi
     	fi
