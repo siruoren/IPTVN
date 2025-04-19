@@ -123,7 +123,7 @@ fi
                     if [[ "${url_res}" -eq "200" ]];then
                         echo "${item_id}: ${item_url} is ok......"
                         echo "INSERT into tvbox.tv_channels(name,category,url) select '${item_id}','${item_group}','${item_url}' where NOT EXISTS (SELECT 1 FROM tvbox.tv_channels WHERE url='${item_url}');" >> IPTV_update.sqltmp
-                    elif [[ "${url_res}" -eq "403" ]];then
+                    elif [[ "${url_res}" -eq "skip" ]];then
                         echo "${item_id}: ${item_url} is skip testing......"
                         echo "INSERT into tvbox.tv_channels(name,category,url) select '${item_id}','${item_group}','${item_url}' where NOT EXISTS (SELECT 1 FROM tvbox.tv_channels WHERE url='${item_url}');" >> IPTV_update.sqltmp
                     
