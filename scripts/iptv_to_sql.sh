@@ -111,11 +111,11 @@ fi
     			    item_url=`sed -n "${line_next}p" ${m3u_file}|grep '^http'`
                     url_res=`curl -o /dev/null -s -w "%{http_code}" --max-time 3 "${item_url}"`
                     if [[ "${url_res}" -eq "200" ]];then
-                        echo "url is ok......"
+                        echo "url: ${item_url} is ok......"
                         echo "INSERT into tvbox.tv_channels(name,category,url) select '${item_id}','${item_group}','${item_url}' where NOT EXISTS (SELECT 1 FROM tvbox.tv_channels WHERE url='${item_url}');" >> IPTV_update.sqltmp
 
                     else
-                        echo "url is unaccessible,ignore update"
+                        echo "url: ${item_url} is unaccessible,ignore update"
                     fi
     			    i=` expr $i + 1 `
     	    fi
