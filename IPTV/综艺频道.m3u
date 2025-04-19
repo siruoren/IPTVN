@@ -1,9 +1,0 @@
-#EXTINF:-1 tvg-name="民视综艺" tvg-id="民视综艺" tvg-logo="https://livecdn.zbds.top/logo/民视综艺.png" group-title="综艺频道", 民视综艺
-http://aktv_stream1.m16tv.cfd/stream/taiwan/null-16/AKTV.m3u8
---
-#EXTINF:-1 tvg-name="热门综艺" tvg-id="热门综艺" tvg-logo="https://livecdn.zbds.top/logo/热门综艺.png" group-title="综艺频道", 热门综艺
-http://wouu.net:9977/udp/239.93.0.151:5140
-#EXTINF:-1 tvg-name="超级综艺" tvg-id="超级综艺" tvg-logo="https://livecdn.zbds.top/logo/超级综艺.png" group-title="综艺频道", 超级综艺
-http://39.134.65.73:80/PLTV/88888888/224/3221225550/1.m3u8
-#EXTINF:-1 tvg-name="金牌综艺" tvg-id="金牌综艺" tvg-logo="https://livecdn.zbds.top/logo/金牌综艺.png" group-title="综艺频道", 金牌综艺
-http://39.134.65.175/PLTV/88888888/224/3221225525/1.m3u8
