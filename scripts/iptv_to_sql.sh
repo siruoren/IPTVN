@@ -23,7 +23,7 @@ if [ "${extend_line}" != '' ];then
 
             if [[ ${extend_group_name} != '' || ${line} =~ 'http' ]];then
                 channel_name=`echo ${line}|awk -F',' '{print$1}'`
-                echo ${channel_name}
+                
                 urls=`echo ${line}|awk -F',' '{print$2}'`
                 for url in `echo $urls|awk -F '#' '{for(i=1;i<=NF;i++) print$i}'`
                 do
