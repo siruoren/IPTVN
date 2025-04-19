@@ -109,10 +109,15 @@ fi
     		      item_id=`sed -n "${line_nu}p" ${m3u_file}|awk -F'tvg-name=' '{print$2}'|awk '{printf$1}' |sed 's/"//g'`
     			    item_group=`sed -n "${line_nu}p" ${m3u_file}|awk -F'group-title=' '{print$2}'|awk '{printf$1}' |sed 's/"//g'|awk -F',' '{printf$1}'|sed 's/[^[:alpha:]]//g'`
     			    item_url=`sed -n "${line_next}p" ${m3u_file}|grep '^http'`
-                    if [[ "${item_url}" =~ '\[' ]];then
-                        url_res=`curl -6 -o /dev/null -s -w "%{http_code}" --max-time 3 "${item_url}"`
+                    if [[ "${default_assign_first}" =~ "${item_group}" ]];then
+                        if [[ "${item_url}" =~ '\[' ]];then
+                            url_res=`curl -6 -o /dev/null -s -w "%{http_code}" --max-time 3 "${item_url}"`
+                        else
+                            url_res=`curl -o /dev/null -s -w "%{http_code}" --max-time 3 "${item_url}"`
+                        fi
                     else
-                        url_res=`curl -o /dev/null -s -w "%{http_code}" --max-time 3 "${item_url}"`
+                        url_res='200'
+
                     fi
                     if [[ "${url_res}" -eq "200" ]];then
                         echo "${item_id}: ${item_url} is ok......"
@@ -121,6 +126,7 @@ fi
                     else
                         echo "${item_id}: ${item_url} is unaccessible,ignore update"
                     fi
+                    echo $i
     			    i=` expr $i + 1 `
     	    fi
     	fi
