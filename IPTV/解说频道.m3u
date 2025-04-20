@@ -1,7 +1,7 @@
-#EXTINF:-1 tvg-name="iHOT爱奇谈" tvg-id="1" tvg-logo="https://gcore.jsdelivr.net/gh/yuanzl77/TVlogo@master/png/iHOT爱奇谈.png" group-title="解说频道", iHOT爱奇谈
+#EXTINF:-1 tvg-name="iHOT爱奇谈" tvg-id="iHOT爱奇谈" tvg-logo="https://livecdn.zbds.top/logo/IHOT爱奇谈.png" group-title="解说频道", iHOT爱奇谈
 http://yc.myds.me:35455/itv/6000000006000270630.m3u8?cdn=wasusyt
-#EXTINF:-1 tvg-name="漫画解说" tvg-id="漫画解说" tvg-logo="https://livecdn.zbds.top/logo/漫画解说.png" group-title="解说频道", 漫画解说
-http://124.248.69.76:26781/douyu/5907076
+#EXTINF:-1 tvg-name="漫画解说" tvg-id="漫画解说" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/漫画解说.png" group-title="解说频道", 漫画解说
+https://www.goodiptv.club/douyu/5907076
 #EXTINF:-1 tvg-name="爱奇谈" tvg-id="爱奇谈" tvg-logo="https://epg.iill.top/logo/iHOT爱奇谈.png" group-title="解说频道", 爱奇谈
 http://www.xzbn.site:35455/itv/2000000004000000058.m3u8?cdn=hnbblive
 #EXTINF:-1 tvg-name="美丽中国说" tvg-id="美丽中国说" tvg-logo="https://livecdn.zbds.top/logo/美丽中国说.png" group-title="解说频道", 美丽中国说

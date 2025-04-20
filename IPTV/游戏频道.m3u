@@ -24,3 +24,14 @@ http://[2409:8087:5e00:24::2d]:6610/000000001000/1/5000000011000288003/index.m3u
 http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6056&tk=23a9aca1f79f
 #EXTINF:-1 tvg-name="爱电竞" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/爱电竞.png" group-title="🎮游戏频道",爱电竞
 http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000006000230630
+--
+#EXTINF:-1 tvg-name="游戏风云" tvg-id="游戏风云" tvg-logo="https://livecdn.zbds.top/logo/游戏风云.png" group-title="游戏频道", 游戏风云
+http://nas.hssvm.com:8888/udp/225.1.1.135:5002
+--
+#EXTINF:-1 tvg-name="游戏风云" tvg-id="游戏风云" tvg-logo="https://livecdn.zbds.top/logo/游戏风云.png" group-title="游戏频道", 游戏风云
+http://nas.hssvm.com:8888/udp/225.1.1.135:5002
+--
+#EXTINF:-1 tvg-name="NewTV哒啵电竞" tvg-id="NewTV哒啵电竞" tvg-logo="https://livecdn.zbds.top/logo/NewTV哒啵电竞.png" group-title="游戏频道", NewTV哒啵电竞
+http://39.134.64.87:6610/PLTV/88888888/224/3221225675/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 tvg-name="电竞天堂" tvg-id="电竞天堂" tvg-logo="https://livecdn.zbds.top/logo/电竞天堂.png" group-title="游戏频道", 电竞天堂
+http://wouu.net:9977/udp/239.93.1.135:5140
