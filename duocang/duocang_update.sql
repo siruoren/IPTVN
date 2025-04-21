@@ -19,7 +19,6 @@ INSERT into tvbox.tv_app_duocang(name, url, appid, status, status_dcjm) select '
 INSERT into tvbox.tv_app_duocang(name, url, appid, status, status_dcjm) select '喵影视线路','http://meowtv.top/tv','10000','y','n' where NOT EXISTS (SELECT 1 FROM tvbox.tv_app_duocang WHERE name = '喵影视线路');
 INSERT into tvbox.tv_app_duocang(name, url, appid, status, status_dcjm) select '巧技','http://cdn.qiaoji8.com/tvbox.json','10000','y','n' where NOT EXISTS (SELECT 1 FROM tvbox.tv_app_duocang WHERE name = '巧技');
 INSERT into tvbox.tv_app_duocang(name, url, appid, status, status_dcjm) select '巧技','http://pandown.pro/tvbox/tvbox.json','10000','y','n' where NOT EXISTS (SELECT 1 FROM tvbox.tv_app_duocang WHERE name = '巧技');
-INSERT into tvbox.tv_app_duocang(name, url, appid, status, status_dcjm) select '开心软件','https://wget.la/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/天天开心/api.json','10000','y','n' where NOT EXISTS (SELECT 1 FROM tvbox.tv_app_duocang WHERE name = '开心软件');
 INSERT into tvbox.tv_app_duocang(name, url, appid, status, status_dcjm) select '影视仓','http://影视仓.com','10000','y','n' where NOT EXISTS (SELECT 1 FROM tvbox.tv_app_duocang WHERE name = '影视仓');
 INSERT into tvbox.tv_app_duocang(name, url, appid, status, status_dcjm) select '摸鱼','http://我不是.摸鱼儿.com','10000','y','n' where NOT EXISTS (SELECT 1 FROM tvbox.tv_app_duocang WHERE name = '摸鱼');
 INSERT into tvbox.tv_app_duocang(name, url, appid, status, status_dcjm) select '摸鱼2','http://我不是.摸鱼儿.top','10000','y','n' where NOT EXISTS (SELECT 1 FROM tvbox.tv_app_duocang WHERE name = '摸鱼2');
