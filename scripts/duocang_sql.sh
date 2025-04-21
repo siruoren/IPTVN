@@ -25,7 +25,8 @@ done < juhe.list
 
 sed -i 's#https://ghproxy.net/##g' duocang.listtmp;
 
-while read line|| [[ -n $line ]];
+echo '' >>duocang.listtmp
+cat duocang.listtmp|sort|uniq|while read line;
 do
     api_name=`echo -n ${line}|awk '{print$1}'|sed 's/[^[:alpha:]]//g'`
     api_url=`echo -n ${line}|awk '{print$2}'`
@@ -47,7 +48,7 @@ do
     else
       echo "URL is unaccessible,ignore update"
     fi
-done < `cat duocang.listtmp|sort|uniq`
+done 
 
  rm -f duocang.listtmp;
 
@@ -75,7 +76,7 @@ do
     else
       echo "URL is unaccessible,ignore update"
     fi
-done < api.list|
+done < api.list
 
 check_res=`cat duocang_update.sqltmp|sort|uniq|wc -l`
 
