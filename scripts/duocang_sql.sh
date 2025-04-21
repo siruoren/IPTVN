@@ -10,7 +10,7 @@ cd duocang;
 echo '{}'> duocang.json;
 
 #duocangjuhe
-cat juhe.list|while read line;
+while read line|| [[ -n $line ]];
 do
     api_name=`echo -n ${line}|awk '{print$1}'`
     api_url=`echo -n ${line}|awk '{print$2}'`
@@ -21,11 +21,11 @@ do
     python ../scripts/analyse_json.py ${api_url} 'add' >>duocang.listtmp;
 
 
-done
+done < juhe.list
 
 sed -i 's#https://ghproxy.net/##g' duocang.listtmp;
 
-cat duocang.listtmp|sort|uniq|while read line;
+while read line|| [[ -n $line ]];
 do
     api_name=`echo -n ${line}|awk '{print$1}'|sed 's/[^[:alpha:]]//g'`
     api_url=`echo -n ${line}|awk '{print$2}'`
@@ -47,12 +47,12 @@ do
     else
       echo "URL is unaccessible,ignore update"
     fi
-done
+done < `cat duocang.listtmp|sort|uniq`
 
  rm -f duocang.listtmp;
 
 
-cat api.list|while read line;
+while read line|| [[ -n $line ]];
 do
     api_name=`echo -n ${line}|awk '{print$1}'`
     api_url=`echo -n ${line}|awk '{print$2}'`
@@ -75,7 +75,7 @@ do
     else
       echo "URL is unaccessible,ignore update"
     fi
-done
+done < api.list|
 
 check_res=`cat duocang_update.sqltmp|sort|uniq|wc -l`
 
