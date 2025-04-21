@@ -1,7 +1,17 @@
+#EXTINF:-1 tvg-name="求索动物" tvg-id="求索动物" tvg-logo="https://livecdn.zbds.top/logo/求索动物.png" group-title="纪录频道", 求索动物
+http://yc.myds.me:35455/itv/6000000002000010046.m3u8?cdn=wasusyt
+#EXTINF:-1 tvg-name="求索纪录" tvg-id="求索纪录" tvg-logo="https://livecdn.zbds.top/logo/求索纪录.png" group-title="纪录频道", 求索纪录
+http://60.2.190.206:4000/udp/239.253.93.236:6414
+#EXTINF:-1 tvg-name="求索科学" tvg-id="求索科学" tvg-logo="https://livecdn.zbds.top/logo/求索科学.png" group-title="纪录频道", 求索科学
+http://yc.myds.me:35455/itv/6000000002000032344.m3u8?cdn=wasusyt
+#EXTINF:-1 tvg-name="求索生活" tvg-id="求索生活" tvg-logo="https://livecdn.zbds.top/logo/求索生活.png" group-title="纪录频道", 求索生活
+http://nas.suntao.online:35455/itv/6000000002000003382.m3u8?cdn=wasusyt
 #EXTINF:-1 tvg-name="Discovery" tvg-id="Discovery" tvg-logo="https://livecdn.zbds.top/logo/Discovery.png" group-title="纪录频道", Discovery
-http://ott.watch/stream/E9LDH2ZCN7/146.m3u8
+http://ott.watch/stream/E9LDH2ZCN7/177.m3u8
+#EXTINF:-1 tvg-name="国家地理" tvg-id="国家地理" tvg-logo="https://livecdn.zbds.top/logo/国家地理.png" group-title="纪录频道", 国家地理
+http://aktv_stream1.m16tv.cfd/stream/aktv2/lovenaturehd/AKTV.m3u8
 #EXTINF:-1 tvg-name="航拍中国第一季" tvg-id="航拍中国第一季" tvg-logo="https://livecdn.zbds.top/logo/航拍中国第一季.png" group-title="纪录频道", 航拍中国第一季
-http://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/8edf3fb6a69148ea9a7dc0b5a9d99fdb/4000.m3u8
+http://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/8edf3fb6a69148ea9a7dc0b5a9d99fdb/4000.m3u8
 #EXTINF:-1 tvg-name="航拍中国第二季" tvg-id="航拍中国第二季" tvg-logo="https://livecdn.zbds.top/logo/航拍中国第二季.png" group-title="纪录频道", 航拍中国第二季
 http://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/2bdfdad540b342f592f9817cb7f3b79a/4000.m3u8
 --
@@ -9,3 +19,5 @@ http://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/2bdfdad540b342f592f
 http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1425e1d505654cb48ba82b807b221193/1200.m3u8
 #EXTINF:-1 tvg-name="动物星球" tvg-id="动物星球" tvg-logo="https://livecdn.zbds.top/logo/动物星球.png" group-title="纪录频道", 动物星球
 http://61.221.215.25:8800/hls/57/index.m3u8
+#EXTINF:-1 tvg-name="求索记录" tvg-id="求索记录" tvg-logo="https://livecdn.zbds.top/logo/求索记录.png" group-title="纪录频道", 求索记录
+http://tv.dahaili.cn:4022/udp/239.10.0.221:5140
