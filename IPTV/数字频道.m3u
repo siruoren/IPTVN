@@ -1,4 +1,6 @@
 #EXTINF:-1 tvg-name="CHC动作电影" group-title="数字频道",CHC动作电影
+https://gdcucc.v1.mk/gdcucc/chcdzdy.m3u8
+#EXTINF:-1 tvg-name="CHC动作电影" group-title="数字频道",CHC动作电影
 http://148.135.93.213:81/live.php?id=CHC动作电影
 #EXTINF:-1 tvg-name="CHC动作电影" group-title="数字频道",CHC动作电影
 http://148.135.93.213/live.php?id=CHC动作电影
@@ -7,7 +9,7 @@ http://148.135.93.213/live.php?id=CHC家庭影院
 #EXTINF:-1 tvg-name="CHC家庭影院" group-title="数字频道",CHC家庭影院
 http://148.135.93.213:81/live.php?id=CHC家庭影院
 #EXTINF:-1 tvg-name="淘电影" group-title="数字频道",淘电影
-http://yc.myds.me:35455/bptv/10000100000000050000000003887498.m3u8
+http://nas.suntao.online:35455/bptv/10000100000000050000000003887498.m3u8
 #EXTINF:-1 tvg-name="重温经典" group-title="数字频道",重温经典
 http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 #EXTINF:-1 tvg-name="重温经典" group-title="数字频道",重温经典
@@ -15,49 +17,49 @@ http://148.135.93.213/live.php?id=重温经典
 #EXTINF:-1 tvg-name="重温经典" group-title="数字频道",重温经典
 http://148.135.93.213:81/live.php?id=重温经典
 #EXTINF:-1 tvg-name="凤凰卫视中文台" group-title="数字频道",凤凰卫视中文台
-http://148.135.93.213/phenix.php?id=fhzw
-#EXTINF:-1 tvg-name="凤凰卫视中文台" group-title="数字频道",凤凰卫视中文台
 http://148.135.93.213:81/phenix.php?id=fhzw
-#EXTINF:-1 tvg-name="凤凰卫视资讯台" group-title="数字频道",凤凰卫视资讯台
-http://148.135.93.213/phenix.php?id=fhzx
+#EXTINF:-1 tvg-name="凤凰卫视中文台" group-title="数字频道",凤凰卫视中文台
+http://148.135.93.213/phenix.php?id=fhzw
 #EXTINF:-1 tvg-name="凤凰卫视资讯台" group-title="数字频道",凤凰卫视资讯台
 http://148.135.93.213:81/phenix.php?id=fhzx
-#EXTINF:-1 tvg-name="凤凰卫视香港台" group-title="数字频道",凤凰卫视香港台
-http://148.135.93.213/phenix.php?id=fhhk
+#EXTINF:-1 tvg-name="凤凰卫视资讯台" group-title="数字频道",凤凰卫视资讯台
+http://148.135.93.213/phenix.php?id=fhzx
 #EXTINF:-1 tvg-name="凤凰卫视香港台" group-title="数字频道",凤凰卫视香港台
 http://148.135.93.213:81/phenix.php?id=fhhk
+#EXTINF:-1 tvg-name="凤凰卫视香港台" group-title="数字频道",凤凰卫视香港台
+http://148.135.93.213/phenix.php?id=fhhk
 #EXTINF:-1 tvg-name="凤凰卫视电影台" group-title="数字频道",凤凰卫视电影台
 http://home.js001.com:7777/stream/channelid/884059847?profile=pass
 #EXTINF:-1 tvg-name="纪实科教" group-title="数字频道",纪实科教
+http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
+#EXTINF:-1 tvg-name="纪实科教" group-title="数字频道",纪实科教
+https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s3/index.m3u8?time=1745233210&sign=7be6879034918feab528b30bab89b461
+#EXTINF:-1 tvg-name="纪实科教" group-title="数字频道",纪实科教
 http://39.134.65.196/PLTV/88888888/224/3221225670/1.m3u8
-#EXTINF:-1 tvg-name="纪实科教" group-title="数字频道",纪实科教
-https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s3/index.m3u8?time=1744977610&sign=ef62272ba9997bc9bf5494ac9315ff11
-#EXTINF:-1 tvg-name="纪实科教" group-title="数字频道",纪实科教
-http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
 #EXTINF:-1 tvg-name="纪实科教" group-title="数字频道",纪实科教
 http://39.135.133.157:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
 #EXTINF:-1 tvg-name="纪实科教" group-title="数字频道",纪实科教
-http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
+http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
 #EXTINF:-1 tvg-name="睛彩青少" group-title="数字频道",睛彩青少
 http://39.135.133.135/PLTV/88888888/224/3221226053/1.m3u8
 #EXTINF:-1 tvg-name="睛彩青少" group-title="数字频道",睛彩青少
 http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8
 #EXTINF:-1 tvg-name="睛彩竞技" group-title="数字频道",睛彩竞技
-http://39.134.67.108/PLTV/88888888/224/3221225897/1.m3u8
-#EXTINF:-1 tvg-name="睛彩竞技" group-title="数字频道",睛彩竞技
 http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
-#EXTINF:-1 tvg-name="睛彩篮球" group-title="数字频道",睛彩篮球
-http://39.134.67.108/PLTV/88888888/224/3221225895/1.m3u8
+#EXTINF:-1 tvg-name="睛彩竞技" group-title="数字频道",睛彩竞技
+http://39.134.67.108/PLTV/88888888/224/3221225897/1.m3u8
 #EXTINF:-1 tvg-name="睛彩篮球" group-title="数字频道",睛彩篮球
 http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8
+#EXTINF:-1 tvg-name="睛彩篮球" group-title="数字频道",睛彩篮球
+http://39.134.67.108/PLTV/88888888/224/3221225895/1.m3u8
 #EXTINF:-1 tvg-name="睛彩广场舞" group-title="数字频道",睛彩广场舞
 http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226482/index.m3u8
 #EXTINF:-1 tvg-name="睛彩广场舞" group-title="数字频道",睛彩广场舞
 http://39.134.67.108/PLTV/88888888/224/3221226046/1.m3u8
 #EXTINF:-1 tvg-name="哒啵赛事" group-title="数字频道",哒啵赛事
-http://39.135.133.157/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8
-#EXTINF:-1 tvg-name="哒啵赛事" group-title="数字频道",哒啵赛事
 http://39.134.65.243/PLTV/88888888/224/3221225559/1.m3u8
+#EXTINF:-1 tvg-name="哒啵赛事" group-title="数字频道",哒啵赛事
+http://39.135.133.157/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8
 #EXTINF:-1 tvg-name="黑莓电影" group-title="数字频道",黑莓电影
 http://39.135.133.157:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 #EXTINF:-1 tvg-name="黑莓电影" group-title="数字频道",黑莓电影
@@ -66,8 +68,6 @@ http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/ind
 http://39.135.133.157:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
 #EXTINF:-1 tvg-name="黑莓动画" group-title="数字频道",黑莓动画
 http://39.134.65.211/PLTV/88888888/224/3221225529/1.m3u8
-#EXTINF:-1 tvg-name="都市剧场" group-title="数字频道",都市剧场
-https://pili-live-hls.wdit.com.cn/wditlive/8818dfe5f4df45ba9a3f32964d172fb2b6d3.m3u8
 #EXTINF:-1 tvg-name="卡酷少儿" group-title="数字频道",卡酷少儿
 http://39.135.133.174:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
 #EXTINF:-1 tvg-name="金鹰卡通" group-title="数字频道",金鹰卡通
@@ -89,11 +89,17 @@ http://39.135.133.167:80/PLTV/88888888/224/3221225555/1.m3u8
 #EXTINF:-1 tvg-name="newtv军事评论" group-title="数字频道",newtv军事评论
 http://39.135.133.154:80/PLTV/88888888/224/3221225535/1.m3u8
 #EXTINF:-1 tvg-name="newtv军旅剧场" group-title="数字频道",newtv军旅剧场
+http://39.134.64.87:6610/PLTV/88888888/224/3221225676/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 tvg-name="newtv军旅剧场" group-title="数字频道",newtv军旅剧场
 http://39.135.133.157:80/PLTV/88888888/224/3221225560/1.m3u8
 #EXTINF:-1 tvg-name="newtv古装剧场" group-title="数字频道",newtv古装剧场
 http://39.134.65.73:80/PLTV/88888888/224/3221225524/1.m3u8
+#EXTINF:-1 tvg-name="newtv家庭剧场" group-title="数字频道",newtv家庭剧场
+http://39.134.64.87:6610/PLTV/88888888/224/3221225677/index.m3u8?IASHttpSessionId=
 #EXTINF:-1 tvg-name="newtv惊悚悬疑" group-title="数字频道",newtv惊悚悬疑
 http://39.135.133.154:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
+#EXTINF:-1 tvg-name="newtv明星大片" group-title="数字频道",newtv明星大片
+http://39.134.64.87:6610/PLTV/88888888/224/3221225664/index.m3u8?IASHttpSessionId=
 #EXTINF:-1 tvg-name="newtv明星大片" group-title="数字频道",newtv明星大片
 http://39.134.65.73:80/PLTV/88888888/224/3221225550/1.m3u8
 #EXTINF:-1 tvg-name="newtv欢乐剧场" group-title="数字频道",newtv欢乐剧场
@@ -109,21 +115,31 @@ http://39.134.65.76:80/wh7f454c46tw972760835_1057010575/ottrrs.hl.chinamobile.co
 #EXTINF:-1 tvg-name="newtv炫舞未来" group-title="数字频道",newtv炫舞未来
 http://39.135.133.157:80/PLTV/88888888/224/3221225646/1.m3u8
 #EXTINF:-1 tvg-name="newtv精品体育" group-title="数字频道",newtv精品体育
+http://39.134.64.87:6610/PLTV/88888888/224/3221225674/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 tvg-name="newtv精品体育" group-title="数字频道",newtv精品体育
 http://39.135.133.154:80/PLTV/88888888/224/3221225526/1.m3u8
 #EXTINF:-1 tvg-name="newtv精品大剧" group-title="数字频道",newtv精品大剧
 http://39.134.65.73:80/PLTV/88888888/224/3221225536/1.m3u8
+#EXTINF:-1 tvg-name="newtv精品纪录" group-title="数字频道",newtv精品纪录
+http://39.134.64.87:6610/PLTV/88888888/224/3221225672/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 tvg-name="newtv精品萌宠" group-title="数字频道",newtv精品萌宠
+http://39.134.64.87:6610/PLTV/88888888/224/3221226505/index.m3u8?IASHttpSessionId=
 #EXTINF:-1 tvg-name="newtv超级体育" group-title="数字频道",newtv超级体育
 http://39.134.65.73:80/PLTV/88888888/224/3221225635/1.m3u8
+#EXTINF:-1 tvg-name="newtv超级体育" group-title="数字频道",newtv超级体育
+http://39.134.64.87:6610/PLTV/88888888/224/3221225715/index.m3u8?IASHttpSessionId=
 #EXTINF:-1 tvg-name="newtv超级电影" group-title="数字频道",newtv超级电影
-http://39.134.65.175/PLTV/88888888/224/3221225644/1.m3u8
+http://39.134.65.73:80/PLTV/88888888/224/3221225644/1.m3u8
 #EXTINF:-1 tvg-name="newtv超级电影" group-title="数字频道",newtv超级电影
 http://39.135.133.154:80/PLTV/88888888/224/3221225644/1.m3u8
 #EXTINF:-1 tvg-name="newtv超级电影" group-title="数字频道",newtv超级电影
-http://39.134.65.73:80/PLTV/88888888/224/3221225644/1.m3u8
+http://39.134.65.175/PLTV/88888888/224/3221225644/1.m3u8
 #EXTINF:-1 tvg-name="newtv怡伴健康" group-title="数字频道",newtv怡伴健康
 http://39.135.133.157:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/index.m3u8
 #EXTINF:-1 tvg-name="newtv超级综艺" group-title="数字频道",newtv超级综艺
 http://39.135.133.157:80/PLTV/88888888/224/3221225642/1.m3u8
+#EXTINF:-1 tvg-name="newtv超级综艺" group-title="数字频道",newtv超级综艺
+http://39.134.64.87:6610/PLTV/88888888/224/3221225714/index.m3u8?IASHttpSessionId=
 #EXTINF:-1 tvg-name="newtv超级综艺" group-title="数字频道",newtv超级综艺
 http://39.134.65.73:80/PLTV/88888888/224/3221225550/1.m3u8
 #EXTINF:-1 tvg-name="newtv金牌综艺" group-title="数字频道",newtv金牌综艺
@@ -132,11 +148,11 @@ http://39.135.133.154:80/TVOD/88888888/224/3221225525/main.m3u8
 http://39.134.65.175/PLTV/88888888/224/3221225525/1.m3u8
 #EXTINF:-1 tvg-name="newtv武搏世界" group-title="数字频道",newtv武搏世界
 http://39.135.133.157:80/PLTV/88888888/224/3221225547/1.m3u8
+#EXTINF:-1 tvg-name="newtv武搏世界" group-title="数字频道",newtv武搏世界
+http://39.134.64.87:6610/PLTV/88888888/224/3221225680/index.m3u8?IASHttpSessionId=
 #EXTINF:-1 tvg-name="newtv农业致富" group-title="数字频道",newtv农业致富
 http://39.134.67.2:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/1.m3u8
 --
-#EXTINF:-1 tvg-name="游戏风云" tvg-id="游戏风云" tvg-logo="https://livecdn.zbds.top/logo/游戏风云.png" group-title="数字频道", 游戏风云
-http://www.xzbn.site:35455/itv/5000000011000031114.m3u8?cdn=bestzb
 #EXTINF:-1 tvg-name="哒啵电竞" tvg-id="哒啵电竞" tvg-logo="https://livecdn.zbds.top/logo/哒啵电竞.png" group-title="数字频道", 哒啵电竞
 http://www.xzbn.site:35455/itv/1000000006000032327.m3u8?cdn=ystenlive
 #EXTINF:-1 tvg-name="哒啵赛事" tvg-id="哒啵赛事" tvg-logo="https://livecdn.zbds.top/logo/哒啵赛事.png" group-title="数字频道", 哒啵赛事
@@ -149,6 +165,8 @@ http://www.xzbn.site:35455/itv/3000000020000011528.m3u8?cdn=FifastbLive
 #EXTINF:-1 tvg-name="睛彩篮球" tvg-id="睛彩篮球" tvg-logo="https://livecdn.zbds.top/logo/睛彩篮球.png" group-title="数字频道", 睛彩篮球
 http://www.xzbn.site:35455/itv/3000000020000011529.m3u8?cdn=FifastbLive
 --
+#EXTINF:-1 tvg-name="天元围棋" tvg-id="天元围棋" tvg-logo="https://livecdn.zbds.top/logo/天元围棋.png" group-title="数字频道", 天元围棋
+http://wouu.net:9977/udp/239.93.42.55:5140
 #EXTINF:-1 tvg-name="五星体育" tvg-id="五星体育" tvg-logo="https://livecdn.zbds.top/logo/五星体育.png" group-title="数字频道", 五星体育
 http://www.xzbn.site:35455/itv/5000000010000017540.m3u8?cdn=bestzb
 --
@@ -166,11 +184,91 @@ http://www.xzbn.site:35455/itv/2000000004000000008.m3u8?cdn=hnbblive
 http://www.xzbn.site:35455/itv/2000000002000000014.m3u8?cdn=hnbblive
 #EXTINF:-1 tvg-name="金色学堂" tvg-id="金色学堂" tvg-logo="https://livecdn.zbds.top/logo/金色学堂.png" group-title="数字频道", 金色学堂
 http://www.xzbn.site:35455/itv/5000000010000026105.m3u8?cdn=bestzb
-#EXTINF:-1 tvg-name="重温经典" tvg-id="重温经典" tvg-logo="https://livecdn.zbds.top/logo/重温经典.png" group-title="数字频道", 重温经典
-http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
-#EXTINF:-1 tvg-name="纪实科教8K" tvg-id="纪实科教8K" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/beijing/Beijing9.png" group-title="数字频道", 纪实科教8K
-http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
 --
+#EXTINF:-1 tvg-name="求索动物" tvg-id="184" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/shuzi/Qiusuo3.png" group-title="数字频道", 求索动物
+http://www.xzbn.site:35455/itv/2000000004000000009.m3u8?cdn=hnbblive
+#EXTINF:-1 tvg-name="求索纪录" tvg-id="149" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/shuzi/Qiusuo1.png" group-title="数字频道", 求索纪录
+http://www.xzbn.site:35455/itv/2000000004000000010.m3u8?cdn=hnbblive
+#EXTINF:-1 tvg-name="求索科学" tvg-id="150" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/shuzi/Qiusuo2.png" group-title="数字频道", 求索科学
+http://www.xzbn.site:35455/itv/2000000004000000011.m3u8?cdn=hnbblive
+#EXTINF:-1 tvg-name="求索生活" tvg-id="171" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/shuzi/Qiusuo4.png" group-title="数字频道", 求索生活
+http://www.xzbn.site:35455/itv/2000000004000000008.m3u8?cdn=hnbblive
+--
+#EXTINF:-1 tvg-name="五星体育" tvg-id="五星体育" tvg-logo="https://livecdn.zbds.top/logo/五星体育.png" group-title="数字频道", 五星体育
+http://www.xzbn.site:35455/itv/5000000010000017540.m3u8?cdn=bestzb
+--
+#EXTINF:-1 tvg-name="睛彩竞技" tvg-id="睛彩竞技" tvg-logo="https://livecdn.zbds.top/logo/睛彩竞技.png" group-title="数字频道", 睛彩竞技
+http://www.xzbn.site:35455/itv/3000000020000011528.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="睛彩篮球" tvg-id="睛彩篮球" tvg-logo="https://livecdn.zbds.top/logo/睛彩篮球.png" group-title="数字频道", 睛彩篮球
+http://www.xzbn.site:35455/itv/3000000020000011529.m3u8?cdn=FifastbLive
+--
+#EXTINF:-1 tvg-name="五星体育" tvg-id="五星体育" tvg-logo="https://livecdn.zbds.top/logo/五星体育.png" group-title="数字频道", 五星体育
+http://www.xzbn.site:35455/itv/5000000010000017540.m3u8?cdn=bestzb
+#EXTINF:-1 tvg-name="快乐垂钓" tvg-id="快乐垂钓" tvg-logo="https://livecdn.zbds.top/logo/快乐垂钓.png" group-title="数字频道", 快乐垂钓
+http://www.xzbn.site:35455/itv/5000000011000031206.m3u8?cdn=bestzb
+--
+#EXTINF:-1 tvg-name="NewTV东北热剧" tvg-id="NewTV东北热剧" tvg-logo="https://livecdn.zbds.top/logo/NewTV东北热剧.png" group-title="数字频道", NewTV东北热剧
+http://39.134.65.175/PLTV/88888888/224/3221225679/1.m3u8
+#EXTINF:-1 tvg-name="NewTV中国功夫" tvg-id="NewTV中国功夫" tvg-logo="https://livecdn.zbds.top/logo/NewTV中国功夫.png" group-title="数字频道", NewTV中国功夫
+http://yc.myds.me:35455/itv/2000000003000000009.m3u8?cdn=hnbblive
+#EXTINF:-1 tvg-name="NewTV军事评论" tvg-id="NewTV军事评论" tvg-logo="https://livecdn.zbds.top/logo/NewTV军事评论.png" group-title="数字频道", NewTV军事评论
+http://yc.myds.me:35455/itv/2000000003000000022.m3u8?cdn=hnbblive
+#EXTINF:-1 tvg-name="NewTV军旅剧场" tvg-id="NewTV军旅剧场" tvg-logo="https://livecdn.zbds.top/logo/NewTV军旅剧场.png" group-title="数字频道", NewTV军旅剧场
+http://39.134.64.87:6610/PLTV/88888888/224/3221225676/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 tvg-name="NewTV农业致富" tvg-id="NewTV农业致富" tvg-logo="https://livecdn.zbds.top/logo/NewTV农业致富.png" group-title="数字频道", NewTV农业致富
+http://yc.myds.me:35455/itv/2000000003000000003.m3u8?cdn=hnbblive
+#EXTINF:-1 tvg-name="NewTV古装剧场" tvg-id="NewTV古装剧场" tvg-logo="https://livecdn.zbds.top/logo/NewTV古装剧场.png" group-title="数字频道", NewTV古装剧场
+http://yc.myds.me:35455/itv/2000000003000000024.m3u8?cdn=hnbblive
+#EXTINF:-1 tvg-name="NewTV家庭剧场" tvg-id="NewTV家庭剧场" tvg-logo="https://livecdn.zbds.top/logo/NewTV家庭剧场.png" group-title="数字频道", NewTV家庭剧场
+http://39.134.64.87:6610/PLTV/88888888/224/3221225677/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 tvg-name="NewTV怡伴健康" tvg-id="NewTV怡伴健康" tvg-logo="https://livecdn.zbds.top/logo/NewTV怡伴健康.png" group-title="数字频道", NewTV怡伴健康
+http://yc.myds.me:35455/itv/1000000005000266011.m3u8?cdn=ystenlive
+#EXTINF:-1 tvg-name="NewTV明星大片" tvg-id="NewTV明星大片" tvg-logo="https://livecdn.zbds.top/logo/NewTV明星大片.png" group-title="数字频道", NewTV明星大片
+http://39.134.64.87:6610/PLTV/88888888/224/3221225664/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 tvg-name="NewTV欢乐剧场" tvg-id="NewTV欢乐剧场" tvg-logo="https://livecdn.zbds.top/logo/NewTV欢乐剧场.png" group-title="数字频道", NewTV欢乐剧场
+http://39.134.65.175/PLTV/88888888/224/3221225682/1.m3u8
+#EXTINF:-1 tvg-name="NewTV武搏世界" tvg-id="NewTV武搏世界" tvg-logo="https://livecdn.zbds.top/logo/NewTV武搏世界.png" group-title="数字频道", NewTV武搏世界
+http://39.134.64.87:6610/PLTV/88888888/224/3221225680/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 tvg-name="NewTV潮妈辣婆" tvg-id="NewTV潮妈辣婆" tvg-logo="https://livecdn.zbds.top/logo/NewTV潮妈辣婆.png" group-title="数字频道", NewTV潮妈辣婆
+http://yc.myds.me:35455/itv/2000000003000000018.m3u8?cdn=hnbblive
+#EXTINF:-1 tvg-name="NewTV精品体育" tvg-id="NewTV精品体育" tvg-logo="https://livecdn.zbds.top/logo/NewTV精品体育.png" group-title="数字频道", NewTV精品体育
+http://39.134.64.87:6610/PLTV/88888888/224/3221225674/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 tvg-name="NewTV精品大剧" tvg-id="NewTV精品大剧" tvg-logo="https://livecdn.zbds.top/logo/NewTV精品大剧.png" group-title="数字频道", NewTV精品大剧
+http://yc.myds.me:35455/itv/1000000004000013968.m3u8?cdn=ystenlive
+#EXTINF:-1 tvg-name="NewTV精品纪录" tvg-id="NewTV精品纪录" tvg-logo="https://livecdn.zbds.top/logo/NewTV精品纪录.png" group-title="数字频道", NewTV精品纪录
+http://39.134.64.87:6610/PLTV/88888888/224/3221225672/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 tvg-name="NewTV精品萌宠" tvg-id="NewTV精品萌宠" tvg-logo="https://livecdn.zbds.top/logo/NewTV精品萌宠.png" group-title="数字频道", NewTV精品萌宠
+http://39.134.64.87:6610/PLTV/88888888/224/3221226505/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 tvg-name="NewTV超级体育" tvg-id="NewTV超级体育" tvg-logo="https://livecdn.zbds.top/logo/NewTV超级体育.png" group-title="数字频道", NewTV超级体育
+http://39.134.64.87:6610/PLTV/88888888/224/3221225715/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 tvg-name="NewTV超级电视剧" tvg-id="NewTV超级电视剧" tvg-logo="https://livecdn.zbds.top/logo/NewTV超级电视剧.png" group-title="数字频道", NewTV超级电视剧
+http://yc.myds.me:35455/itv/1000000006000268003.m3u8?cdn=ystenlive
+#EXTINF:-1 tvg-name="NewTV超级综艺" tvg-id="NewTV超级综艺" tvg-logo="https://livecdn.zbds.top/logo/NewTV超级综艺.png" group-title="数字频道", NewTV超级综艺
+http://39.134.64.87:6610/PLTV/88888888/224/3221225714/index.m3u8?IASHttpSessionId=
+#EXTINF:-1 tvg-name="NewTV魅力潇湘" tvg-id="NewTV魅力潇湘" tvg-logo="https://livecdn.zbds.top/logo/NewTV魅力潇湘.png" group-title="数字频道", NewTV魅力潇湘
+http://yc.myds.me:35455/itv/1000000001000006197.m3u8?cdn=ystenlive
+#EXTINF:-1 tvg-name="NewTV黑莓电竞" tvg-id="NewTV黑莓电竞" tvg-logo="https://livecdn.zbds.top/logo/NewTV黑莓电竞.png" group-title="数字频道", NewTV黑莓电竞
+http://39.134.65.175/PLTV/88888888/224/3221225559/1.m3u8
+#EXTINF:-1 tvg-name="iHOT爱喜剧" tvg-id="iHOT爱喜剧" tvg-logo="https://livecdn.zbds.top/logo/iHOT爱喜剧.png" group-title="数字频道", iHOT爱喜剧
+http://yc.myds.me:35455/itv/6000000006000010630.m3u8?cdn=wasusyt
+#EXTINF:-1 tvg-name="iHOT爱幼教" tvg-id="iHOT爱幼教" tvg-logo="https://livecdn.zbds.top/logo/iHOT爱幼教.png" group-title="数字频道", iHOT爱幼教
+http://yc.myds.me:35455/itv/6000000006000180630.m3u8?cdn=wasusyt
+#EXTINF:-1 tvg-name="iHOT爱怀旧" tvg-id="iHOT爱怀旧" tvg-logo="https://livecdn.zbds.top/logo/iHOT爱怀旧.png" group-title="数字频道", iHOT爱怀旧
+http://yc.myds.me:35455/itv/6000000006000260630.m3u8?cdn=wasusyt
+#EXTINF:-1 tvg-name="iHOT爱玩具" tvg-id="iHOT爱玩具" tvg-logo="https://livecdn.zbds.top/logo/iHOT爱玩具.png" group-title="数字频道", iHOT爱玩具
+http://yc.myds.me:35455/itv/6000000006000220630.m3u8?cdn=wasusyt
+#EXTINF:-1 tvg-name="iHOT爱电竞" tvg-id="iHOT爱电竞" tvg-logo="https://livecdn.zbds.top/logo/iHOT爱电竞.png" group-title="数字频道", iHOT爱电竞
+http://yc.myds.me:35455/itv/6000000006000230630.m3u8?cdn=wasusyt
+#EXTINF:-1 tvg-name="iHOT爱科学" tvg-id="iHOT爱科学" tvg-logo="https://livecdn.zbds.top/logo/iHOT爱科学.png" group-title="数字频道", iHOT爱科学
+http://yc.myds.me:35455/itv/6000000006000160630.m3u8?cdn=wasusyt
+#EXTINF:-1 tvg-name="iHOT爱经典" tvg-id="iHOT爱经典" tvg-logo="https://livecdn.zbds.top/logo/iHOT爱经典.png" group-title="数字频道", iHOT爱经典
+http://yc.myds.me:35455/itv/6000000006000060630.m3u8?cdn=wasusyt
+#EXTINF:-1 tvg-name="iHOT爱赛车" tvg-id="iHOT爱赛车" tvg-logo="https://livecdn.zbds.top/logo/iHOT爱赛车.png" group-title="数字频道", iHOT爱赛车
+http://yc.myds.me:35455/itv/6000000006000240630.m3u8?cdn=wasusyt
+#EXTINF:-1 tvg-name="iHOT爱都市" tvg-id="iHOT爱都市" tvg-logo="https://livecdn.zbds.top/logo/iHOT爱都市.png" group-title="数字频道", iHOT爱都市
+http://yc.myds.me:35455/itv/6000000006000080630.m3u8?cdn=wasusyt
+#EXTINF:-1 tvg-name="iHOT爱青春" tvg-id="iHOT爱青春" tvg-logo="https://livecdn.zbds.top/logo/iHOT爱青春.png" group-title="数字频道", iHOT爱青春
+http://yc.myds.me:35455/itv/6000000006000100630.m3u8?cdn=wasusyt
 #EXTINF:-1 tvg-name="七彩戏剧" tvg-id="七彩戏剧" tvg-logo="https://livecdn.zbds.top/logo/七彩戏剧.png" group-title="数字频道", 七彩戏剧
 http://www.xzbn.site:35455/itv/5000000011000031116.m3u8?cdn=bestzb
 #EXTINF:-1 tvg-name="上海纪实人文" tvg-id="上海纪实人文" tvg-logo="https://livecdn.zbds.top/logo/纪实人文.png" group-title="数字频道", 上海纪实人文
@@ -187,6 +285,8 @@ https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce49274
 http://120.76.248.139/live/bfgd/4200000249.m3u8
 #EXTINF:-1 tvg-name="欢笑剧场" tvg-id="欢笑剧场" tvg-logo="https://livecdn.zbds.top/logo/欢笑剧场.png" group-title="数字频道", 欢笑剧场
 http://www.xzbn.site:35455/itv/5000000002000009455.m3u8?cdn=bestzb
+#EXTINF:-1 tvg-name="爱上4K" tvg-id="爱上4K" tvg-logo="https://livecdn.zbds.top/logo/爱上4K.png" group-title="数字频道", 爱上4K
+http://wouu.net:9977/udp/239.93.0.97:5140
 #EXTINF:-1 tvg-name="爱体育" tvg-id="爱体育" tvg-logo="https://epg.iill.top/logo/iHOT爱体育.png" group-title="数字频道", 爱体育
 http://www.xzbn.site:35455/itv/2000000004000000060.m3u8?cdn=hnbblive
 #EXTINF:-1 tvg-name="爱动漫" tvg-id="爱动漫" tvg-logo="https://epg.iill.top/logo/iHOT爱动漫.png" group-title="数字频道", 爱动漫
@@ -217,8 +317,6 @@ http://www.xzbn.site:35455/itv/2000000004000000038.m3u8?cdn=hnbblive
 http://www.xzbn.site:35455/itv/2000000004000000055.m3u8?cdn=hnbblive
 #EXTINF:-1 tvg-name="爱院线" tvg-id="爱院线" tvg-logo="https://epg.iill.top/logo/iHOT爱院线.png" group-title="数字频道", 爱院线
 http://www.xzbn.site:35455/itv/2000000004000000034.m3u8?cdn=hnbblive
-#EXTINF:-1 tvg-name="生活时尚" tvg-id="生活时尚" tvg-logo="https://livecdn.zbds.top/logo/生活时尚.png" group-title="数字频道", 生活时尚
-http://www.xzbn.site:35455/itv/5000000002000019634.m3u8?cdn=bestzb
 #EXTINF:-1 tvg-name="睛彩广场舞" tvg-id="睛彩广场舞" tvg-logo="https://livecdn.zbds.top/logo/睛彩广场舞.png" group-title="数字频道", 睛彩广场舞
 http://www.xzbn.site:35455/itv/3000000020000011524.m3u8?cdn=FifastbLive
 #EXTINF:-1 tvg-name="睛彩青少" tvg-id="睛彩青少" tvg-logo="https://livecdn.zbds.top/logo/睛彩青少.png" group-title="数字频道", 睛彩青少
@@ -231,6 +329,8 @@ http://www.xzbn.site:35455/itv/1000000004000011651.m3u8?cdn=ystenlive
 http://www.xzbn.site:35455/itv/5000000011000031209.m3u8?cdn=bestzb
 #EXTINF:-1 tvg-name="超级电视剧" tvg-id="超级电视剧" tvg-logo="https://epg.iill.top/logo/NewTV超级电视剧.png" group-title="数字频道", 超级电视剧
 http://www.xzbn.site:35455/itv/1000000004000024993.m3u8?cdn=ystenlive
+#EXTINF:-1 tvg-name="都市剧场" tvg-id="都市剧场" tvg-logo="https://livecdn.zbds.top/logo/都市剧场.png" group-title="数字频道", 都市剧场
+http://www.xzbn.site:35455/itv/5000000011000031111.m3u8?cdn=bestzb
 --
 #EXTINF:-1 tvg-name="北京淘电影" tvg-logo="https://live.kakaxi-1.ink/LOGO/淘电影.png" group-title="数字频道",北京淘电影
 http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EXOsrWMA-UCdUl1hQSR9EKw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNg3bzRax0E9tLmO9xgXVx8%2CEND
