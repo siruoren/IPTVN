@@ -13,11 +13,11 @@ http://nas.suntao.online:35455/bptv/10000100000000050000000003870780.m3u8
 #EXTINF:-1 tvg-name="北京新闻" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京新闻.png" group-title="☘️北京频道",北京新闻
 http://iptv.huuc.edu.cn/hls/btv9hd.m3u8
 #EXTINF:-1 tvg-name="北京新闻" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京新闻.png" group-title="☘️北京频道",北京新闻
+http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=btv9&videoTVChannel=btv9&P2PChannelID=pd://cctv_p2p_hdbtv9&tai=btv9&VideoName=btv9&channelID=btv9
+#EXTINF:-1 tvg-name="北京新闻" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京新闻.png" group-title="☘️北京频道",北京新闻
 http://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
 #EXTINF:-1 tvg-name="北京新闻" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京新闻.png" group-title="☘️北京频道",北京新闻
 https://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
-#EXTINF:-1 tvg-name="北京新闻" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京新闻.png" group-title="☘️北京频道",北京新闻
-http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=btv9&videoTVChannel=btv9&P2PChannelID=pd://cctv_p2p_hdbtv9&tai=btv9&VideoName=btv9&channelID=btv9
 #EXTINF:-1 tvg-name="北京新闻" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京新闻.png" group-title="☘️北京频道",北京新闻
 http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=a6f5a7&tk=822270345d4c
 #EXTINF:-1 tvg-name="北京生活" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京生活.png" group-title="☘️北京频道",北京生活
@@ -28,8 +28,6 @@ http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=btv7&videoTVCha
 http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=7fd074&tk=822270345d4c
 #EXTINF:-1 tvg-name="北京生活" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京生活.png" group-title="☘️北京频道",北京生活
 https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv7_1/index.m3u8?adapt=0&BR=audio
-#EXTINF:-1 tvg-name="北京生活" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京生活.png" group-title="☘️北京频道",北京生活
-http://dsk.cc/bjtv/btime.php?id=bjsh
 #EXTINF:-1 tvg-name="北京科教" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京科教.png" group-title="☘️北京频道",北京科教
 http://player.cntv.cn/standard/live_HLSDRM20180606.swf?ChannelID=btv3&P2PChannelID=pd://cctv_p2p_hdbtv3
 #EXTINF:-1 tvg-name="北京财经" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京财经.png" group-title="☘️北京频道",北京财经
@@ -40,7 +38,5 @@ http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=btv5&videoTVCha
 http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=360e7b&tk=822270345d4c
 #EXTINF:-1 tvg-name="北京财经" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京财经.png" group-title="☘️北京频道",北京财经
 https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv5_1/index.m3u8?adapt=0&BR=audio
-#EXTINF:-1 tvg-name="北京财经" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京财经.png" group-title="☘️北京频道",北京财经
-http://dsk.cc/bjtv/btime.php?id=bjcj
 #EXTINF:-1 tvg-name="北京青年" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京青年.png" group-title="☘️北京频道",北京青年
 http://player.cntv.cn/standard/live_HLSDRM20180919.swf?v=180.171.5.8.9.6.3.9&ChannelID=btv8&videoTVChannel=btv8&P2PChannelID=pd://cctv_p2p_hdbtv8&tai=btv8&VideoName=btv8&channelID=btv8

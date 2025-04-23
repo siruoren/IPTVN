@@ -8,6 +8,8 @@ http://zwebl02.cztv.com/live/channel021080P.m3u8?auth_key=2524708799-0-0-43f14b8
 http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8?zzhed
 #EXTINF:-1 tvg-name="浙江钱江" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江钱江.png" group-title="☘️浙江频道",浙江钱江
 https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8\r\n
+#EXTINF:-1 tvg-name="浙江钱江" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江钱江.png" group-title="☘️浙江频道",浙江钱江
+http://120.55.49.231:3095/rtp/233.50.201.132:5140
 #EXTINF:-1 tvg-name="浙江钱江都市" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江钱江都市.png" group-title="☘️浙江频道",浙江钱江都市
 http://zwebl02.cztv.com/live/channel021080P.m3u8?auth_key=2524708799-0-0-43f14b8147c890428975655007afb4cc
 #EXTINF:-1 tvg-name="浙江钱江都市" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江钱江都市.png" group-title="☘️浙江频道",浙江钱江都市
@@ -60,6 +62,8 @@ http://ali-vl.cztv.com/channels/lantian/channel004/360p.m3u8
 http://ali-m-l.cztv.com/channels/lantian/channel04/720p.m3u8
 #EXTINF:-1 tvg-name="浙江教育" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江教育.png" group-title="☘️浙江频道",浙江教育
 https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8?
+#EXTINF:-1 tvg-name="浙江教育" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江教育.png" group-title="☘️浙江频道",浙江教育
+http://120.55.49.231:3095/rtp/233.50.201.134:5140
 #EXTINF:-1 tvg-name="浙江民生" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江民生.png" group-title="☘️浙江频道",浙江民生
 http://ali-vl.cztv.com/channels/lantian/channel006/360p.m3u8
 #EXTINF:-1 tvg-name="浙江民生" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江民生.png" group-title="☘️浙江频道",浙江民生
@@ -76,6 +80,8 @@ http://ali-vl.cztv.com/channels/lantian/channel007/360p.m3u8
 http://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8?zzhed
 #EXTINF:-1 tvg-name="浙江新闻" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江新闻.png" group-title="☘️浙江频道",浙江新闻
 https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8?
+#EXTINF:-1 tvg-name="浙江新闻" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江新闻.png" group-title="☘️浙江频道",浙江新闻
+http://120.55.49.231:3095/rtp/233.50.201.137:5140
 #EXTINF:-1 tvg-name="浙江少儿" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江少儿.png" group-title="☘️浙江频道",浙江少儿
 https://ct-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?
 #EXTINF:-1 tvg-name="浙江少儿" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江少儿.png" group-title="☘️浙江频道",浙江少儿
@@ -93,23 +99,27 @@ http://ms.fxim.net:808/hls/15/index.m3u8
 #EXTINF:-1 tvg-name="杭州综合" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/杭州综合.png" group-title="☘️浙江频道",杭州综合
 http://goo.bkpcp.top/mg/hzzh
 #EXTINF:-1 tvg-name="杭州综合" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/杭州综合.png" group-title="☘️浙江频道",杭州综合
+http://120.55.49.231:3095/rtp/233.50.201.173:5140
+#EXTINF:-1 tvg-name="杭州综合" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/杭州综合.png" group-title="☘️浙江频道",杭州综合
+http://live.xmcdn.com/live/1845/64.m3u8
+#EXTINF:-1 tvg-name="杭州综合" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/杭州综合.png" group-title="☘️浙江频道",杭州综合
 http://www.flyskyman.cn:4022/rtp/233.50.201.173:5140
 #EXTINF:-1 tvg-name="杭州综合" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/杭州综合.png" group-title="☘️浙江频道",杭州综合
 http://www.jeremyoto.com:82/rtp/233.50.201.173:5140
-#EXTINF:-1 tvg-name="杭州综合" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/杭州综合.png" group-title="☘️浙江频道",杭州综合
-http://live.xmcdn.com/live/1845/64.m3u8
 #EXTINF:-1 tvg-name="杭州明珠" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/杭州明珠.png" group-title="☘️浙江频道",杭州明珠
 http://goo.bkpcp.top/mg/hzmz
 #EXTINF:-1 tvg-name="杭州明珠" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/杭州明珠.png" group-title="☘️浙江频道",杭州明珠
 http://www.flyskyman.cn:4022/rtp/233.50.201.174:5140
 #EXTINF:-1 tvg-name="杭州明珠" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/杭州明珠.png" group-title="☘️浙江频道",杭州明珠
-http://www.jeremyoto.com:82/rtp/233.50.201.174:5140
-#EXTINF:-1 tvg-name="杭州明珠" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/杭州明珠.png" group-title="☘️浙江频道",杭州明珠
 http://120.198.101.106:9901/tsfile/live/1008_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="杭州明珠" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/杭州明珠.png" group-title="☘️浙江频道",杭州明珠
+http://www.jeremyoto.com:82/rtp/233.50.201.174:5140
 #EXTINF:-1 tvg-name="杭州明珠" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/杭州明珠.png" group-title="☘️浙江频道",杭州明珠
 http://122.152.202.33/s/81a8a44f/index.m3u8?id=23
 #EXTINF:-1 tvg-name="杭州生活" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/杭州生活.png" group-title="☘️浙江频道",杭州生活
 http://goo.bkpcp.top/mg/hzsh
+#EXTINF:-1 tvg-name="杭州生活" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/杭州生活.png" group-title="☘️浙江频道",杭州生活
+http://120.55.49.231:3095/rtp/233.50.201.175:5140
 #EXTINF:-1 tvg-name="杭州生活" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/杭州生活.png" group-title="☘️浙江频道",杭州生活
 http://www.flyskyman.cn:4022/rtp/233.50.201.175:5140
 #EXTINF:-1 tvg-name="杭州生活" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/杭州生活.png" group-title="☘️浙江频道",杭州生活
@@ -120,6 +130,8 @@ http://goo.bkpcp.top/mg/hzys
 http://www.flyskyman.cn:4022/rtp/233.50.201.176:5140
 #EXTINF:-1 tvg-name="杭州影视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/杭州影视.png" group-title="☘️浙江频道",杭州影视
 http://www.jeremyoto.com:82/rtp/233.50.201.176:5140
+#EXTINF:-1 tvg-name="杭州青少" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/杭州青少.png" group-title="☘️浙江频道",杭州青少
+http://120.55.49.231:3095/rtp/233.50.201.177:5140
 #EXTINF:-1 tvg-name="杭州青少" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/杭州青少.png" group-title="☘️浙江频道",杭州青少
 http://www.flyskyman.cn:4022/rtp/233.50.201.177:5140
 #EXTINF:-1 tvg-name="杭州青少" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/杭州青少.png" group-title="☘️浙江频道",杭州青少
@@ -166,6 +178,8 @@ http://goo.bkpcp.top/mg/zjjl
 http://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 #EXTINF:-1 tvg-name="之江纪录" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/之江纪录.png" group-title="☘️浙江频道",之江纪录
 https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+#EXTINF:-1 tvg-name="之江纪录" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/之江纪录.png" group-title="☘️浙江频道",之江纪录
+http://120.55.49.231:3095/rtp/233.50.202.25:5140
 #EXTINF:-1 tvg-name="浙江国际" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江国际.png" group-title="☘️浙江频道",浙江国际
 http://zwebl02.cztv.com/live/channel101080P.m3u8?auth_key=2524708799-0-0-c9473fea1da3eff0f29f4c9cf2b36519
 #EXTINF:-1 tvg-name="浙江国际" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江国际.png" group-title="☘️浙江频道",浙江国际
@@ -183,17 +197,17 @@ https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8#http://ali-m-l.c
 #EXTINF:-1 tvg-name="嘉兴新闻综合" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/嘉兴新闻综合.png" group-title="☘️浙江频道",嘉兴新闻综合
 http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
 #EXTINF:-1 tvg-name="嘉兴新闻综合" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/嘉兴新闻综合.png" group-title="☘️浙江频道",嘉兴新闻综合
+http://play-sh13.quklive.com/live/1675942165226154.m3u8?auth_key=2028730261-e7db80d294b04dc9ab5c8136b4c88b74-0-f0795306faa59c7edb35860a8ae63528
+#EXTINF:-1 tvg-name="嘉兴新闻综合" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/嘉兴新闻综合.png" group-title="☘️浙江频道",嘉兴新闻综合
+https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
+#EXTINF:-1 tvg-name="嘉兴新闻综合" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/嘉兴新闻综合.png" group-title="☘️浙江频道",嘉兴新闻综合
 http://live.pzhkai.com/xwzhtl/sd/live.m3u8
+#EXTINF:-1 tvg-name="嘉兴新闻综合" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/嘉兴新闻综合.png" group-title="☘️浙江频道",嘉兴新闻综合
+https://live.pzhkai.com/xwzhtl/sd/live.m3u8
 #EXTINF:-1 tvg-name="嘉兴新闻综合" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/嘉兴新闻综合.png" group-title="☘️浙江频道",嘉兴新闻综合
 https://qcfile.qcrmt.com/nmip-media/channellive/channel100933/playlist.m3u8
 #EXTINF:-1 tvg-name="嘉兴新闻综合" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/嘉兴新闻综合.png" group-title="☘️浙江频道",嘉兴新闻综合
 https://m3u8channel.yunxya.com/nmip-media/channellive/channel100028/playlist.m3u8
-#EXTINF:-1 tvg-name="嘉兴新闻综合" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/嘉兴新闻综合.png" group-title="☘️浙江频道",嘉兴新闻综合
-https://live.pzhkai.com/xwzhtl/sd/live.m3u8
-#EXTINF:-1 tvg-name="嘉兴新闻综合" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/嘉兴新闻综合.png" group-title="☘️浙江频道",嘉兴新闻综合
-http://play-sh13.quklive.com/live/1675942165226154.m3u8?auth_key=2028730261-e7db80d294b04dc9ab5c8136b4c88b74-0-f0795306faa59c7edb35860a8ae63528
-#EXTINF:-1 tvg-name="嘉兴新闻综合" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/嘉兴新闻综合.png" group-title="☘️浙江频道",嘉兴新闻综合
-https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
 #EXTINF:-1 tvg-name="嘉兴新闻综合" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/嘉兴新闻综合.png" group-title="☘️浙江频道",嘉兴新闻综合
 https://tvfile.scjgtv.cn:443/nmip-media/channellive/channel104126/playlist.m3u8"
 #EXTINF:-1 tvg-name="嘉兴新闻综合" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/嘉兴新闻综合.png" group-title="☘️浙江频道",嘉兴新闻综合
@@ -202,6 +216,8 @@ http://tvfile.jyrmt.cn:80/nmip-media/channellive/channel104452/playlist.m3u8
 http://play-sh13.quklive.com/live/1675149601192103.m3u8?auth_key=2028730429-9ab7f7f0267946e880ec46ce3d57ec9e-0-eb04d7f7e549054293604b04150cefa1
 #EXTINF:-1 tvg-name="嘉兴文化影视" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/嘉兴文化影视.png" group-title="☘️浙江频道",嘉兴文化影视
 http://play-sh13.quklive.com/live/1675149625220101.m3u8?auth_key=2028730374-3a60eb8e324f416aa3b26dda7679d920-0-22dc7efa8452d0b0665c15eeed83609d
+#EXTINF:-1 tvg-name="丽水新闻" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/丽水新闻.png" group-title="☘️浙江频道",丽水新闻
+http://120.55.49.231:3095/rtp/233.50.201.162:5140
 #EXTINF:-1 tvg-name="湖州公共" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/湖州公共.png" group-title="☘️浙江频道",湖州公共
 http://hzcm-live.media.hugd.com/1e6b554b9ab74513958c0e1ffe664d22/9acaa7634309494cb29a85eb12136607.m3u8?auth_key=2272900830-9a2389b8bf4e49d580d4ad807423d326-0-ea78a5c7a678c436263582d368f5009e&amp;fbl=
 #EXTINF:-1 tvg-name="湖州公共" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/湖州公共.png" group-title="☘️浙江频道",湖州公共
@@ -236,6 +252,8 @@ http://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8#https://ali-m-l.c
 https://satellitepull.cnr.cn/live/wxzjmsgb/playlist.m3u8
 #EXTINF:-1 tvg-name="浙江民生休闲" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江民生休闲.png" group-title="☘️浙江频道",浙江民生休闲
 https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8?
+#EXTINF:-1 tvg-name="浙江民生休闲" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江民生休闲.png" group-title="☘️浙江频道",浙江民生休闲
+http://120.55.49.231:3095/rtp/233.50.201.136:5140
 #EXTINF:-1 tvg-name="浙江数码时代" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江数码时代.png" group-title="☘️浙江频道",浙江数码时代
 http://ali-m-l.cztv.com/channels/lantian/channel12/720p.m3u8?zzhed
 #EXTINF:-1 tvg-name="浙江数码时代" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江数码时代.png" group-title="☘️浙江频道",浙江数码时代

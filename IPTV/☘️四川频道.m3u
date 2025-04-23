@@ -1,6 +1,8 @@
 #EXTINF:-1 tvg-name="乐山公共" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/乐山公共.png" group-title="☘️四川频道",乐山公共
 http://tv.scjyhd.com:4022/udp/239.10.0.63:5140
 #EXTINF:-1 tvg-name="乐山新闻综合" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/乐山新闻综合.png" group-title="☘️四川频道",乐山新闻综合
+http://pwpull.leshan.cn:80/live/21609091019110008654ed1a00000000/playlist.m3u8
+#EXTINF:-1 tvg-name="乐山新闻综合" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/乐山新闻综合.png" group-title="☘️四川频道",乐山新闻综合
 http://m3u8file.lstv.org.cn/nmip-media/channellive/channel1/playlist.m3u8
 #EXTINF:-1 tvg-name="乐至综合" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/乐至综合.png" group-title="☘️四川频道",乐至综合
 http://175.155.106.72:89/live1/live1.m3u8?zsicd;http://rmlive.lzxrmtzx.com/live1/live1.m3u8?zsicd
@@ -11,11 +13,11 @@ http://tv.scjyhd.com:4022/udp/239.10.0.36:5140
 #EXTINF:-1 tvg-name="仁寿综合" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/仁寿综合.png" group-title="☘️四川频道",仁寿综合
 https://play.scrstv.com.cn/DT/live.m3u8?auth_key=60001724663204-0-0-c1cc4ded9841ac34f63cdbd3aec647ef
 #EXTINF:-1 tvg-name="凉山新闻综合" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/凉山新闻综合.png" group-title="☘️四川频道",凉山新闻综合
-http://tvfile.lzgbdst.com/nmip-media/channellive/channel106876/playlist.m3u8?zsicdhttp://tv.drs.lzgbdst.com:8100/channellive/lztv2.flv?zsicd
-#EXTINF:-1 tvg-name="凉山新闻综合" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/凉山新闻综合.png" group-title="☘️四川频道",凉山新闻综合
 rtmp://tv.drs.i0834.cn/channellive/ch1?zsicd
 #EXTINF:-1 tvg-name="凉山新闻综合" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/凉山新闻综合.png" group-title="☘️四川频道",凉山新闻综合
 rtmp://tv.drs.yizu.tv/channellive/ch1?zsicd
+#EXTINF:-1 tvg-name="凉山新闻综合" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/凉山新闻综合.png" group-title="☘️四川频道",凉山新闻综合
+http://tvfile.lzgbdst.com/nmip-media/channellive/channel106876/playlist.m3u8?zsicdhttp://tv.drs.lzgbdst.com:8100/channellive/lztv2.flv?zsicd
 #EXTINF:-1 tvg-name="凉山语" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/凉山语.png" group-title="☘️四川频道",凉山语
 rtmp://tv.drs.i0834.cn/channellive/ch2?zsicd
 #EXTINF:-1 tvg-name="凉山语" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/凉山语.png" group-title="☘️四川频道",凉山语
@@ -49,9 +51,9 @@ rtmp://tv.yunxya.com:1937/channellive/mingshan
 #EXTINF:-1 tvg-name="四川科教" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/四川科教.png" group-title="☘️四川频道",四川科教
 http://tv.scjyhd.com:4022/udp/239.11.0.194:5140
 #EXTINF:-1 tvg-name="四川科教" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/四川科教.png" group-title="☘️四川频道",四川科教
-http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8
-#EXTINF:-1 tvg-name="四川科教" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/四川科教.png" group-title="☘️四川频道",四川科教
 http://8.138.7.223/【公众号：榴芒电视】/四川科教.m3u8
+#EXTINF:-1 tvg-name="四川科教" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/四川科教.png" group-title="☘️四川频道",四川科教
+http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8
 #EXTINF:-1 tvg-name="四川科教" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/四川科教.png" group-title="☘️四川频道",四川科教
 http://wouu.net:9977/udp/239.93.42.44:5140
 #EXTINF:-1 tvg-name="夹江新闻综合" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/夹江新闻综合.png" group-title="☘️四川频道",夹江新闻综合
@@ -191,9 +193,9 @@ https://m3u8channel-yc.yunxya.com/nmip-media/channellive/channel100103/playlist.
 #EXTINF:-1 tvg-name="金川乡村" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/金川乡村.png" group-title="☘️四川频道",金川乡村
 http://cnpull.sccnfb.com/live/123456.m3u8?zsicd&quot;
 #EXTINF:-1 tvg-name="金川乡村" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/金川乡村.png" group-title="☘️四川频道",金川乡村
-http://139.203.180.9:90/live/jcxc.m3u8
-#EXTINF:-1 tvg-name="金川乡村" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/金川乡村.png" group-title="☘️四川频道",金川乡村
 http://live.jinchuanrmt.com:90/live/jcxc.m3u8?zsicd
+#EXTINF:-1 tvg-name="金川乡村" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/金川乡村.png" group-title="☘️四川频道",金川乡村
+http://139.203.180.9:90/live/jcxc.m3u8
 #EXTINF:-1 tvg-name="金川乡村" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/金川乡村.png" group-title="☘️四川频道",金川乡村
 rtmp://139.203.180.9/live/jcxc
 #EXTINF:-1 tvg-name="金川乡村" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/金川乡村.png" group-title="☘️四川频道",金川乡村
@@ -201,9 +203,9 @@ rtmp://live.jinchuanrmt.com/live/jcxc
 #EXTINF:-1 tvg-name="金川新闻综合" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/金川新闻综合.png" group-title="☘️四川频道",金川新闻综合
 http://cnpull.sccnfb.com/live/123456.m3u8?zsicd四川卫视
 #EXTINF:-1 tvg-name="金川新闻综合" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/金川新闻综合.png" group-title="☘️四川频道",金川新闻综合
-http://139.203.180.9:90/live/zhxw.m3u8
-#EXTINF:-1 tvg-name="金川新闻综合" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/金川新闻综合.png" group-title="☘️四川频道",金川新闻综合
 http://live.jinchuanrmt.com:90/live/zhxw.m3u8?zsicd
+#EXTINF:-1 tvg-name="金川新闻综合" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/金川新闻综合.png" group-title="☘️四川频道",金川新闻综合
+http://139.203.180.9:90/live/zhxw.m3u8
 #EXTINF:-1 tvg-name="金川新闻综合" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/金川新闻综合.png" group-title="☘️四川频道",金川新闻综合
 rtmp://live.jinchuanrmt.com/live/zhxw
 #EXTINF:-1 tvg-name="金川新闻综合" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/金川新闻综合.png" group-title="☘️四川频道",金川新闻综合

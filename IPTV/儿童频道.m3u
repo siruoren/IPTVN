@@ -1,19 +1,14 @@
-#EXTINF:-1 tvg-name="金鹰卡通" tvg-id="金鹰卡通" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/金鹰卡通.png" group-title="儿童频道", 金鹰卡通
-http://120.238.94.10:9901/tsfile/live/1036_1.m3u8
---
 #EXTINF:-1 tvg-name="黑莓动画" tvg-id="黑莓动画" tvg-logo="https://livecdn.zbds.top/logo/黑莓动画.png" group-title="儿童频道", 黑莓动画
 http://www.xzbn.site:35455/itv/1000000004000021734.m3u8?cdn=ystenlive
 --
 #EXTINF:-1 tvg-name="卡酷少儿" tvg-id="卡酷少儿" tvg-logo="https://livecdn.zbds.top/logo/卡酷少儿.png" group-title="儿童频道", 卡酷少儿
-http://58.57.40.22:9901/tsfile/live/1060_1.m3u8
+http://124.116.183.146:9901/tsfile/live/0137_1.m3u8
 #EXTINF:-1 tvg-name="嘉佳卡通" tvg-id="嘉佳卡通" tvg-logo="https://livecdn.zbds.top/logo/嘉佳卡通.png" group-title="儿童频道", 嘉佳卡通
 http://61.138.128.226:19901/tsfile/live/1019_1.m3u8
-#EXTINF:-1 tvg-name="炫动卡通" tvg-id="炫动卡通" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/炫动卡通.png" group-title="儿童频道", 炫动卡通
-http://218.15.183.23:9901/tsfile/live/23042_1.m3u8
-#EXTINF:-1 tvg-name="金鹰卡通" tvg-id="金鹰卡通" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/金鹰卡通.png" group-title="儿童频道", 金鹰卡通
-http://120.238.94.10:9901/tsfile/live/1036_1.m3u8
-#EXTINF:-1 tvg-name="广东少儿" tvg-id="广东少儿" tvg-logo="https://livecdn.zbds.top/logo/广东少儿.png" group-title="儿童频道", 广东少儿
-http://183.11.239.36:808/hls/175/index.m3u8
+#EXTINF:-1 tvg-name="炫动卡通" tvg-id="炫动卡通" tvg-logo="https://livecdn.zbds.top/logo/炫动卡通.png" group-title="儿童频道", 炫动卡通
+http://huangtong-com.cn:9902/tsfile/live/1033_1.m3u8
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-id="金鹰卡通" tvg-logo="https://livecdn.zbds.top/logo/金鹰卡通.png" group-title="儿童频道", 金鹰卡通
+http://113.57.20.158:9901/tsfile/live/1000_1.m3u8
 #EXTINF:-1 tvg-name="浙江少儿" tvg-id="浙江少儿" tvg-logo="https://livecdn.zbds.top/logo/浙江少儿.png" group-title="儿童频道", 浙江少儿
 https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 #EXTINF:-1 tvg-name="哈哈炫动" tvg-id="哈哈炫动" tvg-logo="https://livecdn.zbds.top/logo/哈哈炫动.png" group-title="儿童频道", 哈哈炫动
@@ -22,69 +17,45 @@ http://58.57.40.22:9901/tsfile/live/1061_1.m3u8
 #EXTINF:-1 tvg-name="哈哈炫动" tvg-id="哈哈炫动" tvg-logo="https://livecdn.zbds.top/logo/哈哈炫动.png" group-title="儿童频道", 哈哈炫动
 http://58.57.40.22:9901/tsfile/live/1061_1.m3u8
 --
-#EXTINF:-1 tvg-name="NewTV黑莓动画" tvg-id="NewTV黑莓动画" tvg-logo="https://livecdn.zbds.top/logo/NewTV黑莓动画.png" group-title="儿童频道", NewTV黑莓动画
-http://39.134.65.175/PLTV/88888888/224/3221225529/1.m3u8
+#EXTINF:-1 tvg-name="CCTV少儿" tvg-id="CCTV少儿" tvg-logo="https://livecdn.zbds.top/logo/CCTV少儿.png" group-title="儿童频道", CCTV少儿
+http://tv.dahailisea.cn:4022/udp/239.93.1.29:6000
 #EXTINF:-1 tvg-name="中华小当家" tvg-id="中华小当家" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/中华小当家.png" group-title="儿童频道", 中华小当家
 http://61.221.215.25:8800/hls/40/index.m3u8
+#EXTINF:-1 tvg-name="内蒙古少儿" tvg-id="内蒙古少儿" tvg-logo="https://livecdn.zbds.top/logo/内蒙古少儿.png" group-title="儿童频道", 内蒙古少儿
+https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=a2c948908728a0733cecbe1fadea23dc&txTime=771E8800
 #EXTINF:-1 tvg-name="内蒙少儿" tvg-id="内蒙少儿" tvg-logo="https://livecdn.zbds.top/logo/内蒙少儿.png" group-title="儿童频道", 内蒙少儿
 http://api2.52tb.xyz/info?id=784&token=20230218qkyjia
-#EXTINF:-1 tvg-name="动漫秀场" tvg-id="动漫秀场" tvg-logo="https://livecdn.zbds.top/logo/动漫秀场.png" group-title="儿童频道", 动漫秀场
-http://nas.hssvm.com:8888/udp/225.1.1.134:5002
-#EXTINF:-1 tvg-name="动画大师姐" tvg-id="动画大师姐" tvg-logo="https://livecdn.zbds.top/logo/动画大师姐.png" group-title="儿童频道", 动画大师姐
-https://www.goodiptv.club/douyu/9742136
-#EXTINF:-1 tvg-name="动画魂" tvg-id="动画魂" tvg-logo="https://livecdn.zbds.top/logo/动画魂.png" group-title="儿童频道", 动画魂
-https://www.goodiptv.club/douyu/9393242
-#EXTINF:-1 tvg-name="北京北京卡酷少儿" tvg-id="北京北京卡酷少儿" tvg-logo="https://livecdn.zbds.top/logo/北京北京卡酷少儿.png" group-title="儿童频道", 北京北京卡酷少儿
-http://120.76.248.139/live/bfgd/4200000106.m3u8
 #EXTINF:-1 tvg-name="北京卡酷少儿" tvg-id="北京卡酷少儿" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卡酷少儿.png" group-title="儿童频道", 北京卡酷少儿
 http://yc.myds.me:35455/itv/5000000011000265008.m3u8?cdn=bestzb
 #EXTINF:-1 tvg-name="南京少儿" tvg-id="南京少儿" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/南京少儿.png" group-title="儿童频道", 南京少儿
 https://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
-#EXTINF:-1 tvg-name="卡酷卡通" tvg-id="卡酷卡通" tvg-logo="https://livecdn.zbds.top/logo/卡酷卡通.png" group-title="儿童频道", 卡酷卡通
-http://60.172.130.146:352/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="喜羊羊与灰太狼" tvg-id="喜羊羊与灰太狼" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/喜羊羊灰太狼.png" group-title="儿童频道", 喜羊羊与灰太狼
-http://www.douzhicloud.site:35455/huya/23865080
+#EXTINF:-1 tvg-name="名侦探柯南" tvg-id="名侦探柯南" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/名侦探柯南.png" group-title="儿童频道", 名侦探柯南
+http://www.douzhicloud.site:35455/huya/30080236
 #EXTINF:-1 tvg-name="四川妇女儿童" tvg-id="四川妇女儿童" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/sichuan/Sichuan5.png" group-title="儿童频道", 四川妇女儿童
 http://wouu.net:9977/udp/239.93.0.219:5140
-#EXTINF:-1 tvg-name="大兵动画" tvg-id="大兵动画" tvg-logo="https://livecdn.zbds.top/logo/大兵动画.png" group-title="儿童频道", 大兵动画
-https://www.goodiptv.club/douyu/9516137
-#EXTINF:-1 tvg-name="宝宝动画" tvg-id="宝宝动画" tvg-logo="https://livecdn.zbds.top/logo/宝宝动画.png" group-title="儿童频道", 宝宝动画
-http://wouu.net:9977/udp/239.93.0.147:5140
+#EXTINF:-1 tvg-name="宝宝动画" tvg-id="宝宝动画" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/宝宝动画.png" group-title="儿童频道", 宝宝动画
+http://tv.dahailisea.cn:4022/udp/239.93.0.147:5140
 #EXTINF:-1 tvg-name="少儿动画" tvg-id="少儿动画" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/少儿动画.png" group-title="儿童频道", 少儿动画
 http://218.15.183.23:9901/tsfile/live/23045_1.m3u8
 #EXTINF:-1 tvg-name="山东少儿" tvg-id="山东少儿" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/山东少儿.png" group-title="儿童频道", 山东少儿
 http://58.57.40.22:9901/tsfile/live/1024_1.m3u8
 #EXTINF:-1 tvg-name="新动漫" tvg-id="新动漫" tvg-logo="https://livecdn.zbds.top/logo/新动漫.png" group-title="儿童频道", 新动漫
 http://nas.hssvm.com:8888/udp/225.1.1.216:5002
-#EXTINF:-1 tvg-name="林小二动画" tvg-id="林小二动画" tvg-logo="https://livecdn.zbds.top/logo/林小二动画.png" group-title="儿童频道", 林小二动画
-https://www.goodiptv.club/douyu/11184164
-#EXTINF:-1 tvg-name="河北少儿科教" tvg-id="河北少儿科教" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/河北少儿科教.png" group-title="儿童频道", 河北少儿科教
-http://124.239.135.194:11080/live/sekj/index.m3u8
 #EXTINF:-1 tvg-name="海南少儿" tvg-id="海南少儿" tvg-logo="https://livecdn.zbds.top/logo/海南少儿.png" group-title="儿童频道", 海南少儿
 http://vapi.91kds.cc/live1/hitv.m3u8?id=hiqs&apiKey=2079b631b519ec17da0bc09844eb8419
-#EXTINF:-1 tvg-name="海绵宝宝" tvg-id="海绵宝宝" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/海绵宝宝.png" group-title="儿童频道", 海绵宝宝
-https://live.metshop.top/douyu/3949681
 #EXTINF:-1 tvg-name="深圳少儿" tvg-id="深圳少儿" tvg-logo="https://livecdn.zbds.top/logo/深圳少儿.png" group-title="儿童频道", 深圳少儿
 http://183.11.239.36:808/hls/157/index.m3u8
 #EXTINF:-1 tvg-name="火影忍者" tvg-id="火影忍者" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/火影忍者.png" group-title="儿童频道", 火影忍者
 https://hd.ijycnd.com/play/Yer3NWLa/index.m3u8
 #EXTINF:-1 tvg-name="甘肃少儿" tvg-id="甘肃少儿" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/甘肃少儿.png" group-title="儿童频道", 甘肃少儿
-http://stream.gsjqtv.com/pd2/sd/live.m3u8
+https://3ee63cd9178a070a2db29f77915c49d4.livehwc3.cn/play.kankanlive.com/live/1702033926169975.m3u8
 #EXTINF:-1 tvg-name="福州少儿" tvg-id="福州少儿" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/福州少儿.png" group-title="儿童频道", 福州少儿
 http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
-#EXTINF:-1 tvg-name="福建少儿" tvg-id="福建少儿" tvg-logo="https://livecdn.zbds.top/logo/福建少儿.png" group-title="儿童频道", 福建少儿
-http://110.81.206.138:49231/tsfile/live/23030_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="精灵宝可梦" tvg-id="精灵宝可梦" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/精灵宝可梦.png" group-title="儿童频道", 精灵宝可梦
-http://www.douzhicloud.site:35455/huya/23749096
 #EXTINF:-1 tvg-name="经典动漫" tvg-id="经典动漫" tvg-logo="https://livecdn.zbds.top/logo/经典动漫.png" group-title="儿童频道", 经典动漫
-http://61.133.118.228:5001/yy/24180320
-#EXTINF:-1 tvg-name="蛋泥动画" tvg-id="蛋泥动画" tvg-logo="https://livecdn.zbds.top/logo/蛋泥动画.png" group-title="儿童频道", 蛋泥动画
-https://www.goodiptv.club/douyu/9312460
+http://43.138.0.72:35455/yy/24180320
 #EXTINF:-1 tvg-name="蜡笔小新" tvg-id="蜡笔小新" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/蜡笔小新.png" group-title="儿童频道", 蜡笔小新
 http://www.douzhicloud.site:35455/bilibili/30837590
-#EXTINF:-1 tvg-name="青春动漫" tvg-id="青春动漫" tvg-logo="https://livecdn.zbds.top/logo/青春动漫.png" group-title="儿童频道", 青春动漫
-http://wouu.net:9977/udp/239.93.0.146:5140
-#EXTINF:-1 tvg-name="韩国lEBS儿童频道" tvg-id="韩国lEBS儿童频道" tvg-logo="https://livecdn.zbds.top/logo/韩国lEBS儿童频道.png" group-title="儿童频道", 韩国lEBS儿童频道
-http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8
+#EXTINF:-1 tvg-name="青春动漫" tvg-id="青春动漫" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/青春动漫.png" group-title="儿童频道", 青春动漫
+http://tv.dahailisea.cn:4022/udp/239.93.0.146:5140
 #EXTINF:-1 tvg-name="黑龙江少儿" tvg-id="黑龙江少儿" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/黑龙江少儿.png" group-title="儿童频道", 黑龙江少儿
 https://ls.qingting.fm/live/4972/64k.m3u8

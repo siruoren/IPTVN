@@ -361,9 +361,9 @@ http://www.freetv.top/migu/673168256.m3u8?migutoken=698e0ff1ba47e7b3e38326199e2e
 #EXTINF:-1 tvg-name="CETV1" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV1.png" group-title="📺央视频道",CETV1
 http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
 #EXTINF:-1 tvg-name="CETV1" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV1.png" group-title="📺央视频道",CETV1
-https://piccpndali.v.myalicdn.com/audio/cetv1_2.m3u8
-#EXTINF:-1 tvg-name="CETV1" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV1.png" group-title="📺央视频道",CETV1
 http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv1&videoTVChannel=cetv1&P2PChannelID=pd://cctv_p2p_hdcetv1&tai=cetv1&VideoName=cetv1&channelID=cetv1
+#EXTINF:-1 tvg-name="CETV1" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV1.png" group-title="📺央视频道",CETV1
+https://piccpndali.v.myalicdn.com/audio/cetv1_2.m3u8
 #EXTINF:-1 tvg-name="CETV1" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV1.png" group-title="📺央视频道",CETV1
 http://120.198.95.220:9901/tsfile/live/1039_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-name="CETV1" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV1.png" group-title="📺央视频道",CETV1
@@ -377,9 +377,9 @@ rtsp://115.153.233.154/PLTV/88888888/224/3221226858/63768493.smil
 #EXTINF:-1 tvg-name="CETV2" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV2.png" group-title="📺央视频道",CETV2
 http://[2409:8087:1a0b:df::4013]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
 #EXTINF:-1 tvg-name="CETV2" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV2.png" group-title="📺央视频道",CETV2
-https://piccpndali.v.myalicdn.com/audio/cetv2_2.m3u8
-#EXTINF:-1 tvg-name="CETV2" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV2.png" group-title="📺央视频道",CETV2
 http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv2&videoTVChannel=cetv2&P2PChannelID=pd://cctv_p2p_hdcetv2&tai=cetv2&VideoName=cetv2&channelID=cetv2
+#EXTINF:-1 tvg-name="CETV2" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV2.png" group-title="📺央视频道",CETV2
+https://piccpndali.v.myalicdn.com/audio/cetv2_2.m3u8
 #EXTINF:-1 tvg-name="CETV2" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV2.png" group-title="📺央视频道",CETV2
 rtsp://115.153.254.81/PLTV/88888888/224/3221226978/85722625.smil
 #EXTINF:-1 tvg-name="CETV2" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV2.png" group-title="📺央视频道",CETV2
@@ -391,13 +391,13 @@ rtsp://115.153.233.154/PLTV/88888888/224/3221226978/85722625.smil
 #EXTINF:-1 tvg-name="CETV4" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV4.png" group-title="📺央视频道",CETV4
 http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 #EXTINF:-1 tvg-name="CETV4" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV4.png" group-title="📺央视频道",CETV4
-https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
-#EXTINF:-1 tvg-name="CETV4" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV4.png" group-title="📺央视频道",CETV4
-https://piccpndali.v.myalicdn.com/audio/cetv4_2.m3u8
-#EXTINF:-1 tvg-name="CETV4" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV4.png" group-title="📺央视频道",CETV4
 http://player.cntv.cn/standard/live_HLSDRM20180524.swf?ChannelID=cetv4&videoTVChannel=cetv4&P2PChannelID=pd://cctv_p2p_hdcetv4&tai=cetv4&VideoName=cetv4&channelID=cetv4
 #EXTINF:-1 tvg-name="CETV4" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV4.png" group-title="📺央视频道",CETV4
+https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8
+#EXTINF:-1 tvg-name="CETV4" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV4.png" group-title="📺央视频道",CETV4
 https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 tvg-name="CETV4" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV4.png" group-title="📺央视频道",CETV4
+https://piccpndali.v.myalicdn.com/audio/cetv4_2.m3u8
 #EXTINF:-1 tvg-name="CETV4" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV4.png" group-title="📺央视频道",CETV4
 http://183.11.239.36:808/hls/73/index.m3u8
 #EXTINF:-1 tvg-name="CETV4" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV4.png" group-title="📺央视频道",CETV4

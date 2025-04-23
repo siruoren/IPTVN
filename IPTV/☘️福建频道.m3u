@@ -44,9 +44,23 @@ https://satellitepull.cnr.cn/live/wx32fjxwgb/playlist.m3u8
 http://live.xmcdn.com/live/792/64.m3u8
 #EXTINF:-1 tvg-name="福建新闻" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/福建新闻.png" group-title="☘️福建频道",福建新闻
 http://110.80.17.38:9901/tsfile/live/0122_1.m3u8
+#EXTINF:-1 tvg-name="福建新闻" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/福建新闻.png" group-title="☘️福建频道",福建新闻
+http://110.81.206.138:49231/tsfile/live/23025_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="福建电视剧" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/福建电视剧.png" group-title="☘️福建频道",福建电视剧
+http://110.81.206.138:49231/tsfile/live/23026_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="福建经济" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/福建经济.png" group-title="☘️福建频道",福建经济
 http://satellitepull.cnr.cn/live/wx32fjdnjjgb/playlist.m3u8
 #EXTINF:-1 tvg-name="福建经济" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/福建经济.png" group-title="☘️福建频道",福建经济
 http://live.xmcdn.com/live/789/64.m3u8
+#EXTINF:-1 tvg-name="福建综合" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/福建综合.png" group-title="☘️福建频道",福建综合
+http://110.81.206.138:49231/tsfile/live/23023_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="福建公共" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/福建公共.png" group-title="☘️福建频道",福建公共
+http://110.81.206.138:49231/tsfile/live/23024_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="福建旅游" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/福建旅游.png" group-title="☘️福建频道",福建旅游
 http://110.80.17.38:9901/tsfile/live/0138_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-name="福建旅游" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/福建旅游.png" group-title="☘️福建频道",福建旅游
+http://110.81.206.138:49231/tsfile/live/23027_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="福建体育" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/福建体育.png" group-title="☘️福建频道",福建体育
+http://110.81.206.138:49231/tsfile/live/23029_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="福建少儿" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/福建少儿.png" group-title="☘️福建频道",福建少儿
+http://110.81.206.138:49231/tsfile/live/23030_1.m3u8?key=txiptv&playlive=1&authid=0

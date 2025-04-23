@@ -11,9 +11,9 @@ http://gcalic.v.myalicdn.com/gc/ahhs01_1/index.m3u8
 #EXTINF:-1 tvg-name="梨园" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/梨园.png" group-title="☘️河南频道",梨园
 http://42.225.117.174:11199/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="梨园" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/梨园.png" group-title="☘️河南频道",梨园
-http://live.dxhmt.cn:9080/19903718786/3159ec673c114135816d45dd52ad7396.m3u8?
-#EXTINF:-1 tvg-name="梨园" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/梨园.png" group-title="☘️河南频道",梨园
 http://61.163.181.78:9901/tsfile/live/1006_1.m3u8
+#EXTINF:-1 tvg-name="梨园" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/梨园.png" group-title="☘️河南频道",梨园
+http://live.dxhmt.cn:9080/19903718786/3159ec673c114135816d45dd52ad7396.m3u8?
 #EXTINF:-1 tvg-name="梨园" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/梨园.png" group-title="☘️河南频道",梨园
 http://dassby.qqff.top:99/live/梨园/index.m3u8
 #EXTINF:-1 tvg-name="梨园" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/梨园.png" group-title="☘️河南频道",梨园
@@ -160,6 +160,8 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227241/index.m3u8
 http://v4d.xiepeiru.top:1123/iptv/hm/HeNanDuShi
 #EXTINF:-1 tvg-name="河南都市" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/河南都市.png" group-title="☘️河南频道",河南都市
 http://61.163.181.78:9901/tsfile/live/1004_1.m3u8
+#EXTINF:-1 tvg-name="河南都市" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/河南都市.png" group-title="☘️河南频道",河南都市
+http://zzssw01.55555.io:9901/tsfile/live/1002_1.m3u8
 #EXTINF:-1 tvg-name="河南民生" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/河南民生.png" group-title="☘️河南频道",河南民生
 http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227268/index.m3u8
 #EXTINF:-1 tvg-name="河南民生" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/河南民生.png" group-title="☘️河南频道",河南民生

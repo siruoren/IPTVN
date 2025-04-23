@@ -60,9 +60,3 @@ http://live.ynurl.com/video/s10027-LCDST/index.m3u8?zyund
 http://live.ynurl.com/video/s10046-001/index.m3u8?zyund
 #EXTINF:-1 tvg-name="麻栗坡电视台" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/麻栗坡电视台.png" group-title="☘️云南频道",麻栗坡电视台
 http://tvdrs.wsrtv.com.cn:8100/channellive/mlptv.flv?zyund
-#EXTINF:-1 tvg-name="云南都市" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/云南都市.png" group-title="☘️云南频道",云南都市
-http://220.164.192.48:50085/tsfile/live/0119_1.m3u8?
-#EXTINF:-1 tvg-name="云南娱乐" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/云南娱乐.png" group-title="☘️云南频道",云南娱乐
-http://220.164.192.48:50085/tsfile/live/1000_1.m3u8?
-#EXTINF:-1 tvg-name="云南少儿" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/云南少儿.png" group-title="☘️云南频道",云南少儿
-http://220.164.192.48:50085/tsfile/live/0124_1.m3u8?
