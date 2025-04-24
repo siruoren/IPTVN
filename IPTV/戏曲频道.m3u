@@ -1,9 +1,7 @@
-#EXTINF:-1 tvg-name="东森戏剧" tvg-id="东森戏剧" tvg-logo="https://livecdn.zbds.top/logo/东森戏剧.png" group-title="戏曲频道", 东森戏剧
-http://122.117.71.103:8529/东森戏剧.m3u8
 #EXTINF:-1 tvg-name="龙华戏剧" tvg-id="龙华戏剧" tvg-logo="https://livecdn.zbds.top/logo/龙华戏剧.png" group-title="戏曲频道", 龙华戏剧
-http://122.117.71.103:8533/龙华戏剧.m3u8
+https://cdn8.163189.xyz/live/lhxj/stream.m3u8
 --
 #EXTINF:-1 tvg-name="戏曲精选" tvg-id="戏曲精选" tvg-logo="https://livecdn.zbds.top/logo/戏曲精选.png" group-title="戏曲频道", 戏曲精选
-http://tv.dahailisea.cn:4022/udp/239.93.0.144:5140
+http://wouu.net:9977/udp/239.93.0.144:5140
 #EXTINF:-1 tvg-name="梨园频道" tvg-id="梨园频道" tvg-logo="https://livecdn.zbds.top/logo/梨园频道.png" group-title="戏曲频道", 梨园频道
-http://live.dxhmt.cn:9080/19903718786/3159ec673c114135816d45dd52ad7396.m3u8
+http://live.dxhmt.cn:9081/tv/11122-1.m3u8
