@@ -7,7 +7,7 @@ mkdir -p ../IPTV;
 
 rm -rf ../IPTV/*.m3u;
 
-while read extend_line|| [[ -n $extend_line ]]
+while read extend_line|| [[ ! -n $extend_line ]]
 do
 if [ "${extend_line}" != '' ];then
     echo ${extend_line}
@@ -15,7 +15,7 @@ if [ "${extend_line}" != '' ];then
     src_url=`echo $extend_line|awk '{print$2}'`
     wget ${src_url} -O ${src_name}.m3u;
     extend_group_name=''
-    while read line|| [[ -n $line ]]
+    while read line|| [[ ! -n $line ]]
     do
             if [[ ${line} =~ '#genre#' ]];then
                             extend_group_name=`echo ${line}|grep '#genre#'|awk -F',' '{print$1}'`
@@ -42,7 +42,7 @@ done < ../IPTV/iptv_src_extend.list;
 
 
 
-while read line|| [[ -n $line ]]
+while read line|| [[ ! -n $line ]]
 do
 
 src_name=`echo $line|awk '{print$1}'`
@@ -68,6 +68,7 @@ rm -f ../IPTV.m3utmp;
 cd ../IPTV
 cat ../IPTV.m3u |grep 'group-title'|awk -F ',' '{print$1}'|awk '{print$NF}'|grep "^group"|sort|uniq|awk -F'"' '{print$2}'|xargs -i touch {}.m3u
 for i in `ls`; do group_name=`echo ${i}|awk -F '.' '{print$1}'`; grep -A 1 "${group_name}" ../IPTV.m3u > ${i}; done
+ls -l
 cd ../
 # 节目源
 rm -f EPG.xml && wget https://epg.112114.xyz/pp.xml -O EPG.xml
