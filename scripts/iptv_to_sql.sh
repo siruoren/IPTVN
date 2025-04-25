@@ -153,6 +153,7 @@ fi
 done
 > IPTV_update.sql;
 echo "set character_set_server='utf8';" >> IPTV_update.sql;
+echo "UPDATE tvbox.tv_app SET appkey = 'bef838a270105a93935038c844192fd3' WHERE name = '群晖影视';" >> IPTV_update.sql;
 echo "TRUNCATE table tvbox.tv_channels;" >> IPTV_update.sql;
 echo "INSERT into tvbox.tv_channels(name,category,url) values('default', 'default', 'default');" >> IPTV_update.sql;
 echo "SELECT SLEEP(5);" >> IPTV_update.sql;
