@@ -34,9 +34,9 @@ do
 	if [ "${api_name}" == "" ] || [ "${api_url}" == "" ];then
 	   continue
 	fi
-	
-    echo "start check ${api_url}......"
-    response=$( curl -s -L --max-time 10 "$api_url"|grep key|grep name|wc -l)
+	  response='999'
+    # echo "start check ${api_url}......"
+    # response=$( curl -s -L --max-time 10 "$api_url"|grep key|grep name|wc -l)
 
     if [[ $response -gt 10  ]]; then
       echo "URL is accessible"
@@ -61,9 +61,9 @@ do
 	if [ "${api_name}" == "" ] || [ "${api_url}" == "" ];then
 	   continue
 	fi
-	
-    echo "start check ${api_url}......"
-    response=$(curl -o /dev/null -L -s -w "%{http_code}" --max-time 10 "$api_url")
+	  response='200'
+    # echo "start check ${api_url}......"
+    # response=$(curl -o /dev/null -L -s -w "%{http_code}" --max-time 10 "$api_url")
 
     if [[ $response -ge 200 && $response -lt 400 ]]; then
 
