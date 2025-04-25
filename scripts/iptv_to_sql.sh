@@ -51,6 +51,16 @@ wget ${src_url} -O ${src_name}.m3u;cat ${src_name}.m3u|sed 's/$.*//g' >> ../IPTV
 
 done < iptv_src.list;
 
+# 去重
+cp ../IPTV.m3u  ../IPTV.m3utmp;>../IPTV.m3u;
+cat ../IPTV.m3utmp |grep '^http'|while read url
+do 
+    if [ `cat ../IPTV.m3u|grep "${url}"|wc -l ` = 0 ];then 
+    cat IPTV.m3utmp|grep -B 1 "${url}"|head -2  >> ../IPTV.m3u
+    fi; 
+done
+rm -f ../IPTV.m3utmp;
+
 
 
 
