@@ -2,7 +2,7 @@
 cd $(dirname $0);
 # 源
 > ../IPTV.m3u
-
+mkdir -p ../IPTV;
 
 
 
@@ -37,7 +37,7 @@ if [ "${extend_line}" != '' ];then
     done < ${src_name}.m3u
     rm -f ${src_name}.m3u;
 fi
-done < iptv_src_extend.list;
+done < ../IPTV/iptv_src_extend.list;
 
 
 
@@ -49,7 +49,7 @@ src_url=`echo $line|awk '{print$2}'`
 wget ${src_url} -O ${src_name}.m3u;cat ${src_name}.m3u|sed 's/$.*//g' >> ../IPTV.m3u;rm -f ${src_name}.m3u;
 
 
-done < iptv_src.list;
+done < ../IPTV/iptv_src.list;
 
 # 去重
 cp ../IPTV.m3u  ../IPTV.m3utmp;>../IPTV.m3u;
@@ -64,8 +64,8 @@ rm -f ../IPTV.m3utmp;
 
 
 
-rm -rf ../IPTV;
-mkdir -p ../IPTV;cd ../IPTV
+rm -rf ../IPTV/*.m3u;
+cd ../IPTV
 cat ../IPTV.m3u |grep 'group-title'|awk -F ',' '{print$1}'|awk '{print$NF}'|grep "^group"|sort|uniq|awk -F'"' '{print$2}'|xargs -i touch {}.m3u
 for i in `ls`; do group_name=`echo ${i}|awk -F '.' '{print$1}'`; grep -A 1 "${group_name}" ../IPTV.m3u > ${i}; done
 cd ../
@@ -165,5 +165,5 @@ default_assign_all="${default_assign_first}${default_assign_second}"
 #添加自动赋权
 echo "UPDATE tvbox.tv_meals SET mealname='默认套餐', listinfo='${default_assign_all}' WHERE id=1;" >> IPTV_update.sql;
 
-find ./* -type f|grep -v 'IPTV_update.sql$'|xargs -i rm -f {};
+rm -f *.m3u *.sqltmp;
 cd ../;
