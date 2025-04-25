@@ -154,5 +154,5 @@ default_assign_all="${default_assign_first}${default_assign_second}"
 #添加自动赋权
 echo "UPDATE tvbox.tv_meals SET mealname='默认套餐', listinfo='${default_assign_all}' WHERE id=1;" >> IPTV_update.sql;
 
-rm -f IPTV_update.sqltmp;
+find ./* -type f|grep -v 'IPTV_update.sql'|xargs -i rm -f {};
 cd ../;
