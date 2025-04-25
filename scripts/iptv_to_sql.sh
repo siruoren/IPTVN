@@ -5,6 +5,7 @@ cd $(dirname $0);
 mkdir -p ../IPTV;
 
 
+rm -rf ../IPTV/*.m3u;
 
 while read extend_line|| [[ -n $extend_line ]]
 do
@@ -64,7 +65,6 @@ rm -f ../IPTV.m3utmp;
 
 
 
-rm -rf ../IPTV/*.m3u;
 cd ../IPTV
 cat ../IPTV.m3u |grep 'group-title'|awk -F ',' '{print$1}'|awk '{print$NF}'|grep "^group"|sort|uniq|awk -F'"' '{print$2}'|xargs -i touch {}.m3u
 for i in `ls`; do group_name=`echo ${i}|awk -F '.' '{print$1}'`; grep -A 1 "${group_name}" ../IPTV.m3u > ${i}; done
