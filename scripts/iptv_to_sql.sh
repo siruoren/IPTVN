@@ -71,7 +71,7 @@ for i in `ls *.m3u`; do group_name=`echo ${i}|awk -F '.' '{print$1}'`; grep -A 1
 ls -l
 cd ../
 # 节目源
-rm -f EPG.xml && wget https://epg.112114.xyz/pp.xml -O EPG.xml
+rm -f EPG.xml EPG_CH.txt && wget https://epg.112114.xyz/pp.xml -O EPG_CH.txt
 
 #iptv_to_sql
 
