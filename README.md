@@ -7,4 +7,4 @@
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=siruoren/IPTV&type=Date)](https://www.star-history.com/#siruoren/IPTV&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=siruoren/IPTVN&type=Date)](https://www.star-history.com/#siruoren/IPTVN&Date)
