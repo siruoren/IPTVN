@@ -3598,4 +3598,4 @@ INSERT into tvbox.tv_channels(name,category,url) select '漫画解说','动画�
 INSERT into tvbox.tv_channels(name,category,url) select '漫画解说','动画频道','http://61.133.118.228:5001/yy/1382735568' where NOT EXISTS (SELECT 1 FROM tvbox.tv_channels WHERE url='http://61.133.118.228:5001/yy/1382735568');
 INSERT into tvbox.tv_channels(name,category,url) select '漫画解说','动画频道','http://zzy789.xyz/douyu1.php?id=5907076' where NOT EXISTS (SELECT 1 FROM tvbox.tv_channels WHERE url='http://zzy789.xyz/douyu1.php?id=5907076');
 DELETE FROM tvbox.tv_channels where name='default';
-UPDATE tvbox.tv_meals SET mealname='默认套餐', listinfo='央视频道,卫视频道,数字频道,电影频道,经典剧场,动画频道,体育频道,游戏频道,港澳台,内蒙古频道,海南频道,儿童频道,戏曲频道,游戏赛事,直播中国,纪录频道,综艺频道,山东频道,北京频道,吉林频道,上海频道,云南频道,四川频道,天津频道,宁夏频道,安徽频道,山西频道,广东频道,广西频道,新疆频道,江苏频道,河北频道,河南频道,浙江频道,湖北频道,湖南频道,甘肃频道,福建频道,贵州频道,辽宁频道,重庆频道,陕西频道,青海频道,黑龙江频道,内蒙频道' WHERE id=1;
+UPDATE tvbox.tv_meals SET mealname='默认套餐', listinfo='央视频道,卫视频道,数字频道,电影频道,经典剧场,动画频道,体育频道,游戏频道,港澳台,儿童频道,戏曲频道,游戏赛事,直播中国,纪录频道,综艺频道,山东频道,北京频道,吉林频道,上海频道,云南频道,四川频道,天津频道,宁夏频道,安徽频道,山西频道,广东频道,广西频道,新疆频道,江苏频道,河北频道,河南频道,浙江频道,湖北频道,湖南频道,甘肃频道,福建频道,贵州频道,辽宁频道,重庆频道,陕西频道,青海频道,海南频道,黑龙江频道,内蒙频道,内蒙古频道,港澳台' WHERE id=1;
