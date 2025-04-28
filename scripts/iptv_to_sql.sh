@@ -62,7 +62,17 @@ cp ../IPTV.m3u  ../IPTV.m3utmp;>../IPTV.m3u;
 cat ../IPTV.m3utmp |grep '^http'|while read url
 do 
     if [ `cat ../IPTV.m3u|grep "${url}"|wc -l ` = 0 ];then 
-    cat ../IPTV.m3utmp|grep -B 1 "${url}"|head -2  >> ../IPTV.m3u
+        channel_info=`cat ../IPTV.m3utmp|grep -B 1 "${url}"|head -2`  
+        group_name=`echo ${channel_info}|awk -F'group-title=' '{print$2}'|awk -F',' '{print$1}'|sed 's/[^[:alpha:]]//g'`
+        # echo ${group_name}
+        if [[ "${exclude_pd}" =~ "${group_name}" ]];then
+            # echo "${channel_info}"
+            echo "${group_name} is in exclude_pd !!!!"
+            continue
+        else
+        
+            echo "${channel_info}" >> ../IPTV.m3u
+        fi
     fi; 
 done
 rm -f ../IPTV.m3utmp;
