@@ -547,6 +547,150 @@
         {
             "url": "https://ghproxy.net/https://raw.githubusercontent.com/yyfxz/qqtv/main/py.json",
             "name": "线路12（PY）"
+        },
+        {
+            "name": "🐼电视直播源",
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/adminouyang/231006/main/tvbox/直播源/iptv.json"
+        },
+        {
+            "name": "CandyMuj",
+            "url": "https://ghproxy.cc/https://raw.githubusercontent.com/adminouyang/231006/refs/heads/main/tvbox/点播源/CandyMuj.txt"
+        },
+        {
+            "name": "Moew",
+            "url": "https://ghproxy.cc/https://raw.githubusercontent.com/adminouyang/231006/refs/heads/main/tvbox/点播源/Moew.txt"
+        },
+        {
+            "name": "dxawi",
+            "url": "https://ghproxy.cc/https://raw.githubusercontent.com/adminouyang/231006/refs/heads/main/tvbox/点播源/dxawi.txt"
+        },
+        {
+            "name": "小米",
+            "url": "https://ghproxy.cc/https://raw.githubusercontent.com/adminouyang/231006/refs/heads/main/tvbox/点播源/小米.txt"
+        },
+        {
+            "name": "巧技",
+            "url": "https://ghproxy.cc/https://raw.githubusercontent.com/adminouyang/231006/refs/heads/main/tvbox/点播源/巧技.txt"
+        },
+        {
+            "name": "挺好",
+            "url": "https://ghproxy.cc/https://raw.githubusercontent.com/adminouyang/231006/refs/heads/main/tvbox/点播源/挺好.txt"
+        },
+        {
+            "name": "摸鱼",
+            "url": "https://ghproxy.cc/https://raw.githubusercontent.com/adminouyang/231006/refs/heads/main/tvbox/点播源/摸鱼.txt"
+        },
+        {
+            "name": "星辰",
+            "url": "https://ghproxy.cc/https://raw.githubusercontent.com/adminouyang/231006/refs/heads/main/tvbox/点播源/星辰.txt"
+        },
+        {
+            "name": "欧歌",
+            "url": "https://ghproxy.cc/https://raw.githubusercontent.com/adminouyang/231006/refs/heads/main/tvbox/点播源/欧歌.txt"
+        },
+        {
+            "name": "王二小放牛娃",
+            "url": "https://ghproxy.cc/https://raw.githubusercontent.com/adminouyang/231006/refs/heads/main/tvbox/点播源/王二小放牛娃.txt"
+        },
+        {
+            "name": "盒子迷",
+            "url": "https://ghproxy.cc/https://raw.githubusercontent.com/adminouyang/231006/refs/heads/main/tvbox/点播源/盒子迷.txt"
+        },
+        {
+            "name": "肥猫",
+            "url": "https://ghproxy.cc/https://raw.githubusercontent.com/adminouyang/231006/refs/heads/main/tvbox/点播源/肥猫.txt"
+        },
+        {
+            "name": "饭太硬",
+            "url": "https://ghproxy.cc/https://raw.githubusercontent.com/adminouyang/231006/refs/heads/main/tvbox/点播源/饭太硬.txt"
+        },
+        {
+            "name": "骚零",
+            "url": "https://ghproxy.cc/https://raw.githubusercontent.com/adminouyang/231006/refs/heads/main/tvbox/点播源/骚零.txt"
+        },
+        {
+            "url": "https://play.iptv365.org/饭太硬/api.json",
+            "name": "饭太硬"
+        },
+        {
+            "url": "https://play.iptv365.org/小米/api.json",
+            "name": "小米"
+        },
+        {
+            "url": "https://play.iptv365.org/肥猫/api.json",
+            "name": "肥猫"
+        },
+        {
+            "url": "https://play.iptv365.org/菜妮丝/api.json",
+            "name": "菜妮丝"
+        },
+        {
+            "url": "https://play.iptv365.org/王二小/api.json",
+            "name": "王二小"
+        },
+        {
+            "url": "https://play.iptv365.org/摸鱼儿/api.json",
+            "name": "摸鱼儿"
+        },
+        {
+            "url": "https://play.iptv365.org/PG/api.json",
+            "name": "PG"
+        },
+        {
+            "url": "https://play.iptv365.org/欧歌/api.json",
+            "name": "欧歌"
+        },
+        {
+            "url": "https://play.iptv365.org/潇洒/api.json",
+            "name": "潇洒"
+        },
+        {
+            "url": "https://play.iptv365.org/天微/api.json",
+            "name": "天微"
+        },
+        {
+            "url": "https://play.iptv365.org/天天开心/api.json",
+            "name": "天天开心"
+        },
+        {
+            "url": "https://play.iptv365.org/香雅情/api.json",
+            "name": "香雅情"
+        },
+        {
+            "url": "https://play.iptv365.org/南风/api.json",
+            "name": "南风"
+        },
+        {
+            "url": "https://play.iptv365.org/骚零/api.json",
+            "name": "骚零"
+        },
+        {
+            "url": "https://play.iptv365.org/白嫖/api.json",
+            "name": "白嫖"
+        },
+        {
+            "url": "https://play.iptv365.org/OK/api.json",
+            "name": "OK"
+        },
+        {
+            "url": "https://play.iptv365.org/戏曲音乐/api.json",
+            "name": "戏曲音乐"
+        },
+        {
+            "url": "https://play.iptv365.org/短剧频道/api.json",
+            "name": "短剧频道"
+        },
+        {
+            "url": "https://play.iptv365.org/少儿频道/api.json",
+            "name": "少儿频道"
+        },
+        {
+            "url": "https://play.iptv365.org/动漫频道/api.json",
+            "name": "动漫频道"
+        },
+        {
+            "url": "https://play.iptv365.org/iptv365/api.json",
+            "name": "iptv365直播"
         }
     ]
 }
