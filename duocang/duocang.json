@@ -201,8 +201,36 @@
             "name": "公众号:七星影仓"
         },
         {
-            "url": "https://毒盒.com",
+            "url": "https://毒盒.com/tv",
             "name": "毒盒.com"
+        },
+        {
+            "url": "https://tv.youdu.fan:666/毒盒影视/",
+            "name": "毒盒接口1"
+        },
+        {
+            "url": "https://tv.youdu.fan:666/毒盒/",
+            "name": "毒盒接口2"
+        },
+        {
+            "url": "https://tv.youdu.fan:666/dhys/",
+            "name": "毒盒接口3"
+        },
+        {
+            "url": "https://tv.youdu.fan:666/dh/",
+            "name": "毒盒接口4"
+        },
+        {
+            "url": "https://d.kstore.dev/download/9347/tvbox/svip.json",
+            "name": "毒盒备用接口"
+        },
+        {
+            "url": "http://tv.goos.gs:666",
+            "name": "毒盒备用接口1"
+        },
+        {
+            "url": "http://8.134.83.224:666",
+            "name": "毒盒备用接口2"
         },
         {
             "url": "https://ghproxy.net/https://raw.githubusercontent.com/yyfxz/qqtv/main/饭太硬.json",
