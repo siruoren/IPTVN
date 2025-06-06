@@ -85,8 +85,7 @@ cat ../IPTV.m3u |grep 'group-title'|awk -F ',' '{print$1}'|awk '{print$NF}'|grep
 for i in `ls *.m3u`; do group_name=`echo ${i}|awk -F '.' '{print$1}'`; grep -A 1 "${group_name}" ../IPTV.m3u > ${i}; done
 ls -l
 cd ../
-# 节目源
-rm -f EPG.xml EPG_CH.txt && wget https://epg.112114.xyz/pp.xml -O EPG_CH.txt
+
 
 #iptv_to_sql
 
