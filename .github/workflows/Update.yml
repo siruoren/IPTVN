@@ -27,6 +27,7 @@ jobs:
         chmod -R 755 scripts/*;
         bash -vvv scripts/iptv_to_sql.sh
         bash -vvv scripts/duocang_sql.sh
+        bash -vvv scripts/iptv_check.sh
         ###########################################################
         # echo "# 所有数据来源于互联网，内容真实性请用户自行辨认。" > README.md
         # echo '' >> README.md
@@ -34,14 +35,6 @@ jobs:
         # echo '' >> README.md
         sed -i "s/# Auto Update IPTV at.*/# Auto Update IPTV at ${{ steps.date.outputs.date }}/g"  README.md
         # echo '----------------------------------------------------' >> README.md
-
-    - name: Check iptv
-      run: |
-        cd IPTV-M3U-Checker2;
-        pip3 install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple;
-        python3 main.py
-
-        cd ../
 
 
     - name: Clean
