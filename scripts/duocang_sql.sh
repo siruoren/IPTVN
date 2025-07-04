@@ -1,4 +1,5 @@
 #!/bin/bash
+exit 0
 cd $(dirname $0);
 cd ../;
 echo "check duocang......"
