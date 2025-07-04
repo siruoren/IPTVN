@@ -493,7 +493,7 @@ class Iptv(object):
             pass
 
 
-    def runcheck(self,playList,bSavedb=True, bTestSpeed=True, threadCount=5):
+    def runcheck(self,playList,bSavedb=True, bTestSpeed=True, threadCount=10):
         ''' #多线程跑检测
             @playList:需要跑的节目列表
             @bSavedb:是否更新到数据库，default=True
