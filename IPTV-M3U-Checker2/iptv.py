@@ -24,7 +24,7 @@ from zyrobot import DingtalkChatbot
 class Iptv(object):
     playlist_file = 'playlists/'
     output_file = 'output/'
-    delay_threshold = 6000  # 响应延迟阈值，单位毫秒。超过这个阈值则认为直播源质量较差
+    delay_threshold = 3000  # 响应延迟阈值，单位毫秒。超过这个阈值则认为直播源质量较差
     MaxSourceCount=2000     #检测最长节目数量
     __dbdata=[]
     __playlist=[]
