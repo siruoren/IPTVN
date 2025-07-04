@@ -55,7 +55,7 @@ if __name__ == '__main__':
 
     iptv.runcheck(myList,bSavedb=(parms['ctype']&0x08==0),bTestSpeed=parms['testspeed'])
     fnames=iptv.output(parms['otype'])   #diyp 0x01|m3u 0x02|标准txt 0x04 |测试 0x08
-    iptv.sendit(fnames,parms['sendfile_list'])
+    #iptv.sendit(fnames,parms['sendfile_list'])
     print('结束.....%s秒'%str(time.time()-time1))
    
     
