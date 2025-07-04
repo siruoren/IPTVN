@@ -575,6 +575,6 @@ if __name__ == '__main__':
     myList=iptv.getPlaylist(ctype=ctype,checkfile_list=checkfile_list)
     iptv.runcheck(myList,bSavedb=(ctype&0x08>0))
     fnames=iptv.output(0x01|0x04)
-    #iptv.sendit(fnames,['/pczx816571/gitee/raw/master/xxtv.txt','hahah/test2.m3u'])
+    iptv.sendit(fnames,['output/check_res.m3u'])
     print('结束.....%s秒'%str(time.time()-time1))
    
