@@ -34,6 +34,15 @@ jobs:
         sed -i "s/# Auto Update IPTV at.*/# Auto Update IPTV at ${{ steps.date.outputs.date }}/g"  README.md
         # echo '----------------------------------------------------' >> README.md
 
+    - name: Check iptv
+      run：|
+        cd IPTV-M3U-Checker2;
+        pip3 install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple;
+        python3 main.py
+
+        cd ../
+
+
     - name: Clean
       run: |
         git config --local user.email "actions@github.com"
