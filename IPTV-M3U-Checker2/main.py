@@ -28,7 +28,7 @@ def load_config():
             if ('newDb'  not in parms):parms['newDb']=False
             if ('webhook'  not in parms):parms['webhook']=''
             if ('secret'  not in parms):parms['secret']=''
-            if ('max_check_count' not in parms):parms['max_check_count']=2000
+            if ('max_check_count' not in parms):parms['max_check_count']=20
             
     except:
         print("未发现myconfig.json配置文件，或配置文件格式有误。")
