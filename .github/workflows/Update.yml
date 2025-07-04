@@ -5,8 +5,7 @@ on:
     types: [started]
   schedule:
     - cron: '01 16 * * *'
-  push:
-    branches: [ "Files" ]
+
 
 env:
   TZ: Asia/Shanghai
