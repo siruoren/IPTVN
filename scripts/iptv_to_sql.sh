@@ -20,7 +20,7 @@ if [ "${extend_line}" != '' ];then
     src_name=`echo $extend_line|awk '{print$1}'`
     src_url=`echo $extend_line|awk '{print$2}'`
     wget ${src_url} -O ${src_name}.m3u;
-    extend_group_name=''
+    extend_group_name='不分类'
     while read line|| [ ! -n $line ]
     do
             if [[ ${line} =~ '#genre#' ]];then
