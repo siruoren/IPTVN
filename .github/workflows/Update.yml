@@ -27,7 +27,6 @@ jobs:
         chmod -R 755 scripts/*;
         bash -vvv scripts/iptv_to_sql.sh
         bash -vvv scripts/duocang_sql.sh
-        bash -vvv scripts/iptv_check.sh
         ###########################################################
         # echo "# 所有数据来源于互联网，内容真实性请用户自行辨认。" > README.md
         # echo '' >> README.md
