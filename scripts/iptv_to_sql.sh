@@ -64,10 +64,11 @@ cat ../IPTV.m3utmp |grep '^http'|while read url
 do 
     if [ `cat ../IPTV.m3u|grep "${url}"|wc -l ` = 0 ];then 
         channel_info=`cat ../IPTV.m3utmp|grep -B 1 "${url}"|head -2`  
-        group_name=`echo ${channel_info}|awk -F'group-title=' '{print$2}'|awk -F',' '{print$1}'|sed 's/[^[:alpha:]]//g'`
+        group_name=`echo ${channel_info}|grep 'group-title'|awk '{for(i=1;i<=NF;i++) print $i}'|grep 'group-title'|sed 's/,.*//g'|sed 's/"//g'|awk -F'=' '{print$2}'|sed 's/[^[:alpha:]]//g'`
         # echo ${group_name}
         if [[ "${exclude_pd}" =~ "${group_name}" ]];then
             # echo "${channel_info}"
+            
             echo "${group_name} is in exclude_pd !!!!"
             continue
         else
