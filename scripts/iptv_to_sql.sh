@@ -82,7 +82,11 @@ rm -f ../IPTV.m3utmp;
 
 
 cd ../IPTV
-cat ../IPTV.m3u |grep 'group-title'|awk -F ',' '{print$1}'|awk '{print$NF}'|grep "^group"|sort|uniq|awk -F'"' '{print$2}'|xargs -i touch {}.m3u
+#cat ../IPTV.m3u |grep 'group-title'|awk -F ',' '{print$1}'|awk '{print$NF}'|grep "^group"|sort|uniq|awk -F'"' '{print$2}'|xargs -i touch {}.m3u
+ cat ../IPTV.m3u |awk '{for(i=1;i<=NF;i++) print $i}'|grep 'group-title'|sed 's/,.*//g'|sed 's/"//g'|awk -F'=' '{print$2}'|sort|uniq|xargs -i touch {}.m3u
+
+
+
 for i in `ls *.m3u`; do group_name=`echo ${i}|awk -F '.' '{print$1}'`; grep -A 1 "${group_name}" ../IPTV.m3u > ${i}; done
 ls -l
 cd ../
