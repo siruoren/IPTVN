@@ -68,8 +68,9 @@ do
         # echo ${group_name}
         if [[ "${exclude_pd}" =~ "${group_name}" ]];then
             # echo "${channel_info}"
-            
-            echo "${group_name} is in exclude_pd !!!!"
+            if [[ "${group_name}" != ""  ]];then
+                echo "${group_name} is in exclude_pd !!!!"
+            fi
             continue
         else
         
