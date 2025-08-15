@@ -89,6 +89,7 @@ cd ../IPTV
 
 for i in `ls *.m3u`; do group_name=`echo ${i}|awk -F '.' '{print$1}'`; grep -A 1 "${group_name}" ../IPTV.m3u > ${i}; done
 ls -l
+dos2unix *.m3u;
 cd ../
 
 
