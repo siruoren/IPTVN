@@ -134,10 +134,10 @@ fi
     	    if [[ "${check_url}" -ne 0 ]];then
     		        item_id=`sed -n "${line_nu}p" ${m3u_file}|awk -F'tvg-name=' '{print$2}'|awk '{printf$1}' |sed 's/"//g'`
                     if [[ "${item_id}" == '' ]];then
-                        item_id=`sed -n "${line_nu}p" ${m3u_file}|awk -F',' '{print$NF}'|sed 's/"//g'`
+                        item_id=`sed -n "${line_nu}p" ${m3u_file}|awk -F',' '{print$NF}'|sed 's/"//g'|xargs echo -n`
                     fi
-    			    item_group=`sed -n "${line_nu}p" ${m3u_file}|awk -F'group-title=' '{print$2}'|awk '{printf$1}' |sed 's/"//g'|awk -F',' '{printf$1}'|sed 's/[^[:alpha:]]//g'`
-    			    item_url=`sed -n "${line_next}p" ${m3u_file}|grep '^http'`
+    			    item_group=`sed -n "${line_nu}p" ${m3u_file}|awk -F'group-title=' '{print$2}'|awk '{printf$1}' |sed 's/"//g'|awk -F',' '{printf$1}'|sed 's/[^[:alpha:]]//g'|xargs echo -n `
+    			    item_url=`sed -n "${line_next}p" ${m3u_file}|grep '^http'|xargs echo -n`
                     url_res='skip'
                     # if [[ "${default_assign_first}" =~ "${item_group}" ]];then
                     #     if [[ "${item_url}" =~ '\[' ]];then
