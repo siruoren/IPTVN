@@ -128,7 +128,10 @@ fi
     	    #echo  `sed -n "${line_next}p" ${m3u_file}|grep '^http'`
     	    check_url=`sed -n "${line_next}p" ${m3u_file}|grep '^http'|wc -l`
     	    if [[ "${check_url}" -ne 0 ]];then
-    		      item_id=`sed -n "${line_nu}p" ${m3u_file}|awk -F'tvg-name=' '{print$2}'|awk '{printf$1}' |sed 's/"//g'`
+    		        item_id=`sed -n "${line_nu}p" ${m3u_file}|awk -F'tvg-name=' '{print$2}'|awk '{printf$1}' |sed 's/"//g'`
+                    if [[ "${item_id}" == '' ]];then
+                        item_id=`sed -n "${line_nu}p" ${m3u_file}|awk -F',' '{print$NF}'|sed 's/"//g'`
+                    fi
     			    item_group=`sed -n "${line_nu}p" ${m3u_file}|awk -F'group-title=' '{print$2}'|awk '{printf$1}' |sed 's/"//g'|awk -F',' '{printf$1}'|sed 's/[^[:alpha:]]//g'`
     			    item_url=`sed -n "${line_next}p" ${m3u_file}|grep '^http'`
                     url_res='skip'
