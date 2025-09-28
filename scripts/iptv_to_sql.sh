@@ -32,6 +32,7 @@ if [ "${extend_line}" != '' ];then
                 channel_name=`echo ${line}|awk -F',' '{print$1}'`
                 if [[ $extend_group_name == '未分类' ]];then
                     extend_group_name=`cat ../IPTV.m3u|grep "${channel_name}"|awk -F'group-title=' '{print$2}'|awk -F',' '{print$1}'|head -1||echo '未分类'`
+                    echo "extend_group_name: ${extend_group_name} !!!!"
                 fi
 
 
