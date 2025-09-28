@@ -30,7 +30,11 @@ if [ "${extend_line}" != '' ];then
 
             if [[ ${extend_group_name} != '' || ${line} =~ 'http' ]];then
                 channel_name=`echo ${line}|awk -F',' '{print$1}'`
-                
+                if [[ $extend_group_name == '未分类' ]];then
+                    extend_group_name=`cat ../IPTV.m3u|grep "${channel_name}"|awk -F'group-title=' '{print$2}'|awk -F',' '{print$1}'|head -1||echo '未分类'`
+                fi
+
+
                 urls=`echo ${line}|awk -F',' '{print$2}'`
                 for url in `echo $urls|awk -F '#' '{for(i=1;i<=NF;i++) print$i}'`
                 do
