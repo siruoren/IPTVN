@@ -191,10 +191,6 @@ for group_name in `echo $default_assign_first|awk -F ',' '{for(i=1;i<=NF;i++) pr
 do
     echo "${group_name},#genre#" >> mytv.txt;
     cat mytv.txttmp|grep "^${group_name}"|awk -F ',' '{print$2","$3}' >> mytv.txt;
-    if [[ "${group_name}" == "电影频道" ]];then
-        cat mytv.txttmp|grep "^Movies"|awk -F ',' '{print$2","$3}' >> mytv.txt;
-        cat mytv.txttmp|grep "^電影"|awk -F ',' '{print$2","$3}' >> mytv.txt;
-    fi
 
 done
 
