@@ -100,13 +100,14 @@ dos2unix *.m3u;
 cd ../
 
 
-#iptv_to_sql
+#iptv_to_sql and txt
 
 
 
 
 cd IPTV;
 > IPTV_update.sqltmp;
+> mytv.txt;
 for m3u_file in `ls|grep '.m3u'`
 do  
 
@@ -161,11 +162,13 @@ fi
                     if [[ "${url_res}" -eq "200" ]];then
                         #echo "${item_id}: ${item_url} is ok......"
                         echo "INSERT into tvbox.tv_channels(name,category,url) select '${item_id}','${item_group}','${item_url}' where NOT EXISTS (SELECT 1 FROM tvbox.tv_channels WHERE url='${item_url}');" >> IPTV_update.sqltmp
+                        echo "${item_group},#genre#" >> mytv.txt;
+                        echo "${item_id},${item_url}" >> mytv.txt;
                     elif [[ "${url_res}" -eq "skip" ]];then
                         #echo "${item_id}: ${item_url} is skip testing......"
                         echo "INSERT into tvbox.tv_channels(name,category,url) select '${item_id}','${item_group}','${item_url}' where NOT EXISTS (SELECT 1 FROM tvbox.tv_channels WHERE url='${item_url}');" >> IPTV_update.sqltmp
-                    
-
+                        echo "${item_group},#genre#" >> mytv.txt;
+                        echo "${item_id},${item_url}" >> mytv.txt;
                     else
                         echo "${item_id}: ${item_url} is unaccessible,ignore update"
                     fi
