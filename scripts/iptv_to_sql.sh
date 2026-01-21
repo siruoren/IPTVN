@@ -107,7 +107,7 @@ cd ../
 
 cd IPTV;
 > IPTV_update.sqltmp;
-> mytv.txt;
+> mytv.txttmp;
 for m3u_file in `ls|grep '.m3u'`
 do  
 
@@ -162,13 +162,12 @@ fi
                     if [[ "${url_res}" -eq "200" ]];then
                         #echo "${item_id}: ${item_url} is ok......"
                         echo "INSERT into tvbox.tv_channels(name,category,url) select '${item_id}','${item_group}','${item_url}' where NOT EXISTS (SELECT 1 FROM tvbox.tv_channels WHERE url='${item_url}');" >> IPTV_update.sqltmp
-                        echo "${item_group},#genre#" >> mytv.txt;
-                        echo "${item_id},${item_url}" >> mytv.txt;
+                        echo "${item_group},${item_id},${item_url}" >> mytv.txttmp;
                     elif [[ "${url_res}" -eq "skip" ]];then
                         #echo "${item_id}: ${item_url} is skip testing......"
                         echo "INSERT into tvbox.tv_channels(name,category,url) select '${item_id}','${item_group}','${item_url}' where NOT EXISTS (SELECT 1 FROM tvbox.tv_channels WHERE url='${item_url}');" >> IPTV_update.sqltmp
-                        echo "${item_group},#genre#" >> mytv.txt;
-                        echo "${item_id},${item_url}" >> mytv.txt;
+                        echo "${item_group},${item_id},${item_url}" >> mytv.txttmp;
+
                     else
                         echo "${item_id}: ${item_url} is unaccessible,ignore update"
                     fi
@@ -181,6 +180,28 @@ fi
     done
 
 done
+
+> mytv.txt
+for group_name in `echo $default_assign_first|awk -F ',' '{for(i=1;i<=NF;i++) print$i}'`
+do
+    echo "${group_name},#genre#" >> mytv.txt;
+    cat mytv.txttmp|grep "^${group_name}"|awk -F ',' '{print$2","$3}' >> mytv.txt;
+
+done
+
+for group_name in `echo $default_assign_second|awk -F ',' '{for(i=1;i<=NF;i++) print$i}'`
+do
+    echo "${group_name},#genre#" >> mytv.txt;
+    cat mytv.txttmp|grep "^${group_name}"|awk -F ',' '{print$2","$3}' >> mytv.txt;
+
+done
+
+
+
+rm -f mytv.txttmp;
+
+
+
 > IPTV_update.sql;
 echo "set character_set_server='utf8';" >> IPTV_update.sql;
 echo "UPDATE tvbox.tv_app SET appkey = 'bef838a270105a93935038c844192fd3' WHERE name = '群晖影视';" >> IPTV_update.sql;
