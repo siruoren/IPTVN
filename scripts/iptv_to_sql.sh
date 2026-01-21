@@ -1,7 +1,7 @@
 #!/bin/bash
 
 cd $(dirname $0);
-default_assign_first="央视频道,卫视频道,数字频道,电影频道,Movies,電影,经典剧场,动画频道,体育频道,游戏频道,未分类,"
+default_assign_first="央视频道,卫视频道,数字频道,电影频道,经典剧场,动画频道,体育频道,游戏频道,未分类,"
 default_assign_second="山东频道,北京频道,吉林频道,上海频道,云南频道,四川频道,天津频道,宁夏频道,安徽频道,山西频道,广东频道,广西频道,新疆频道,江苏频道,河北频道,河南频道,浙江频道,湖北频道,湖南频道,甘肃频道,福建频道,贵州频道,辽宁频道,重庆频道,陕西频道,青海频道,海南频道,黑龙江频道,内蒙频道,内蒙古频道,港澳台"
 
 exclude_pd="湖南移动,YY轮播,哔哩轮播,斗鱼轮播,卫视备用,卫视高清,央视备用,央视高清,虎牙轮播,音乐频道,其他频道,地方频道,解说频道,春晚频道,体验频道,央视付费频道,咪咕直播,更新时间,成人频道"
@@ -146,6 +146,9 @@ fi
                         item_id=`sed -n "${line_nu}p" ${m3u_file}|awk -F',' '{print$NF}'|sed 's/"//g'|xargs echo -n`
                     fi
     			    item_group=`sed -n "${line_nu}p" ${m3u_file}|awk -F'group-title=' '{print$2}'|awk '{printf$1}' |sed 's/"//g'|awk -F',' '{printf$1}'|sed 's/[^[:alpha:]]//g'|xargs echo -n `
+                    if [[ `echo ${item_group}|grep -iE "Movies|電影|wc -l"  -ne 0 ` ]];then
+                        item_group='电影频道'
+                    fi
     			    item_url=`sed -n "${line_next}p" ${m3u_file}|grep '^http'|xargs echo -n`
                     url_res='skip'
                     # if [[ "${default_assign_first}" =~ "${item_group}" ]];then
@@ -182,10 +185,16 @@ fi
 done
 
 > mytv.txt
+
+
 for group_name in `echo $default_assign_first|awk -F ',' '{for(i=1;i<=NF;i++) print$i}'`
 do
     echo "${group_name},#genre#" >> mytv.txt;
     cat mytv.txttmp|grep "^${group_name}"|awk -F ',' '{print$2","$3}' >> mytv.txt;
+    if [[ "${group_name}" == "电影频道" ]];then
+        cat mytv.txttmp|grep "^Movies"|awk -F ',' '{print$2","$3}' >> mytv.txt;
+        cat mytv.txttmp|grep "^電影"|awk -F ',' '{print$2","$3}' >> mytv.txt;
+    fi
 
 done
 
