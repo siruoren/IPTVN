@@ -146,8 +146,10 @@ fi
                         item_id=`sed -n "${line_nu}p" ${m3u_file}|awk -F',' '{print$NF}'|sed 's/"//g'|xargs echo -n`
                     fi
     			    item_group=`sed -n "${line_nu}p" ${m3u_file}|awk -F'group-title=' '{print$2}'|awk '{printf$1}' |sed 's/"//g'|awk -F',' '{printf$1}'|sed 's/[^[:alpha:]]//g'|xargs echo -n `
-                    if [[ `echo ${item_group}|grep -iE "Movies|電影|wc -l"  -ne 0 ` ]];then
+                    if [[ `echo ${item_group}|grep -iE "Movies|電影"|wc -l`  -ne 0  ]];then
                         item_group='电影频道'
+                    elif [[ `echo ${item_group}|grep -iE "总台|央视"|wc -l`  -ne 0  ]];then
+                        item_group='央视频道'
                     fi
     			    item_url=`sed -n "${line_next}p" ${m3u_file}|grep '^http'|xargs echo -n`
                     url_res='skip'
