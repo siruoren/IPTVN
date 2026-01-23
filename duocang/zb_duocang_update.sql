@@ -1,6 +1,6 @@
 set character_set_server='utf8';
 SET FOREIGN_KEY_CHECKS = 0;
-delete from iptv.dsmtv_movie where state != '';
+delete from iptv.dsmtv_movie;
 INSERT into iptv.dsmtv_movie(id, name, api, state) select '1','影视仓','http://影视仓.com','1';
 INSERT into iptv.dsmtv_movie(id, name, api, state) select '10','小米','http://xhww.fun:63/小米/DEMO.json','1';
 INSERT into iptv.dsmtv_movie(id, name, api, state) select '11','巧技','http://cdn.qiaoji8.com/tvbox.json','1';
