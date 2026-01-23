@@ -1,4 +1,6 @@
 set character_set_server='utf8';
+SET FOREIGN_KEY_CHECKS = 0;
+truncate table tvbox.tv_app_duocang;
 INSERT into tvbox.tv_app_duocang(name, url, appid, status, status_dcjm) select 'CandyMuj','https://ghproxy.cc/https://raw.githubusercontent.com/adminouyang/231006/refs/heads/main/tvbox/点播源/CandyMuj.txt','10000','y','n' where NOT EXISTS (SELECT 1 FROM tvbox.tv_app_duocang WHERE name = 'CandyMuj');
 INSERT into tvbox.tv_app_duocang(name, url, appid, status, status_dcjm) select 'D佬','https://download.kstore.space/download/2883/nzk/nzk0722.json','10000','y','n' where NOT EXISTS (SELECT 1 FROM tvbox.tv_app_duocang WHERE name = 'D佬');
 INSERT into tvbox.tv_app_duocang(name, url, appid, status, status_dcjm) select 'Fongmi','https://raw.githubusercontent.com/gaotianliuyun/fongmi/main/json/config.json','10000','y','n' where NOT EXISTS (SELECT 1 FROM tvbox.tv_app_duocang WHERE name = 'Fongmi');
@@ -93,3 +95,5 @@ INSERT into tvbox.tv_app_duocang(name, url, appid, status, status_dcjm) select '
 INSERT into tvbox.tv_app_duocang(name, url, appid, status, status_dcjm) select '骚零','https://play.iptv365.org/骚零/api.json','10000','y','n' where NOT EXISTS (SELECT 1 FROM tvbox.tv_app_duocang WHERE name = '骚零');
 INSERT into tvbox.tv_app_duocang(name, url, appid, status, status_dcjm) select '高天','https://wget.la/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json','10000','y','n' where NOT EXISTS (SELECT 1 FROM tvbox.tv_app_duocang WHERE name = '高天');
 INSERT into tvbox.tv_app_duocang(name, url, appid, status, status_dcjm) select '龙一','https://龙伊.top','10000','y','n' where NOT EXISTS (SELECT 1 FROM tvbox.tv_app_duocang WHERE name = '龙一');
+SET FOREIGN_KEY_CHECKS = 1;
+commit;

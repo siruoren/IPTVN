@@ -1,4 +1,6 @@
 set character_set_server='utf8';
+SET FOREIGN_KEY_CHECKS = 0;
+truncate table iptv.dsmtv_movie;
 INSERT into iptv.dsmtv_movie(name, api, state) select 'Fongmi','https://raw.githubusercontent.com/gaotianliuyun/fongmi/main/json/config.json','1' where NOT EXISTS (SELECT 1 FROM iptv.dsmtv_movie WHERE name = 'Fongmi');
 INSERT into iptv.dsmtv_movie(name, api, state) select 'OK影视','https://jsdelivr.pai233.top/gh/2hacc/TVBox@main/oktv.json','1' where NOT EXISTS (SELECT 1 FROM iptv.dsmtv_movie WHERE name = 'OK影视');
 INSERT into iptv.dsmtv_movie(name, api, state) select 'OK线路','http://ok321.top/tv','1' where NOT EXISTS (SELECT 1 FROM iptv.dsmtv_movie WHERE name = 'OK线路');
@@ -27,3 +29,5 @@ INSERT into iptv.dsmtv_movie(name, api, state) select '霜辉月明py','https://
 INSERT into iptv.dsmtv_movie(name, api, state) select '饭太硬','http://fty.xxooo.cf/tv','1' where NOT EXISTS (SELECT 1 FROM iptv.dsmtv_movie WHERE name = '饭太硬');
 INSERT into iptv.dsmtv_movie(name, api, state) select '香雅情','https://wget.la/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json','1' where NOT EXISTS (SELECT 1 FROM iptv.dsmtv_movie WHERE name = '香雅情');
 INSERT into iptv.dsmtv_movie(name, api, state) select '高天','https://wget.la/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json','1' where NOT EXISTS (SELECT 1 FROM iptv.dsmtv_movie WHERE name = '高天');
+SET FOREIGN_KEY_CHECKS = 1;
+commit;
