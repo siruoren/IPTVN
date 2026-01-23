@@ -29,7 +29,7 @@ done < juhe.list
 sed -i 's#https://ghproxy.net/##g' duocang.listtmp;
 
 echo '' >>duocang.listtmp
-id_num=1
+export id_num=1
 cat duocang.listtmp|sort|uniq|while read line;
 do
     api_name=`echo -n ${line}|awk '{print$1}'|sed 's/[^[:alpha:]]//g'`
@@ -47,7 +47,7 @@ do
 
       echo "INSERT into tvbox.tv_app_duocang(name, url, appid, status, status_dcjm) select '${api_name}','${api_url}','10000','y','n' where NOT EXISTS (SELECT 1 FROM tvbox.tv_app_duocang WHERE name = '${api_name}');" >> ys_duocang_update.sqltmp
       echo "INSERT into iptv.dsmtv_movie(id, name, api, state) select '${id_num}','${api_name}','${api_url}','1';" >> zb_duocang_update.sqltmp
-      id_num=$((id_num+1))
+      export id_num=$((id_num+1))
 
 
     else
@@ -76,7 +76,7 @@ do
 
       echo "INSERT into tvbox.tv_app_duocang(name, url, appid, status, status_dcjm) select '${api_name}','${api_url}','10000','y','n' where NOT EXISTS (SELECT 1 FROM tvbox.tv_app_duocang WHERE name = '${api_name}');" >> ys_duocang_update.sqltmp
       echo "INSERT into iptv.dsmtv_movie(id, name, api, state) select '${id_num}','${api_name}','${api_url}','1';" >> zb_duocang_update.sqltmp
-      id_num=$((id_num+1))
+      export id_num=$((id_num+1))
 
 
     else
