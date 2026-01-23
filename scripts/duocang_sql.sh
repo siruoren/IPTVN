@@ -93,6 +93,7 @@ if [ "${check_res}" -ne "0" ];then
   #echo "UPDATE tvbox.tv_app SET appkey = 'bef838a270105a93935038c844192fd3' WHERE name = '群晖影视';" >> ys_duocang_update.sql;
   cat ys_duocang_update.sqltmp|sort|uniq >> ys_duocang_update.sql;
   echo "SET FOREIGN_KEY_CHECKS = 1;" >> ys_duocang_update.sql;
+  echo "commit;" >> ys_duocang_update.sql;
 
 
   #qunhuizhibo
@@ -101,6 +102,7 @@ if [ "${check_res}" -ne "0" ];then
   echo "truncate table iptv.dsmtv_movie;" >> zb_duocang_update.sql;
   cat zb_duocang_update.sqltmp|sort|uniq >> zb_duocang_update.sql;
   echo "SET FOREIGN_KEY_CHECKS = 1;" >> zb_duocang_update.sql;
+  echo "commit;" >> zb_duocang_update.sql;
 fi
   rm -f ys_duocang_update.sqltmp;
   rm -f zb_duocang_update.sqltmp;
