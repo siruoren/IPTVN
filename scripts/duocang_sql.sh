@@ -109,6 +109,7 @@ if [ "${check_res}" -ne "0" ];then
 fi
   rm -f ys_duocang_update.sqltmp;
   rm -f zb_duocang_update.sqltmp;
+  rm -f num.txt;
 
 
 cd ../;
