@@ -87,13 +87,20 @@ check_res=`cat ys_duocang_update.sqltmp|sort|uniq|wc -l`
 if [ "${check_res}" -ne "0" ];then
   #qunhuiyingshi
   echo "set character_set_server='utf8';" >> ys_duocang_update.sql;
+  echo "SET FOREIGN_KEY_CHECKS = 0;" >> ys_duocang_update.sql;
+  echo "truncate table tvbox.tv_app_duocang;" >> ys_duocang_update.sql;
 
   #echo "UPDATE tvbox.tv_app SET appkey = 'bef838a270105a93935038c844192fd3' WHERE name = '群晖影视';" >> ys_duocang_update.sql;
   cat ys_duocang_update.sqltmp|sort|uniq >> ys_duocang_update.sql;
-  
+  echo "SET FOREIGN_KEY_CHECKS = 1;" >> ys_duocang_update.sql;
+
+
   #qunhuizhibo
   echo "set character_set_server='utf8';" >> zb_duocang_update.sql;
+  echo "SET FOREIGN_KEY_CHECKS = 0;" >> zb_duocang_update.sql;
+  echo "truncate table iptv.dsmtv_movie;" >> zb_duocang_update.sql;
   cat zb_duocang_update.sqltmp|sort|uniq >> zb_duocang_update.sql;
+  echo "SET FOREIGN_KEY_CHECKS = 1;" >> zb_duocang_update.sql;
 fi
   rm -f ys_duocang_update.sqltmp;
   rm -f zb_duocang_update.sqltmp;
