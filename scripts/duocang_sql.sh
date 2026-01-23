@@ -73,7 +73,7 @@ do
       echo "URL is accessible"
 
       echo "INSERT into tvbox.tv_app_duocang(name, url, appid, status, status_dcjm) select '${api_name}','${api_url}','10000','y','n' where NOT EXISTS (SELECT 1 FROM tvbox.tv_app_duocang WHERE name = '${api_name}');" >> ys_duocang_update.sqltmp
-      echo "INSERT into iptv.dsmtv_movie(name, api, statu) select '${api_name}','${api_url}','1' where NOT EXISTS (SELECT 1 FROM iptv.dsmtv_movie WHERE name = '${api_name}');" >> zb_duocang_update.sqltmp
+      echo "INSERT into iptv.dsmtv_movie(name, api, state) select '${api_name}','${api_url}','1' where NOT EXISTS (SELECT 1 FROM iptv.dsmtv_movie WHERE name = '${api_name}');" >> zb_duocang_update.sqltmp
 
 
 
