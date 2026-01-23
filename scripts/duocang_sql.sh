@@ -55,7 +55,7 @@ done
 
  rm -f duocang.listtmp;
 
-
+id_num=1
 while read line|| [[ -n $line ]];
 do
     api_name=`echo -n ${line}|awk '{print$1}'`
@@ -73,8 +73,8 @@ do
       echo "URL is accessible"
 
       echo "INSERT into tvbox.tv_app_duocang(name, url, appid, status, status_dcjm) select '${api_name}','${api_url}','10000','y','n' where NOT EXISTS (SELECT 1 FROM tvbox.tv_app_duocang WHERE name = '${api_name}');" >> ys_duocang_update.sqltmp
-      echo "INSERT into iptv.dsmtv_movie(name, api, state) select '${api_name}','${api_url}','1' where NOT EXISTS (SELECT 1 FROM iptv.dsmtv_movie WHERE name = '${api_name}');" >> zb_duocang_update.sqltmp
-
+      echo "INSERT into iptv.dsmtv_movie(id, name, api, state) select '${id_num}','${api_name}','${api_url}','1';" >> zb_duocang_update.sqltmp
+      id_num=$((id_num+1))
 
 
     else
@@ -99,7 +99,7 @@ if [ "${check_res}" -ne "0" ];then
   #qunhuizhibo
   echo "set character_set_server='utf8';" >> zb_duocang_update.sql;
   echo "SET FOREIGN_KEY_CHECKS = 0;" >> zb_duocang_update.sql;
-  echo "truncate table iptv.dsmtv_movie;" >> zb_duocang_update.sql;
+  echo "delete from iptv.dsmtv_movie where state != '';" >> zb_duocang_update.sql;
   cat zb_duocang_update.sqltmp|sort|uniq >> zb_duocang_update.sql;
   echo "SET FOREIGN_KEY_CHECKS = 1;" >> zb_duocang_update.sql;
   echo "commit;" >> zb_duocang_update.sql;
