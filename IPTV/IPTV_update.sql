@@ -1,3 +1,4 @@
+ALTER DATABASE  DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
 set character_set_server='utf8';
 UPDATE tvbox.tv_app SET appkey = 'bef838a270105a93935038c844192fd3' WHERE name = '群晖影视';
 TRUNCATE table tvbox.tv_channels;
