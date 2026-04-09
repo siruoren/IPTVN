@@ -232,6 +232,7 @@ default_assign_all="${default_assign_first}${default_assign_second}"
 #添加自动赋权
 echo "ALTER TABLE tvbox.tv_meals MODIFY COLUMN listinfo varchar(2000) CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci DEFAULT '默认分类' NOT NULL;" >> IPTV_update.sql;
 echo "UPDATE tvbox.tv_meals SET mealname='默认套餐', listinfo='${default_assign_all}' WHERE id=1;" >> IPTV_update.sql;
+echo "commit;" >> IPTV_update.sql;
 
 rm -f *.m3u *.sqltmp;
 cd ../;
