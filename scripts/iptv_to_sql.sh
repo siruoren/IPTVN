@@ -217,6 +217,8 @@ rm -f zbtv.txttmp;
 
 
 > IPTV_update.sql;
+-- 修改数据库默认字符集
+echo "ALTER DATABASE `tvbox` DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;" >> IPTV_update.sql;
 echo "set character_set_server='utf8';" >> IPTV_update.sql;
 echo "UPDATE tvbox.tv_app SET appkey = 'bef838a270105a93935038c844192fd3' WHERE name = '群晖影视';" >> IPTV_update.sql;
 echo "TRUNCATE table tvbox.tv_channels;" >> IPTV_update.sql;
