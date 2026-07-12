@@ -58,6 +58,63 @@ def _deduplicate_list(lst):
             result.append(item)
     return result
 
+def deduplicate_api_urls(data):
+    """对JSON数据中的API地址进行去重，重复API的项目只保留一条"""
+    if not isinstance(data, dict):
+        return data
+    
+    # 常见的API地址字段名
+    api_fields = ['api', 'url', 'address', 'endpoint', 'host', 'server', 'api_url', 'apiAddress']
+    
+    # 处理字典中的列表字段（通常是项目列表）
+    for key, value in data.items():
+        if isinstance(value, list):
+            # 检查列表中的项目是否为字典
+            if all(isinstance(item, dict) for item in value if item):
+                # 对包含API地址的项目列表进行去重
+                data[key] = _deduplicate_items_by_api(value, api_fields)
+            else:
+                # 普通列表，直接去重
+                data[key] = _deduplicate_list(value)
+        elif isinstance(value, dict):
+            # 递归处理嵌套字典
+            data[key] = deduplicate_api_urls(value)
+    
+    return data
+
+def _deduplicate_items_by_api(items, api_fields):
+    """根据API地址对项目列表进行去重，重复API的项目只保留第一条"""
+    seen_apis = set()
+    result = []
+    
+    for item in items:
+        if not isinstance(item, dict):
+            result.append(item)
+            continue
+        
+        # 查找项目中的API地址
+        api_value = None
+        for field in api_fields:
+            if field in item:
+                api_value = item[field]
+                break
+        
+        # 如果没有找到API字段，保留该项目
+        if api_value is None:
+            result.append(item)
+            continue
+        
+        # 将API值转换为字符串用于比较
+        api_str = str(api_value)
+        
+        # 如果API地址未出现过，保留该项目
+        if api_str not in seen_apis:
+            seen_apis.add(api_str)
+            result.append(item)
+        # 如果API地址已出现过，跳过该项目（去重）
+    
+    return result
+
 def main():
     print("开始更新配置...")
     
@@ -88,6 +145,10 @@ def main():
     # 合并并去重
     print("合并并去重数据...")
     merged_data = merge_and_deduplicate(json_data_list)
+    
+    # 对JSON中的API地址进行去重
+    print("对API地址进行去重...")
+    merged_data = deduplicate_api_urls(merged_data)
     
     # 保存原始合并数据
     print("保存原始数据到 config_src.json...")
