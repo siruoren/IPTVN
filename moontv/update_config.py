@@ -69,7 +69,9 @@ def main():
             if url:
                 api_list.append(url)
     
-    print(f"找到 {len(api_list)} 个API URL")
+    # API地址去重（保持顺序）
+    api_list = list(dict.fromkeys(api_list))
+    print(f"找到 {len(api_list)} 个API URL（去重后）")
     
     # 加载所有JSON数据
     json_data_list = []
