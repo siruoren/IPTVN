@@ -25,12 +25,38 @@ def merge_and_deduplicate(json_list):
                     merged[key] = value
                 elif isinstance(merged[key], dict) and isinstance(value, dict):
                     # 如果是嵌套字典，递归合并
-                    merged[key].update(value)
+                    merged[key] = _deep_merge_dicts(merged[key], value)
                 elif isinstance(merged[key], list) and isinstance(value, list):
-                    # 如果是列表，合并并去重
-                    merged[key] = list(set(merged[key] + value))
+                    # 如果是列表，合并并去重（保持顺序）
+                    merged[key] = _deduplicate_list(merged[key] + value)
     
     return merged
+
+def _deep_merge_dicts(dict1, dict2):
+    """深度合并字典，去重嵌套结构"""
+    result = dict1.copy()
+    for key, value in dict2.items():
+        if key not in result:
+            result[key] = value
+        elif isinstance(result[key], dict) and isinstance(value, dict):
+            result[key] = _deep_merge_dicts(result[key], value)
+        elif isinstance(result[key], list) and isinstance(value, list):
+            result[key] = _deduplicate_list(result[key] + value)
+        else:
+            result[key] = value
+    return result
+
+def _deduplicate_list(lst):
+    """列表去重，保持顺序，支持不可哈希项"""
+    seen = []
+    result = []
+    for item in lst:
+        # 尝试通过序列化比较是否重复
+        item_str = json.dumps(item, sort_keys=True, ensure_ascii=False)
+        if item_str not in seen:
+            seen.append(item_str)
+            result.append(item)
+    return result
 
 def main():
     print("开始更新配置...")
