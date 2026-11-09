@@ -1,7 +1,6 @@
 set character_set_server='utf8';
 SET FOREIGN_KEY_CHECKS = 0;
 delete from tvbox.tv_app_duocang;
-INSERT into tvbox.tv_app_duocang(name, url, appid, status, status_dcjm) select 'CandyMuj','https://gh-proxy.com/https://raw.githubusercontent.com/adminouyang/231006/refs/heads/main/tvbox/点播源/CandyMuj.txt','10000','y','n' where NOT EXISTS (SELECT 1 FROM tvbox.tv_app_duocang WHERE name = 'CandyMuj');
 INSERT into tvbox.tv_app_duocang(name, url, appid, status, status_dcjm) select 'D佬','https://download.kstore.space/download/2883/nzk/nzk0722.json','10000','y','n' where NOT EXISTS (SELECT 1 FROM tvbox.tv_app_duocang WHERE name = 'D佬');
 INSERT into tvbox.tv_app_duocang(name, url, appid, status, status_dcjm) select 'Fongmi','https://raw.githubusercontent.com/gaotianliuyun/fongmi/main/json/config.json','10000','y','n' where NOT EXISTS (SELECT 1 FROM tvbox.tv_app_duocang WHERE name = 'Fongmi');
 INSERT into tvbox.tv_app_duocang(name, url, appid, status, status_dcjm) select 'Moew','https://gh-proxy.com/https://raw.githubusercontent.com/adminouyang/231006/refs/heads/main/tvbox/点播源/Moew.txt','10000','y','n' where NOT EXISTS (SELECT 1 FROM tvbox.tv_app_duocang WHERE name = 'Moew');
@@ -63,6 +62,7 @@ INSERT into tvbox.tv_app_duocang(name, url, appid, status, status_dcjm) select '
 INSERT into tvbox.tv_app_duocang(name, url, appid, status, status_dcjm) select '盒子迷','https://gh-proxy.com/https://raw.githubusercontent.com/adminouyang/231006/refs/heads/main/tvbox/点播源/盒子迷.txt','10000','y','n' where NOT EXISTS (SELECT 1 FROM tvbox.tv_app_duocang WHERE name = '盒子迷');
 INSERT into tvbox.tv_app_duocang(name, url, appid, status, status_dcjm) select '盒子迷','https://盒子迷.top/春盈天下','10000','y','n' where NOT EXISTS (SELECT 1 FROM tvbox.tv_app_duocang WHERE name = '盒子迷');
 INSERT into tvbox.tv_app_duocang(name, url, appid, status, status_dcjm) select '短剧频道','https://play.iptv365.org/短剧频道/api.json','10000','y','n' where NOT EXISTS (SELECT 1 FROM tvbox.tv_app_duocang WHERE name = '短剧频道');
+INSERT into tvbox.tv_app_duocang(name, url, appid, status, status_dcjm) select '老白','https://gh-proxy.com/https://raw.githubusercontent.com/zqs1qiwan/laobaitv/refs/heads/main/tvbox/config/laobai.json','10000','y','n' where NOT EXISTS (SELECT 1 FROM tvbox.tv_app_duocang WHERE name = '老白');
 INSERT into tvbox.tv_app_duocang(name, url, appid, status, status_dcjm) select '肥猫','http://肥猫.com','10000','y','n' where NOT EXISTS (SELECT 1 FROM tvbox.tv_app_duocang WHERE name = '肥猫');
 INSERT into tvbox.tv_app_duocang(name, url, appid, status, status_dcjm) select '肥猫','https://gh-proxy.com/https://raw.githubusercontent.com/adminouyang/231006/refs/heads/main/tvbox/点播源/肥猫.txt','10000','y','n' where NOT EXISTS (SELECT 1 FROM tvbox.tv_app_duocang WHERE name = '肥猫');
 INSERT into tvbox.tv_app_duocang(name, url, appid, status, status_dcjm) select '肥猫','https://play.iptv365.org/肥猫/api.json','10000','y','n' where NOT EXISTS (SELECT 1 FROM tvbox.tv_app_duocang WHERE name = '肥猫');
